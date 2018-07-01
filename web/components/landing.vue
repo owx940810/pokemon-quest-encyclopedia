@@ -112,7 +112,6 @@
         if (!this.searchedpokemon) {
           return JSON.parse(JSON.stringify(this.pokemons))
         }
-        console.log(this.searchedpokemon)
         return this.pokemons.filter(pokemon => pokemon.name.toLowerCase().indexOf(this.searchedpokemon.toLowerCase()) >= 0)
       }
     },
