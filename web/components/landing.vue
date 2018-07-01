@@ -72,7 +72,7 @@
         p
           text-align: center
           margin: 0
-          font-size: 13px
+          font-size: 12px
 
         .number
           width: 50px

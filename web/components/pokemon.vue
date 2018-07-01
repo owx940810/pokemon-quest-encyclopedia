@@ -167,7 +167,7 @@
         let index = this.$route.params.id
         this.pokemon = window.APP.pokemons.find(pokemon => pokemon.id === index)
         this.getSkills()
-      }, 100)
+      }, 200)
     },
 
     methods: {
