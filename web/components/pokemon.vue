@@ -9,11 +9,12 @@
         .label(v-for="type in pokemon.type", :class="type") {{ type }}
     .wrapper
       h5 #[u Evolution]
-      .evolutions
+      .evolutions(v-if="pokemon.evolution && pokemon.evolution.length > 0")
         .evolution(v-for="evolution in pokemon.evolution")
           P.lvl(v-show="evolution.lvl") {{ evolution.lvl }}
           .img-wrapper
             img(:src="evolution.image")
+      h6.noevolutions(v-else) no evolution
 
       h5 #[u Details]
       .details(v-if="pokemon.details")
@@ -36,17 +37,6 @@
 <style lang="sass">
   @import '../sass/variables'
   @import '../sass/mixins'
-
-  #app
-    display: grid
-    place-items: center center
-    height: 100vh
-    margin: 0
-
-    +mobile
-      display: block
-      height: initial
-      padding: 20px 0
 
   #pokemon
     background-color: $white
@@ -82,6 +72,9 @@
 
         +mobile
           grid-column-end: initial
+
+    .noevolutions
+      margin: 10px 0 50px 0
 
     .evolutions
       display: flex
@@ -173,8 +166,8 @@
       setTimeout(() => {
         let index = this.$route.params.id
         this.pokemon = window.APP.pokemons.find(pokemon => pokemon.id === index)
-      }, 0)
-      this.getSkills()
+        this.getSkills()
+      }, 100)
     },
 
     methods: {

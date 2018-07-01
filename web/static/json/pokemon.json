@@ -1082,7 +1082,7 @@
         },
         {
           "id": "047",
-          "lvl": 21
+          "lvl": 24
         }
       ],
       "skills": ["Leech Seed", "Light Screen", "Poison Powder", "Rage Powder", "Stun Spore"],
@@ -1103,7 +1103,7 @@
         },
         {
           "id": "047",
-          "lvl": 21
+          "lvl": 24
         }
       ],
       "skills": ["Agility", "Bullet Seed", "Leech Seed", "Light Screen", "Metal Claw", "Poison Powder", "Psybeam", "Rage Powder", "Spore", "Stun Spore"],
@@ -1119,12 +1119,12 @@
       "type": ["bug", "poison"],
       "evolution": [
         {
-          "id": "046",
+          "id": "048",
           "lvl": 0
         },
         {
-          "id": "047",
-          "lvl": 21
+          "id": "049",
+          "lvl": 31
         }
       ],
       "skills": ["Poison Powder", "Psybeam", "String Shot", "Stun Spore"],
@@ -1140,12 +1140,12 @@
       "type": ["bug", "poison"],
       "evolution": [
         {
-          "id": "046",
+          "id": "048",
           "lvl": 0
         },
         {
-          "id": "047",
-          "lvl": 21
+          "id": "049",
+          "lvl": 31
         }
       ],
       "skills": ["Gust", "Poison Powder", "Psybeam", "Psychic", "Silver Wind", "String Shot", "Stun Spore", "Supersonic"],
@@ -1153,6 +1153,855 @@
         "type": "range",
         "hp": 350,
         "atk": 350
+      }
+    },
+    {
+      "id": "050",
+      "name": "Diglett",
+      "type": ["ground"],
+      "evolution": [
+        {
+          "id": "050",
+          "lvl": 0
+        },
+        {
+          "id": "051",
+          "lvl": 26
+        }
+      ],
+      "skills": ["Dig", "Growl", "Mud Bomb", "Mud-Slap", "Stealth Rock"],
+      "details": {
+        "type": "range",
+        "hp": 60,
+        "atk": 140
+      }
+    },
+    {
+      "id": "051",
+      "name": "Dugtrio",
+      "type": ["ground"],
+      "evolution": [
+        {
+          "id": "050",
+          "lvl": 0
+        },
+        {
+          "id": "051",
+          "lvl": 26
+        }
+      ],
+      "skills": ["Dig", "Earthquake", "Growl", "Mud Bomb", "Mud-Slap", "Rock Throw", "Shore Up", "Stealth Rock", "Sucker Punch"],
+      "details": {
+        "type": "range",
+        "hp": 100,
+        "atk": 600
+      }
+    },
+    {
+      "id": "052",
+      "name": "Meowth",
+      "type": ["normal"],
+      "evolution": [
+        {
+          "id": "052",
+          "lvl": 0
+        },
+        {
+          "id": "053",
+          "lvl": 28
+        }
+      ],
+      "skills": ["Fury Swipes", "Growl", "Scratch", "Taunt", "U-turn"],
+      "details": {
+        "type": "melee",
+        "hp": 85,
+        "atk": 115
+      }
+    },
+    {
+      "id": "053",
+      "name": "Persian",
+      "type": ["normal"],
+      "evolution": [
+        {
+          "id": "052",
+          "lvl": 0
+        },
+        {
+          "id": "053",
+          "lvl": 28
+        }
+      ],
+      "skills": ["Flail", "Fury Swipes", "Growl", "Nasty Plot", "Night Slash", "Play Rough", "Roar", "Scratch", "Taunt", "U-turn"],
+      "details": {
+        "type": "melee",
+        "hp": 300,
+        "atk": 400
+      }
+    },
+    {
+      "id": "054",
+      "name": "Psyduck",
+      "type": ["water"],
+      "evolution": [
+        {
+          "id": "054",
+          "lvl": 0
+        },
+        {
+          "id": "055",
+          "lvl": 33
+        }
+      ],
+      "skills": ["Amnesia", "Confuse Ray", "Icy Wind", "Light Screen", "Whirlpool"],
+      "details": {
+        "type": "range",
+        "hp": 80,
+        "atk": 120
+      }
+    },
+    {
+      "id": "055",
+      "name": "Golduck",
+      "type": ["water"],
+      "evolution": [
+        {
+          "id": "054",
+          "lvl": 0
+        },
+        {
+          "id": "055",
+          "lvl": 33
+        }
+      ],
+      "skills": ["Amnesia", "Confuse Ray", "Hydro Pump", "Ice Beam", "Icy Wind", "Light Screen", "Mud Bomb", "Psybeam", "Psychic"],
+      "details": {
+        "type": "range",
+        "hp": 200,
+        "atk": 500
+      }
+    },
+    {
+      "id": "056",
+      "name": "Mankey",
+      "type": ["fight"],
+      "evolution": [
+        {
+          "id": "056",
+          "lvl": 0
+        },
+        {
+          "id": "057",
+          "lvl": 28
+        }
+      ],
+      "skills": ["Fury Swipes", "Leer", "Scratch", "Submission", "Taunt"],
+      "details": {
+        "type": "melee",
+        "hp": 60,
+        "atk": 140
+      }
+    },
+    {
+      "id": "057",
+      "name": "Primeape",
+      "type": ["fight"],
+      "evolution": [
+        {
+          "id": "056",
+          "lvl": 0
+        },
+        {
+          "id": "057",
+          "lvl": 28
+        }
+      ],
+      "skills": ["Close Combat", "Cross Chop", "Focus Energy", "Fury Swipes", "Leer", "Meditate", "Mega Punch", "Night Slash", "Scratch", "Submission", "Taunt"],
+      "details": {
+        "type": "melee",
+        "hp": 150,
+        "atk": 550
+      }
+    },
+    {
+      "id": "058",
+      "name": "Growlithe",
+      "type": ["fire"],
+      "evolution": [
+        {
+          "id": "058",
+          "lvl": 0
+        },
+        {
+          "id": "059",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Ember", "Flame Charge", "Flame Wheel", "Flamethrower", "Roar"],
+      "details": {
+        "type": "melee",
+        "hp": 80,
+        "atk": 120
+      }
+    },
+    {
+      "id": "059",
+      "name": "Arcanine",
+      "type": ["fire"],
+      "evolution": [
+        {
+          "id": "058",
+          "lvl": 0
+        },
+        {
+          "id": "059",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Agility", "Crunch", "Extreme Speed", "Ember", "Fire Blast", "Flame Charge", "Flame Wheel", "Flamethrower", "Flare Blitz", "Roar"],
+      "details": {
+        "type": "melee",
+        "hp": 350,
+        "atk": 450
+      }
+    },
+    {
+      "id": "060",
+      "name": "Poliwag",
+      "type": ["water"],
+      "evolution": [
+        {
+          "id": "060",
+          "lvl": 0
+        },
+        {
+          "id": "061",
+          "lvl": 25
+        },
+        {
+          "id": "062",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Aqua Jet", "Bubble", "Flail", "Surf", "Waterfall"],
+      "details": {
+        "type": "melee",
+        "hp": 90,
+        "atk": 110
+      }
+    },
+    {
+      "id": "061",
+      "name": "Poliwhirl",
+      "type": ["water"],
+      "evolution": [
+        {
+          "id": "060",
+          "lvl": 0
+        },
+        {
+          "id": "061",
+          "lvl": 25
+        },
+        {
+          "id": "062",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Aqua Jet", "Bulk Up", "Flail", "Mega Punch", "Surf", "Waterfall"],
+      "details": {
+        "type": "melee",
+        "hp": 350,
+        "atk": 350
+      }
+    },
+    {
+      "id": "062",
+      "name": "Poliwrath",
+      "type": ["water"],
+      "evolution": [
+        {
+          "id": "060",
+          "lvl": 0
+        },
+        {
+          "id": "061",
+          "lvl": 25
+        },
+        {
+          "id": "062",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Amnesia", "Bubble", "Bulk Up", "Dynamic Punch", "Flail", "Ice Punch", "Mega Punch", "Power-Up Punch", "Surf", "Waterfall"],
+      "details": {
+        "type": "melee",
+        "hp": 350,
+        "atk": 450
+      }
+    },
+    {
+      "id": "063",
+      "name": "Abra",
+      "type": ["phychc"],
+      "evolution": [
+        {
+          "id": "063",
+          "lvl": 0
+        },
+        {
+          "id": "064",
+          "lvl": 16
+        },
+        {
+          "id": "065",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Barrier", "Flash", "Light Screen", "Psybeam", "Teleport"],
+      "details": {
+        "type": "range",
+        "hp": 45,
+        "atk": 155
+      }
+    },
+    {
+      "id": "064",
+      "name": "Kadabra",
+      "type": ["phychc"],
+      "evolution": [
+        {
+          "id": "063",
+          "lvl": 0
+        },
+        {
+          "id": "064",
+          "lvl": 16
+        },
+        {
+          "id": "065",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Barrier", "Dazzling Gleam", "Flash", "Light Screen", "Psybeam", "Psychic", "Teleport"],
+      "details": {
+        "type": "range",
+        "hp": 90,
+        "atk": 410
+      }
+    },
+    {
+      "id": "065",
+      "name": "Alakazam",
+      "type": ["phychc"],
+      "evolution": [
+        {
+          "id": "063",
+          "lvl": 0
+        },
+        {
+          "id": "064",
+          "lvl": 16
+        },
+        {
+          "id": "065",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Barrier", "Dazzling Gleam", "Flash", "Light Screen", "Psybeam", "Psychic", "Psycho Cut", "Recover", "Shadow Ball", "Teleport"],
+      "details": {
+        "type": "range",
+        "hp": 100,
+        "atk": 700
+      }
+    },
+    {
+      "id": "066",
+      "name": "Machop",
+      "type": ["fight"],
+      "evolution": [
+        {
+          "id": "066",
+          "lvl": 0
+        },
+        {
+          "id": "067",
+          "lvl": 28
+        },
+        {
+          "id": "068",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Bulk Up", "Rock Smash", "Rolling Kick", "Submission"],
+      "details": {
+        "type": "melee",
+        "hp": 80,
+        "atk": 120
+      }
+    },
+    {
+      "id": "066",
+      "name": "Machoke",
+      "type": ["fight"],
+      "evolution": [
+        {
+          "id": "066",
+          "lvl": 0
+        },
+        {
+          "id": "067",
+          "lvl": 28
+        },
+        {
+          "id": "068",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Bulk Up", "Cross Chop", "Mega Punch", "Rock Smash", "Rolling Kick", "Submission", "Work Up"],
+      "details": {
+        "type": "melee",
+        "hp": 200,
+        "atk": 500
+      }
+    },
+    {
+      "id": "068",
+      "name": "Machamp",
+      "type": ["fight"],
+      "evolution": [
+        {
+          "id": "066",
+          "lvl": 0
+        },
+        {
+          "id": "067",
+          "lvl": 28
+        },
+        {
+          "id": "068",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Bulk Up", "Close Combat", "Cross Chop", "Dynamic Punch", "Mega Punch", "Power-Up Punch", "Rock Smash", "Rolling Kick", "Work Up"],
+      "details": {
+        "type": "melee",
+        "hp": 250,
+        "atk": 550
+      }
+    },
+    {
+      "id": "069",
+      "name": "Bellsprout",
+      "type": ["grass", "poison"],
+      "evolution": [
+        {
+          "id": "069",
+          "lvl": 0
+        },
+        {
+          "id": "070",
+          "lvl": 21
+        },
+        {
+          "id": "071",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Bullet Seed", "Razor Leaf", "Sludge Bomb", "Synthesis"],
+      "details": {
+        "type": "range",
+        "hp": 80,
+        "atk": 120
+      }
+    },
+    {
+      "id": "070",
+      "name": "Weepinbell",
+      "type": ["grass", "poison"],
+      "evolution": [
+        {
+          "id": "069",
+          "lvl": 0
+        },
+        {
+          "id": "070",
+          "lvl": 21
+        },
+        {
+          "id": "071",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Bullet Seed", "Razor Leaf", "Sludge Bomb", "Synthesis"],
+      "details": {
+        "type": "range",
+        "hp": 250,
+        "atk": 350
+      }
+    },
+    {
+      "id": "071",
+      "name": "Victreebel",
+      "type": ["grass", "poison"],
+      "evolution": [
+        {
+          "id": "069",
+          "lvl": 0
+        },
+        {
+          "id": "070",
+          "lvl": 21
+        },
+        {
+          "id": "071",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Bullet Seed", "Hyper Beam", "Sludge Bomb", "Solar Beam", "Stun Spore", "Vine Whip"],
+      "details": {
+        "type": "range",
+        "hp": 300,
+        "atk": 500
+      }
+    },
+    {
+      "id": "072",
+      "name": "Tentacool",
+      "type": ["water", "poison"],
+      "evolution": [
+        {
+          "id": "072",
+          "lvl": 0
+        },
+        {
+          "id": "073",
+          "lvl": 30
+        }
+      ],
+      "skills": ["Barrier", "Bubble", "Ice Beam", "Poison Sting", "Sludge Bomb", "Whirlpool"],
+      "details": {
+        "type": "range",
+        "hp": 90,
+        "atk": 110
+      }
+    },
+    {
+      "id": "073",
+      "name": "Tentacruel",
+      "type": ["water", "poison"],
+      "evolution": [
+        {
+          "id": "072",
+          "lvl": 0
+        },
+        {
+          "id": "073",
+          "lvl": 30
+        }
+      ],
+      "skills": ["Barrier", "Bubble", "Confuse Ray", "Hydro Pump", "Icy Wind", "Poison Sting", "Sludge Bomb", "Supersonic", "Whirlpool"],
+      "details": {
+        "type": "range",
+        "hp": 550,
+        "atk": 150
+      }
+    },
+    {
+      "id": "074",
+      "name": "Geodude",
+      "type": ["rock", "ground"],
+      "evolution": [
+        {
+          "id": "074",
+          "lvl": 0
+        },
+        {
+          "id": "075",
+          "lvl": 25
+        },
+        {
+          "id": "076",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Charge", "Dig", "Flail", "Harden", "Tackle"],
+      "details": {
+        "type": "melee",
+        "hp": 140,
+        "atk": 60
+      }
+    },
+    {
+      "id": "075",
+      "name": "Graveler",
+      "type": ["rock", "ground"],
+      "evolution": [
+        {
+          "id": "074",
+          "lvl": 0
+        },
+        {
+          "id": "075",
+          "lvl": 25
+        },
+        {
+          "id": "076",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Flail", "Harden", "Rollout", "Self-Destruct", "Stealth Rock", "Tackle"],
+      "details": {
+        "type": "melee",
+        "hp": 610,
+        "atk": 90
+      }
+    },
+    {
+      "id": "076",
+      "name": "Golem",
+      "type": ["rock", "ground"],
+      "evolution": [
+        {
+          "id": "074",
+          "lvl": 0
+        },
+        {
+          "id": "075",
+          "lvl": 25
+        },
+        {
+          "id": "076",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Dig", "Earthquake", "Explosion", "Flail", "Harden", "Rock Polish", "Rollout", "Self-Destruct", "Stealth Rock"],
+      "details": {
+        "type": "melee",
+        "hp": 700,
+        "atk": 100
+      }
+    },
+    {
+      "id": "077",
+      "name": "Ponyta",
+      "type": ["fire"],
+      "evolution": [
+        {
+          "id": "077",
+          "lvl": 0
+        },
+        {
+          "id": "078",
+          "lvl": 40
+        }
+      ],
+      "skills": ["Agility", "Bounce", "Fire Spin", "Flame Charge", "Self-Destruct", "Stomp"],
+      "details": {
+        "type": "melee",
+        "hp": 100,
+        "atk": 100
+      }
+    },
+    {
+      "id": "078",
+      "name": "Rapidash",
+      "type": ["fire"],
+      "evolution": [
+        {
+          "id": "077",
+          "lvl": 0
+        },
+        {
+          "id": "078",
+          "lvl": 40
+        }
+      ],
+      "skills": ["Bounce", "Confuse Ray", "Fire Blast", "Fire Spin", "Flame Charge", "Flamethrower", "Flare Blitz", "Megahorn", "Self-Destruct", "Stomp", "Will-O-Wisp"],
+      "details": {
+        "type": "melee",
+        "hp": 400,
+        "atk": 400
+      }
+    },
+    {
+      "id": "079",
+      "name": "Slowpoke",
+      "type": ["water", "phychc"],
+      "evolution": [
+        {
+          "id": "079",
+          "lvl": 0
+        },
+        {
+          "id": "080",
+          "lvl": 37
+        }
+      ],
+      "skills": ["Amnesia", "Growl", "Ice Punch", "Light Screen", "Tackle", "Zen Headbutt"],
+      "details": {
+        "type": "melee",
+        "hp": 130,
+        "atk": 70
+      }
+    },
+    {
+      "id": "080",
+      "name": "Slowbro",
+      "type": ["water", "phychc"],
+      "evolution": [
+        {
+          "id": "079",
+          "lvl": 0
+        },
+        {
+          "id": "080",
+          "lvl": 37
+        }
+      ],
+      "skills": ["Amnesia", "Belly Drum", "Growl", "Ice Punch", "Light Screen", "Rest", "Surf", "Tackle", "Withdraw", "Zen Headbutt"],
+      "details": {
+        "type": "melee",
+        "hp": 650,
+        "atk": 150
+      }
+    },
+    {
+      "id": "081",
+      "name": "Magnemite",
+      "type": ["electric", "steel"],
+      "evolution": [
+        {
+          "id": "081",
+          "lvl": 0
+        },
+        {
+          "id": "082",
+          "lvl": 30
+        }
+      ],
+      "skills": ["Charge", "Electroweb", "Flash Cannon", "Metal Sound", "Supersonic"],
+      "details": {
+        "type": "range",
+        "hp": 80,
+        "atk": 120
+      }
+    },
+    {
+      "id": "082",
+      "name": "Magneton",
+      "type": ["electric", "steel"],
+      "evolution": [
+        {
+          "id": "081",
+          "lvl": 0
+        },
+        {
+          "id": "082",
+          "lvl": 30
+        }
+      ],
+      "skills": ["Charge", "Electric Terrain", "Explosion", "Flash Cannon", "Light Screen", "Metal Sound", "Supersonic", "Thunder", "Thunderbolt"],
+      "details": {
+        "type": "range",
+        "hp": 300,
+        "atk": 400
+      }
+    },
+    {
+      "id": "083",
+      "name": "Farfetch'd",
+      "type": ["normal", "flying"],
+      "evolution": [],
+      "skills": ["Gust", "Heat Wave", "Night Slash", "Roost", "Sky Attack", "Steel Wing", "Sucker Punch", "Swords Dance", "Tailwind", "U-turn"],
+      "details": {
+        "type": "melee",
+        "hp": 350,
+        "atk": 350
+      }
+    },
+    {
+      "id": "084",
+      "name": "Doduo",
+      "type": ["normal", "flying"],
+      "evolution": [
+        {
+          "id": "084",
+          "lvl": 0
+        },
+        {
+          "id": "085",
+          "lvl": 31
+        }
+      ],
+      "skills": ["Agility", "Drill Peck", "Flail", "Growl", "Take Down"],
+      "details": {
+        "type": "melee",
+        "hp": 80,
+        "atk": 120
+      }
+    },
+    {
+      "id": "085",
+      "name": "Dodrio",
+      "type": ["normal", "flying"],
+      "evolution": [
+        {
+          "id": "084",
+          "lvl": 0
+        },
+        {
+          "id": "085",
+          "lvl": 31
+        }
+      ],
+      "skills": ["Aerial Ace", "Drill Peck", "Flail", "Growl", "Swords Dance", "Tailwind", "Take Down", "Tri Attack", "Work Up"],
+      "details": {
+        "type": "melee",
+        "hp": 200,
+        "atk": 500
+      }
+    },
+    {
+      "id": "086",
+      "name": "Seel",
+      "type": ["water"],
+      "evolution": [
+        {
+          "id": "086",
+          "lvl": 0
+        },
+        {
+          "id": "087",
+          "lvl": 34
+        }
+      ],
+      "skills": ["Blizzard", "Growl", "Lick", "Surf", "Take Down"],
+      "details": {
+        "type": "range",
+        "hp": 110,
+        "atk": 90
+      }
+    },
+    {
+      "id": "087",
+      "name": "Dewgong",
+      "type": ["water", "ice"],
+      "evolution": [
+        {
+          "id": "086",
+          "lvl": 0
+        },
+        {
+          "id": "087",
+          "lvl": 34
+        }
+      ],
+      "skills": ["Aqua Ring", "Aurora Veil", "Blizzard", "Growl", "Lick", "Rest", "Slam", "Surf", "Take Down"],
+      "details": {
+        "type": "range",
+        "hp": 500,
+        "atk": 200
       }
     }
   ]

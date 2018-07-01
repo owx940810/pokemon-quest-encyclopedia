@@ -1,8 +1,10 @@
 <template lang="pug">
   #landing
-    h1 Pokemon Quest Guide
+    #search-wrapper
+      input(type="text", placeholder="pikachu", v-model="searchedpokemon")
+
     .pokemons
-      .pokemon(v-for="pokemon in pokemons", @click="selectPokemon(pokemon)")
+      .pokemon(v-for="pokemon in selectedpokemons", @click="selectPokemon(pokemon)")
         .number
           p
             b #[span #]{{ pokemon.id }}
@@ -17,6 +19,32 @@
   @import '../sass/mixins'
 
   #landing
+    #search-wrapper
+      position: relative
+      display: block
+      margin: 0 auto
+      width: 300px
+
+      &::after
+        content: ""
+        display: block
+        position: absolute
+        z-index: 1
+        width: 20px
+        height: 20px
+        background-size: contain
+        right: 10px
+        top: 50%
+        transform: translateY(-50%)
+        opacity: 0.8
+
+      input
+        background-color: $white
+        border-radius: 20px
+        padding: 7px 15px
+        border: 1px solid $line
+        width: 100%
+
     h1
       text-align: center
 
@@ -25,6 +53,9 @@
       display: flex
       flex-flow: row wrap
       padding: 0 50px
+
+      +mobile
+        padding: 0 20px
 
       .pokemon
         position: relative
@@ -71,7 +102,18 @@
     name: 'landing',
     data () {
       return {
-        pokemons: []
+        pokemons: [],
+        searchedpokemon: ''
+      }
+    },
+
+    computed: {
+      selectedpokemons () {
+        if (!this.searchedpokemon) {
+          return JSON.parse(JSON.stringify(this.pokemons))
+        }
+        console.log(this.searchedpokemon)
+        return this.pokemons.filter(pokemon => pokemon.name.toLowerCase().indexOf(this.searchedpokemon.toLowerCase()) >= 0)
       }
     },
 

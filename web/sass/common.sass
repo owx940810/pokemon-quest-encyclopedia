@@ -10,12 +10,12 @@ body
   -moz-osx-font-smoothing: grayscale
   margin: 0
   min-height: 100vh
-  font-size: 14px
+  font-size: 12px
   font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
   background-color: $powder
 
 h1
-  font-size: 3em
+  font-size: 2.8em
 
 h2
   font-size: 2.4em
@@ -46,6 +46,30 @@ img
   max-width: 100%
   border: 0
 
+#app
+  min-height: calc(100vh - 80px)
+  padding: 20px 0
+
+  +mobile
+    display: block
+    padding: 20px 0
+
+footer
+  text-align: center
+  padding: 10px 20px
+  background-color: $grey-d
+  font-size: 0.8em
+  color: $white
+  height: 80px
+
+#logo
+  max-width: 350px
+  width: 75%
+  margin: 30px auto
+
+#search-wrapper::after
+  background-image: url("../images/feather/search.svg")
+
 .type
   .label
     padding: 3px 5px
@@ -53,6 +77,9 @@ img
     display: inline-block
     color: $white
     font-size: 0.8em
+
+    & + .label
+      margin-left: 5px
 
     &.bug
       background-color: $bug
@@ -82,8 +109,8 @@ img
       background-color: $normal
     &.poison
       background-color: $poison
-    &.physic
-      background-color: $physic
+    &.phychc
+      background-color: $phychc
     &.rock
       background-color: $rock
     &.steel
