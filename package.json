@@ -13,7 +13,8 @@
     "server:start": "boxes start",
     "server:dev": "boxes start dev",
     "build": "boxes build",
-    "watch": "boxes watch"
+    "watch": "boxes watch",
+    "deploy": "./cli/deploy.sh"
   },
   "standard": {
     "parser": "babel-eslint"
