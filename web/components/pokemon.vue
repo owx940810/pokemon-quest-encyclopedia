@@ -43,6 +43,11 @@
     height: 100vh
     margin: 0
 
+    +mobile
+      display: block
+      height: initial
+      padding: 20px 0
+
   #pokemon
     background-color: $white
     display: grid
@@ -69,8 +74,14 @@
       &:nth-child(2)
         grid-column-end: span 2
 
+        +mobile
+          grid-column-end: initial
+
       &:nth-child(3)
         grid-column-end: span 3
+
+        +mobile
+          grid-column-end: initial
 
     .evolutions
       display: flex
@@ -81,6 +92,10 @@
       .evolution
         position: relative
 
+        .img-wrapper
+          +mobile
+            width: 60px
+
         p
           &.lvl
             position: absolute
@@ -90,6 +105,9 @@
             margin: 0
             text-align: center
             top: 60px
+
+            +mobile
+              top: 45px
 
         img
           width: 80px
@@ -107,6 +125,12 @@
             height: 30px
             left: -40px
             background-color: transparent
+
+            +mobile
+              width: 20px
+              height: 20px
+              top: 25px
+              left: -35px
 
     .details
       p
