@@ -15,27 +15,25 @@ window.APP = new Vue({
   },
 
   methods: {
-    getPokemons () {
-      window.fetch(process.env.WEB_BASE + '/static/json/pokemon.json')
-        .then(res => res.json())
-        .then(res => {
-          this.pokemons = res.data.map(pokemon => {
-            pokemon.evolution = pokemon.evolution.map(evolution => {
-              evolution.image = process.env.WEB_BASE + '/images/pokemon-icons/' + evolution.id + '.png'
-              return evolution
-            })
-            pokemon.image = process.env.WEB_BASE + '/images/pokemon-icons/' + pokemon.id + '.png'
-            return pokemon
-          })
+    async getPokemons () {
+      let response = await window.fetch(process.env.WEB_BASE + '/static/json/pokemon.json')
+      let data = await response.json()
+      let pokemons = data.data.map(pokemon => {
+        pokemon.evolution = pokemon.evolution.map(evolution => {
+          evolution.image = process.env.WEB_BASE + '/images/pokemon-icons/' + evolution.id + '.png'
+          return evolution
         })
+        pokemon.image = process.env.WEB_BASE + '/images/pokemon-icons/' + pokemon.id + '.png'
+        return pokemon
+      })
+      this.pokemons.push(...pokemons)
     },
 
-    getSkills () {
-      window.fetch(process.env.WEB_BASE + '/static/json/skills.json')
-        .then(res => res.json())
-        .then(res => {
-          this.skills = res.data
-        })
+    async getSkills () {
+      let response = await window.fetch(process.env.WEB_BASE + '/static/json/skills.json')
+      let data = await response.json()
+      let skills = data.data
+      this.skills.push(...skills)
     }
   }
 })

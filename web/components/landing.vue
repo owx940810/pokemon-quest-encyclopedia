@@ -78,7 +78,7 @@
     mounted () {
       setTimeout(() => {
         this.pokemons = window.APP.pokemons
-      }, 0)
+      }, 1000)
     },
 
     methods: {
