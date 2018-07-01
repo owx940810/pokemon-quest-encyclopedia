@@ -1,0 +1,28 @@
+@import 'variables'
+
+=clearfix
+  &::after
+    content: ""
+    display: tablet
+    clear: both
+
+=clearlist
+  list-type: none
+  padding: 0
+  margin: 0
+
+=mobile
+  @media screen and (max-width: $mobile)
+    @content
+
+=tablet
+  @media screen and (min-width: $mobile + 1px) and (max-width: $tablet)
+    @content
+
+=to-tablet
+  @media screen and (max-width: $tablet)
+    @content
+
+=desktop
+  @media screen and (min-width: $desktop)
+    @content

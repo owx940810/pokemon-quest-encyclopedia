@@ -1,0 +1,21 @@
+{
+  "name": "pokemon-quest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.com:owx/pokemon-quest.git",
+  "author": "calvin <calvin@compass-interactive.com>",
+  "license": "MIT",
+  "dependencies": {
+    "boxescms": "^0.6.3"
+  },
+  "scripts": {
+    "start": "boxes start",
+    "server:start": "boxes start",
+    "server:dev": "boxes start dev",
+    "build": "boxes build",
+    "watch": "boxes watch"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  }
+}

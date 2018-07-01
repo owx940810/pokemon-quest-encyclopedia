@@ -1,0 +1,114 @@
+@import 'variables'
+@import 'mixins'
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono')
+
+*, *::before, *::after
+  box-sizing: border-box
+
+body
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+  margin: 0
+  min-height: 100vh
+  font-size: 14px
+  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+  background-color: $powder
+
+h1
+  font-size: 3em
+
+h2
+  font-size: 2.4em
+
+h3
+  font-size: 2em
+
+h4
+  font-size: 1.6em
+
+h5
+  font-size: 1.4em
+
+h6
+  font-size: 1.2em
+
+h1, h2, h3, h4, h5, h6
+  margin: 0.2em 0
+
+input, button, a
+  cursor: pointer
+  outline: none
+  font-size: inherit
+  font-family: inherit
+
+img
+  display: block
+  max-width: 100%
+  border: 0
+
+.type
+  .label
+    padding: 3px 5px
+    border-radius: 15px
+    display: inline-block
+    color: $white
+    font-size: 0.8em
+
+    &.bug
+      background-color: $bug
+    &.dark
+      background-color: $dark
+    &.dragon
+      background-color: $dragon
+    &.electr
+      background-color: $electr
+    &.fairy
+      background-color: $fairy
+    &.fight
+      background-color: $fight
+    &.fire
+      background-color: $fire
+    &.flying
+      background-color: $flying
+    &.ghost
+      background-color: $ghost
+    &.grass
+      background-color: $grass
+    &.ground
+      background-color: $ground
+    &.ice
+      background-color: $ice
+    &.normal
+      background-color: $normal
+    &.poison
+      background-color: $poison
+    &.physic
+      background-color: $physic
+    &.rock
+      background-color: $rock
+    &.steel
+      background-color: $steel
+    &.water
+      background-color: $water
+
+.evolution
+  &::before
+    background-image: url("../images/feather/arrow-right.svg")
+
+.img-wrapper
+  padding: 5px
+  border-radius: 12%
+  background-color: $white
+  display: inline-block
+  width: 80px
+  box-shadow: 0 7px 0 $grey-l
+
+  &.large
+    width: 120px
+
+    img
+      width: 110px
+
+  img
+    width: 70px
+

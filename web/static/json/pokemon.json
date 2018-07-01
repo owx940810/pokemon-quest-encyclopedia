@@ -1,0 +1,1159 @@
+{
+  "data": [
+    {
+      "id": "001",
+      "name": "Bulbasaur",
+      "type": ["grass", "poison"],
+      "evolution": [
+        {
+          "id": "001",
+          "lvl": 0
+        },
+        {
+          "id": "002",
+          "lvl": 16
+        },
+        {
+          "id": "003",
+          "lvl": 32
+        }
+      ],
+      "skills": ["Petal Dance", "Synthesis", "Tackle", "Toxic", "Vine Whip"],
+      "details": {
+        "type": "melee",
+        "hp": 125,
+        "atk": 75
+      }
+    },
+    {
+      "id": "002",
+      "name": "Ivysaur",
+      "type": ["grass", "poison"],
+      "evolution": [
+        {
+          "id": "001",
+          "lvl": 0
+        },
+        {
+          "id": "002",
+          "lvl": 16
+        },
+        {
+          "id": "003",
+          "lvl": 32
+        }
+      ],
+      "skills": ["Leech Seed", "Petal Dance", "Poison Powder", "Synthesis", "Tackle", "Take Down", "Toxic", "Vine Whip"],
+      "details": {
+        "type": "melee",
+        "hp": 400,
+        "atk": 100
+      }
+    },
+    {
+      "id": "003",
+      "name": "Venusaur",
+      "type": ["grass", "poison"],
+      "evolution": [
+        {
+          "id": "001",
+          "lvl": 0
+        },
+        {
+          "id": "002",
+          "lvl": 16
+        },
+        {
+          "id": "003",
+          "lvl": 32
+        }
+      ],
+      "skills": ["Leech Seed", "Mega Drain", "Petal Dance", "Solar Beam", "Synthesis", "Tackle", "Take Down", "Toxic", "Vine Whip"],
+      "details": {
+        "type": "melee",
+        "hp": 550,
+        "atk": 150
+      }
+    },
+    {
+      "id": "004",
+      "name": "Charmander",
+      "type": ["fire"],
+      "evolution": [
+        {
+          "id": "004",
+          "lvl": 0
+        },
+        {
+          "id": "005",
+          "lvl": 16
+        },
+        {
+          "id": "006",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Ember", "Fire Punch", "Fire Spin", "Metal Claw", "Scratch"],
+      "details": {
+        "type": "melee",
+        "hp": 75,
+        "atk": 125
+      }
+    },
+    {
+      "id": "005",
+      "name": "Charmeleon",
+      "type": ["fire"],
+      "evolution": [
+        {
+          "id": "004",
+          "lvl": 0
+        },
+        {
+          "id": "005",
+          "lvl": 16
+        },
+        {
+          "id": "006",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Dragon Claw", "Ember", "Fire Punch", "Fire Spin", "Flamethrower", "Metal Claw", "Scratch"],
+      "details": {
+        "type": "melee",
+        "hp": 100,
+        "atk": 400
+      }
+    },
+    {
+      "id": "006",
+      "name": "Charizard",
+      "type": ["fire", "flying"],
+      "evolution": [
+        {
+          "id": "004",
+          "lvl": 0
+        },
+        {
+          "id": "005",
+          "lvl": 16
+        },
+        {
+          "id": "006",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Dragon Claw", "Ember", "Fire Punch", "Fire Spin", "Flame Charge", "Flamethrower", "Flare Blitz", "Metal Claw", "Scratch"],
+      "details": {
+        "type": "melee",
+        "hp": 200,
+        "atk": 600
+      }
+    },
+    {
+      "id": "007",
+      "name": "Squirtle",
+      "type": ["water"],
+      "evolution": [
+        {
+          "id": "007",
+          "lvl": 0
+        },
+        {
+          "id": "008",
+          "lvl": 16
+        },
+        {
+          "id": "009",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Bubble", "Tackle", "Whirlpool", "Withdraw"],
+      "details": {
+        "type": "melee",
+        "hp": 100,
+        "atk": 100
+      }
+    },
+    {
+      "id": "008",
+      "name": "Wartortle",
+      "type": ["water"],
+      "evolution": [
+        {
+          "id": "007",
+          "lvl": 0
+        },
+        {
+          "id": "008",
+          "lvl": 16
+        },
+        {
+          "id": "009",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Aqua Jet", "Aqua Ring", "Blizzard", "Bubble", "Surf", "Tackle", "Waterfall", "Whirlpool"],
+      "details": {
+        "type": "melee",
+        "hp": 250,
+        "atk": 250
+      }
+    },
+    {
+      "id": "009",
+      "name": "Blastoise",
+      "type": ["water"],
+      "evolution": [
+        {
+          "id": "007",
+          "lvl": 0
+        },
+        {
+          "id": "008",
+          "lvl": 16
+        },
+        {
+          "id": "009",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Aqua Jet", "Aqua Ring", "Blizzard", "Bubble", "Hydro Pump", "Tackle", "Waterfall", "Whirlpool", "Withdraw"],
+      "details": {
+        "type": "melee",
+        "hp": 400,
+        "atk": 400
+      }
+    },
+    {
+      "id": "010",
+      "name": "Caterpie",
+      "type": ["bug"],
+      "evolution": [
+        {
+          "id": "010",
+          "lvl": 0
+        },
+        {
+          "id": "011",
+          "lvl": 7
+        },
+        {
+          "id": "012",
+          "lvl": 10
+        }
+      ],
+      "skills": ["Lunge", "String Shot", "Synthesis", "Tackle", "Take Down"],
+      "details": {
+        "type": "melee",
+        "hp": 110,
+        "atk": 90
+      }
+    },
+    {
+      "id": "011",
+      "name": "Metapod",
+      "type": ["bug"],
+      "evolution": [
+        {
+          "id": "010",
+          "lvl": 0
+        },
+        {
+          "id": "011",
+          "lvl": 7
+        },
+        {
+          "id": "012",
+          "lvl": 10
+        }
+      ],
+      "skills": ["Iron Defense", "Lunge", "String Shot", "Synthesis", "Tackle", "Take Down"],
+      "details": {
+        "type": "melee",
+        "hp": 275,
+        "atk": 25
+      }
+    },
+    {
+      "id": "012",
+      "name": "Butterfree",
+      "type": ["bug", "flying"],
+      "evolution": [
+        {
+          "id": "010",
+          "lvl": 0
+        },
+        {
+          "id": "011",
+          "lvl": 7
+        },
+        {
+          "id": "012",
+          "lvl": 10
+        }
+      ],
+      "skills": ["Electroweb", "Harden", "Lunge", "Rage Powder", "Silver Wind", "String Shot", "Synthesis", "Tackle"],
+      "details": {
+        "type": "melee",
+        "hp": 150,
+        "atk": 250
+      }
+    },
+    {
+      "id": "013",
+      "name": "Weedle",
+      "type": ["bug", "poison"],
+      "evolution": [
+        {
+          "id": "011",
+          "lvl": 0
+        },
+        {
+          "id": "012",
+          "lvl": 7
+        },
+        {
+          "id": "013",
+          "lvl": 10
+        }
+      ],
+      "skills": ["Lunge", "Poison Sting", "String Shot", "Tackle"],
+      "details": {
+        "type": "melee",
+        "hp": 100,
+        "atk": 100
+      }
+    },
+    {
+      "id": "014",
+      "name": "Kakuna",
+      "type": ["bug", "poison"],
+      "evolution": [
+        {
+          "id": "011",
+          "lvl": 0
+        },
+        {
+          "id": "012",
+          "lvl": 7
+        },
+        {
+          "id": "013",
+          "lvl": 10
+        }
+      ],
+      "skills": ["Iron Defense", "String Shot", "Tackle"],
+      "details": {
+        "type": "melee",
+        "hp": 250,
+        "atk": 50
+      }
+    },
+    {
+      "id": "015",
+      "name": "Beedrill",
+      "type": ["bug", "poison"],
+      "evolution": [
+        {
+          "id": "013",
+          "lvl": 0
+        },
+        {
+          "id": "014",
+          "lvl": 7
+        },
+        {
+          "id": "015",
+          "lvl": 10
+        }
+      ],
+      "skills": ["Agility", "Electroweb", "Harden", "Iron Defense", "Lunge", "Pin Missile", "Poison Sting", "String Shot", "Tackle"],
+      "details": {
+        "type": "melee",
+        "hp": 150,
+        "atk": 250
+      }
+    },
+    {
+      "id": "016",
+      "name": "Pidgey",
+      "type": ["normal", "flying"],
+      "evolution": [
+        {
+          "id": "016",
+          "lvl": 0
+        },
+        {
+          "id": "017",
+          "lvl": 18
+        },
+        {
+          "id": "018",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Gust", "Mud-Slap", "Tailwind", "Twister", "Whirlwind"],
+      "details": {
+        "type": "range",
+        "hp": 100,
+        "atk": 100
+      }
+    },
+    {
+      "id": "017",
+      "name": "Pidgeotto",
+      "type": ["normal", "flying"],
+      "evolution": [
+        {
+          "id": "016",
+          "lvl": 0
+        },
+        {
+          "id": "017",
+          "lvl": 18
+        },
+        {
+          "id": "018",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Gust", "Hurricane", "Mud-Slap", "Tailwind", "Twister", "Whirlwind"],
+      "details": {
+        "type": "range",
+        "hp": 250,
+        "atk": 250
+      }
+    },
+    {
+      "id": "018",
+      "name": "Pidgeot",
+      "type": ["normal", "flying"],
+      "evolution": [
+        {
+          "id": "016",
+          "lvl": 0
+        },
+        {
+          "id": "017",
+          "lvl": 18
+        },
+        {
+          "id": "018",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Agility", "Gust", "Heat Wave", "Hurricane", "Mud-Slap", "Roost", "Sky Attack", "Tailwind"],
+      "details": {
+        "type": "range",
+        "hp": 400,
+        "atk": 400
+      }
+    },
+    {
+      "id": "019",
+      "name": "Rattata",
+      "type": ["normal"],
+      "evolution": [
+        {
+          "id": "019",
+          "lvl": 0
+        },
+        {
+          "id": "020",
+          "lvl": 20
+        }
+      ],
+      "skills": ["Crunch", "Focus Energy", "Scratch", "Tackle", "Take Down"],
+      "details": {
+        "type": "range",
+        "hp": 75,
+        "atk": 125
+      }
+    },
+    {
+      "id": "020",
+      "name": "Raticate",
+      "type": ["normal"],
+      "evolution": [
+        {
+          "id": "019",
+          "lvl": 0
+        },
+        {
+          "id": "020",
+          "lvl": 20
+        }
+      ],
+      "skills": ["Crunch", "Flame Wheel", "Focus Energy", "Iron Tail", "Scratch", "Tackle", "Zen Headbutt"],
+      "details": {
+        "type": "range",
+        "hp": 150,
+        "atk": 450
+      }
+    },
+    {
+      "id": "021",
+      "name": "Spearow",
+      "type": ["normal", "flying"],
+      "evolution": [
+        {
+          "id": "021",
+          "lvl": 0
+        },
+        {
+          "id": "022",
+          "lvl": 20
+        }
+      ],
+      "skills": ["Aerial Ace", "Fly", "Growl", "Leer", "Take Down"],
+      "details": {
+        "type": "melee",
+        "hp": 75,
+        "atk": 125
+      }
+    },
+    {
+      "id": "022",
+      "name": "Fearow",
+      "type": ["normal", "flying"],
+      "evolution": [
+        {
+          "id": "021",
+          "lvl": 0
+        },
+        {
+          "id": "022",
+          "lvl": 20
+        }
+      ],
+      "skills": ["Aerial Ace", "Drill Peck", "Fly", "Leer", "Take Down", "Tri Attack", "Whirlwind"],
+      "details": {
+        "type": "melee",
+        "hp": 100,
+        "atk": 500
+      }
+    },
+    {
+      "id": "023",
+      "name": "Ekans",
+      "type": ["poison"],
+      "evolution": [
+        {
+          "id": "023",
+          "lvl": 0
+        },
+        {
+          "id": "024",
+          "lvl": 22
+        }
+      ],
+      "skills": ["Leer", "Mud Bomb", "Mud-Slap", "Poison Sting", "Rock Tomb"],
+      "details": {
+        "type": "range",
+        "hp": 80,
+        "atk": 120
+      }
+    },
+    {
+      "id": "024",
+      "name": "Arbok",
+      "type": ["poison"],
+      "evolution": [
+        {
+          "id": "023",
+          "lvl": 0
+        },
+        {
+          "id": "024",
+          "lvl": 22
+        }
+      ],
+      "skills": ["Crunch", "Earthquake", "Leer", "Mud Bomb", "Mud-Slap", "Poison Sting", "Rock Tomb"],
+      "details": {
+        "type": "range",
+        "hp": 150,
+        "atk": 450
+      }
+    },
+    {
+      "id": "025",
+      "name": "Pikachu",
+      "type": ["electric"],
+      "evolution": [
+        {
+          "id": "025",
+          "lvl": 0
+        },
+        {
+          "id": "026",
+          "lvl": 22
+        }
+      ],
+      "skills": ["Iron Tail", "Spark", "Thunder Shock", "Thunderbolt", "Volt Tackle"],
+      "specialskill": [
+        {
+          "name": "Surf",
+          "method": "Mini Expedition Pack (Mobile Only)"
+        }
+      ],
+      "details": {
+        "type": "melee",
+        "hp": 70,
+        "atk": 130
+      }
+    },
+    {
+      "id": "026",
+      "name": "Raichu",
+      "type": ["electric"],
+      "evolution": [
+        {
+          "id": "025",
+          "lvl": 0
+        },
+        {
+          "id": "026",
+          "lvl": 22
+        }
+      ],
+      "skills": ["Agility", "Charge", "Electric Terrain", "Giga Impact", "Iron Tail", "Spark", "Thunder Shock", "Thunderbolt", "Volt Tackle"],
+      "details": {
+        "type": "melee",
+        "hp": 150,
+        "atk": 450
+      }
+    },
+    {
+      "id": "027",
+      "name": "Sandshrew",
+      "type": ["ground"],
+      "evolution": [
+        {
+          "id": "027",
+          "lvl": 0
+        },
+        {
+          "id": "028",
+          "lvl": 22
+        }
+      ],
+      "skills": ["Dig", "Metal Claw", "Rollout", "Sandstorm", "Scratch"],
+      "details": {
+        "type": "melee",
+        "hp": 80,
+        "atk": 120
+      }
+    },
+    {
+      "id": "028",
+      "name": "Sandslash",
+      "type": ["ground"],
+      "evolution": [
+        {
+          "id": "027",
+          "lvl": 0
+        },
+        {
+          "id": "028",
+          "lvl": 22
+        }
+      ],
+      "skills": ["Aerial Ace", "Dig", "Metal Claw", "Night Slash", "Swords Dance", "Sandstorm", "Scratch"],
+      "details": {
+        "type": "melee",
+        "hp": 150,
+        "atk": 350
+      }
+    },
+    {
+      "id": "029",
+      "name": "Nidoran♀",
+      "type": ["poison"],
+      "evolution": [
+        {
+          "id": "029",
+          "lvl": 0
+        },
+        {
+          "id": "030",
+          "lvl": 16
+        },
+        {
+          "id": "031",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Flatter", "Focus Energy", "Growl", "Mud-Slap"],
+      "specialskill": [
+        {
+          "name": "Sing",
+          "method": "Expedition Pack Only"
+        }
+      ],
+      "details": {
+        "type": "melee",
+        "hp": 140,
+        "atk": 60
+      }
+    },
+    {
+      "id": "030",
+      "name": "Nidorina",
+      "type": ["poison"],
+      "evolution": [
+        {
+          "id": "029",
+          "lvl": 0
+        },
+        {
+          "id": "030",
+          "lvl": 16
+        },
+        {
+          "id": "031",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Flatter", "Focus Energy", "Growl", "Mud-Slap", "Poison Sting"],
+      "details": {
+        "type": "melee",
+        "hp": 325,
+        "atk": 175
+      }
+    },
+    {
+      "id": "031",
+      "name": "Nidoqueen",
+      "type": ["poison", "ground"],
+      "evolution": [
+        {
+          "id": "029",
+          "lvl": 0
+        },
+        {
+          "id": "030",
+          "lvl": 16
+        },
+        {
+          "id": "031",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Flatter", "Focus Energy", "Growl", "Mud-Slap", "Poison Sting", "Sludge Bomb", "Stealth Rock", "Supersonic", "Venom Drench"],
+      "details": {
+        "type": "melee",
+        "hp": 600,
+        "atk": 200
+      }
+    },
+    {
+      "id": "032",
+      "name": "Nidoran♂",
+      "type": ["poison"],
+      "evolution": [
+        {
+          "id": "032",
+          "lvl": 0
+        },
+        {
+          "id": "033",
+          "lvl": 16
+        },
+        {
+          "id": "034",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Growl", "Iron Tail", "Rock Smash", "Take Down", "Toxic"],
+      "specialskill": [
+        {
+          "name": "Work Up",
+          "method": "Expedition Pack Only"
+        }
+      ],
+      "details": {
+        "type": "melee",
+        "hp": 60,
+        "atk": 140
+      }
+    },
+    {
+      "id": "033",
+      "name": "Nidorino",
+      "type": ["poison"],
+      "evolution": [
+        {
+          "id": "032",
+          "lvl": 0
+        },
+        {
+          "id": "033",
+          "lvl": 16
+        },
+        {
+          "id": "034",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Amnesia", "Iron Tail", "Rock Smash", "Toxic"],
+      "details": {
+        "type": "melee",
+        "hp": 175,
+        "atk": 325
+      }
+    },
+    {
+      "id": "034",
+      "name": "Nidoking",
+      "type": ["poison", "ground"],
+      "evolution": [
+        {
+          "id": "032",
+          "lvl": 0
+        },
+        {
+          "id": "033",
+          "lvl": 16
+        },
+        {
+          "id": "034",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Amnesia", "Earthquake", "Iron Tail", "Megahorn", "Rock Smash", "Rock Tomb", "Taunt", "Toxic"],
+      "details": {
+        "type": "melee",
+        "hp": 200,
+        "atk": 600
+      }
+    },
+    {
+      "id": "035",
+      "name": "Clefairy",
+      "type": ["fairy"],
+      "evolution": [
+        {
+          "id": "035",
+          "lvl": 0
+        },
+        {
+          "id": "036",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Amnesia", "Flash", "Light Screen", "Rollout", "Take Down", "Taunt"],
+      "details": {
+        "type": "melee",
+        "hp": 120,
+        "atk": 80
+      }
+    },
+    {
+      "id": "036",
+      "name": "Clefable",
+      "type": ["fairy"],
+      "evolution": [
+        {
+          "id": "035",
+          "lvl": 0
+        },
+        {
+          "id": "036",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Dazzling Gleam", "Flash", "Follow Me", "Light Screen"],
+      "details": {
+        "type": "melee",
+        "hp": 450,
+        "atk": 250
+      }
+    },
+    {
+      "id": "037",
+      "name": "Vulpix",
+      "type": ["fire"],
+      "evolution": [
+        {
+          "id": "037",
+          "lvl": 0
+        },
+        {
+          "id": "038",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Charm", "Ember", "Flame Charge", "Flamethrower", "Roar"],
+      "details": {
+        "type": "range",
+        "hp": 110,
+        "atk": 90
+      }
+    },
+    {
+      "id": "038",
+      "name": "Ninetales",
+      "type": ["fire"],
+      "evolution": [
+        {
+          "id": "037",
+          "lvl": 0
+        },
+        {
+          "id": "038",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Charm", "Confuse Ray", "Ember", "Fire Blast", "Flame Charge", "Flamethrower", "Heat Wave", "Solar Beam", "Roar", "Will-O-Wisp"],
+      "details": {
+        "type": "range",
+        "hp": 550,
+        "atk": 250
+      }
+    },
+    {
+      "id": "039",
+      "name": "Jigglypuff",
+      "type": ["fairy", "normal"],
+      "evolution": [
+        {
+          "id": "039",
+          "lvl": 0
+        },
+        {
+          "id": "040",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Flash", "Mega Punch", "Rollout", "Sing", "Take Down"],
+      "details": {
+        "type": "melee",
+        "hp": 140,
+        "atk": 60
+      }
+    },
+    {
+      "id": "040",
+      "name": "Wigglytuff",
+      "type": ["fairy", "normal"],
+      "evolution": [
+        {
+          "id": "039",
+          "lvl": 0
+        },
+        {
+          "id": "040",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Bounce", "Dynamic Punch", "Flash", "Mega Punch", "Play Rough", "Rollout", "Sing", "Sweet Kiss", "Take Down"],
+      "details": {
+        "type": "melee",
+        "hp": 450,
+        "atk": 150
+      }
+    },
+    {
+      "id": "041",
+      "name": "Zubat",
+      "type": ["fairy", "normal"],
+      "evolution": [
+        {
+          "id": "041",
+          "lvl": 0
+        },
+        {
+          "id": "042",
+          "lvl": 22
+        }
+      ],
+      "skills": ["Gust", "Leech Life", "Supersonic", "Taunt", "U-turn", "Whirlwind"],
+      "details": {
+        "type": "range",
+        "hp": 80,
+        "atk": 120
+      }
+    },
+    {
+      "id": "042",
+      "name": "Golbat",
+      "type": ["poison", "flying"],
+      "evolution": [
+        {
+          "id": "041",
+          "lvl": 0
+        },
+        {
+          "id": "042",
+          "lvl": 22
+        }
+      ],
+      "skills": ["Gust", "Leech Life", "Nasty Plot", "Roost", "Tailwind", "Taunt", "Venom Drench", "Whirlwind"],
+      "details": {
+        "type": "range",
+        "hp": 200,
+        "atk": 400
+      }
+    },
+    {
+      "id": "043",
+      "name": "Oddish",
+      "type": ["grass", "poison"],
+      "evolution": [
+        {
+          "id": "043",
+          "lvl": 0
+        },
+        {
+          "id": "044",
+          "lvl": 21
+        },
+        {
+          "id": "045",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Flash", "Petal Dance", "Poison Powder", "Stun Spore"],
+      "details": {
+        "type": "range",
+        "hp": 75,
+        "atk": 125
+      }
+    },
+    {
+      "id": "044",
+      "name": "Gloom",
+      "type": ["grass", "poison"],
+      "evolution": [
+        {
+          "id": "043",
+          "lvl": 0
+        },
+        {
+          "id": "044",
+          "lvl": 21
+        },
+        {
+          "id": "045",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Bullet Seed", "Charm", "Flash", "Petal Dance", "Poison Powder", "Stun Spore", "Synthesis"],
+      "details": {
+        "type": "range",
+        "hp": 250,
+        "atk": 350
+      }
+    },
+    {
+      "id": "045",
+      "name": "Vileplume",
+      "type": ["grass", "poison"],
+      "evolution": [
+        {
+          "id": "043",
+          "lvl": 0
+        },
+        {
+          "id": "044",
+          "lvl": 21
+        },
+        {
+          "id": "045",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Bullet Seed", "Charm", "Flash", "Petal Dance", "Solar Beam"],
+      "details": {
+        "type": "range",
+        "hp": 300,
+        "atk": 500
+      }
+    },
+    {
+      "id": "046",
+      "name": "Paras",
+      "type": ["bug", "grass"],
+      "evolution": [
+        {
+          "id": "046",
+          "lvl": 0
+        },
+        {
+          "id": "047",
+          "lvl": 21
+        }
+      ],
+      "skills": ["Leech Seed", "Light Screen", "Poison Powder", "Rage Powder", "Stun Spore"],
+      "details": {
+        "type": "range",
+        "hp": 80,
+        "atk": 120
+      }
+    },
+    {
+      "id": "047",
+      "name": "Parasect",
+      "type": ["bug", "grass"],
+      "evolution": [
+        {
+          "id": "046",
+          "lvl": 0
+        },
+        {
+          "id": "047",
+          "lvl": 21
+        }
+      ],
+      "skills": ["Agility", "Bullet Seed", "Leech Seed", "Light Screen", "Metal Claw", "Poison Powder", "Psybeam", "Rage Powder", "Spore", "Stun Spore"],
+      "details": {
+        "type": "range",
+        "hp": 200,
+        "atk": 500
+      }
+    },
+    {
+      "id": "048",
+      "name": "Venonat",
+      "type": ["bug", "poison"],
+      "evolution": [
+        {
+          "id": "046",
+          "lvl": 0
+        },
+        {
+          "id": "047",
+          "lvl": 21
+        }
+      ],
+      "skills": ["Poison Powder", "Psybeam", "String Shot", "Stun Spore"],
+      "details": {
+        "type": "range",
+        "hp": 120,
+        "atk": 80
+      }
+    },
+    {
+      "id": "049",
+      "name": "Venomoth",
+      "type": ["bug", "poison"],
+      "evolution": [
+        {
+          "id": "046",
+          "lvl": 0
+        },
+        {
+          "id": "047",
+          "lvl": 21
+        }
+      ],
+      "skills": ["Gust", "Poison Powder", "Psybeam", "Psychic", "Silver Wind", "String Shot", "Stun Spore", "Supersonic"],
+      "details": {
+        "type": "range",
+        "hp": 350,
+        "atk": 350
+      }
+    }
+  ]
+}
