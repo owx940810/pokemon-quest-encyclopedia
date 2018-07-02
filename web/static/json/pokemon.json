@@ -2003,6 +2003,411 @@
         "hp": 500,
         "atk": 200
       }
+    },
+    {
+      "id": "088",
+      "name": "Grimer",
+      "type": ["poison"],
+      "evolution": [
+        {
+          "id": "088",
+          "lvl": 0
+        },
+        {
+          "id": "089",
+          "lvl": 38
+        }
+      ],
+      "skills": ["Acid Armor", "Slam", "Tackle", "Toxic", "Venom Drench"],
+      "details": {
+        "type": "melee",
+        "hp": 110,
+        "atk": 90
+      }
+    },
+    {
+      "id": "089",
+      "name": "Muk",
+      "type": ["poison"],
+      "evolution": [
+        {
+          "id": "088",
+          "lvl": 0
+        },
+        {
+          "id": "089",
+          "lvl": 38
+        }
+      ],
+      "skills": ["Acid Armor", "Lick", "Power-Up Punch", "Slam", "Tackle", "Taunt", "Venom Drench"],
+      "details": {
+        "type": "melee",
+        "hp": 650,
+        "atk": 150
+      }
+    },
+    {
+      "id": "090",
+      "name": "Shellder",
+      "type": ["water"],
+      "evolution": [
+        {
+          "id": "090",
+          "lvl": 0
+        },
+        {
+          "id": "091",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Barrier", "Bubble", "Ice Beam", "Iron Defense", "Withdraw"],
+      "details": {
+        "type": "range",
+        "hp": 120,
+        "atk": 80
+      }
+    },
+    {
+      "id": "091",
+      "name": "Cloyster",
+      "type": ["water", "ice"],
+      "evolution": [
+        {
+          "id": "090",
+          "lvl": 0
+        },
+        {
+          "id": "091",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Barrier", "Ice Beam", "Icicle Crash", "Icy Wind", "Rock Blast", "Spikes", "Supersonic"],
+      "details": {
+        "type": "range",
+        "hp": 575,
+        "atk": 225
+      }
+    },
+    {
+      "id": "092",
+      "name": "Gastly",
+      "type": ["ghost", "poison"],
+      "evolution": [
+        {
+          "id": "092",
+          "lvl": 0
+        },
+        {
+          "id": "093",
+          "lvl": 25
+        },
+        {
+          "id": "094",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Astonish", "Lick", "Smog", "Sucker Punch"],
+      "details": {
+        "type": "melee",
+        "hp": 50,
+        "atk": 150
+      }
+    },
+    {
+      "id": "093",
+      "name": "Haunter",
+      "type": ["ghost", "poison"],
+      "evolution": [
+        {
+          "id": "092",
+          "lvl": 0
+        },
+        {
+          "id": "093",
+          "lvl": 25
+        },
+        {
+          "id": "094",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Astonish", "Lick", "Smog", "Sucker Punch"],
+      "details": {
+        "type": "melee",
+        "hp": 125,
+        "atk": 575
+      }
+    },
+    {
+      "id": "094",
+      "name": "Gengar",
+      "type": ["ghost", "poison"],
+      "evolution": [
+        {
+          "id": "092",
+          "lvl": 0
+        },
+        {
+          "id": "093",
+          "lvl": 25
+        },
+        {
+          "id": "094",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Astonish", "Confuse Ray", "Hypnosis", "Lick", "Mega Drain", "Shadow Ball", "Smog", "Sucker Punch", "Toxic"],
+      "details": {
+        "type": "melee",
+        "hp": 150,
+        "atk": 650
+      }
+    },
+    {
+      "id": "095",
+      "name": "Onix",
+      "type": ["rock", "ground"],
+      "evolution": [],
+      "skills": ["Flash Cannon", "Harden", "Iron Tail", "Lick", "Roar", "Rock Polish", "Rock Smash", "Rock Throw", "Rock Tomb", "Sandstorm", "Stealth Rock"],
+      "details": {
+        "type": "range",
+        "hp": 600,
+        "atk": 100
+      }
+    },
+    {
+      "id": "096",
+      "name": "Drowzee",
+      "type": ["phychc"],
+      "evolution": [
+        {
+          "id": "096",
+          "lvl": 0
+        },
+        {
+          "id": "097",
+          "lvl": 26
+        }
+      ],
+      "skills": ["Barrier", "Flash", "Light Screen", "Psybeam", "Taunt"],
+      "details": {
+        "type": "range",
+        "hp": 120,
+        "atk": 80
+      }
+    },
+    {
+      "id": "097",
+      "name": "Hypno",
+      "type": ["phychc"],
+      "evolution": [
+        {
+          "id": "096",
+          "lvl": 0
+        },
+        {
+          "id": "097",
+          "lvl": 26
+        }
+      ],
+      "skills": ["Barrier", "Flatter", "Hypnosis", "Light Screen", "Meditate", "Psybeam", "Psychic", "Shadow Ball", "Taunt"],
+      "details": {
+        "type": "range",
+        "hp": 500,
+        "atk": 200
+      }
+    },
+    {
+      "id": "098",
+      "name": "Krabby",
+      "type": ["water"],
+      "evolution": [
+        {
+          "id": "098",
+          "lvl": 0
+        },
+        {
+          "id": "099",
+          "lvl": 28
+        }
+      ],
+      "skills": ["Flail", "Harden", "Leer", "Stomp", "Surf"],
+      "details": {
+        "type": "melee",
+        "hp": 70,
+        "atk": 130
+      }
+    },
+    {
+      "id": "099",
+      "name": "Kingler",
+      "type": ["water"],
+      "evolution": [
+        {
+          "id": "098",
+          "lvl": 0
+        },
+        {
+          "id": "099",
+          "lvl": 28
+        }
+      ],
+      "skills": ["Giga Impact", "Slam", "Harden", "Leer", "Stomp", "Surf"],
+      "details": {
+        "type": "melee",
+        "hp": 100,
+        "atk": 600
+      }
+    },
+    {
+      "id": "100",
+      "name": "Voltorb",
+      "type": ["electr"],
+      "evolution": [
+        {
+          "id": "100",
+          "lvl": 0
+        },
+        {
+          "id": "101",
+          "lvl": 30
+        }
+      ],
+      "skills": ["Rollout", "Self-Destruct", "Tackle", "Taunt", "Thunder Shock"],
+      "details": {
+        "type": "melee",
+        "hp": 110,
+        "atk": 90
+      }
+    },
+    {
+      "id": "101",
+      "name": "Electrode",
+      "type": ["electr"],
+      "evolution": [
+        {
+          "id": "100",
+          "lvl": 0
+        },
+        {
+          "id": "101",
+          "lvl": 30
+        }
+      ],
+      "skills": ["Explosion", "Light Screen", "Rollout", "Self-Destruct", "Tackle", "Taunt", "Thunder Shock", "Thunderbolt"],
+      "details": {
+        "type": "melee",
+        "hp": 400,
+        "atk": 300
+      }
+    },
+    {
+      "id": "102",
+      "name": "Exeggcute",
+      "type": ["grass", "phychc"],
+      "evolution": [
+        {
+          "id": "102",
+          "lvl": 0
+        },
+        {
+          "id": "103",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Flash", "Leech Seed", "Psychic", "Sludge Bomb", "Synthesis"],
+      "details": {
+        "type": "range",
+        "hp": 130,
+        "atk": 70
+      }
+    },
+    {
+      "id": "103",
+      "name": "Exeggutor",
+      "type": ["grass", "phychc"],
+      "evolution": [
+        {
+          "id": "102",
+          "lvl": 0
+        },
+        {
+          "id": "103",
+          "lvl": 36
+        }
+      ],
+      "skills": ["Bullet Seed", "Egg Bomb", "Flash", "Leech Seed", "Psychic", "Sludge Bomb", "Solar Beam", "Stomp", "Stun Spore", "Synthesis"],
+      "details": {
+        "type": "range",
+        "hp": 250,
+        "atk": 550
+      }
+    },
+    {
+      "id": "104",
+      "name": "Cubone",
+      "type": ["ground"],
+      "evolution": [
+        {
+          "id": "104",
+          "lvl": 0
+        },
+        {
+          "id": "105",
+          "lvl": 328
+        }
+      ],
+      "skills": ["Bonemerang", "Focus Energy", "Growl", "Leer", "Sandstorm"],
+      "details": {
+        "type": "melee",
+        "hp": 130,
+        "atk": 70
+      }
+    },
+    {
+      "id": "105",
+      "name": "Marowak",
+      "type": ["ground"],
+      "evolution": [
+        {
+          "id": "104",
+          "lvl": 0
+        },
+        {
+          "id": "105",
+          "lvl": 28
+        }
+      ],
+      "skills": ["Aerial Ace", "Belly Drum", "Bonemerang", "Earthquake", "Outrage", "Rock Tomb", "Sandstorm"],
+      "details": {
+        "type": "melee",
+        "hp": 525,
+        "atk": 175
+      }
+    },
+    {
+      "id": "106",
+      "name": "Hitmonlee",
+      "type": ["fight"],
+      "evolution": [],
+      "skills": ["Bounce", "Bulk Up", "Close Combat", "Focus Energy", "High Jump Kick", "Meditate", "Rock Smash", "Rolling Kick", "Submission", "Sucker Punch"],
+      "details": {
+        "type": "melee",
+        "hp": 50,
+        "atk": 650
+      }
+    },
+    {
+      "id": "107",
+      "name": "Hitmonchan",
+      "type": ["fight"],
+      "evolution": [],
+      "skills": ["Close Combat", "Comet Punch", "Drain Punch", "Dynamic Punch", "Fire Punch", "Ice Punch", "Mega Punch", "Power-Up Punch", "Rock Smash", "Sucker Punch"],
+      "details": {
+        "type": "melee",
+        "hp": 75,
+        "atk": 625
+      }
     }
   ]
 }
