@@ -10,8 +10,8 @@ html
 
   body
     #app
-      router-link(to="/")
-        img#logo(src=process.env.WEB_BASE + "/images/logo.png")
+      router-link#logo(to="/")
+        img(src=process.env.WEB_BASE + "/images/logo.png")
       router-view
     footer
       p Calvin Ong | calvinxhen@gmail.com
