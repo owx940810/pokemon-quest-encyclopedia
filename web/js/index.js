@@ -20,6 +20,12 @@ window.APP = new Vue({
       let data = await response.json()
       let pokemons = data.data.map(pokemon => {
         pokemon.evolution = pokemon.evolution.map(evolution => {
+          if (Array.isArray(evolution)) {
+            return evolution.map(item => {
+              item.image = process.env.WEB_BASE + '/images/pokemon-icons/' + item.id + '.png'
+              return item
+            })
+          }
           evolution.image = process.env.WEB_BASE + '/images/pokemon-icons/' + evolution.id + '.png'
           return evolution
         })

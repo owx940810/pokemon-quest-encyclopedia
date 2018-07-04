@@ -9,12 +9,21 @@
         .label(v-for="type in pokemon.type", :class="type") {{ type }}
     .wrapper
       h5 #[u Evolution]
-      .evolutions(v-if="pokemon.evolution && pokemon.evolution.length > 0")
+      .specialevolution(v-if="pokemon.evolution && Array.isArray(pokemon.evolution[0])")
+        .evolutions(v-for="evolutions in pokemon.evolution")
+          .evolution(v-for="evolution in evolutions")
+            P.lvl(v-show="evolution.lvl") {{ evolution.lvl }}
+            .img-wrapper(@click="selectPokemon(evolution.id)")
+              img(:src="evolution.image")
+
+      .evolutions(v-else-if="pokemon.evolution && pokemon.evolution.length > 0")
         .evolution(v-for="evolution in pokemon.evolution")
           P.lvl(v-show="evolution.lvl") {{ evolution.lvl }}
-          .img-wrapper
+          .img-wrapper(@click="selectPokemon(evolution.id)")
             img(:src="evolution.image")
       h6.noevolutions(v-else) no evolution
+      p(v-show="pokemon.evolutiondesc")
+        i {{ pokemon.evolutiondesc }}
 
       h5 #[u Details]
       .details(v-if="pokemon.details")
@@ -57,6 +66,7 @@
 
     .img-wrapper
       background-color: $powder
+      cursor: pointer
 
     .wrapper
       padding: 20px
@@ -162,6 +172,12 @@
       }
     },
 
+    watch: {
+      '$route.params.id' (value) {
+        window.location.reload()
+      },
+    },
+
     mounted () {
       setTimeout(() => {
         let index = this.$route.params.id
@@ -179,6 +195,11 @@
               return res.data.find(item => item.name === skill)
             })
           })
+      },
+
+      selectPokemon (id) {
+        console.log(id)
+        this.$router.push('/pokemon/' + id)
       }
     }
   }

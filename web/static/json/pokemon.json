@@ -2509,16 +2509,7 @@
       "id": "113",
       "name": "Chansey",
       "type": ["normal"],
-      "evolution": [
-        {
-          "id": "111",
-          "lvl": 0
-        },
-        {
-          "id": "112",
-          "lvl": 42
-        }
-      ],
+      "evolution": [],
       "skills": ["Charm", "Egg Bomb", "Flail", "Light Screen", "Mega Punch", "Rock Smash", "Sing", "Soft-Boiled", "Sweet Kiss", "Take Down"],
       "details": {
         "type": "melee",
@@ -2836,7 +2827,38 @@
       "id": "133",
       "name": "Eevee",
       "type": ["normal"],
-      "evolution": [],
+      "evolution": [
+        [
+          {
+            "id": "133",
+            "lvl": 0
+          },
+          {
+            "id": "134",
+            "lvl": 36
+          }
+        ],
+        [
+          {
+            "id": "133",
+            "lvl": 0
+          },
+          {
+            "id": "135",
+            "lvl": 36
+          }
+        ],
+        [
+          {
+            "id": "133",
+            "lvl": 0
+          },
+          {
+            "id": "136",
+            "lvl": 36
+          }
+        ]
+      ],
       "skills": ["Charm", "Dig", "Flail", "Growl", "Take Down"],
       "details": {
         "type": "melee",
@@ -2848,7 +2870,17 @@
       "id": "134",
       "name": "Vaporeon",
       "type": ["water"],
-      "evolution": [],
+      "evolution": [
+        {
+          "id": "133",
+          "lvl": 0
+        },
+        {
+          "id": "134",
+          "lvl": 36
+        }
+      ],
+      "evolutiondesc": "*Ensure HP > ATK during evolution, HP power stones only",
       "skills": ["Acid Armor", "Aqua Ring", "Charm", "Dig", "Hydro Pump", "Take Down", "Waterfall", "Whirlpool"],
       "details": {
         "type": "melee",
@@ -2860,7 +2892,17 @@
       "id": "135",
       "name": "Jolteon",
       "type": ["electr"],
-      "evolution": [],
+      "evolution": [
+        {
+          "id": "133",
+          "lvl": 0
+        },
+        {
+          "id": "135",
+          "lvl": 36
+        }
+      ],
+      "evolutiondesc": "*Ensure ATK = HP during evolution, equal amount of HP & ATK power stones",
       "skills": ["Charm", "Dig", "Pin Missile", "Spark", "Take Down", "Thunder", "Thunderbolt"],
       "details": {
         "type": "melee",
@@ -2872,7 +2914,17 @@
       "id": "136",
       "name": "Jolteon",
       "type": ["fire"],
-      "evolution": [],
+      "evolution": [
+        {
+          "id": "133",
+          "lvl": 0
+        },
+        {
+          "id": "136",
+          "lvl": 36
+        }
+      ],
+      "evolutiondesc": "*Ensure ATK > HP during evolution, ATK power stones only",
       "skills": ["Charm", "Dig", "Ember", "Flamethrower", "Flare Blitz", "Lava Plume", "Take Down"],
       "details": {
         "type": "melee",
