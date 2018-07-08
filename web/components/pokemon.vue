@@ -41,6 +41,13 @@
             .label(:class="skill.type") {{ skill.type }}
           p.desc {{ skill.desc }}
 
+    .wrapper
+      h5 #[u Recipes]
+      ul.recipes
+        li.ingredients(v-for="recipe in pokemon.recipes")
+          .ingredient(v-for="ingredient in recipe.ingredients", :class="ingredient")
+          p {{ recipe.rate }}#[span %]
+
 </template>
 
 <style lang="sass">

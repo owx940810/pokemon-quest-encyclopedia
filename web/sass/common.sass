@@ -146,3 +146,19 @@ footer
   img
     width: 70px
 
+ul.recipes
+  +clearlist
+
+  li.ingredients
+    display: grid
+    grid-template-columns: repeat(6, 50px)
+    grid-template-rows: 50px
+    grid-gap: 5px
+
+    & + li
+      margin-top: 10px
+
+    .ingredient
+      border: 1px solid $line
+      padding: 5px
+      border-radius: 5px
