@@ -45,7 +45,10 @@
       h5 #[u Recipes]
       ul.recipes
         li.ingredients(v-for="recipe in pokemon.recipes")
-          .ingredient(v-for="ingredient in recipe.ingredients", :class="ingredient")
+          .ingredient-wrapper(v-for="ingredient in recipe.ingredients")
+            .ingredient(:class="ingredient", v-if="ingredient.split('').length === 1")
+            .multi-ingredient(v-if="ingredient.split('').length > 1")
+              .ingredient(v-for="item in ingredient.split('')", :class="item")
           p {{ recipe.rate }}#[span %]
 
 </template>
@@ -62,6 +65,9 @@
     margin: 0 auto
     width: 90%
     border-radius: 20px
+
+    +mobile
+      grid-template-columns: minmax(300px, 1fr)
 
     h4
       &.id
@@ -86,6 +92,12 @@
 
       &:nth-child(3)
         grid-column-end: span 3
+
+        +mobile
+          grid-column-end: initial
+
+      &:nth-child(4)
+        grid-column-end: span 2
 
         +mobile
           grid-column-end: initial
