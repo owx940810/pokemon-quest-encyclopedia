@@ -103,7 +103,7 @@
     name: 'landing',
     data () {
       return {
-        pokemons: [],
+        pokemons: this.$parent.pokemons,
         searchedpokemon: ''
       }
     },
@@ -115,12 +115,6 @@
         }
         return this.pokemons.filter(pokemon => pokemon.name.toLowerCase().indexOf(this.searchedpokemon.toLowerCase()) >= 0)
       }
-    },
-
-    mounted () {
-      setTimeout(() => {
-        this.pokemons = window.APP.pokemons
-      }, 1000)
     },
 
     methods: {

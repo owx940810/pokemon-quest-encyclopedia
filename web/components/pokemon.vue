@@ -34,7 +34,7 @@
     .wrapper
       h5 #[u Skills]
       ul.skills
-        li(v-for="skill in pokemon.skills" v-if="pokemon.skills[0].name")
+        li(v-for="skill in pokemon.detailedskills" v-if="pokemon.detailedskills.length > 0")
           p.name
             b {{ skill.name }}
           .type
@@ -174,31 +174,29 @@
 
     watch: {
       '$route.params.id' (value) {
-        window.location.reload()
+        this.init()
       },
     },
 
     mounted () {
-      setTimeout(() => {
-        let index = this.$route.params.id
-        this.pokemon = window.APP.pokemons.find(pokemon => pokemon.id === index)
-        this.getSkills()
-      }, 200)
+      this.init()
     },
 
     methods: {
+      init () {
+        this.pokemon = this.$parent.pokemons.find(pokemon => pokemon.id === this.$route.params.id)
+        this.pokemon.detailedskills = []
+        this.getSkills()
+      },
+
       getSkills () {
-        window.fetch(process.env.WEB_BASE + '/static/json/skills.json')
-          .then(res => res.json())
-          .then(res => {
-            this.pokemon.skills = this.pokemon.skills.map(skill => {
-              return res.data.find(item => item.name === skill)
-            })
-          })
+        this.pokemon.detailedskills = this.pokemon.skills.map(skill => {
+
+          return this.$parent.skills.find(item => item.name === skill)
+        })
       },
 
       selectPokemon (id) {
-        console.log(id)
         this.$router.push('/pokemon/' + id)
       }
     }
