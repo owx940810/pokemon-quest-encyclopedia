@@ -23,7 +23,37 @@
         "type": "melee",
         "hp": 125,
         "atk": 75
-      }
+      },
+      "recipes": [
+        {
+          "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+          "rate": 5
+        },
+        {
+          "ingredients": ["Y", "Y", "Y", "Y", "Y"],
+          "rate": 25
+        },
+        {
+          "ingredients": ["y", "Y", "Y", "Y", "rbyg"],
+          "rate": 33
+        },
+        {
+          "ingredients": ["r", "r", "r", "G", "byg"],
+          "rate": 10
+        },
+        {
+          "ingredients": ["r", "G", "G", "G", "l"],
+          "rate": 50
+        },
+        {
+          "ingredients": ["y", "y", "R", "R", "RBYG"],
+          "rate": 33
+        },
+        {
+          "ingredients": ["y", "R", "R", "R", "bg"],
+          "rate": 33
+        }
+      ]
     },
     {
       "id": "002",
@@ -48,7 +78,8 @@
         "type": "melee",
         "hp": 400,
         "atk": 100
-      }
+      },
+      "recipes": "Evolves from Bulbasaur"
     },
     {
       "id": "003",
@@ -73,7 +104,8 @@
         "type": "melee",
         "hp": 550,
         "atk": 150
-      }
+      },
+      "recipes": "Evolves from Ivysaur"
     },
     {
       "id": "004",
@@ -98,7 +130,33 @@
         "type": "melee",
         "hp": 75,
         "atk": 125
-      }
+      },
+      "recipes": [
+        {
+          "ingredients": ["R", "R", "R", "R", "R"],
+          "rate": 16
+        },
+        {
+          "ingredients": ["G", "G", "G", "R", "R"],
+          "rate": 50
+        },
+        {
+          "ingredients": ["r", "G", "G", "R", "byg"],
+          "rate": 50
+        },
+        {
+          "ingredients": ["r", "r", "G", "RY", "BY"],
+          "rate": 50
+        },
+        {
+          "ingredients": ["r", "r", "G", "l", "byg"],
+          "rate": 50
+        },
+        {
+          "ingredients": ["r", "r", "r", "l", "byg"],
+          "rate": 50
+        }
+      ]
     },
     {
       "id": "005",
@@ -123,7 +181,8 @@
         "type": "melee",
         "hp": 100,
         "atk": 400
-      }
+      },
+      "recipes": "Charmander"
     },
     {
       "id": "006",
@@ -148,7 +207,8 @@
         "type": "melee",
         "hp": 200,
         "atk": 600
-      }
+      },
+      "recipes": "Charmeleon"
     },
     {
       "id": "007",
@@ -173,7 +233,21 @@
         "type": "melee",
         "hp": 100,
         "atk": 100
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["B", "B", "B", "B", "B"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "b", "B", "RYG", "RYG"],
+            "rate": 14
+          },
+      ]
     },
     {
       "id": "008",
@@ -198,7 +272,8 @@
         "type": "melee",
         "hp": 250,
         "atk": 250
-      }
+      },
+      "recipes": "Evoles from Squirtle"
     },
     {
       "id": "009",
@@ -223,7 +298,8 @@
         "type": "melee",
         "hp": 400,
         "atk": 400
-      }
+      },
+      "recipes": "Evoles from Wartortle"
     },
     {
       "id": "010",
@@ -248,7 +324,17 @@
         "type": "melee",
         "hp": 110,
         "atk": 90
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["b", "b", "b", "b", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "b", "y", "Y", "Y"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "011",
@@ -273,7 +359,8 @@
         "type": "melee",
         "hp": 275,
         "atk": 25
-      }
+      },
+      "recipes": "Evoles from Caterpie"
     },
     {
       "id": "012",
@@ -298,7 +385,8 @@
         "type": "melee",
         "hp": 150,
         "atk": 250
-      }
+      },
+      "recipes": "Evolves from Metapod"
     },
     {
       "id": "013",
@@ -323,7 +411,17 @@
         "type": "melee",
         "hp": 100,
         "atk": 100
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["y", "y", "y", "y", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["b", "b", "y", "Y", "Y"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "014",
@@ -348,7 +446,8 @@
         "type": "melee",
         "hp": 250,
         "atk": 50
-      }
+      },
+      "recipes": "Evoles from Weedle"
     },
     {
       "id": "015",
@@ -373,7 +472,8 @@
         "type": "melee",
         "hp": 150,
         "atk": 250
-      }
+      },
+      "recipes": "Evolves from Kakuna"
     },
     {
       "id": "016",
@@ -398,7 +498,21 @@
         "type": "range",
         "hp": 100,
         "atk": 100
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["y", "y", "y", "y", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["b", "b", "b", "g", "g"],
+            "rate": 25
+          },
+          {
+            "ingredients": ["g", "g", "g", "R", "R"],
+            "rate": 25
+          },
+      ]
     },
     {
       "id": "017",
@@ -423,7 +537,8 @@
         "type": "range",
         "hp": 250,
         "atk": 250
-      }
+      },
+      "recipes": "Evolves from Pidgey"
     },
     {
       "id": "018",
@@ -448,7 +563,8 @@
         "type": "range",
         "hp": 400,
         "atk": 400
-      }
+      },
+      "recipes": "Evoles from Pidgeotto"
     },
     {
       "id": "019",
@@ -469,7 +585,17 @@
         "type": "range",
         "hp": 75,
         "atk": 125
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["b", "b", "b", "b", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "b", "b", "g", "g"],
+            "rate": 25
+          }
+      ]
     },
     {
       "id": "020",
@@ -490,7 +616,8 @@
         "type": "range",
         "hp": 150,
         "atk": 450
-      }
+      },
+      "recipes": "Evolves from Rattata"
     },
     {
       "id": "021",
@@ -511,7 +638,21 @@
         "type": "melee",
         "hp": 75,
         "atk": 125
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["r", "r", "r", "r", "rbyg"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "b", "b", "g", "g"],
+            "rate": 25
+          },
+          {
+            "ingredients": ["g", "g", "g", "R", "R"],
+            "rate": 25
+          }
+      ]
     },
     {
       "id": "022",
@@ -532,7 +673,8 @@
         "type": "melee",
         "hp": 100,
         "atk": 500
-      }
+      },
+      "recipes": "Evoles form Spearow"
     },
     {
       "id": "023",
@@ -553,7 +695,29 @@
         "type": "range",
         "hp": 80,
         "atk": 120
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "b", "b", "B", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["r", "r", "r", "G", "byg"],
+            "rate": 10
+          },
+          {
+            "ingredients": ["r", "r", "G", "G", "RBYG"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["r", "byg", "G", "G", "G"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "024",
@@ -574,7 +738,8 @@
         "type": "range",
         "hp": 150,
         "atk": 450
-      }
+      },
+      "recipes": "Evoles from Ekans"
     },
     {
       "id": "025",
@@ -601,7 +766,29 @@
         "type": "melee",
         "hp": 70,
         "atk": 130
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["y", "y", "y", "Y", "rbyg"],
+            "rate": 25
+          },
+          {
+            "ingredients": ["Y", "Y", "Y", "RB", "RG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["y", "Y", "Y", "rb", "rb"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["r", "Y", "Y", "Y", "rg"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "026",
@@ -622,7 +809,8 @@
         "type": "melee",
         "hp": 150,
         "atk": 450
-      }
+      },
+      "recipes": "Evoles from Pikachu"
     },
     {
       "id": "027",
@@ -643,7 +831,17 @@
         "type": "melee",
         "hp": 80,
         "atk": 120
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["y", "y", "y", "y", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["g", "g", "rb", "rb", "r"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "028",
@@ -664,7 +862,8 @@
         "type": "melee",
         "hp": 150,
         "atk": 350
-      }
+      },
+      "recipes": "Evoles form Sandshrew"
     },
     {
       "id": "029",
@@ -695,7 +894,17 @@
         "type": "melee",
         "hp": 140,
         "atk": 60
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["g", "g", "g", "g", "rbyg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["r", "r", "r", "G", "byg"],
+            "rate": 10
+          }
+      ]
     },
     {
       "id": "030",
@@ -720,7 +929,8 @@
         "type": "melee",
         "hp": 325,
         "atk": 175
-      }
+      },
+      "recipes": "Evoles from Nidoran♀"
     },
     {
       "id": "031",
@@ -745,7 +955,8 @@
         "type": "melee",
         "hp": 600,
         "atk": 200
-      }
+      },
+      "recipes": "Evoles from Nidorina"
     },
     {
       "id": "032",
@@ -776,7 +987,21 @@
         "type": "melee",
         "hp": 60,
         "atk": 140
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "rbyg"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["b", "b", "b", "b", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["r", "r", "r", "G", "rbyg"],
+            "rate": 10
+          }
+      ]
     },
     {
       "id": "033",
@@ -801,7 +1026,8 @@
         "type": "melee",
         "hp": 175,
         "atk": 325
-      }
+      },
+      "recipes": "Evoles from Nidoran♂"
     },
     {
       "id": "034",
@@ -826,7 +1052,8 @@
         "type": "melee",
         "hp": 200,
         "atk": 600
-      }
+      },
+      "recipes": "Evolves from Nidorino"
     },
     {
       "id": "035",
@@ -847,7 +1074,37 @@
         "type": "melee",
         "hp": 120,
         "atk": 80
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["g", "g", "g", "G", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["g", "G", "G", "G", "rbyg"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "g", "g", "g", "rbyg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["b", "b", "Y", "G", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "g", "Y", "Y", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["g", "g", "Y", "Y", "Y"],
+            "rate": 14
+          }
+      ]
     },
     {
       "id": "036",
@@ -868,7 +1125,8 @@
         "type": "melee",
         "hp": 450,
         "atk": 250
-      }
+      },
+      "recipes": "Evoles from Clefairy"
     },
     {
       "id": "037",
@@ -889,7 +1147,17 @@
         "type": "range",
         "hp": 110,
         "atk": 90
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["r", "r", "r", "r", "rbyg"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["r", "r", "r", "by", "byg"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "038",
@@ -910,7 +1178,8 @@
         "type": "range",
         "hp": 550,
         "atk": 250
-      }
+      },
+      "recipes": "Evoles form Vulpix"
     },
     {
       "id": "039",
@@ -931,7 +1200,25 @@
         "type": "melee",
         "hp": 140,
         "atk": 60
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["g", "g", "g", "G", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["b", "b", "Y", "G", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "g", "Y", "Y", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["g", "g", "Y", "Y", "Y"],
+            "rate": 14
+          }
+      ]
     },
     {
       "id": "040",
@@ -952,7 +1239,8 @@
         "type": "melee",
         "hp": 450,
         "atk": 150
-      }
+      },
+      "recipes": "Evoles form Jigglypuff"
     },
     {
       "id": "041",
@@ -973,7 +1261,25 @@
         "type": "range",
         "hp": 80,
         "atk": 120
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["g", "g", "g", "G", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["r", "r", "r", "G", "byg"],
+            "rate": 10
+          },
+          {
+            "ingredients": ["g", "g", "g", "R", "R"],
+            "rate": 10
+          },
+          {
+            "ingredients": ["g", "g", "R", "R", "B"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "042",
@@ -994,7 +1300,8 @@
         "type": "range",
         "hp": 200,
         "atk": 400
-      }
+      },
+      "recipes": "Evoles from Zubat"
     },
     {
       "id": "043",
@@ -1019,7 +1326,25 @@
         "type": "range",
         "hp": 75,
         "atk": 125
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "rbyg"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "g", "g", "g", "rbyg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["r", "r", "r", "G", "rbyg"],
+            "rate": 10
+          },
+          {
+            "ingredients": ["y", "y", "y", "R", "rb"],
+            "rate": 25
+          }
+      ]
     },
     {
       "id": "044",
@@ -1044,7 +1369,8 @@
         "type": "range",
         "hp": 250,
         "atk": 350
-      }
+      },
+      "recipes": "Evoles form Oddish"
     },
     {
       "id": "045",
@@ -1069,7 +1395,8 @@
         "type": "range",
         "hp": 300,
         "atk": 500
-      }
+      },
+      "recipes": "Evoles form Gloom"
     },
     {
       "id": "046",
@@ -1090,7 +1417,33 @@
         "type": "range",
         "hp": 80,
         "atk": 120
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["r", "r", "r", "R", "rbyg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["y", "y", "y", "R", "rb"],
+            "rate": 25
+          },
+          {
+            "ingredients": ["y", "y", "yR", "R", "RBYG"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["y", "R", "R", "R", "bg"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["b", "b", "y", "Y", "Y"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["b", "Y", "Y", "Y", "rbg"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "047",
@@ -1111,7 +1464,8 @@
         "type": "range",
         "hp": 200,
         "atk": 500
-      }
+      },
+      "recipes": "Evoles from Paras"
     },
     {
       "id": "048",
@@ -1132,7 +1486,33 @@
         "type": "range",
         "hp": 120,
         "atk": 80
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["G", "G", "G", "G", "G"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "RBYG", "RBYG", "RBYG", "rbyg"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["r", "RBYG", "RBYG", "RBYG", "l"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["b", "Y", "Y", "Y", "l"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["b", "Y", "Y", "Y", "rbg"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "049",
@@ -1153,7 +1533,8 @@
         "type": "range",
         "hp": 350,
         "atk": 350
-      }
+      },
+      "recipes": "Evoles form Venonat"
     },
     {
       "id": "050",
@@ -1174,7 +1555,45 @@
         "type": "range",
         "hp": 60,
         "atk": 140
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["r", "r", "r", "R", "rbyg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["g", "b", "R", "B", "RYG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "b", "B", "Y", "YG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "b", "B", "G", "G"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "g", "R", "Y", "YG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "g", "R", "R", "RYG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "g", "Y", "Y", "G"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["r", "B", "B", "rb", "RYG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["r", "g", "B", "RYG", "RYG"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "051",
@@ -1195,7 +1614,8 @@
         "type": "range",
         "hp": 100,
         "atk": 600
-      }
+      },
+      "recipes": "Evoles form Diglett"
     },
     {
       "id": "052",
@@ -1216,7 +1636,17 @@
         "type": "melee",
         "hp": 85,
         "atk": 115
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["y", "y", "y", "y", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["b", "b", "b", "g", "g"],
+            "rate": 25
+          }
+      ]
     },
     {
       "id": "053",
@@ -1237,7 +1667,8 @@
         "type": "melee",
         "hp": 300,
         "atk": 400
-      }
+      },
+      "recipes": "Evoles from Meowth"
     },
     {
       "id": "054",
@@ -1258,7 +1689,17 @@
         "type": "range",
         "hp": 80,
         "atk": 120
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["y", "y", "y", "y", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["b", "b", "b", "r", "ryg"],
+            "rate": 16
+          }
+      ]
     },
     {
       "id": "055",
@@ -1279,7 +1720,8 @@
         "type": "range",
         "hp": 200,
         "atk": 500
-      }
+      },
+      "recipes": "Evoles from Psyduck"
     },
     {
       "id": "056",
@@ -1300,7 +1742,13 @@
         "type": "melee",
         "hp": 60,
         "atk": 140
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["r", "r", "r", "r", "rbyg"],
+            "rate": 14
+          }
+      ]
     },
     {
       "id": "057",
@@ -1321,7 +1769,8 @@
         "type": "melee",
         "hp": 150,
         "atk": 550
-      }
+      },
+      "recipes": "Evoles from Mankey"
     },
     {
       "id": "058",
@@ -1342,7 +1791,21 @@
         "type": "melee",
         "hp": 80,
         "atk": 120
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["R", "R", "R", "R", "R"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["r", "r", "r", "r", "rbyg"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["r", "r", "r", "by", "byg"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "059",
@@ -1363,7 +1826,8 @@
         "type": "melee",
         "hp": 350,
         "atk": 450
-      }
+      },
+      "recipes": "Evoles from Growlithe"
     },
     {
       "id": "060",
@@ -1388,7 +1852,17 @@
         "type": "melee",
         "hp": 90,
         "atk": 110
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["b", "b", "b", "b", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "b", "b", "r", "ryg"],
+            "rate": 16
+          }
+      ]
     },
     {
       "id": "061",
@@ -1413,7 +1887,8 @@
         "type": "melee",
         "hp": 350,
         "atk": 350
-      }
+      },
+      "recipes": "Evoles from Poliwag"
     },
     {
       "id": "062",
@@ -1438,7 +1913,8 @@
         "type": "melee",
         "hp": 350,
         "atk": 450
-      }
+      },
+      "recipes": "Evoles from Poliwrath"
     },
     {
       "id": "063",
@@ -1463,7 +1939,17 @@
         "type": "range",
         "hp": 45,
         "atk": 155
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["y", "y", "y", "y", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["b", "b", "b", "y", "yg"],
+            "rate": 100
+          }
+      ]
     },
     {
       "id": "064",
@@ -1488,7 +1974,8 @@
         "type": "range",
         "hp": 90,
         "atk": 410
-      }
+      },
+      "recipes": "Evoles from Abra"
     },
     {
       "id": "065",
@@ -1513,7 +2000,8 @@
         "type": "range",
         "hp": 100,
         "atk": 700
-      }
+      },
+      "recipes": "Evoles from Kadabra"
     },
     {
       "id": "066",
@@ -1538,7 +2026,21 @@
         "type": "melee",
         "hp": 80,
         "atk": 120
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["b", "b", "b", "B", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["r", "r", "b", "b", "Y"],
+            "rate": 100
+          },
+          {
+            "ingredients": ["r", "b", "Y", "Y", "G"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "066",
@@ -1563,7 +2065,8 @@
         "type": "melee",
         "hp": 200,
         "atk": 500
-      }
+      },
+      "recipes": "Evoles from Machop"
     },
     {
       "id": "068",
@@ -1588,7 +2091,8 @@
         "type": "melee",
         "hp": 250,
         "atk": 550
-      }
+      },
+      "recipes": "Evoles from Machoke"
     },
     {
       "id": "069",
@@ -1613,7 +2117,21 @@
         "type": "range",
         "hp": 80,
         "atk": 120
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["y", "y", "y", "y", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["r", "r", "r", "G", "byg"],
+            "rate": 10
+          },
+          {
+            "ingredients": ["y", "y", "y", "R", "rb"],
+            "rate": 25
+          }
+      ]
     },
     {
       "id": "070",
@@ -1638,7 +2156,8 @@
         "type": "range",
         "hp": 250,
         "atk": 350
-      }
+      },
+      "recipes": "Evoles form Bellsprout"
     },
     {
       "id": "071",
@@ -1663,7 +2182,8 @@
         "type": "range",
         "hp": 300,
         "atk": 500
-      }
+      },
+      "recipes": "Evoles form Weepinbell"
     },
     {
       "id": "072",
@@ -1684,7 +2204,21 @@
         "type": "range",
         "hp": 90,
         "atk": 110
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["b", "b", "b", "b", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "b", "b", "r", "ryg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["r", "r", "r", "G", "byg"],
+            "rate": 10
+          }
+      ]
     },
     {
       "id": "073",
@@ -1705,7 +2239,8 @@
         "type": "range",
         "hp": 550,
         "atk": 150
-      }
+      },
+      "recipes": "Evoles from Tentacool"
     },
     {
       "id": "074",
@@ -1730,7 +2265,21 @@
         "type": "melee",
         "hp": 140,
         "atk": 60
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["g", "g", "g", "g", "rbyg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["g", "g", "rb", "rb", "r"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["y", "g", "g", "rby", "yg"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "075",
@@ -1755,7 +2304,8 @@
         "type": "melee",
         "hp": 610,
         "atk": 90
-      }
+      },
+      "recipes": "Evoles from Geodude"
     },
     {
       "id": "076",
@@ -1780,7 +2330,8 @@
         "type": "melee",
         "hp": 700,
         "atk": 100
-      }
+      },
+      "recipes": "Evoles from Graveler"
     },
     {
       "id": "077",
@@ -1801,7 +2352,49 @@
         "type": "melee",
         "hp": 100,
         "atk": 100
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["y", "y", "y", "Y", "rbyg"],
+            "rate": 25
+          },
+          {
+            "ingredients": ["y", "Y", "Y", "Y", "rbyg"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["r", "r", "G", "by", "byg"],
+            "rate": 100
+          },
+          {
+            "ingredients": ["r", "r", "r", "by", "BY"],
+            "rate": 100
+          },
+          {
+            "ingredients": ["r", "r", "r", "g", "Y"],
+            "rate": 100
+          },
+          {
+            "ingredients": ["r", "G", "G", "R", "byg"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["r", "r", "G", "RY", "BY"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["r", "r", "G", "l", "byg"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["r", "r", "r", "l", "BY"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "078",
@@ -1822,7 +2415,8 @@
         "type": "melee",
         "hp": 400,
         "atk": 400
-      }
+      },
+      "recipes": "Evoles from Ponyta"
     },
     {
       "id": "079",
@@ -1843,7 +2437,33 @@
         "type": "melee",
         "hp": 130,
         "atk": 70
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["r", "r", "r", "R", "rbyg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["b", "b", "b", "RYG", "ryg"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["b", "b", "r", "r", "B"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["b", "b", "B", "RYG", "RYG"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "b", "y", "Y", "yg"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["b", "y", "B", "Y", "Y"],
+            "rate": 20
+          }
+      ]
     },
     {
       "id": "080",
@@ -1864,7 +2484,8 @@
         "type": "melee",
         "hp": 650,
         "atk": 150
-      }
+      },
+      "recipes": "Evoles from Slowpoke"
     },
     {
       "id": "081",
@@ -1885,7 +2506,25 @@
         "type": "range",
         "hp": 80,
         "atk": 120
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["g", "g", "g", "G", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["r", "y", "Y", "Y", "rb"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["y", "Y", "Y", "rb", "rb"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["r", "Y", "Y", "Y", "rg"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "082",
@@ -1906,7 +2545,8 @@
         "type": "range",
         "hp": 300,
         "atk": 400
-      }
+      },
+      "recipes": "Evoles from Magnemite"
     },
     {
       "id": "083",
@@ -1918,7 +2558,41 @@
         "type": "melee",
         "hp": 350,
         "atk": 350
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["r", "R", "R", "R", "rbyg"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["Y", "Y", "Y", "G", "G"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "b", "Y", "G", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "g", "Y", "Y", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "b", "Y", "Y", "Y"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["R", "R", "B", "B", "B"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["g", "g", "R", "R", "B"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "084",
@@ -1939,7 +2613,41 @@
         "type": "melee",
         "hp": 80,
         "atk": 120
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "RBYG"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["r", "r", "r", "R", "rbyg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["r", "R", "R", "R", "rbyg"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["b", "b", "g", "g", "Y"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["b", "b", "Y", "G", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "g", "Y", "Y", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["g", "g", "Y", "Y", "Y"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["g", "g", "g", "R", "R"],
+            "rate": 125
+          }
+      ]
     },
     {
       "id": "085",
@@ -1960,7 +2668,8 @@
         "type": "melee",
         "hp": 200,
         "atk": 500
-      }
+      },
+      "recipes": "Evoles form Doduo"
     },
     {
       "id": "086",
@@ -1981,7 +2690,17 @@
         "type": "range",
         "hp": 110,
         "atk": 90
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["g", "g", "g", "G", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["b", "b", "B", "RYG", "RYG"],
+            "rate": 14
+          }
+      ]
     },
     {
       "id": "087",
@@ -2002,7 +2721,8 @@
         "type": "range",
         "hp": 500,
         "atk": 200
-      }
+      },
+      "recipes": "Evoles from Seel"
     },
     {
       "id": "088",
@@ -2023,7 +2743,33 @@
         "type": "melee",
         "hp": 110,
         "atk": 90
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "RBYG"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "b", "b", "B", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "B", "B", "B", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["r", "r", "r", "G", "byg"],
+            "rate": 10
+          },
+          {
+            "ingredients": ["r", "r", "G", "G", "RBYG"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["r", "byg", "G", "G", "G"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "089",
@@ -2044,7 +2790,8 @@
         "type": "melee",
         "hp": 650,
         "atk": 150
-      }
+      },
+      "recipes": "Evoles from Grimer"
     },
     {
       "id": "090",
@@ -2065,7 +2812,25 @@
         "type": "range",
         "hp": 120,
         "atk": 80
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["rbyg", "rbyg", "RBYG", "RBYG", "RBYG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "g", "g", "G", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["b", "b", "b", "RYG", "ryg"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["b", "b", "r", "r", "B"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "091",
@@ -2086,7 +2851,8 @@
         "type": "range",
         "hp": 575,
         "atk": 225
-      }
+      },
+      "recipes": "Evoles from Shellder"
     },
     {
       "id": "092",
@@ -2111,7 +2877,25 @@
         "type": "melee",
         "hp": 50,
         "atk": 150
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["rbyg", "rbyg", "RBYG", "RBYG", "RBYG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["r", "r", "G", "G", "RBYG"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["r", "byg", "G", "G", "G"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "093",
@@ -2136,7 +2920,8 @@
         "type": "melee",
         "hp": 125,
         "atk": 575
-      }
+      },
+      "recipes": "Evoles from Gastly"
     },
     {
       "id": "094",
@@ -2161,7 +2946,8 @@
         "type": "melee",
         "hp": 150,
         "atk": 650
-      }
+      },
+      "recipes": "Evoles from Haunter"
     },
     {
       "id": "095",
@@ -2173,7 +2959,81 @@
         "type": "range",
         "hp": 600,
         "atk": 100
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["g", "g", "g", "G", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["g", "g", "b", "b", "RG"],
+            "rate": 100
+          },
+          {
+            "ingredients": ["g", "g", "rb", "rb", "RYG"],
+            "rate": 100
+          },
+          {
+            "ingredients": ["g", "r", "B", "rb", "rb"],
+            "rate": 100
+          },
+          {
+            "ingredients": ["g", "b", "R", "B", "RYG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "b", "B", "Y", "YG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "b", "B", "G", "G"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "g", "R", "Y", "YG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "g", "R", "R", "RYG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "g", "Y", "Y", "G"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["r", "B", "B", "rb", "RYG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["r", "g", "B", "RYG", "RYG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["y", "g", "g", "yg", "RBY"],
+            "rate": 100
+          },
+          {
+            "ingredients": ["g", "B", "rb", "yg", "yg"],
+            "rate": 100
+          },
+          {
+            "ingredients": ["y", "y", "g", "g", "G"],
+            "rate": 100
+          },
+          {
+            "ingredients": ["y", "y", "y", "g", "B"],
+            "rate": 100
+          },
+          {
+            "ingredients": ["B", "B", "yg", "yg", "RBYG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["r", "B", "B", "B", "yg"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "096",
@@ -2194,7 +3054,17 @@
         "type": "range",
         "hp": 120,
         "atk": 80
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["y", "Y", "Y", "Y", "rbyg"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["b", "Y", "B", "Y", "Y"],
+            "rate": 20
+          }
+      ]
     },
     {
       "id": "097",
@@ -2215,7 +3085,8 @@
         "type": "range",
         "hp": 500,
         "atk": 200
-      }
+      },
+      "recipes": "Evoles from Drowzee"
     },
     {
       "id": "098",
@@ -2236,7 +3107,17 @@
         "type": "melee",
         "hp": 70,
         "atk": 130
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["r", "r", "r", "r", "rbyg"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "b", "b", "r", "ryg"],
+            "rate": 16
+          }
+      ]
     },
     {
       "id": "099",
@@ -2257,7 +3138,8 @@
         "type": "melee",
         "hp": 100,
         "atk": 600
-      }
+      },
+      "recipes": "Evoles from Krabby"
     },
     {
       "id": "100",
@@ -2278,7 +3160,17 @@
         "type": "melee",
         "hp": 110,
         "atk": 90
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["r", "r", "r", "r", "rbyg"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["r", "y", "Y", "Y", "rb"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "101",
@@ -2299,7 +3191,8 @@
         "type": "melee",
         "hp": 400,
         "atk": 300
-      }
+      },
+      "recipes": "Evoles from Voltorb"
     },
     {
       "id": "102",
@@ -2320,7 +3213,25 @@
         "type": "range",
         "hp": 130,
         "atk": 70
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["g", "g", "g", "G", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["y", "y", "y", "R", "rb"],
+            "rate": 25
+          },
+          {
+            "ingredients": ["b", "b", "y", "Y", "yg"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["b", "y", "B", "Y", "Y"],
+            "rate": 20
+          }
+      ]
     },
     {
       "id": "103",
@@ -2341,7 +3252,8 @@
         "type": "range",
         "hp": 250,
         "atk": 550
-      }
+      },
+      "recipes": "Evoles from Exeggcute"
     },
     {
       "id": "104",
@@ -2362,7 +3274,21 @@
         "type": "melee",
         "hp": 130,
         "atk": 70
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["G", "G", "G", "G", "G"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["g", "g", "g", "g", "rbyg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["B", "B", "RYB", "RYB", "RYB"],
+            "rate": 100
+          }
+      ]
     },
     {
       "id": "105",
@@ -2383,7 +3309,8 @@
         "type": "melee",
         "hp": 525,
         "atk": 175
-      }
+      },
+      "recipes": "Evoles from Cubone"
     },
     {
       "id": "106",
@@ -2395,7 +3322,21 @@
         "type": "melee",
         "hp": 50,
         "atk": 650
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["y", "y", "y", "Y", "rbyg"],
+            "rate": 25
+          },
+          {
+            "ingredients": ["Y", "Y", "Y", "Y", "Y"],
+            "rate": 25
+          },
+          {
+            "ingredients": ["r", "b", "Y", "Y", "G"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "107",
@@ -2407,7 +3348,21 @@
         "type": "melee",
         "hp": 75,
         "atk": 625
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["R", "R", "R", "R", "R"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["r", "b", "Y", "Y", "G"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "108",
@@ -2419,7 +3374,22 @@
         "type": "melee",
         "hp": 600,
         "atk": 100
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["r", "r", "r", "R", "rbyg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["r", "R", "R", "R", "rbyg"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["b", "b", "g", "g", "Y"],
+            "rate": 33
+          }
+      ]
+
     },
     {
       "id": "109",
@@ -2440,7 +3410,21 @@
         "type": "range",
         "hp": 140,
         "atk": 60
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["b", "b", "b", "B", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "B", "B", "B", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["r", "r", "r", "G", "byg"],
+            "rate": 10
+          }
+      ]
     },
     {
       "id": "110",
@@ -2461,7 +3445,8 @@
         "type": "range",
         "hp": 450,
         "atk": 350
-      }
+      },
+      "recipes": "Evoles from Koffing"
     },
     {
       "id": "111",
@@ -2482,7 +3467,22 @@
         "type": "melee",
         "hp": 120,
         "atk": 80
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["g", "g", "g", "g", "rbyg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["g", "g", "rb", "rb", "r"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["y", "g", "g", "rby", "yg"],
+            "rate": 50
+          }
+      ]
+
     },
     {
       "id": "112",
@@ -2503,7 +3503,8 @@
         "type": "melee",
         "hp": 300,
         "atk": 500
-      }
+      },
+      "recipes": "Evoles from Rhyhorn"
     },
     {
       "id": "113",
@@ -2515,7 +3516,17 @@
         "type": "melee",
         "hp": 675,
         "atk": 25
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["Y", "Y", "Y", "G", "G"],
+            "rate": 20
+          }
+      ]
     },
     {
       "id": "114",
@@ -2527,7 +3538,21 @@
         "type": "melee",
         "hp": 400,
         "atk": 300
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["B", "B", "B", "B", "B"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["y", "y", "R", "R", "RBYG"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["y", "R", "R", "R", "bg"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "115",
@@ -2539,7 +3564,29 @@
         "type": "melee",
         "hp": 350,
         "atk": 350
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["Y", "Y", "Y", "Y", "Y"],
+            "rate": 25
+          },
+          {
+            "ingredients": ["Y", "Y", "Y", "G", "G"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "b", "Y", "G", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "g", "Y", "Y", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["g", "g", "Y", "Y", "Y"],
+            "rate": 14
+          }
+      ]
     },
     {
       "id": "116",
@@ -2560,7 +3607,25 @@
         "type": "range",
         "hp": 90,
         "atk": 110
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["b", "b", "b", "B", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "B", "B", "B", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "b", "b", "RYG", "ryg"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["b", "b", "r", "r", "B"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "117",
@@ -2581,7 +3646,8 @@
         "type": "range",
         "hp": 250,
         "atk": 450
-      }
+      },
+      "recipes": "Evoles from Horsea"
     },
     {
       "id": "118",
@@ -2602,7 +3668,17 @@
         "type": "melee",
         "hp": 70,
         "atk": 130
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["r", "r", "r", "r", "rbyg"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "b", "b", "r", "ryg"],
+            "rate": 16
+          }
+      ]
     },
     {
       "id": "119",
@@ -2623,7 +3699,8 @@
         "type": "melee",
         "hp": 350,
         "atk": 450
-      }
+      },
+      "recipes": "Evoles from Goldeen"
     },
     {
       "id": "120",
@@ -2644,7 +3721,17 @@
         "type": "range",
         "hp": 60,
         "atk": 140
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["y", "y", "y", "y", "rbyg"],
+            "rate": 12
+          },
+          {
+            "ingredients": ["b", "b", "b", "r", "ryg"],
+            "rate": 16
+          }
+      ]
     },
     {
       "id": "121",
@@ -2665,7 +3752,8 @@
         "type": "range",
         "hp": 150,
         "atk": 650
-      }
+      },
+      "recipes": "Evoles from Staryu"
     },
     {
       "id": "122",
@@ -2677,7 +3765,17 @@
         "type": "range",
         "hp": 575,
         "atk": 125
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["b", "y", "B", "Y", "Y"],
+            "rate": 20
+          }
+      ]
     },
     {
       "id": "123",
@@ -2689,7 +3787,21 @@
         "type": "melee",
         "hp": 100,
         "atk": 700
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["Y", "Y", "Y", "Y", "Y"],
+            "rate": 25
+          },
+          {
+            "ingredients": ["b", "Y", "Y", "Y", "l"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["R", "R", "B", "B", "B"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "124",
@@ -2701,7 +3813,21 @@
         "type": "range",
         "hp": 150,
         "atk": 550
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["R", "R", "R", "R", "R"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["b", "y", "B", "Y", "Y"],
+            "rate": 20
+          }
+      ]
     },
     {
       "id": "125",
@@ -2713,7 +3839,21 @@
         "type": "melee",
         "hp": 300,
         "atk": 400
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["Y", "Y", "Y", "YB", "YG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["y", "Y", "Y", "rb", "rb"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["y", "Y", "Y", "Y", "rg"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "126",
@@ -2725,7 +3865,17 @@
         "type": "melee",
         "hp": 175,
         "atk": 525
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["G", "G", "G", "R", "R"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "127",
@@ -2737,7 +3887,17 @@
         "type": "melee",
         "hp": 75,
         "atk": 725
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["b", "Y", "Y", "Y", "l"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "128",
@@ -2749,7 +3909,25 @@
         "type": "melee",
         "hp": 100,
         "atk": 600
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["b", "b", "Y", "G", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "g", "Y", "Y", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "b", "Y", "Y", "Y"],
+            "rate": 14
+          }
+      ]
     },
     {
       "id": "129",
@@ -2770,7 +3948,21 @@
         "type": "melee",
         "hp": 25,
         "atk": 25
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["B", "B", "B", "B", "B"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "B", "B", "B", "rbyg"],
+            "rate": 20
+          },
+          {
+            "ingredients": ["b", "b", "B", "RYG", "RYG"],
+            "rate": 14
+          }
+      ]
     },
     {
       "id": "130",
@@ -2791,7 +3983,8 @@
         "type": "melee",
         "hp": 200,
         "atk": 400
-      }
+      },
+      "recipes": "Evoles from Magikarp"
     },
     {
       "id": "131",
@@ -2809,7 +4002,21 @@
         "type": "melee",
         "hp": 650,
         "atk": 150
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["B", "B", "B", "B", "B"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "b", "B", "RYG", "RYG"],
+            "rate": 14
+          }
+      ]
     },
     {
       "id": "132",
@@ -2821,7 +4028,17 @@
         "type": "range",
         "hp": 350,
         "atk": 350
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["B", "B", "B", "B", "B"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["Y", "Y", "Y", "G", "G"],
+            "rate": 20
+          }
+      ]
     },
     {
       "id": "133",
@@ -2864,7 +4081,21 @@
         "type": "melee",
         "hp": 100,
         "atk": 100
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["R", "R", "R", "R", "R"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["Y", "Y", "Y", "G", "G"],
+            "rate": 20
+          }
+      ]
     },
     {
       "id": "134",
@@ -2886,7 +4117,8 @@
         "type": "melee",
         "hp": 600,
         "atk": 200
-      }
+      },
+      "recipes": "Evoles from Eevee"
     },
     {
       "id": "135",
@@ -2908,7 +4140,8 @@
         "type": "melee",
         "hp": 250,
         "atk": 550
-      }
+      },
+      "recipes": "Evoles from Eevee"
     },
     {
       "id": "136",
@@ -2930,7 +4163,8 @@
         "type": "melee",
         "hp": 200,
         "atk": 600
-      }
+      },
+      "recipes": "Evoles from Eevee"
     },
     {
       "id": "137",
@@ -2942,7 +4176,25 @@
         "type": "range",
         "hp": 350,
         "atk": 350
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["r", "r", "r", "R", "rbyg"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["b", "b", "Y", "G", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "g", "Y", "Y", "G"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["g", "g", "Y", "Y", "Y"],
+            "rate": 14
+          }
+      ]
     },
     {
       "id": "138",
@@ -2963,7 +4215,29 @@
         "type": "range",
         "hp": 140,
         "atk": 60
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["B", "B", "B", "B", "B"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "b", "B", "RYG", "RYG"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["g", "B", "B", "B", "l"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["B", "B", "yg", "yg", "RBYG"],
+            "rate": 50
+          },
+          {
+            "ingredients": ["r", "B", "B", "B", "yg"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "139",
@@ -2984,7 +4258,8 @@
         "type": "range",
         "hp": 575,
         "atk": 225
-      }
+      },
+      "recipes": "Evoles from Omanyte"
     },
     {
       "id": "140",
@@ -3005,7 +4280,25 @@
         "type": "melee",
         "hp": 70,
         "atk": 130
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["R", "R", "R", "R", "R"],
+            "rate": 16
+          },
+          {
+            "ingredients": ["b", "b", "B", "RYG", "RYG"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["g", "B", "B", "B", "l"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "141",
@@ -3026,7 +4319,8 @@
         "type": "melee",
         "hp": 150,
         "atk": 650
-      }
+      },
+      "recipes": "Evoles from Kabuto"
     },
     {
       "id": "142",
@@ -3038,7 +4332,17 @@
         "type": "melee",
         "hp": 125,
         "atk": 675
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["g", "B", "B", "B", "l"],
+            "rate": 33
+          },
+          {
+            "ingredients": ["R", "R", "B", "B", "B"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "143",
@@ -3060,7 +4364,21 @@
         "type": "melee",
         "hp": 650,
         "atk": 550
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
+            "rate": 5
+          },
+          {
+            "ingredients": ["y", "y", "y", "Y", "rbyg"],
+            "rate": 25
+          },
+          {
+            "ingredients": ["b", "b", "g", "g", "Y"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "144",
@@ -3072,7 +4390,13 @@
         "type": "range",
         "hp": 600,
         "atk": 500
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["L", "L", "L", "rbyg", "rbyg"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "145",
@@ -3084,7 +4408,13 @@
         "type": "range",
         "hp": 350,
         "atk": 650
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["L", "L", "L", "rbyg", "rbyg"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "146",
@@ -3096,7 +4426,13 @@
         "type": "range",
         "hp": 500,
         "atk": 500
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["L", "L", "L", "rbyg", "rbyg"],
+            "rate": 33
+          }
+      ]
     },
     {
       "id": "147",
@@ -3121,7 +4457,17 @@
         "type": "melee",
         "hp": 80,
         "atk": 120
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["B", "B", "B", "B", "B"],
+            "rate": 14
+          },
+          {
+            "ingredients": ["b", "B", "B", "B", "rbyg"],
+            "rate": 20
+          }
+      ]
     },
     {
       "id": "148",
@@ -3146,7 +4492,8 @@
         "type": "melee",
         "hp": 300,
         "atk": 400
-      }
+      },
+      "recipes": "Evoles from Dratini"
     },
     {
       "id": "149",
@@ -3171,7 +4518,8 @@
         "type": "melee",
         "hp": 400,
         "atk": 500
-      }
+      },
+      "recipes": "Evoles from Dragonair"
     },
     {
       "id": "150",
@@ -3183,7 +4531,13 @@
         "type": "range",
         "hp": 550,
         "atk": 750
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["L", "L", "L", "L", "L"],
+            "rate": 50
+          }
+      ]
     },
     {
       "id": "151",
@@ -3195,7 +4549,13 @@
         "type": "range",
         "hp": 650,
         "atk": 650
-      }
+      },
+      "recipes": [
+          {
+            "ingredients": ["L", "L", "L", "L", "L"],
+            "rate": 50
+          }
+      ]
     }
   ]
 }
