@@ -44,7 +44,8 @@
     .wrapper
       h5 #[u Recipes]
       ul.recipes
-        li.ingredients(v-for="recipe in pokemon.recipes")
+        p(v-if="typeof pokemon.recipes === 'string'") {{ pokemon.recipes }}
+        li.ingredients(v-else, v-for="recipe in pokemon.recipes")
           .ingredient-wrapper(v-for="ingredient in recipe.ingredients")
             .ingredient(:class="ingredient", v-if="ingredient.split('').length === 1")
             .multi-ingredient(v-if="ingredient.split('').length > 1")
