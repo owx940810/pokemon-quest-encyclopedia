@@ -5,4 +5,4 @@ mv .env.prod .env
 yarn build
 mv .env .env.prod
 mv .env.local .env
-rsync -az ./public/ xhen@calvinong.tech:/var/www/html/pokemon-quest-guide
+rsync -az ./public/ xhen@calvinong.tech:/var/www/html/pokemonquestpedia
