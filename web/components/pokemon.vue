@@ -205,6 +205,12 @@
     methods: {
       init () {
         this.pokemon = this.$parent.pokemons.find(pokemon => pokemon.id === this.$route.params.id)
+
+        gtag('config', 'UA-93111170-3', {
+          'page_title': 'pokemon: ' + this.pokemon.name,
+          'page_path': this.$route.path
+        })
+
         this.pokemon.detailedskills = []
         this.getSkills()
       },

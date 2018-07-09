@@ -117,8 +117,20 @@
       }
     },
 
+    mounted () {
+      gtag('config', 'UA-93111170-3', {
+        'page_title': 'landing',
+        'page_path': '/'
+      })
+    },
+
     methods: {
       selectPokemon (pokemon) {
+        gtag('event', 'button', {
+          'event_category': 'selectpokemon',
+          'event_label': pokemon.id
+        })
+
         this.$router.push('/pokemon/' + pokemon.id)
       }
     }
