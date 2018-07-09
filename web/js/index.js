@@ -1,6 +1,12 @@
 import Vue from 'vue'
 import router from './router.js'
 
+if (process.env.ENV === 'prod') {
+  Vue.config.devtools = false
+  Vue.config.debug = false
+  Vue.config.silent = true
+}
+
 let pokemondata
 const getPokemons = async () => {
   const response = await window.fetch(process.env.WEB_BASE + '/static/json/pokemon.json')
