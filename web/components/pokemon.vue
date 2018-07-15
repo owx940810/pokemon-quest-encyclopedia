@@ -32,6 +32,14 @@
         p ATTACK: {{ pokemon.details.atk }}
 
     .wrapper
+      h5 #[u Bingo Bonus]
+      ul.bingo
+        .li(v-for="(bingo, index) in pokemon.bingo")
+          h6 Bonus {{ index + 1 }}
+          ul
+            li(v-for="bonus in bingo") {{ bonus }}
+
+    .wrapper
       h5 #[u Skills]
       ul.skills
         li(v-for="skill in pokemon.detailedskills" v-if="pokemon.detailedskills.length > 0")
@@ -40,14 +48,6 @@
           .type
             .label(:class="skill.type") {{ skill.type }}
           p.desc {{ skill.desc }}
-
-    .wrapper
-      h5 #[u Bingo Bonus]
-      ul.bingo
-        .li(v-for="(bingo, index) in pokemon.bingo")
-          h6 Bonus {{ index + 1 }}
-          ul
-            li(v-for="bonus in bingo") {{ bonus }}
 
     .wrapper
       h5 #[u Recipes]
@@ -112,12 +112,18 @@
           grid-column-end: initial
 
       &:nth-child(3)
+        grid-column-end: span 2
+
+        +mobile
+          grid-column-end: initial
+
+      &:nth-child(4)
         grid-column-end: span 3
 
         +mobile
           grid-column-end: initial
 
-      &:nth-child(4), &:nth-child(5)
+      &:nth-child(5)
         grid-column-end: span 2
 
         +mobile
@@ -206,7 +212,17 @@
       margin: 0
 
       ul
-        list-style-type: disc
+        +clearlist
+        display: grid
+        grid-template-columns: 1fr 1fr 1fr
+        grid-gap: 5px
+
+        li
+          padding: 10px
+          border-radius: 5px
+          font-size: 0.8em
+          text-align: center
+          background-color: $powder
 </style>
 
 <script>
