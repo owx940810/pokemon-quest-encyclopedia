@@ -53,7 +53,8 @@
           "ingredients": ["y", "R", "R", "R", "bg"],
           "rate": 33
         }
-      ]
+      ],
+    "bingo": ["Hit Healing +2%", "Healing from K.O. +2%", "Own Knockback Distance -10%"]
     },
     {
       "id": "002",
@@ -79,7 +80,9 @@
         "hp": 400,
         "atk": 100
       },
-      "recipes": "Evolves from Bulbasaur"
+      "recipes": "Evolves from Bulbasaur",
+      "bingo": ["Hit Healing +2%", "Healing from K.O. +2%", "Own Knockback Distance -10%"]
+
     },
     {
       "id": "003",
@@ -105,7 +108,9 @@
         "hp": 550,
         "atk": 150
       },
-      "recipes": "Evolves from Ivysaur"
+      "recipes": "Evolves from Ivysaur",
+      "bingo": ["Hit Healing +2%", "Healing from K.O. +2%", "Own Knockback Distance -10%"]
+
     },
     {
       "id": "004",
@@ -156,7 +161,8 @@
           "ingredients": ["r", "r", "r", "l", "byg"],
           "rate": 50
         }
-      ]
+      ],
+      "bingo": ["Fire Type Moves Wait -5%", "Critical Hit Rate +5%", "Movement Speed +30%"]
     },
     {
       "id": "005",
@@ -182,7 +188,8 @@
         "hp": 100,
         "atk": 400
       },
-      "recipes": "Charmander"
+      "recipes": "Evolves from Charmander",
+      "bingo": ["Fire Type Moves Wait -5%", "Critical Hit Rate +5%", "Movement Speed +30%"]
     },
     {
       "id": "006",
@@ -208,7 +215,8 @@
         "hp": 200,
         "atk": 600
       },
-      "recipes": "Charmeleon"
+      "recipes": "Evolves from Charmeleon",
+      "bingo": ["Fire Type Moves Wait -5%", "Critical Hit Rate +5%", "Movement Speed +30%"]
     },
     {
       "id": "007",
@@ -247,7 +255,8 @@
             "ingredients": ["b", "b", "B", "RYG", "RYG"],
             "rate": 14
           }
-      ]
+      ],
+      "bingo": ["ATK of Water Type Moves +5%", "Water Type Moves Wait -5%", "Natural HP Healing +10%"]
     },
     {
       "id": "008",
@@ -273,7 +282,8 @@
         "hp": 250,
         "atk": 250
       },
-      "recipes": "Evolves from Squirtle"
+      "recipes": "Evolves from Squirtle",
+      "bingo": ["ATK of Water Type Moves +5%", "Water Type Moves Wait -5%", "Natural HP Healing +10%"]
     },
     {
       "id": "009",
@@ -299,7 +309,8 @@
         "hp": 400,
         "atk": 400
       },
-      "recipes": "Evolves from Wartortle"
+      "recipes": "Evolves from Wartortle",
+      "bingo": ["ATK of Water Type Moves +5%", "Water Type Moves Wait -5%", "Natural HP Healing +10%"]
     },
     {
       "id": "010",
@@ -334,7 +345,8 @@
             "ingredients": ["b", "b", "y", "Y", "Y"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Movement Speed +30%", "Resistant to %u2193 Effects +10%", "Hit Healing +2%"]
     },
     {
       "id": "011",
@@ -360,7 +372,8 @@
         "hp": 275,
         "atk": 25
       },
-      "recipes": "Evolves from Caterpie"
+      "recipes": "Evolves from Caterpie",
+      "bingo": ["Taking Critical Hits Rate -10%", "Resistant to %u2193 Effects +20%", "Healing per Wave +30%"]
     },
     {
       "id": "012",
@@ -386,7 +399,8 @@
         "hp": 150,
         "atk": 250
       },
-      "recipes": "Evolves from Metapod"
+      "recipes": "Evolves from Metapod",
+      "bingo": ["Movement Speed +30%", "Resistant to %u2193 Effects +10%", "Healing from K.O. +5%"]
     },
     {
       "id": "013",
@@ -421,7 +435,8 @@
             "ingredients": ["b", "b", "y", "Y", "Y"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Movement Speed +30%", "Critical Hit Damage +5%", "Bug Type Move Wait -5%"]
     },
     {
       "id": "014",
@@ -447,7 +462,8 @@
         "hp": 250,
         "atk": 50
       },
-      "recipes": "Evolves from Weedle"
+      "recipes": "Evolves from Weedle",
+      "bingo": ["Own Knockback Distance -20%", "Critical Hit Damage +5%", "HP upon Recovery +10%"]
     },
     {
       "id": "015",
@@ -473,7 +489,8 @@
         "hp": 150,
         "atk": 250
       },
-      "recipes": "Evolves from Kakuna"
+      "recipes": "Evolves from Kakuna",
+      "bingo": ["Movement Speed +30%", "Critical Hit Damage +10%", "Bug Type Move Wait -5%"]
     },
     {
       "id": "016",
@@ -512,7 +529,8 @@
             "ingredients": ["g", "g", "g", "R", "R"],
             "rate": 25
           }
-      ]
+      ],
+      "bingo": ["Resistant to %u2193 Effects +10%", "Movement Speed + 30%", "ATK of Flying Type Moves +5%"]
     },
     {
       "id": "017",
@@ -538,7 +556,8 @@
         "hp": 250,
         "atk": 250
       },
-      "recipes": "Evolves from Pidgey"
+      "recipes": "Evolves from Pidgey",
+      "bingo": ["Resistant to %u2193 Effects +10%", "Movement Speed + 30%", "ATK of Flying Type Moves +5%"]
     },
     {
       "id": "018",
@@ -564,7 +583,8 @@
         "hp": 400,
         "atk": 400
       },
-      "recipes": "Evolves from Pidgeotto"
+      "recipes": "Evolves from Pidgeotto",
+      "bingo": ["Resistant to %u2193 Effects +10%", "Movement Speed + 30%", "ATK of Flying Type Moves +5%"]
     },
     {
       "id": "019",
@@ -595,7 +615,8 @@
             "ingredients": ["b", "b", "b", "g", "g"],
             "rate": 25
           }
-      ]
+      ],
+      "bingo": ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Time to Recover -10%"]
     },
     {
       "id": "020",
@@ -617,7 +638,8 @@
         "hp": 150,
         "atk": 450
       },
-      "recipes": "Evolves from Rattata"
+      "recipes": "Evolves from Rattata",
+      "bingo": ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Time to Recover -10%"]
     },
     {
       "id": "021",
@@ -652,7 +674,8 @@
             "ingredients": ["g", "g", "g", "R", "R"],
             "rate": 25
           }
-      ]
+      ],
+      "bingo": ["ATK of Flying Type Moves +5%", "Critical Hits Rate +5%", "Critical Hit Damage +10%"]
     },
     {
       "id": "022",
@@ -674,7 +697,8 @@
         "hp": 100,
         "atk": 500
       },
-      "recipes": "Evolves form Spearow"
+      "recipes": "Evolves form Spearow",
+      "bingo": ["ATK of Flying Type Moves +5%", "Critical Hits Rate +5%", "Critical Hit Damage +10%"]
     },
     {
       "id": "023",
@@ -717,7 +741,8 @@
             "ingredients": ["r", "byg", "G", "G", "G"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Time to Recover -10%", "Resistant to %u2193 Effects +10%", "Healing per Wave +30%"]
     },
     {
       "id": "024",
@@ -739,7 +764,8 @@
         "hp": 150,
         "atk": 450
       },
-      "recipes": "Evolves from Ekans"
+      "recipes": "Evolves from Ekans",
+      "bingo": ["Time to Recover -10%", "Resistant to %u2193 Effects +10%", "Healing per Wave +25%"]
     },
     {
       "id": "025",
@@ -788,7 +814,8 @@
             "ingredients": ["r", "Y", "Y", "Y", "rg"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Electric Type Moves Wait -5%", "ATK of Electric Type Moves +5%", "Movement Speed +30%"]
     },
     {
       "id": "026",
@@ -810,7 +837,8 @@
         "hp": 150,
         "atk": 450
       },
-      "recipes": "Evolves from Pikachu"
+      "recipes": "Evolves from Pikachu",
+      "bingo": ["Electric Type Moves Wait -5%", "ATK of Electric Type Moves +5%", "Movement Speed +30%"]
     },
     {
       "id": "027",
@@ -841,7 +869,8 @@
             "ingredients": ["g", "g", "rb", "rb", "r"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Taking Critical Hits Rate -10%", "Critical Hit Damage +5%", "Movement Speed +30%"]
     },
     {
       "id": "028",
@@ -863,7 +892,8 @@
         "hp": 150,
         "atk": 350
       },
-      "recipes": "Evolves form Sandshrew"
+      "recipes": "Evolves form Sandshrew",
+      "bingo": ["Taking Critical Hits Rate -10%", "Critical Hit Damage +5%", "Movement Speed +30%"]
     },
     {
       "id": "029",
@@ -904,7 +934,8 @@
             "ingredients": ["r", "r", "r", "G", "byg"],
             "rate": 10
           }
-      ]
+      ],
+      "bingo": ["Poison Type Moves Wait -5%", "Normal Type Moves Wait -5%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "030",
@@ -930,7 +961,8 @@
         "hp": 325,
         "atk": 175
       },
-      "recipes": "Evolves from Nidoran♀"
+      "recipes": "Evolves from Nidoran♀",
+      "bingo": ["Poison Type Moves Wait -5%", "Normal Type Moves Wait -5%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "031",
@@ -956,7 +988,8 @@
         "hp": 600,
         "atk": 200
       },
-      "recipes": "Evolves from Nidorina"
+      "recipes": "Evolves from Nidorina",
+      "bingo": ["Poison Type Moves Wait -5%", "Normal Type Moves Wait -5%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "032",
@@ -1001,7 +1034,8 @@
             "ingredients": ["r", "r", "r", "G", "rbyg"],
             "rate": 10
           }
-      ]
+      ],
+      "bingo": ["Taking Critical Hits Rate -10%", "ATK of Normal Type Moves +5%", "Own Knockback Distance -10%"]
     },
     {
       "id": "033",
@@ -1027,7 +1061,8 @@
         "hp": 175,
         "atk": 325
       },
-      "recipes": "Evolves from Nidoran♂"
+      "recipes": "Evolves from Nidoran♂",
+      "bingo": ["Taking Critical Hits Rate -10%", "ATK of Normal Type Moves +5%", "Own Knockback Distance -10%"]
     },
     {
       "id": "034",
@@ -1053,7 +1088,8 @@
         "hp": 200,
         "atk": 600
       },
-      "recipes": "Evolves from Nidorino"
+      "recipes": "Evolves from Nidorino",
+      "bingo": ["Taking Critical Hits Rate -10%", "ATK of Normal Type Moves +5%", "Own Knockback Distance -10%"]
     },
     {
       "id": "035",
@@ -1104,7 +1140,8 @@
             "ingredients": ["g", "g", "Y", "Y", "Y"],
             "rate": 14
           }
-      ]
+      ],
+      "bingo": ["Pokemon Size Change -10%", "Normal Type Moves Wait -10%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "036",
@@ -1126,7 +1163,8 @@
         "hp": 450,
         "atk": 250
       },
-      "recipes": "Evolves from Clefairy"
+      "recipes": "Evolves from Clefairy",
+      "bingo": ["Pokemon Size Change -10%", "Normal Type Moves Wait -5%", "?"]
     },
     {
       "id": "037",
@@ -1157,7 +1195,8 @@
             "ingredients": ["r", "r", "r", "by", "byg"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Fire Type Damage Taken -25%"]
     },
     {
       "id": "038",
@@ -1179,7 +1218,8 @@
         "hp": 550,
         "atk": 250
       },
-      "recipes": "Evolves form Vulpix"
+      "recipes": "Evolves form Vulpix",
+      "bingo": ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Fire Type Damage Taken -25%"]
     },
     {
       "id": "039",
@@ -1218,7 +1258,8 @@
             "ingredients": ["g", "g", "Y", "Y", "Y"],
             "rate": 14
           }
-      ]
+      ],
+      "bingo": ["Time to Recover -10%", "ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%"]
     },
     {
       "id": "040",
@@ -1279,7 +1320,8 @@
             "ingredients": ["g", "g", "R", "R", "B"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["Time to Recover -10%", "ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%"]
     },
     {
       "id": "042",
@@ -1301,7 +1343,8 @@
         "hp": 200,
         "atk": 400
       },
-      "recipes": "Evolves from Zubat"
+      "recipes": "Evolves from Zubat",
+      "bingo": ["Hit Healing +1%", "Movement Speed +30%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "043",
@@ -1344,7 +1387,8 @@
             "ingredients": ["y", "y", "y", "R", "rb"],
             "rate": 25
           }
-      ]
+      ],
+      "bingo": ["ATK of Grass Type Moves +5%", "Movement Speed +30%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "044",
@@ -1370,7 +1414,8 @@
         "hp": 250,
         "atk": 350
       },
-      "recipes": "Evolves form Oddish"
+      "recipes": "Evolves form Oddish",
+      "bingo": ["ATK of Grass Type Moves +5%", "Movement Speed +30%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "045",
@@ -1396,7 +1441,8 @@
         "hp": 300,
         "atk": 500
       },
-      "recipes": "Evolves form Gloom"
+      "recipes": "Evolves form Gloom",
+      "bingo": ["ATK of Grass Type Moves +5%", "Movement Speed +30%", "Resistant to  %u2193 Effects  +10%"]
     },
     {
       "id": "046",
@@ -1443,7 +1489,8 @@
             "ingredients": ["b", "Y", "Y", "Y", "rbg"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["Healing per Wave +30%", "Grass Type Moves Wait -5%", "Time to Recover -10%"]
     },
     {
       "id": "047",
@@ -1465,7 +1512,8 @@
         "hp": 200,
         "atk": 500
       },
-      "recipes": "Evolves from Paras"
+      "recipes": "Evolves from Paras",
+      "bingo": ["Healing per Wave +20%", "Grass Type Moves Wait -5%", "Time to Recover -10%"]
     },
     {
       "id": "048",
@@ -1512,7 +1560,8 @@
             "ingredients": ["b", "Y", "Y", "Y", "rbg"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["Resistant to %u2193 Effects +10%", "Resistant to Status Conditions +10%", "Taking Critical Hits Rate -10%"]
     },
     {
       "id": "049",
@@ -1534,7 +1583,8 @@
         "hp": 350,
         "atk": 350
       },
-      "recipes": "Evolves form Venonat"
+      "recipes": "Evolves form Venonat",
+      "bingo": ["Resistant to %u2193 Effects +10%", "Resistant to Status Conditions +10%", "Taking Critical Hits Rate -10%"]
     },
     {
       "id": "050",
@@ -1593,7 +1643,8 @@
             "ingredients": ["r", "g", "B", "RYG", "RYG"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["Ground Type Moves Wait -5%", "ATK of Ground Type Moves +5%", "Movement Speed +30%"]
     },
     {
       "id": "051",
@@ -1615,7 +1666,8 @@
         "hp": 100,
         "atk": 600
       },
-      "recipes": "Evolves form Diglett"
+      "recipes": "Evolves form Diglett",
+      "bingo": ["Ground Type Moves Wait -5%", "ATK of Ground Type Moves +5%", "Movement Speed +30%"]
     },
     {
       "id": "052",
@@ -1646,7 +1698,8 @@
             "ingredients": ["b", "b", "b", "g", "g"],
             "rate": 25
           }
-      ]
+      ],
+      "bingo": ["Normal Type Moves Wait -5%", "Movement Speed +30%", "Critical Hit Rate +5%"]
     },
     {
       "id": "053",
@@ -1668,7 +1721,8 @@
         "hp": 300,
         "atk": 400
       },
-      "recipes": "Evolves from Meowth"
+      "recipes": "Evolves from Meowth",
+      "bingo": ["Normal Type Moves Wait -5%", "Movement Speed +30%", "Critical Hit Rate +5%"]
     },
     {
       "id": "054",
@@ -1699,7 +1753,8 @@
             "ingredients": ["b", "b", "b", "r", "ryg"],
             "rate": 16
           }
-      ]
+      ],
+      "bingo": ["Water Type Moves Wait -5%", "Psychic Type Moves Wait -5%", "Movement Speed +30%"]
     },
     {
       "id": "055",
@@ -1721,7 +1776,8 @@
         "hp": 200,
         "atk": 500
       },
-      "recipes": "Evolves from Psyduck"
+      "recipes": "Evolves from Psyduck",
+      "bingo": ["Water Type Moves Wait -5%", "Psychic Type Moves Wait -5%", "Movement Speed +30%"]
     },
     {
       "id": "056",
@@ -1748,7 +1804,8 @@
             "ingredients": ["r", "r", "r", "r", "rbyg"],
             "rate": 14
           }
-      ]
+      ],
+      "bingo": ["Fighting Type Moves Wait -5%", "ATK of Normal Type Moves +5%", "Resistant to %u2193 Effects +20%"]
     },
     {
       "id": "057",
@@ -1770,7 +1827,8 @@
         "hp": 150,
         "atk": 550
       },
-      "recipes": "Evolves from Mankey"
+      "recipes": "Evolves from Mankey",
+      "bingo": ["Fighting Type Moves Wait -5%", "ATK of Normal Type Moves +5%", "Resistant to %u2193 Effects +20%"]
     },
     {
       "id": "058",
@@ -1805,7 +1863,8 @@
             "ingredients": ["r", "r", "r", "by", "byg"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["Fire Type Damage Taken -25%", "Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%"]
     },
     {
       "id": "059",
@@ -1827,7 +1886,8 @@
         "hp": 350,
         "atk": 450
       },
-      "recipes": "Evolves from Growlithe"
+      "recipes": "Evolves from Growlithe",
+      "bingo": ["Fire Type Damage Taken -25%", "Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%"]
     },
     {
       "id": "060",
@@ -1862,7 +1922,8 @@
             "ingredients": ["b", "b", "b", "r", "ryg"],
             "rate": 16
           }
-      ]
+      ],
+      "bingo": ["ATK of Water Type Moves +5%", "Critical Hit Damage +5%", "Movement Speed +30%"]
     },
     {
       "id": "061",
@@ -1888,7 +1949,8 @@
         "hp": 350,
         "atk": 350
       },
-      "recipes": "Evolves from Poliwag"
+      "recipes": "Evolves from Poliwag",
+      "bingo": ["ATK of Water Type Moves +5%", "Critical Hit Damage +5%", "Movement Speed +30%"]
     },
     {
       "id": "062",
@@ -1914,7 +1976,8 @@
         "hp": 350,
         "atk": 450
       },
-      "recipes": "Evolves from Poliwrath"
+      "recipes": "Evolves from Poliwrath",
+      "bingo": ["ATK of Water Type Moves +5%", "Critical Hit Damage +5%", "Movement Speed +30%"]
     },
     {
       "id": "063",
@@ -1949,7 +2012,8 @@
             "ingredients": ["b", "b", "b", "y", "yg"],
             "rate": 100
           }
-      ]
+      ],
+      "bingo": ["Psychic Type Moves Wait -5%", "Resistant to %u2193 Effects +10%", "Movement Speed +30%"]
     },
     {
       "id": "064",
@@ -1975,7 +2039,8 @@
         "hp": 90,
         "atk": 410
       },
-      "recipes": "Evolves from Abra"
+      "recipes": "Evolves from Abra",
+      "bingo": ["Psychic Type Moves Wait -5%", "Resistant to %u2193 Effects +10%", "Movement Speed +30%"]
     },
     {
       "id": "065",
@@ -2001,7 +2066,8 @@
         "hp": 100,
         "atk": 700
       },
-      "recipes": "Evolves from Kadabra"
+      "recipes": "Evolves from Kadabra",
+      "bingo": ["Psychic Type Moves Wait -5%", "Resistant to %u2193 Effects +10%", "Movement Speed +30%"]
     },
     {
       "id": "066",
@@ -2040,7 +2106,8 @@
             "ingredients": ["r", "b", "Y", "Y", "G"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["ATK of Fighting Type Moves +5%", "Fighting Type Moves Wait -5%", "Own Knockback Distance -10%"]
     },
     {
       "id": "067",
@@ -2066,7 +2133,8 @@
         "hp": 200,
         "atk": 500
       },
-      "recipes": "Evolves from Machop"
+      "recipes": "Evolves from Machop",
+      "bingo": ["ATK of Fighting Type Moves +5%", "Fighting Type Moves Wait -5%", "Own Knockback Distance -10%"]
     },
     {
       "id": "068",
@@ -2092,7 +2160,8 @@
         "hp": 250,
         "atk": 550
       },
-      "recipes": "Evolves from Machoke"
+      "recipes": "Evolves from Machoke",
+      "bingo": ["ATK of Fighting Type Moves +5%", "Fighting Type Moves Wait -5%", "Own Knockback Distance -10%"]
     },
     {
       "id": "069",
@@ -2131,7 +2200,8 @@
             "ingredients": ["y", "y", "y", "R", "rb"],
             "rate": 25
           }
-      ]
+      ],
+      "bingo": ["Grass Type Moves Wait -5%", "ATK of Grass Type Moves + 5%", "Critical Hit Rate +5%"]
     },
     {
       "id": "070",
@@ -2157,7 +2227,8 @@
         "hp": 250,
         "atk": 350
       },
-      "recipes": "Evolves form Bellsprout"
+      "recipes": "Evolves form Bellsprout",
+      "bingo": ["Grass Type Moves Wait -5%", "ATK of Grass Type Moves + 5%", "Critical Hit Rate +5%"]
     },
     {
       "id": "071",
@@ -2183,7 +2254,8 @@
         "hp": 300,
         "atk": 500
       },
-      "recipes": "Evolves form Weepinbell"
+      "recipes": "Evolves form Weepinbell",
+      "bingo": ["Grass Type Moves Wait -5%", "ATK of Grass Type Moves + 5%", "Critical Hit Rate +5%"]
     },
     {
       "id": "072",
@@ -2218,7 +2290,8 @@
             "ingredients": ["r", "r", "r", "G", "byg"],
             "rate": 10
           }
-      ]
+      ],
+      "bingo": ["Natural HP Healing +10%", "Water Type Moves Wait - 5%", "Resistant to %u2193 Effects +20%"]
     },
     {
       "id": "073",
@@ -2240,7 +2313,8 @@
         "hp": 550,
         "atk": 150
       },
-      "recipes": "Evolves from Tentacool"
+      "recipes": "Evolves from Tentacool",
+      "bingo": ["Natural HP Healing +10%", "Water Type Moves Wait - 5%", "Resistant to %u2193 Effects +20%"]
     },
     {
       "id": "074",
@@ -2279,7 +2353,8 @@
             "ingredients": ["y", "g", "g", "rby", "yg"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["ATK of Normal Type Moves +5%", "ATK of Ground Type Moves +5%", "Own Knockback Distance -10%"]
     },
     {
       "id": "075",
@@ -2305,7 +2380,8 @@
         "hp": 610,
         "atk": 90
       },
-      "recipes": "Evolves from Geodude"
+      "recipes": "Evolves from Geodude",
+      "bingo": ["ATK of Normal Type Moves +5%", "ATK of Ground Type Moves +5%", "Own Knockback Distance -10%"]
     },
     {
       "id": "076",
@@ -2331,7 +2407,8 @@
         "hp": 700,
         "atk": 100
       },
-      "recipes": "Evolves from Graveler"
+      "recipes": "Evolves from Graveler",
+      "bingo": ["ATK of Normal Type Moves +5%", "ATK of Ground Type Moves +5%", "Own Knockback Distance -10%"]
     },
     {
       "id": "077",
@@ -2394,7 +2471,8 @@
             "ingredients": ["r", "r", "r", "l", "BY"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Movement Speed +30%"]
     },
     {
       "id": "078",
@@ -2416,7 +2494,8 @@
         "hp": 400,
         "atk": 400
       },
-      "recipes": "Evolves from Ponyta"
+      "recipes": "Evolves from Ponyta",
+      "bingo": ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Movement Speed +30%"]
     },
     {
       "id": "079",
@@ -2463,7 +2542,8 @@
             "ingredients": ["b", "y", "B", "Y", "Y"],
             "rate": 20
           }
-      ]
+      ],
+      "bingo": ["Healing per Wave +30%", "Time to Recover -10%", "HP +100"]
     },
     {
       "id": "080",
@@ -2485,7 +2565,8 @@
         "hp": 650,
         "atk": 150
       },
-      "recipes": "Evolves from Slowpoke"
+      "recipes": "Evolves from Slowpoke",
+      "bingo": ["Healing per Wave +20%", "Time to Recover -10%", "Taking Critical Hits Rate -25%"]
     },
     {
       "id": "081",
@@ -2524,7 +2605,8 @@
             "ingredients": ["r", "Y", "Y", "Y", "rg"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["ATK of Electric Type Moves +5%", "Electric Type Moves Wait -5%", "Steel Type Moves Wait -10%"]
     },
     {
       "id": "082",
@@ -2546,7 +2628,8 @@
         "hp": 300,
         "atk": 400
       },
-      "recipes": "Evolves from Magnemite"
+      "recipes": "Evolves from Magnemite",
+      "bingo": ["ATK of Electric Type Moves +5%", "Electric Type Moves Wait -5%", "Steel Type Moves Wait -10%"]
     },
     {
       "id": "083",
@@ -2592,7 +2675,8 @@
             "ingredients": ["g", "g", "R", "R", "B"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["Flying Type Moves Wait -10%", "Critical Hit Rate +15%", "Critical Hit Damage +10%"]
     },
     {
       "id": "084",
@@ -2647,7 +2731,8 @@
             "ingredients": ["g", "g", "g", "R", "R"],
             "rate": 125
           }
-      ]
+      ],
+      "bingo": ["Wait for Standard Attacks -20%", "Flying Type Move Wait -5%", "Movement Speed +30%"]
     },
     {
       "id": "085",
@@ -2669,7 +2754,8 @@
         "hp": 200,
         "atk": 500
       },
-      "recipes": "Evolves form Doduo"
+      "recipes": "Evolves form Doduo",
+      "bingo": ["Wait for Standard Attacks -20%", "Flying Type Move Wait -5%", "Movement Speed +30%"]
     },
     {
       "id": "086",
@@ -2700,7 +2786,8 @@
             "ingredients": ["b", "b", "B", "RYG", "RYG"],
             "rate": 14
           }
-      ]
+      ],
+      "bingo": ["Water Type Moves Wait -5%", "ATK of Water Type Moves +5%", "Resistant to Status Conditions +10%"]
     },
     {
       "id": "087",
@@ -2722,7 +2809,8 @@
         "hp": 500,
         "atk": 200
       },
-      "recipes": "Evolves from Seel"
+      "recipes": "Evolves from Seel",
+      "bingo": ["Water Type Moves Wait -5%", "ATK of Water Type Moves +5%", "Resistant to Status Conditions +10%"]
     },
     {
       "id": "088",
@@ -2769,7 +2857,8 @@
             "ingredients": ["r", "byg", "G", "G", "G"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Poison Type Moves Wait -5%", "Natural HP Healing +10%", "Pokemon Size Change -10%"]
     },
     {
       "id": "089",
@@ -2791,7 +2880,8 @@
         "hp": 650,
         "atk": 150
       },
-      "recipes": "Evolves from Grimer"
+      "recipes": "Evolves from Grimer",
+      "bingo": ["Poison Type  Moves Wait  -5%", "Natural HP Healing +10%", "Pokemon Size Change -10%"]
     },
     {
       "id": "090",
@@ -2830,7 +2920,8 @@
             "ingredients": ["b", "b", "r", "r", "B"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Resistant to Status Conditions +10%", "Taking Critical Hits Rate -25%", "Movement Speed +30%"]
     },
     {
       "id": "091",
@@ -2852,7 +2943,8 @@
         "hp": 575,
         "atk": 225
       },
-      "recipes": "Evolves from Shellder"
+      "recipes": "Evolves from Shellder",
+      "bingo": ["Resistant to Status Conditions +10%", "Taking Critical Hits Rate -25%", "Movement Speed +30%"]
     },
     {
       "id": "092",
@@ -2895,7 +2987,8 @@
             "ingredients": ["r", "byg", "G", "G", "G"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Ghost Type  Moves Wait -5%", "ATK of Ghost Type Moves +5%", "Normal Type Damage Taken -25%"]
     },
     {
       "id": "093",
@@ -2921,7 +3014,8 @@
         "hp": 125,
         "atk": 575
       },
-      "recipes": "Evolves from Gastly"
+      "recipes": "Evolves from Gastly",
+      "bingo": ["Ghost Type  Moves Wait -5%", "ATK of Ghost Type Moves +5%", "Normal Type Damage Taken -25%"]
     },
     {
       "id": "094",
@@ -2947,7 +3041,8 @@
         "hp": 150,
         "atk": 650
       },
-      "recipes": "Evolves from Haunter"
+      "recipes": "Evolves from Haunter",
+      "bingo": ["Ghost Type  Moves Wait -5%", "ATK of Ghost Type Moves +5%", "Normal Type Damage Taken -25%"]
     },
     {
       "id": "095",
@@ -3033,7 +3128,8 @@
             "ingredients": ["r", "B", "B", "B", "yg"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["ATK of Rock Type Moves +5%", "Movement Speed +30%", "Rock Type Moves Wait -5%"]
     },
     {
       "id": "096",
@@ -3064,7 +3160,8 @@
             "ingredients": ["b", "Y", "B", "Y", "Y"],
             "rate": 20
           }
-      ]
+      ],
+      "bingo": ["Psychic Type Moves Wait -5%", "Healing per Wave +30%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "097",
@@ -3086,7 +3183,8 @@
         "hp": 500,
         "atk": 200
       },
-      "recipes": "Evolves from Drowzee"
+      "recipes": "Evolves from Drowzee",
+      "bingo": ["Psychic Type Moves Wait -5%", "Healing per Wave +20%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "098",
@@ -3117,7 +3215,8 @@
             "ingredients": ["b", "b", "b", "r", "ryg"],
             "rate": 16
           }
-      ]
+      ],
+      "bingo": ["ATK of Normal Type Moves +5%", "Taking Critical Hits Rate -20%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "099",
@@ -3139,7 +3238,8 @@
         "hp": 100,
         "atk": 600
       },
-      "recipes": "Evolves from Krabby"
+      "recipes": "Evolves from Krabby",
+      "bingo": ["ATK of Normal Type Moves +5%", "Taking Critical Hits Rate -20%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "100",
@@ -3170,7 +3270,8 @@
             "ingredients": ["r", "y", "Y", "Y", "rb"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%", "Movement Speed +50%"]
     },
     {
       "id": "101",
@@ -3192,7 +3293,8 @@
         "hp": 400,
         "atk": 300
       },
-      "recipes": "Evolves from Voltorb"
+      "recipes": "Evolves from Voltorb",
+      "bingo": ["ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%", "Movement Speed +50%"]
     },
     {
       "id": "102",
@@ -3231,7 +3333,8 @@
             "ingredients": ["b", "y", "B", "Y", "Y"],
             "rate": 20
           }
-      ]
+      ],
+      "bingo": ["ATK of Grass Type Moves +5%", "Grass Type Moves Wait -5%", "Wait for Standard Attacks -20%"]
     },
     {
       "id": "103",
@@ -3253,7 +3356,8 @@
         "hp": 250,
         "atk": 550
       },
-      "recipes": "Evolves from Exeggcute"
+      "recipes": "Evolves from Exeggcute",
+      "bingo": ["ATK of Grass Type Moves +5%", "Grass Type Moves Wait -5%", "Wait for Standard Attacks -15%"]
     },
     {
       "id": "104",
@@ -3288,7 +3392,8 @@
             "ingredients": ["B", "B", "RYB", "RYB", "RYB"],
             "rate": 100
           }
-      ]
+      ],
+      "bingo": ["Taking Critical Hits Rate -20%", "Electric Type Damage Taken -10%", "Ground Type Moves Wait -5%"]
     },
     {
       "id": "105",
@@ -3310,7 +3415,8 @@
         "hp": 525,
         "atk": 175
       },
-      "recipes": "Evolves from Cubone"
+      "recipes": "Evolves from Cubone",
+      "bingo": ["Taking Critical Hits Rate -20%", "Electric Type Damage Taken -10%", "Ground Type Moves Wait -5%"]
     },
     {
       "id": "106",
@@ -3336,7 +3442,8 @@
             "ingredients": ["r", "b", "Y", "Y", "G"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["ATK of Fighting Type Moves +5%", "Fighting Type Moves Wait -5%", "Movement Speed +30%"]
     },
     {
       "id": "107",
@@ -3362,7 +3469,8 @@
             "ingredients": ["r", "b", "Y", "Y", "G"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Critical Hit Damage +5%", "Resistant to %u2193 Effects +10%", "Movement Speed +30%"]
     },
     {
       "id": "108",
@@ -3388,8 +3496,8 @@
             "ingredients": ["b", "b", "g", "g", "Y"],
             "rate": 33
           }
-      ]
-
+      ],
+      "bingo": ["ATK of Normal Type Moves +5%", "Resistant to Status Conditions +10%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "109",
@@ -3424,7 +3532,8 @@
             "ingredients": ["r", "r", "r", "G", "byg"],
             "rate": 10
           }
-      ]
+      ],
+      "bingo": ["Poison Type Moves Wait -5%", "Ground Type Damage Taken -20%", "ATK of Poison Type Moves +5%"]
     },
     {
       "id": "110",
@@ -3446,7 +3555,8 @@
         "hp": 450,
         "atk": 350
       },
-      "recipes": "Evolves from Koffing"
+      "recipes": "Evolves from Koffing",
+      "bingo": ["Poison Type Moves Wait -5%", "Ground Type Damage Taken -20%", "ATK of Poison Type Moves +5%"]
     },
     {
       "id": "111",
@@ -3481,8 +3591,8 @@
             "ingredients": ["y", "g", "g", "rby", "yg"],
             "rate": 50
           }
-      ]
-
+      ],
+      "bingo": ["Critical Hit Damage +5%", "Own Knockback Distance -10%", "Electric Type Damage Taken -10%"]
     },
     {
       "id": "112",
@@ -3504,7 +3614,8 @@
         "hp": 300,
         "atk": 500
       },
-      "recipes": "Evolves from Rhyhorn"
+      "recipes": "Evolves from Rhyhorn",
+      "bingo": ["Critical Hit Damage +5%", "Own Knockback Distance -10%", "Electric Type Damage Taken -10%"]
     },
     {
       "id": "113",
@@ -3526,7 +3637,8 @@
             "ingredients": ["Y", "Y", "Y", "G", "G"],
             "rate": 20
           }
-      ]
+      ],
+      "bingo": ["Normal Type Moves Wait -5%", "Ghost Type Damage Taken -10%", "Resistant to Status Conditions +10%"]
     },
     {
       "id": "114",
@@ -3552,7 +3664,8 @@
             "ingredients": ["y", "R", "R", "R", "bg"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Grass Type Moves Wait -5%", "HP upon Recovery +10%", "Natural HP Healing +10%"]
     },
     {
       "id": "115",
@@ -3586,7 +3699,8 @@
             "ingredients": ["g", "g", "Y", "Y", "Y"],
             "rate": 14
           }
-      ]
+      ],
+      "bingo": ["ATK of Normal Type Moves +5%", "Resistant to Status Conditions +10%", "Own Knockback Distance -10%"]
     },
     {
       "id": "116",
@@ -3625,7 +3739,8 @@
             "ingredients": ["b", "b", "r", "r", "B"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Water Type Moves Wait -5%", "ATK of Water Type Moves +5%", "Critical Hit Damage +10%"]
     },
     {
       "id": "117",
@@ -3647,7 +3762,8 @@
         "hp": 250,
         "atk": 450
       },
-      "recipes": "Evolves from Horsea"
+      "recipes": "Evolves from Horsea",
+      "bingo": ["Water Type Moves Wait -5%", "ATK of Water Type Moves +5%", "Critical Hit Damage +10%"]
     },
     {
       "id": "118",
@@ -3678,7 +3794,8 @@
             "ingredients": ["b", "b", "b", "r", "ryg"],
             "rate": 16
           }
-      ]
+      ],
+      "bingo": ["ATK of Water Type Moves +5%", "Normal Type Moves Wait -5%", "Electric Type Damage Taken -10%"]
     },
     {
       "id": "119",
@@ -3700,7 +3817,8 @@
         "hp": 350,
         "atk": 450
       },
-      "recipes": "Evolves from Goldeen"
+      "recipes": "Evolves from Goldeen",
+      "bingo": ["ATK of Water Type Moves +5%", "Normal Type Moves Wait -5%", "Electric Type Damage Taken -10%"]
     },
     {
       "id": "120",
@@ -3731,7 +3849,8 @@
             "ingredients": ["b", "b", "b", "r", "ryg"],
             "rate": 16
           }
-      ]
+      ],
+      "bingo": ["Water Type Moves Wait -5%", "Ice Type Moves Wait -5%", "Movement Speed +30%"]
     },
     {
       "id": "121",
@@ -3753,7 +3872,8 @@
         "hp": 150,
         "atk": 650
       },
-      "recipes": "Evolves from Staryu"
+      "recipes": "Evolves from Staryu",
+      "bingo": ["Water Type Moves Wait -5%", "Ice Type Moves Wait -5%", "Movement Speed +30%"]
     },
     {
       "id": "122",
@@ -3775,7 +3895,8 @@
             "ingredients": ["b", "y", "B", "Y", "Y"],
             "rate": 20
           }
-      ]
+      ],
+      "bingo": ["Psychic Type Moves Wait -5%", "Resistant to %u2193 Effects +10%", "ATK of Psychic Type Moves +15%"]
     },
     {
       "id": "123",
@@ -3801,7 +3922,8 @@
             "ingredients": ["R", "R", "B", "B", "B"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["ATK of Bug Type Moves +5%", "Bug Type Moves Wait -5%", "Movement Speed +30%"]
     },
     {
       "id": "124",
@@ -3827,7 +3949,8 @@
             "ingredients": ["b", "y", "B", "Y", "Y"],
             "rate": 20
           }
-      ]
+      ],
+      "bingo": ["Fairy Type Moves Wait -5%", "Psychic Type Moves Wait -5%", "Ice Type Moves Wait -5%"]
     },
     {
       "id": "125",
@@ -3853,7 +3976,8 @@
             "ingredients": ["y", "Y", "Y", "Y", "rg"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["ATK of Electric Type Moves +5%", "Electric Type Moves Wait -5%", "ATK of Fighting Type Moves +5%"]
     },
     {
       "id": "126",
@@ -3875,7 +3999,8 @@
             "ingredients": ["G", "G", "G", "R", "R"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["ATK of Fire Type Moves +5%", "Fire Type Moves Wait -5%", "Wait for Standard Attacks -25%"]
     },
     {
       "id": "127",
@@ -3897,7 +4022,8 @@
             "ingredients": ["b", "Y", "Y", "Y", "l"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Normal Type Moves Wait -5%", "Critical Hit Damage +5%", "ATK of Fighting Type Moves +5%"]
     },
     {
       "id": "128",
@@ -3927,7 +4053,8 @@
             "ingredients": ["b", "b", "Y", "Y", "Y"],
             "rate": 14
           }
-      ]
+      ],
+      "bingo": ["Critical Hit Damage +5%", "?", "Movement Speed +30%"]
     },
     {
       "id": "129",
@@ -3962,7 +4089,8 @@
             "ingredients": ["b", "b", "B", "RYG", "RYG"],
             "rate": 14
           }
-      ]
+      ],
+      "bingo": ["ATK of Normal Type Moves +5%", "Movement Speed +50%", "Normal Type Moves Wait -5%"]
     },
     {
       "id": "130",
@@ -3984,7 +4112,8 @@
         "hp": 200,
         "atk": 400
       },
-      "recipes": "Evolves from Magikarp"
+      "recipes": "Evolves from Magikarp",
+      "bingo": ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Normal Type Moves Wait -5%"]
     },
     {
       "id": "131",
@@ -4016,7 +4145,8 @@
             "ingredients": ["b", "b", "B", "RYG", "RYG"],
             "rate": 14
           }
-      ]
+      ],
+      "bingo": ["Resistant to %u2193 Effects +10%", "Healing per Wave +20%", "Own Knockback Distance -20%"]
     },
     {
       "id": "132",
@@ -4038,7 +4168,8 @@
             "ingredients": ["Y", "Y", "Y", "G", "G"],
             "rate": 20
           }
-      ]
+      ],
+      "bingo": ["Critical hit Rate +10%", "HP upon Recovery +10%", "Movement Speed +50%"]
     },
     {
       "id": "133",
@@ -4095,7 +4226,8 @@
             "ingredients": ["Y", "Y", "Y", "G", "G"],
             "rate": 20
           }
-      ]
+      ],
+      "bingo": ["ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%", "Movement Speed +30%"]
     },
     {
       "id": "134",
@@ -4118,7 +4250,8 @@
         "hp": 600,
         "atk": 200
       },
-      "recipes": "Evolves from Eevee"
+      "recipes": "Evolves from Eevee",
+      "bingo": ["ATK of Normal Type Moves +5%", "Time to Recover -10%", "Movement Speed +30%"]
     },
     {
       "id": "135",
@@ -4141,7 +4274,8 @@
         "hp": 250,
         "atk": 550
       },
-      "recipes": "Evolves from Eevee"
+      "recipes": "Evolves from Eevee",
+      "bingo": ["ATK of Normal Type Moves +5%", "Time to Recover -10%", "Movement Speed +30%"]
     },
     {
       "id": "136",
@@ -4164,7 +4298,8 @@
         "hp": 200,
         "atk": 600
       },
-      "recipes": "Evolves from Eevee"
+      "recipes": "Evolves from Eevee",
+      "bingo": ["ATK of Normal Type Moves +5%", "Time to Recover -10%", "Movement Speed +30%"]
     },
     {
       "id": "137",
@@ -4194,7 +4329,8 @@
             "ingredients": ["g", "g", "Y", "Y", "Y"],
             "rate": 14
           }
-      ]
+      ],
+      "bingo": ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Resistant to Status Conditions +10%"]
     },
     {
       "id": "138",
@@ -4237,7 +4373,8 @@
             "ingredients": ["r", "B", "B", "B", "yg"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["Taking Critical Hits Rate -20%", "Movement Speed +30%", "Water Type Moves Wait -5%"]
     },
     {
       "id": "139",
@@ -4259,7 +4396,8 @@
         "hp": 575,
         "atk": 225
       },
-      "recipes": "Evolves from Omanyte"
+      "recipes": "Evolves from Omanyte",
+      "bingo": ["Taking Critical Hits Rate -20%", "Movement Speed +30%", "Water Type Moves Wait -5%"]
     },
     {
       "id": "140",
@@ -4298,7 +4436,8 @@
             "ingredients": ["g", "B", "B", "B", "l"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["ATK of Water Type Moves +5%", "Movement Speed +30%", "Taking Critical Hits Rate -20%"]
     },
     {
       "id": "141",
@@ -4320,7 +4459,8 @@
         "hp": 150,
         "atk": 650
       },
-      "recipes": "Evolves from Kabuto"
+      "recipes": "Evolves from Kabuto",
+      "bingo": ["ATK of Water Type Moves +5%", "Movement Speed +30%", "Taking Critical Hits Rate -20%"]
     },
     {
       "id": "142",
@@ -4342,7 +4482,8 @@
             "ingredients": ["R", "R", "B", "B", "B"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["?", "Movement Speed +30%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "143",
@@ -4378,7 +4519,8 @@
             "ingredients": ["b", "b", "g", "g", "Y"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Resistant to Poisoned +100%", "Taking Critical Hits Rate -10%", "Resistant to %u2193 Effects +10%"]
     },
     {
       "id": "144",
@@ -4396,7 +4538,8 @@
             "ingredients": ["L", "L", "L", "rbyg", "rbyg"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Ice Type Moves Wait -5%", "ATK of Ice Type Moves +5%", "Critical Hit Damage +10%"]
     },
     {
       "id": "145",
@@ -4414,7 +4557,8 @@
             "ingredients": ["L", "L", "L", "rbyg", "rbyg"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Electric Type Moves Wait -5%", "ATK of Electric Type Moves +5%", "Wait for Standard Attacks -20%"]
     },
     {
       "id": "146",
@@ -4432,7 +4576,8 @@
             "ingredients": ["L", "L", "L", "rbyg", "rbyg"],
             "rate": 33
           }
-      ]
+      ],
+      "bingo": ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Critical Hit Rate +10%"]
     },
     {
       "id": "147",
@@ -4467,7 +4612,8 @@
             "ingredients": ["b", "B", "B", "B", "rbyg"],
             "rate": 20
           }
-      ]
+      ],
+      "bingo": ["ATK of Dragon Type Moves +5%", "Dragon Type Moves Wait -5%", "Own Knockback Distance -10%"]
     },
     {
       "id": "148",
@@ -4493,7 +4639,8 @@
         "hp": 300,
         "atk": 400
       },
-      "recipes": "Evolves from Dratini"
+      "recipes": "Evolves from Dratini",
+      "bingo": ["ATK of Dragon Type Moves +5%", "Dragon Type Moves Wait -5%", "Own Knockback Distance -10%"]
     },
     {
       "id": "149",
@@ -4519,7 +4666,8 @@
         "hp": 400,
         "atk": 500
       },
-      "recipes": "Evolves from Dragonair"
+      "recipes": "Evolves from Dragonair",
+      "bingo": ["ATK of Dragon Type Moves +5%", "Dragon Type Moves Wait -5%", "Own Knockback Distance -10%"]
     },
     {
       "id": "150",
@@ -4537,7 +4685,8 @@
             "ingredients": ["L", "L", "L", "L", "L"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["Movement Speed +50%", "Resistant to %u2193 Effects +20%", "Critical Hit Damage +20%"]
     },
     {
       "id": "151",
@@ -4555,7 +4704,8 @@
             "ingredients": ["L", "L", "L", "L", "L"],
             "rate": 50
           }
-      ]
+      ],
+      "bingo": ["Critical Hit Damage +20%", "Resistant to %u2193 Effects +20%", "Movement Speed +50%"]
     }
   ]
 }

@@ -42,6 +42,14 @@
           p.desc {{ skill.desc }}
 
     .wrapper
+      h5 #[u Bingo Bonus]
+      ul.bingo
+        .li(v-for="(bingo, index) in pokemon.bingo")
+          h6 Bonus {{ index + 1 }}
+          ul
+            li(v-for="bonus in bingo") {{ bonus }}
+
+    .wrapper
       h5 #[u Recipes]
       ul.recipes
         p(v-if="typeof pokemon.recipes === 'string'") {{ pokemon.recipes }}
@@ -52,6 +60,8 @@
               .ingredient(v-for="item in ingredient.split('')", :class="item")
           p {{ recipe.rate }}#[span %]
 
+    button.favorite(@click="addFavorite", v-show="favoritestate") Add to Favorites
+    button.removefavorite(@click="removeFavorite", v-show="!favoritestate") Remove From Favorites
 </template>
 
 <style lang="sass">
@@ -59,6 +69,7 @@
   @import '../sass/mixins'
 
   #pokemon
+    position: relative
     background-color: $white
     display: grid
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr))
@@ -66,6 +77,7 @@
     margin: 0 auto
     width: 90%
     border-radius: 20px
+    grid-auto-flow: dense
 
     +mobile
       grid-template-columns: minmax(300px, 1fr)
@@ -97,7 +109,7 @@
         +mobile
           grid-column-end: initial
 
-      &:nth-child(4)
+      &:nth-child(4), &:nth-child(5)
         grid-column-end: span 2
 
         +mobile
@@ -181,6 +193,12 @@
           display: inline-block
           margin-left: 10px
 
+    .bingo
+      padding: 0
+      margin: 0
+
+      ul
+        list-style-type: disc
 </style>
 
 <script>
@@ -188,7 +206,8 @@
     name: 'pokemon',
     data () {
       return {
-        pokemon: {}
+        pokemon: {},
+        favoritestate: false
       }
     },
 
@@ -213,6 +232,7 @@
 
         this.pokemon.detailedskills = []
         this.getSkills()
+        this.checkFavorite()
       },
 
       getSkills () {
@@ -224,6 +244,42 @@
 
       selectPokemon (id) {
         this.$router.push('/pokemon/' + id)
+      },
+
+      checkFavorite () {
+        let storage = window.localStorage.getItem('favorite')
+        if (!storage) {
+          this.favoritestate = true
+          return
+        }
+        if (JSON.parse(storage).find(item => item === this.pokemon.id)) {
+          return this.favoritestate = false
+        }
+        this.favoritestate = true
+      },
+
+      addFavorite () {
+        let storage = window.localStorage.getItem('favorite')
+        if (!storage) {
+          this.favoritestate = false
+          return window.localStorage.setItem('favorite', JSON.stringify([this.pokemon.id]))
+        }
+        if (JSON.parse(storage).find(item => item === this.pokemon.id)) {
+          return
+        }
+
+        let newstorage = JSON.parse(storage)
+        newstorage.push(this.pokemon.id)
+        this.favoritestate = false
+        window.localStorage.setItem('favorite', JSON.stringify(newstorage))
+      },
+
+      removeFavorite () {
+        let storage = JSON.parse(window.localStorage.getItem('favorite'))
+        let index = storage.indexOf(this.pokemon.id)
+        storage.splice(index, 1)
+        window.localStorage.setItem('favorite', JSON.stringify(storage))
+        this.favoritestate = true
       }
     }
   }

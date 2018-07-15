@@ -11,7 +11,7 @@ let pokemondata
 const getPokemons = async () => {
   const response = await window.fetch(process.env.WEB_BASE + '/static/json/pokemon.json')
   const data = await response.json()
-  pokemondata = data.data.map(pokemon => {
+  return pokemondata = data.data.map(pokemon => {
     pokemon.evolution = pokemon.evolution.map(evolution => {
       if (Array.isArray(evolution)) {
         return evolution.map(item => {
@@ -31,12 +31,28 @@ let skilldata
 const getSkills = async () => {
   const response = await window.fetch(process.env.WEB_BASE + '/static/json/skills.json')
   const data = await response.json()
-  skilldata = data.data
+  return skilldata = data.data
+}
+
+let bingobonuses
+const getBingo = async () => {
+  const response = await window.fetch(process.env.WEB_BASE + '/static/json/bingo.json')
+  const data = await response.json()
+  return bingobonuses = data
+}
+
+const massageData = async () => {
+  pokemondata.map(pokemon => {
+    pokemon.bingo = bingobonuses.find(item => parseInt(item.pokemon) === parseInt(pokemon.id)).bingo
+    return pokemon
+  })
 }
 
 const init = async () => {
   await getPokemons()
   await getSkills()
+  await getBingo()
+  await massageData()
   const app = new Vue({
     el: '#app',
     router,

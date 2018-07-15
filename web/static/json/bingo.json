@@ -1,0 +1,1210 @@
+[
+  {
+    "pokemon": 1,
+    "bingo" : [
+      ["Hit Healing +2%", "Healing from K.O. +2%", "Own Knockback Distance -10%"],
+      ["Healing per Wave +50%", "Resistant to Poisoned +100%", "Own Knockback Distance -20%"],
+      ["ATK of Grass Type Moves +20%", "HP +550", "Own Knockback Distance -30%"]
+    ]
+  },
+  {
+    "pokemon": 2,
+    "bingo" : [
+      ["Hit Healing +2%", "Healing from K.O. +2%", "Own Knockback Distance -10%"],
+      ["Healing per Wave +40%", "Resistant to Poisoned +100%", "Own Knockback Distance -20%"],
+      ["ATK of Grass Type Moves +15%", "HP +250", "Own Knockback Distance -30%"]
+    ]
+  },
+  {
+    "pokemon": 3,
+    "bingo" : [
+      ["Hit Healing +2%", "Healing from K.O. +2%", "Own Knockback Distance -10%"],
+      ["Ice Type Damage Taken -50%", "Resistant to Poisoned +100%", "Own Knockback Distance -20%"],
+      ["ATK of Grass Type Moves +10%", "Fire-Type Damage Taken -50%", "Own Knockback Distance -30%"]
+    ]
+  },
+  {
+    "pokemon": 4,
+    "bingo" : [
+      ["Fire Type Moves Wait -5%", "Critical Hit Rate +5%", "Movement Speed +30%"],
+      ["ATK of Fire Type Moves +15%", "Critical Hit Rate +20%", "Resistant to Burned +100%"],
+      ["ATK of Fire Type Moves +20%", "ATK + 550", "Movement Speed +40%"]
+    ]
+  },
+  {
+    "pokemon": 5,
+    "bingo" : [
+      ["Fire Type Moves Wait -5%", "Critical Hit Rate +5%", "Movement Speed +30%"],
+      ["ATK of Fire Type Moves +10%", "Critical Hit Rate +15%", "Resistant to Burned +100%"],
+      ["ATK of Fire Type Moves +15%", "ATK +250", "Movement Speed +40%"]
+    ]
+  },
+  {
+    "pokemon": 6,
+    "bingo" : [
+      ["Fire Type Moves Wait -5%", "Critical Hit Rate +5%", "Movement Speed +30%"],
+      ["Fire Type Moves Wait -5%", "Critical Hit Rate +10%", "Resistant to Burned +100%"],
+      ["ATK of Fire Type Moves +10%", "Critical Hit Rate +15%", "Movement Speed +40%"]
+    ]
+  },
+  {
+    "pokemon": 7,
+    "bingo" : [
+      ["ATK of Water Type Moves +5%", "Water Type Moves Wait -5%", "Natural HP Healing +10%"],
+      ["ATK of Water Type Moves +15%", "Water Type Moves Wait -20%", "Own Knockback Distance -20%"],
+      ["ATK of Water Type Moves 20%", "ATK +550", "HP +550"]
+    ]
+  },
+  {
+    "pokemon": 8,
+    "bingo" : [
+      ["ATK of Water Type Moves +5%", "Water Type Moves Wait -5%", "Natural HP Healing +10%"],
+      ["ATK of Water Type Moves +10%", "Water Type Moves Wait -15%", "Own Knockback Distance -20%"],
+      ["ATK of Water Type Moves 15%", "ATK +350", "HP +350"]
+    ]
+  },
+  {
+    "pokemon": 9,
+    "bingo" : [
+      ["ATK of Water Type Moves +5%", "Water Type Moves Wait -5%", "Natural HP Healing +10%"],
+      ["ATK of Water Type Moves +10%", "Water Type Moves Wait -10%", "Own Knockback Distance -20%"],
+      ["ATK of Water Type Moves 10%", "Water Type Moves Wait -15%", "Own Knockback Distance -30%"]
+    ]
+  },
+  {
+    "pokemon": 10,
+    "bingo" : [
+      ["Movement Speed +30%", "Resistant to ↓ Effects +10%", "Hit Healing +2%"],
+      ["Movement Speed +40%", "Resistant to ↓ Effects +20%", "Hit Healing +3%"],
+      ["ATK +500", "Wait for Standard Attacks -50%", "HP +500"]
+    ]
+  },
+  {
+    "pokemon": 11,
+    "bingo" : [
+      ["Taking Critical Hits Rate -10%", "Resistant to ↓ Effects +20%", "Healing per Wave +30%"],
+      ["Taking Critical Hits Rate -20%", "Resistant to ↓ Effects +30%", "Healing per Wave +50%"],
+      ["Resistant to Status Conditions +30%", "Own Knockback Distance -40%", "HP +450"]
+    ]
+  },
+  {
+    "pokemon": 12,
+    "bingo" : [
+      ["Movement Speed +30%", "Resistant to ↓ Effects +10%", "Healing from K.O. +5%"],
+      ["Movement Speed +40%", "Resistant to ↓ Effects +10%", "Own Knockback Distance -10%"],
+      ["ATK +400", "Own Knockback Distance -20%", "HP +500"]
+    ]
+  },
+  {
+    "pokemon": 13,
+    "bingo" : [
+      ["Movement Speed +30%", "Critical Hit Damage +5%", "Bug Type Move Wait -5%"],
+      ["Movement Speed +40%", "Resistant to Poisoned +100%", "Healing from K.O. +5%"],
+      ["HP +500", "Natural HP Healing +30%", "ATK +500"]
+    ]
+  },
+  {
+    "pokemon": 14,
+    "bingo" : [
+      ["Own Knockback Distance -20%", "Critical Hit Damage +5%", "HP upon Recovery +10%"],
+      ["Own Knockback Distance -20%", "Resistant to Poisoned +100%", "HP upon Recovery +10%"],
+      ["Own Knockback Distance -50%", "HP upon Recovery +20%", "HP +450"]
+    ]
+  },
+  {
+    "pokemon": 15,
+    "bingo" : [
+      ["Movement Speed +30%", "Critical Hit Damage +10%", "Bug Type Move Wait -5%"],
+      ["Movement Speed +40%", "Resistant to Poisoned +100%", "Critical Hit Rate +10%"],
+      ["ATK of Bug Type Moves +20%", "Critical Hit Damage +40%", "ATK +450"]
+    ]
+  },
+  {
+    "pokemon": 16,
+    "bingo" : [
+      ["Resistant to ↓ Effects +10%", "Movement Speed + 30%", "ATK of Flying Type Moves +5%"],
+      ["Resistant to ↓ Effects +20%", "Movement Speed + 50%", "Flying Type Move Wait -15%"],
+      ["Resistant to DEF↓ +100%", "ATK +550", "Attack of Flying Type Moves +20%"]
+    ]
+  },
+  {
+    "pokemon": 17,
+    "bingo" : [
+      ["Resistant to ↓ Effects +10%", "Movement Speed + 30%", "ATK of Flying Type Moves +5%"],
+      ["Resistant to ↓ Effects +20%", "Movement Speed + 40%", "Flying Type Move Wait -10%"],
+      ["Resistant to DEF↓ +100%", "ATK +350", "Attack of Flying Type Moves +15%"]
+    ]
+  },
+  {
+    "pokemon": 18,
+    "bingo" : [
+      ["Resistant to ↓ Effects +10%", "Movement Speed + 30%", "ATK of Flying Type Moves +5%"],
+      ["Resistant to ↓ Effects +20%", "Movement Speed + 30%", "Flying Type Move Wait -10%"],
+      ["Resistant to DEF↓ +100%", "Movement Speed + 40%", "Attack of Flying Type Moves +10%"]
+    ]
+  },
+  {
+    "pokemon": 19,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Time to Recover -10%"],
+      ["ATK of Normal Type Moves +5%", "Movement Speed +40%", "Wait for Standard Attacks -30%"],
+      ["ATK +550", "Movement Speed +50%", "HP +600"]
+    ]
+  },
+  {
+    "pokemon": 20,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Time to Recover -10%"],
+      ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Wait for Standard Attacks -25%"],
+      ["ATK +200", "Movement Speed +30%", "HP +500"]
+    ]
+  },
+  {
+    "pokemon": 21,
+    "bingo" : [
+      ["ATK of Flying Type Moves +5%", "Critical Hits Rate +5%", "Critical Hit Damage +10%"],
+      ["ATK of Flying Type Moves +15%", "Critical Hit Rate +15%", "Critical Hit Damage +15%"],
+      ["ATK +400", "Critical Hit Rate 20%", "Critical Hit Damage +25%"]
+    ]
+  },
+  {
+    "pokemon": 22,
+    "bingo" : [
+      ["ATK of Flying Type Moves +5%", "Critical Hits Rate +5%", "Critical Hit Damage +10%"],
+      ["ATK of Flying Type Moves +10%", "Critical Hit Rate +10%", "Critical Hit Damage +15%"],
+      ["ATK of Flying Type Moves +30%", "Critical Hit Rate +15%", "Critical Hit Damage +25%"]
+    ]
+  },
+  {
+    "pokemon": 23,
+    "bingo" : [
+      ["Time to Recover -10%", "Resistant to ↓ Effects +10%", "Healing per Wave +30%"],
+      ["HP upon Recovery +20%", "Resistant to Poisoned +100%", "Wait for Standard Attacks -25%"],
+      ["ATK +550", "Resistant to ↓ Effects +20%", "Wait for Standard Attacks -50%"]
+    ]
+  },
+  {
+    "pokemon": 24,
+    "bingo" : [
+      ["Time to Recover -10%", "Resistant to ↓ Effects +10%", "Healing per Wave +25%"],
+      ["HP upon Recovery +10%", "Resistant to Poisoned +100%", "Wait for Standard Attacks -20%"],
+      ["ATK +200", "Resistant to ↓ Effects +20%", "Wait for Standard Attacks -30%"]
+    ]
+  },
+  {
+    "pokemon": 25,
+    "bingo" : [
+      ["Electric Type Moves Wait -5%", "ATK of Electric Type Moves +5%", "Movement Speed +30%"],
+      ["Resistant to Paralyzed +100%", "ATK of Electric Type Moves +15%", "Movement Speed +20%"],
+      ["Electric Type Damage Taken -50%", "ATK of Electric Type Moves +50%", "ATK +550"]
+    ]
+  },
+  {
+    "pokemon": 26,
+    "bingo" : [
+      ["Electric Type Moves Wait -5%", "ATK of Electric Type Moves +5%", "Movement Speed +30%"],
+      ["Resistant to Paralyzed +100%", "ATK of Electric Type Moves +15%", "Movement Speed +40%"],
+      ["Electric Type Damage Taken -50%", "Electric Type Moves Wait -20%", "ATK +200"]
+    ]
+  },
+  {
+    "pokemon": 27,
+    "bingo" : [
+      ["Taking Critical Hits Rate -10%", "Critical Hit Damage +5%", "Movement Speed +30%"],
+      ["Taking Critical Hits Rate -20%", "Critical Hits Rate +15%", "Movement Speed +50%"],
+      ["Taking Critical Hits Rate -30%", "ATK +550", "Movement Speed +50%"]
+    ]
+  },
+  {
+    "pokemon": 28,
+    "bingo" : [
+      ["Taking Critical Hits Rate -10%", "Critical Hit Damage +5%", "Movement Speed +30%"],
+      ["Taking Critical Hits Rate -20%", "Critical Hits Rate +10%", "Movement Speed +40%"],
+      ["Taking Critical Hits Rate -30%", "ATK+300", "Movement Speed +50%"]
+    ]
+  },
+  {
+    "pokemon": 29,
+    "bingo" : [
+      ["Poison Type Moves Wait -5%", "Normal Type Moves Wait -5%", "Resistant to ↓ Effects +10%"],
+      ["Poison Type Moves Wait -20%", "Normal Type Moves Wait -20%", "Resistant to Poisoned +100%"],
+      ["Poison Type Moves Wait -20%", "Normal Type Moves Wait -20%", "HP +500"]
+    ]
+  },
+  {
+    "pokemon": 30,
+    "bingo" : [
+      ["Poison Type Moves Wait -5%", "Normal Type Moves Wait -5%", "Resistant to ↓ Effects +10%"],
+      ["Poison Type Moves Wait -15%", "Normal Type Moves Wait -15%", "Resistant to Poisoned +100%"],
+      ["Poison Type Moves Wait -15%", "Normal Type Moves Wait -15%", "HP +300"]
+    ]
+  },
+  {
+    "pokemon": 31,
+    "bingo" : [
+      ["Poison Type Moves Wait -5%", "Normal Type Moves Wait -5%", "Resistant to ↓ Effects +10%"],
+      ["Poison Type Moves Wait -10%", "Normal Type Moves Wait -10%", "Resistant to Poisoned +100%"],
+      ["Poison Type Moves Wait -10%", "Normal Type Moves Wait -10%", "Resistant to ↓ Effects +20%"]
+    ]
+  },
+  {
+    "pokemon": 32,
+    "bingo" : [
+      ["Taking Critical Hits Rate -10%", "ATK of Normal Type Moves +5%", "Own Knockback Distance -10%"],
+      ["Resistant to Poisoned +100%", "Critical Hit Damage +15%", "Own Knockback Distance -20%"],
+      ["ATK +500", "Critical Hit Rate +20%", "Own Knockback Distance -30%"]
+    ]
+  },
+  {
+    "pokemon": 33,
+    "bingo" : [
+      ["Taking Critical Hits Rate -10%", "ATK of Normal Type Moves +5%", "Own Knockback Distance -10%"],
+      ["Resistant to Poisoned +100%", "Critical Hit Damage +10%", "Own Knockback Distance -20%"],
+      ["Normal Type Moves Wait -15%", "Critical Hit Rate +15%", "Own Knockback Distance -30%"]
+    ]
+  },
+  {
+    "pokemon": 34,
+    "bingo" : [
+      ["Taking Critical Hits Rate -10%", "ATK of Normal Type Moves +5%", "Own Knockback Distance -10%"],
+      ["Resistant to Poisoned +100%", "Critical Hit Damage +5%", "Own Knockback Distance -20%"],
+      ["Critical Hit Damage +10%", "Critical Hit Rate +10%", "Own Knockback Distance -30%"]
+    ]
+  },
+  {
+    "pokemon": 35,
+    "bingo" : [
+      ["Pokemon Size Change -10%", "Normal Type Moves Wait -10%", "Resistant to ↓ Effects +10%"],
+      ["Pokemon Size Change -15%", "Normal Type Moves Wait -20%", "Resistant to Poisoned +100%"],
+      ["Pokemon Size Change -15%", "HP +500", "Resistant to Burned +100%"]
+    ]
+  },
+  {
+    "pokemon": 36,
+    "bingo" : [
+      ["Pokemon Size Change -10%", "Normal Type Moves Wait -5%", "Resistant to ↓ Effects +10%"],
+      ["Pokemon Size Change -15%", "Normal Type Moves Wait -10%", "Resistant to Poisoned +100%"],
+      ["Pokemon Size Change -25%", "Resistant to Burned +100%", "Resistant to ↓ Effects +40%"]
+    ]
+  },
+  {
+    "pokemon": 37,
+    "bingo" : [
+      ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Fire Type Damage Taken -25%"],
+      ["Fire Type Moves Wait -10%", "ATK of Fire Type Moves +15%", "Resistant to Burned +100%"],
+      ["Fire Type Moves Wait -20%", "ATK of Fire Type Moves +20%", "HP +500"]
+    ]
+  },
+  {
+    "pokemon": 38,
+    "bingo" : [
+      ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Fire Type Damage Taken -25%"],
+      ["Fire Type Moves Wait -10%", "ATK of Fire Type Moves +10%", "Resistant to  Burned +100%"],
+      ["Fire Type Moves Wait -15%", "ATK of Fire Type Moves +15%", "Time to Recover -10%"]
+    ]
+  },
+  {
+    "pokemon": 39,
+    "bingo" : [
+      ["Time to Recover -10%", "ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%"],
+      ["Pokemon Size Change +25%", "ATK of Normal Type Moves +20%", "Normal Type Moves Wait -15%"],
+      ["Pokemon Size Change +25%", "HP +500", "Normal Type Moves Wait -20%"]
+    ]
+  },
+  {
+    "pokemon": 40,
+    "bingo" : [
+      ["Time to Recover -10%", "ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%"],
+      ["Pokemon Size Change +25%", "ATK of Normal Type Moves +15%", "Normal Type Moves Wait -10%"],
+      ["Pokemon Size Change +25%", "Dragon Type Damage Taken -50%", "Normal Type Moves Wait -15%"]
+    ]
+  },
+  {
+    "pokemon": 41,
+    "bingo" : [
+      ["Hit Healing +1%", "Movement Speed +30%", "Resistant to ↓ Effects +10%"],
+      ["Hit Healing +2%", "Movement Speed +40%", "Resistant to Poisoned +100%"],
+      ["Hit Healing +3%", "Movement Speed +50%", "ATK +550"]
+    ]
+  },
+  {
+    "pokemon": 42,
+    "bingo" : [
+      ["Hit Healing +1%", "Movement Speed +30%", "Resistant to ↓ Effects +10%"],
+      ["Hit Healing +2%", "Movement Speed +40%", "Resistant to Poisoned +100%"],
+      ["Hit Healing +3%", "Movement Speed +40%", "ATK +250"]
+    ]
+  },
+  {
+    "pokemon": 43,
+    "bingo" : [
+      ["ATK of Grass Type Moves +5%", "Movement Speed +30%", "Resistant to ↓ Effects +10%"],
+      ["ATK of Grass Type Moves +20%", "Movement Speed +40%", "Resistant to Poisoned +100%"],
+      ["ATK of Grass Type Moves +20%", "Grass Type Moves Wait -10%", "ATK +500"]
+    ]
+  },
+  {
+    "pokemon": 44,
+    "bingo" : [
+      ["ATK of Grass Type Moves +5%", "Movement Speed +30%", "Resistant to ↓ Effects +10%"],
+      ["ATK of Grass Type Moves +15%", "Movement Speed +40%", "Resistant to Poisoned +100%"],
+      ["ATK of Grass Type Moves +15%", "Grass Type Moves Wait -15%", "ATK +250"]
+    ]
+  },
+  {
+    "pokemon": 45,
+    "bingo" : [
+      ["ATK of Grass Type Moves +5%", "Movement Speed +30%", "Resistant to  ↓ Effects  +10%"],
+      ["ATK of Grass Type Moves +10%", "Movement Speed +40%", "Resistant to Poisoned +100%"],
+      ["ATK of Grass Type Moves +10%", "Grass Type Moves Wait -10%", "Hit Healing +3%"]
+    ]
+  },
+  {
+    "pokemon": 46,
+    "bingo" : [
+      ["Healing per Wave +30%", "Grass Type Moves Wait -5%", "Time to Recover -10%"],
+      ["Healing per Wave +40%", "Grass Type Moves Wait -15%", "HP upon Recovery +20%"],
+      ["Natural HP Healing +15%", "Grass Type Moves Wait -20%", "ATK +550"]
+    ]
+  },
+  {
+    "pokemon": 47,
+    "bingo" : [
+      ["Healing per Wave +20%", "Grass Type Moves Wait -5%", "Time to Recover -10%"],
+      ["Healing per Wave +30%", "Grass Type Moves Wait -10%", "HP upon Recovery +10%"],
+      ["Natural HP Healing +10%", "Grass Type Moves Wait -15%", "Critical Hit Rate +20%"]
+    ]
+  },
+  {
+    "pokemon": 48,
+    "bingo" : [
+      ["Resistant to ↓ Effects +10%", "Resistant to Status Conditions +10%", "Taking Critical Hits Rate -10%"],
+      ["Resistant to ↓ Effects +20%", "Resistant to Poisoned +100%", "Taking Critical Hits Rate -20%"],
+      ["Resistant to ↓ Effects +30%", "Resistant to Status Conditions +30%", "ATK +600"]
+    ]
+  },
+  {
+    "pokemon": 49,
+    "bingo" : [
+      ["Resistant to ↓ Effects +10%", "Resistant to Status Conditions +10%", "Taking Critical Hits Rate -10%"],
+      ["Resistant to ↓ Effects +20%", "Resistant to Poisoned +100%", "Taking Critical Hits Rate -15%"],
+      ["Resistant to ↓ Effects +30%", "Resistant to Status Conditions +20%", "ATK +350"]
+    ]
+  },
+  {
+    "pokemon": 50,
+    "bingo" : [
+      ["Ground Type Moves Wait -5%", "ATK of Ground Type Moves +5%", "Movement Speed +30%"],
+      ["Ground Type Moves Wait -15%", "ATK of Normal Type Moves +15%", "Movement Speed +40%"],
+      ["ATK +500", "ATK of Ground Type Moves +20%", "Movement Speed +50%"]
+    ]
+  },
+  {
+    "pokemon": 51,
+    "bingo" : [
+      ["Ground Type Moves Wait -5%", "ATK of Ground Type Moves +5%", "Movement Speed +30%"],
+      ["Ground Type Moves Wait -10%", "ATK of Normal Type Moves +10%", "Movement Speed +30%"],
+      ["Critical Hit Rate +20%", "ATK of Ground Type Moves +15%", "Movement Speed +40%"]
+    ]
+  },
+  {
+    "pokemon": 52,
+    "bingo" : [
+      ["Normal Type Moves Wait -5%", "Movement Speed +30%", "Critical Hit Rate +5%"],
+      ["Normal Type Moves Wait -15%", "Movement Speed +40%", "Critical Hit Damage +5%"],
+      ["Normal Type Moves Wait -20%", "Movement Speed +50%", "ATK +550"]
+    ]
+  },
+  {
+    "pokemon": 53,
+    "bingo" : [
+      ["Normal Type Moves Wait -5%", "Movement Speed +30%", "Critical Hit Rate +5%"],
+      ["Normal Type Moves Wait -10%", "Movement Speed +40%", "Resistant to Paralyzed +100%"],
+      ["Normal Type Moves Wait -15%", "Movement Speed +40%", "ATK +250"]
+    ]
+  },
+  {
+    "pokemon": 54,
+    "bingo" : [
+      ["Water Type Moves Wait -5%", "Psychic Type Moves Wait -5%", "Movement Speed +30%"],
+      ["Water Type Moves Wait -10%", "Psychic Type Moves Wait -10%", "Movement Speed +30%"],
+      ["ATK +500", "ATK of Psychic Type Moves +20%", "Movement Speed +40%"]
+    ]
+  },
+  {
+    "pokemon": 55,
+    "bingo" : [
+      ["Water Type Moves Wait -5%", "Psychic Type Moves Wait -5%", "Movement Speed +30%"],
+      ["Water Type Moves Wait -10%", "Psychic Type Moves Wait -10%", "Movement Speed +30%"],
+      ["ATK of Water Type Moves +25%", "ATK of Psychic Type Moves +15%", "Movement Speed +30%"]
+    ]
+  },
+  {
+    "pokemon": 56,
+    "bingo" : [
+      ["Fighting Type Moves Wait -5%", "ATK of Normal Type Moves +5%", "Resistant to ↓ Effects +20%"],
+      ["Fighting Type Moves Wait -10%", "ATK of Normal Type Moves +15%", "Resistant to Asleep +100%"],
+      ["ATK +500", "Normal Type Moves Wait -20%", "Resistant to ↓ Effects +30%"]
+    ]
+  },
+  {
+    "pokemon": 57,
+    "bingo" : [
+      ["Fighting Type Moves Wait -5%", "ATK of Normal Type Moves +5%", "Resistant to ↓ Effects +20%"],
+      ["Fighting Type Moves Wait -10%", "ATK of Normal Type Moves +10%", "Resistant to Asleep +100%"],
+      ["ATK of Fighting Type Moves +20%", "Normal Type Moves Wait -15%", "Resistant to ↓ Effects +30%"]
+    ]
+  },
+  {
+    "pokemon": 58,
+    "bingo" : [
+      ["Fire Type Damage Taken -25%", "Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%"],
+      ["Resistant to Burn +100%", "Fire Type Moves Wait -15%", "ATK of Fire Type Moves +15%"],
+      ["ATK +500", "Fire Type Moves Wait -20%", "ATK of Fire Type Moves +20%"]
+    ]
+  },
+  {
+    "pokemon": 59,
+    "bingo" : [
+      ["Fire Type Damage Taken -25%", "Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%"],
+      ["Resistant to Burn +100%", "Fire Type Moves Wait -10%", "ATK of Fire Type Moves +10%"],
+      ["Normal Type Moves Wait -15%", "Fire Type Moves Wait -15%", "ATK of Fire Type Moves +15%"]
+    ]
+  },
+  {
+    "pokemon": 60,
+    "bingo" : [
+      ["ATK of Water Type Moves +5%", "Critical Hit Damage +5%", "Movement Speed +30%"],
+      ["ATK of Water Type Moves +20%", "Water Type Moves Wait -20%", "Water Type Damage Taken -25%"],
+      ["ATK of Water Type Moves +25%", "ATK +550", "HP +600"]
+    ]
+  },
+  {
+    "pokemon": 61,
+    "bingo" : [
+      ["ATK of Water Type Moves +5%", "Critical Hit Damage +5%", "Movement Speed +30%"],
+      ["ATK of Water Type Moves +15%", "Water Type Moves Wait -15%", "Water Type Damage Taken -25%"],
+      ["ATK of Water Type Moves +20%", "ATK +300", "HP +300"]
+    ]
+  },
+  {
+    "pokemon": 62,
+    "bingo" : [
+      ["ATK of Water Type Moves +5%", "Critical Hit Damage +5%", "Movement Speed +30%"],
+      ["ATK of Water Type Moves +10%", "Water Type Moves Wait -10%", "Water Type Damage Taken -25%"],
+      ["ATK of Water Type Moves +15%", "ATK of Fighting Type Moves +20%", "Water Type Moves Wait -15%"]
+    ]
+  },
+  {
+    "pokemon": 63,
+    "bingo" : [
+      ["Psychic Type Moves Wait -5%", "Resistant to ↓ Effects +10%", "Movement Speed +30%"],
+      ["Psychic Type Moves Wait -20%", "Resistant to Poisoned +100%", "Movement Speed +40%"],
+      ["ATK of Psychic Type Moves +30%", "Resistant to Burned +100%", "ATK +550"]
+    ]
+  },
+  {
+    "pokemon": 64,
+    "bingo" : [
+      ["Psychic Type Moves Wait -5%", "Resistant to ↓ Effects +10%", "Movement Speed +30%"],
+      ["Psychic Type Moves Wait -15%", "Resistant to Poisoned +100%", "Movement Speed +40%"],
+      ["ATK of Psychic Type Moves +25%", "Resistant to Burned +100%", "ATK +250"]
+    ]
+  },
+  {
+    "pokemon": 65,
+    "bingo" : [
+      ["Psychic Type Moves Wait -5%", "Resistant to ↓ Effects +10%", "Movement Speed +30%"],
+      ["Psychic Type Moves Wait -10%", "Resistant to Poisoned +100%", "Movement Speed +40%"],
+      ["ATK of Psychic Type Moves +20%", "Resistant to Burned +100%", "Movement Speed +50%"]
+    ]
+  },
+  {
+    "pokemon": 66,
+    "bingo" : [
+      ["ATK of Fighting Type Moves +5%", "Fighting Type Moves Wait -5%", "Own Knockback Distance -10%"],
+      ["ATK of Fighting Type Moves +20%", "Fighting Type Moves Wait -20%", "Own Knockback Distance -20%"],
+      ["ATK of Fighting Type Moves +20%", "Fighting Type Moves Wait -20%", "ATK + 450"]
+    ]
+  },
+  {
+    "pokemon": 67,
+    "bingo" : [
+      ["ATK of Fighting Type Moves +5%", "Fighting Type Moves Wait -5%", "Own Knockback Distance -10%"],
+      ["ATK of Fighting Type Moves +15%", "Fighting Type Moves Wait -15%", "Own Knockback Distance -20%"],
+      ["ATK of Fighting Type Moves +15%", "Fighting Type Moves Wait -15%", "Critical Hit Rate +20%"]
+    ]
+  },
+  {
+    "pokemon": 68,
+    "bingo" : [
+      ["ATK of Fighting Type Moves +5%", "Fighting Type Moves Wait -5%", "Own Knockback Distance -10%"],
+      ["ATK of Fighting Type Moves +10%", "Fighting Type Moves Wait -10%", "Own Knockback Distance -20%"],
+      ["ATK of Fighting Type Moves +10%", "Fighting Type Moves Wait -10%", "ATK of Normal Type Moves +20%"]
+    ]
+  },
+  {
+    "pokemon": 69,
+    "bingo" : [
+      ["Grass Type Moves Wait -5%", "ATK of Grass Type Moves + 5%", "Critical Hit Rate +5%"],
+      ["Resistant to Poisoned +100%", "ATK of Grass Type Moves + 20%", "Critical Hit Rate +20%"],
+      ["ATK +550", "ATK of Grass Type Moves + 20%", "Critical Hit Damage +20%"]
+    ]
+  },
+  {
+    "pokemon": 70,
+    "bingo" : [
+      ["Grass Type Moves Wait -5%", "ATK of Grass Type Moves + 5%", "Critical Hit Rate +5%"],
+      ["Resistant to Poisoned +100%", "ATK of Grass Type Moves + 15%", "Critical Hit Rate +15%"],
+      ["ATK +300", "ATK of Grass Type Moves + 15%", "Critical Hit Damage +15%"]
+    ]
+  },
+  {
+    "pokemon": 71,
+    "bingo" : [
+      ["Grass Type Moves Wait -5%", "ATK of Grass Type Moves + 5%", "Critical Hit Rate +5%"],
+      ["Resistant to Poisoned +100%", "ATK of Grass Type Moves + 10%", "Critical Hit Rate +10%"],
+      ["Grass Type Moves Wait -10%", "ATK of Grass Type Moves + 10%", "Critical Hit Damage +10%"]
+    ]
+  },
+  {
+    "pokemon": 72,
+    "bingo" : [
+      ["Natural HP Healing +10%", "Water Type Moves Wait - 5%", "Resistant to ↓ Effects +20%"],
+      ["Resistant to ↓ Effects +30%", "Water Type Moves Wait -15%", "Resistant to Poisoned +100%"],
+      ["HP +500", "Water Type Moves Wait -20%", "Reasistant to ↓ Effects 50%"]
+    ]
+  },
+  {
+    "pokemon": 73,
+    "bingo" : [
+      ["Natural HP Healing +10%", "Water Type Moves Wait - 5%", "Resistant to ↓ Effects +20%"],
+      ["Resistant to ↓ Effects +30%", "Water Type Moves Wait -10%", "Resistant to Poisoned +100%"],
+      ["Natural HP Healing +20%", "Water Type Moves Wait -15%", "Resistant to ↓ Effects +50%"]
+    ]
+  },
+  {
+    "pokemon": 74,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "ATK of Ground Type Moves +5%", "Own Knockback Distance -10%"],
+      ["ATK of Normal Type Moves +20%", "ATK of Ground Type Moves +20%", "Own Knockback Distance -20%"],
+      ["HP +550", "ATK of Ground Type Moves +25%", "Own Knockback Distance -30%"]
+    ]
+  },
+  {
+    "pokemon": 75,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "ATK of Ground Type Moves +5%", "Own Knockback Distance -10%"],
+      ["ATK of Normal Type Moves +15%", "ATK of Ground Type Moves +15%", "Critical Hit Damage +20%"],
+      ["ATK +450", "ATK of Ground  Type Moves  +20%", "Own Knockback Distance -30%"]
+    ]
+  },
+  {
+    "pokemon": 76,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "ATK of Ground Type Moves +5%", "Own Knockback Distance -10%"],
+      ["ATK of Normal Type Moves +10%", "ATK of Ground Type Moves +10%", "Critical Hit Damage +20%"],
+      ["ATK of Normal Type Moves +20%", "ATK of Ground Type Moves +15%", "Own Knockback Distance -30%"]
+    ]
+  },
+  {
+    "pokemon": 77,
+    "bingo" : [
+      ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Movement Speed +30%"],
+      ["Fire Type Moves Wait -15%", "Resistant to Burned +100%", "Movement Speed +40%"],
+      ["Fire Type Moves Wait -20%", "Fire Type Damage Taken -50%", "ATK + 500"]
+    ]
+  },
+  {
+    "pokemon": 78,
+    "bingo" : [
+      ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Movement Speed +30%"],
+      ["Fire Type Moves Wait -10%", "Resistant to Burned +100%", "Movement Speed +40%"],
+      ["Fire Type Moves Wait -15%", "Fire Type Damage Taken -50%", "ATK of Fire Type Moves +25%"]
+    ]
+  },
+  {
+    "pokemon": 79,
+    "bingo" : [
+      ["Healing per Wave +30%", "Time to Recover -10%", "HP +100"],
+      ["Resistant to Confused +100%", "HP upon Recovery +10%", "HP +200"],
+      ["Healing per Wave +40%", "Time to Recover -20%", "HP + 350"]
+    ]
+  },
+  {
+    "pokemon": 80,
+    "bingo" : [
+      ["Healing per Wave +20%", "Time to Recover -10%", "Taking Critical Hits Rate -25%"],
+      ["Resistant to Confused +100%", "HP upon Recovery +10%", "Taking Critical Hits Rate -25%"],
+      ["Healing per Wave +30%", "Time to Recover -15%", "Taking Critical Hits Rate -50%"]
+    ]
+  },
+  {
+    "pokemon": 81,
+    "bingo" : [
+      ["ATK of Electric Type Moves +5%", "Electric Type Moves Wait -5%", "Steel Type Moves Wait -10%"],
+      ["ATK of Electric Type Moves +15%", "Electric Type Moves Wait -15%", "Resistant to Poisoned +100%"],
+      ["Resistant to Paralyzed +100%", "Steel Type Moves Wait -15%", "ATK +500"]
+    ]
+  },
+  {
+    "pokemon": 82,
+    "bingo" : [
+      ["ATK of Electric Type Moves +5%", "Electric Type Moves Wait -5%", "Steel Type Moves Wait -10%"],
+      ["ATK of Electric Type Moves +10%", "Electric Type Moves Wait -10%", "Resistant to Poisoned +100%"],
+      ["Resistant to Paralyzed +100%", "Normal Type Moves Wait -10%", "ATK of Electric Type Moves +30%"]
+    ]
+  },
+  {
+    "pokemon": 83,
+    "bingo" : [
+      ["Flying Type Moves Wait -10%", "Critical Hit Rate +15%", "Critical Hit Damage +10%"],
+      ["Flying Type Moves Wait -10%", "Critical Hit Rate +10%", "Critical Hit Damage +20%"],
+      ["Flying Type Moves Wait -15%", "Critical Hit Rate +20%", "ATK +300"]
+    ]
+  },
+  {
+    "pokemon": 84,
+    "bingo" : [
+      ["Wait for Standard Attacks -20%", "Flying Type Move Wait -5%", "Movement Speed +30%"],
+      ["Wait for Standard Attacks -30%", "Flying Type Moves Wait -15%", "Movement Speed +40%"],
+      ["Movement Speed +50%", "Flying Type Moves Wait -20%", "ATK +500"]
+    ]
+  },
+  {
+    "pokemon": 85,
+    "bingo" : [
+      ["Wait for Standard Attacks -20%", "Flying Type Move Wait -5%", "Movement Speed +30%"],
+      ["Wait for Standard Attacks -25%", "Flying Type Moves Wait -10%", "Movement Speed +40%"],
+      ["Movement Speed +50%", "Flying Type Moves Wait -15%", "ATK of Normal Type Moves +30%"]
+    ]
+  },
+  {
+    "pokemon": 86,
+    "bingo" : [
+      ["Water Type Moves Wait -5%", "ATK of Water Type Moves +5%", "Resistant to Status Conditions +10%"],
+      ["Fire Type Damage Taken -25%", "Resistant to Status Conditions +30%", "Ice Type Damage Taken -25%"],
+      ["Fire Type Damage Taken -25%", "HP +550", "Ice Type Damage Taken -25%"]
+    ]
+  },
+  {
+    "pokemon": 87,
+    "bingo" : [
+      ["Water Type Moves Wait -5%", "ATK of Water Type Moves +5%", "Resistant to Status Conditions +10%"],
+      ["Fire Type Damage Taken -25%", "Resistant to Frozen 100%", "Ice Type Damage Taken -25%"],
+      ["Fire Type Damage Taken -25%", "Natural HP Healing +10%", "Ice Type Damage Taken -25%"]
+    ]
+  },
+  {
+    "pokemon": 88,
+    "bingo" : [
+      ["Poison Type Moves Wait -5%", "Natural HP Healing +10%", "Pokemon Size Change -10%"],
+      ["Poison Type Moves Wait -15%", "Pokemon Size Change -15%", "Resistant to Poisoned +100%"],
+      ["Pokemon Size Change -25%", "HP +550", "Poison Type Moves Wait -20%"]
+    ]
+  },
+  {
+    "pokemon": 89,
+    "bingo" : [
+      ["Poison Type  Moves Wait  -5%", "Natural HP Healing +10%", "Pokemon Size Change -10%"],
+      ["Poison Type Moves Wait 10%", "Pokemon Size Change -15%", "Resistant to Poisoned +100%"],
+      ["Pokemon Size Change -25%", "Natural HP Healing +20%", "Poison Type Moves Wait -15%"]
+    ]
+  },
+  {
+    "pokemon": 90,
+    "bingo" : [
+      ["Resistant to Status Conditions +10%", "Taking Critical Hits Rate -25%", "Movement Speed +30%"],
+      ["Resistant to Status Conditions +30%", "Taking Critical Hits Rate -25%", "Movement Speed +40%"],
+      ["Water Type Moves Wait -20%", "Taking Critical Hits Rate -50%", "Natural HP Healing +20%"]
+    ]
+  },
+  {
+    "pokemon": 91,
+    "bingo" : [
+      ["Resistant to Status Conditions +10%", "Taking Critical Hits Rate -25%", "Movement Speed +30%"],
+      ["Resistant to Frozen +100%", "Taking Critical Hits Rate -25%", "Movement Speed +20%"],
+      ["Resistant to Status Conditions +40%", "Taking Critical Hits Rate -50%", "Ice Type Moves Wait -15%"]
+    ]
+  },
+  {
+    "pokemon": 92,
+    "bingo" : [
+      ["Ghost Type  Moves Wait -5%", "ATK of Ghost Type Moves +5%", "Normal Type Damage Taken -25%"],
+      ["ATK of Ghost Type Moves +20%", "Resistant to Poisoned +100%", "Fighting Type Damage Taken -25%"],
+      ["ATK +500", "Ground Type Damage Taken -50%", "Ghost Type Moves Wait -20%"]
+    ]
+  },
+  {
+    "pokemon": 93,
+    "bingo" : [
+      ["Ghost Type  Moves Wait -5%", "ATK of Ghost Type Moves +5%", "Normal Type Damage Taken -25%"],
+      ["ATK of Ghost Type Moves +15%", "Resistant to Poisoned +100%", "Fighting Type Damage Taken -25%"],
+      ["ATK of Ghost Type Moves +20%", "Ground Type Damage Taken -50%", "Ghost Type Moves Wait -15%"]
+    ]
+  },
+  {
+    "pokemon": 94,
+    "bingo" : [
+      ["Ghost Type  Moves Wait -5%", "ATK of Ghost Type Moves +5%", "Normal Type Damage Taken -25%"],
+      ["ATK of Ghost Type Moves +10%", "Resistant to Poisoned +100%", "Fighting Type Damage Taken -25%"],
+      ["ATK of Ghost Type Moves +15%", "Normal-Type Damage Taken -25%", "Ghost Type Moves Wait -10%"]
+    ]
+  },
+  {
+    "pokemon": 95,
+    "bingo" : [
+      ["ATK of Rock Type Moves +5%", "Movement Speed +30%", "Rock Type Moves Wait -5%"],
+      ["ATK of Rock Type Moves +15%", "Movement Speed +40%", "Rock Type Moves Wait -10%"],
+      ["ATK of Rock Type Moves +20%", "Movement Speed +50%", "Rock Type Moves Wait -15%"]
+    ]
+  },
+  {
+    "pokemon": 96,
+    "bingo" : [
+      ["Psychic Type Moves Wait -5%", "Healing per Wave +30%", "Resistant to ↓ Effects +10%"],
+      ["Healing per Wave +40%", "Resistant to Asleep +100%", "Psychic Type Moves Wait -15%"],
+      ["HP +600", "Resistant to ↓ Effects +30%", "Psychic Type Moves Wait -20%"]
+    ]
+  },
+  {
+    "pokemon": 97,
+    "bingo" : [
+      ["Psychic Type Moves Wait -5%", "Healing per Wave +20%", "Resistant to ↓ Effects +10%"],
+      ["Healing per Wave +30%", "Resistant to Asleep +100%", "Psychic Type Moves Wait -15%"],
+      ["HP +250", "Resistant to ↓ Effects +30%", "Psychic Type Moves Wait -20%"]
+    ]
+  },
+  {
+    "pokemon": 98,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Taking Critical Hits Rate -20%", "Resistant to ↓ Effects +10%"],
+      ["ATK of Normal Type Moves +15%", "Resistant to ↓ Effects +30%", "Taking Critical Hit Damage -30%"],
+      ["Taking Critical Hits Rate -50%", "Resistant to Damage Down -100%", "ATK +500"]
+    ]
+  },
+  {
+    "pokemon": 99,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Taking Critical Hits Rate -20%", "Resistant to ↓ Effects +10%"],
+      ["ATK of Normal Type Moves +10%", "Resistant to ↓ Effects +20%", "Taking Critical Hits Rate -30%"],
+      ["Taking Critical Hits Rate -50%", "Resistant to Damage Down -100%", "ATK of Normal Type Moves +20%"]
+    ]
+  },
+  {
+    "pokemon": 100,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%", "Movement Speed +50%"],
+      ["Movement Speed +50%", "ATK of Normal Type Moves +15%", "Resistant to Paralyzed +100%"],
+      ["Movement Speed +100%", "Normal Type Moves Wait -20%", "ATK +700"]
+    ]
+  },
+  {
+    "pokemon": 101,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%", "Movement Speed +50%"],
+      ["Movement Speed +50%", "ATK of Normal Type Moves +10%", "Resistant to Paralyzed +100%"],
+      ["Movement Speed +100%", "Normal Type Moves Wait -10%", "ATK +400"]
+    ]
+  },
+  {
+    "pokemon": 102,
+    "bingo" : [
+      ["ATK of Grass Type Moves +5%", "Grass Type Moves Wait -5%", "Wait for Standard Attacks -20%"],
+      ["ATK of Grass Type Moves +15%", "Grass Type Moves Wait -15%", "Wait for Standard Attacks -25%"],
+      ["ATK +600", "Grass Type Moves Wait -20%", "Wait for Standard Attacks -30%"]
+    ]
+  },
+  {
+    "pokemon": 103,
+    "bingo" : [
+      ["ATK of Grass Type Moves +5%", "Grass Type Moves Wait -5%", "Wait for Standard Attacks -15%"],
+      ["ATK of Grass Type Moves +15%", "Grass Type Moves Wait -10%", "Wait for Standard Attacks -15%"],
+      ["ATK of Psychic Type Moves +30%", "Grass Type Moves Wait -15%", "Psychic Type Moves Wait -15%"]
+    ]
+  },
+  {
+    "pokemon": 104,
+    "bingo" : [
+      ["Taking Critical Hits Rate -20%", "Electric Type Damage Taken -10%", "Ground Type Moves Wait -5%"],
+      ["ATK of Ground Type Moves +15%", "Electric Type Damage Taken -15%", "Taking Critical Hits -30%"],
+      ["Electric Type Damage Taken -30%", "Taking Critical Hits -50%", "ATK +550"]
+    ]
+  },
+  {
+    "pokemon": 105,
+    "bingo" : [
+      ["Taking Critical Hits Rate -20%", "Electric Type Damage Taken -10%", "Ground Type Moves Wait -5%"],
+      ["ATK of Ground Type Moves +10%", "Electric Type Damage Taken -15%", "Taking Critical Hits -30%"],
+      ["Electric Type Damage Taken -30%", "Taking Critical Hits -50%", "ATK +500"]
+    ]
+  },
+  {
+    "pokemon": 106,
+    "bingo" : [
+      ["ATK of Fighting Type Moves +5%", "Fighting Type Moves Wait -5%", "Movement Speed +30%"],
+      ["ATK of Fighting Type Moves +15%", "Resistant to Paralyzed +100%", "Critical Hit Damage +10%"],
+      ["ATK of Fighting Type Moves +20%", "Fighting Type Moves Wait -20%", "Critical Hit Rate +15%"]
+    ]
+  },
+  {
+    "pokemon": 107,
+    "bingo" : [
+      ["Critical Hit Damage +5%", "Resistant to ↓ Effects +10%", "Movement Speed +30%"],
+      ["Resistant To Status Conditions +20%", "Critical Hit Rate +10%", "Resistant to ↓ Effects +20%"],
+      ["Wait for Standard Attacks -75%", "Critical Hit Damage +15%", "ATK of Fighting Type Moves +20%"]
+    ]
+  },
+  {
+    "pokemon": 108,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Resistant to Status Conditions +10%", "Resistant to ↓ Effects +10%"],
+      ["ATK of Normal Type Moves +15%", "Resistant to Status Conditions +15%", "Resistant to Confused +100%"],
+      ["ATK of Normal Type Moves +20%", "Resistant to Status Conditions +25%", "Resistant to ↓ Effects +30%"]
+    ]
+  },
+  {
+    "pokemon": 109,
+    "bingo" : [
+      ["Poison Type Moves Wait -5%", "Ground Type Damage Taken -20%", "ATK of Poison Type Moves +5%"],
+      ["Poison Type Moves Wait -15%", "ATK of Poison Type Moves +15%", "Resistant to Poisoned +100%"],
+      ["Ground Type Damage Taken -30%", "Poison Type Moves Wait -20%", "ATK +550"]
+    ]
+  },
+  {
+    "pokemon": 110,
+    "bingo" : [
+      ["Poison Type Moves Wait -5%", "Ground Type Damage Taken -20%", "ATK of Poison Type Moves +5%"],
+      ["Poison Type Moves Wait -10%", "ATK of Poison Type Moves +10%", "Resistant to Poisoned +100%"],
+      ["Ground Type Damage Taken -30%", "Poison Type Moves Wait -15%", "ATK of Poison Type Moves +20%"]
+    ]
+  },
+  {
+    "pokemon": 111,
+    "bingo" : [
+      ["Critical Hit Damage +5%", "Own Knockback Distance -10%", "Electric Type Damage Taken -10%"],
+      ["Critical Hit Damage +15%", "Electric Type Damage Taken -15%", "Own Knockback Distance -20%"],
+      ["Critical Hit Damage +20%", "Electric Type Damage Taken -25%", "Own Knockback Distance -30%"]
+    ]
+  },
+  {
+    "pokemon": 112,
+    "bingo" : [
+      ["Critical Hit Damage +5%", "Own Knockback Distance -10%", "Electric Type Damage Taken -10%"],
+      ["Critical Hit Damage +10%", "Electric Type Damage Taken -15%", "Own Knockback Distance -20%"],
+      ["Critical Hit Damage +15%", "Electric Type Damage Taken -25%", "Own Knockback Distance -30%"]
+    ]
+  },
+  {
+    "pokemon": 113,
+    "bingo" : [
+      ["Normal Type Moves Wait -5%", "Ghost Type Damage Taken -10%", "Resistant to Status Conditions +10%"],
+      ["Ghost Type Damage Taken -15%", "Resistant to Status Conditions +20%", "Normal Type Moves Wait -10%"],
+      ["Critical Hit Rate +30%", "Pokemon Size Change -50%", "Resistant to Status Conditions +30%"]
+    ]
+  },
+  {
+    "pokemon": 114,
+    "bingo" : [
+      ["Grass Type Moves Wait -5%", "HP upon Recovery +10%", "Natural HP Healing +10%"],
+      ["Grass Type Moves Wait -5%", "Resistant to Status Conditions +50%", "Healing per Wave +30%"],
+      ["Grass Type Moves Wait -5%", "Resistant to Status Conditions +50%", "Healing per Wave +40%"]
+    ]
+  },
+  {
+    "pokemon": 115,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Resistant to Status Conditions +10%", "Own Knockback Distance -10%"],
+      ["ATK of Normal Type Moves +15%", "Resistant to Status Conditions +15%", "Own Knockback Distance -15%"],
+      ["ATK of Normal Type Moves +20%", "Normal Type Moves Wait -15%", "Own Knockback Distance -25%"]
+    ]
+  },
+  {
+    "pokemon": 116,
+    "bingo" : [
+      ["Water Type Moves Wait -5%", "ATK of Water Type Moves +5%", "Critical Hit Damage +10%"],
+      ["Water Type Moves Wait -15%", "ATK of Water Type Moves +15%", "Critical Hit Damage +15%"],
+      ["ATK +600", "Critical Hit Damage +25%", "Water Type Moves Wait -20%"]
+    ]
+  },
+  {
+    "pokemon": 117,
+    "bingo" : [
+      ["Water Type Moves Wait -5%", "ATK of Water Type Moves +5%", "Critical Hit Damage +10%"],
+      ["Water Type Moves Wait -10%", "ATK of Water Type Moves +10%", "Critical Hit Damage +15%"],
+      ["ATK of Water Type Moves +20%", "Critical Hit Damage +25%", "Water Type Moves Wait -15%"]
+    ]
+  },
+  {
+    "pokemon": 118,
+    "bingo" : [
+      ["ATK of Water Type Moves +5%", "Normal Type Moves Wait -5%", "Electric Type Damage Taken -10%"],
+      ["ATK of Water Type Moves +15%", "Resistant to Burned +100%", "Electric Type Damage Taken -20%"],
+      ["Water Type Moves Wait -20%", "ATK +500", "Electric Type Damage Taken -30%"]
+    ]
+  },
+  {
+    "pokemon": 119,
+    "bingo" : [
+      ["ATK of Water Type Moves +5%", "Normal Type Moves Wait -5%", "Electric Type Damage Taken -10%"],
+      ["ATK of Water Type Moves +10%", "Resistant to Burned +100%", "Electric Type Damage Taken -20%"],
+      ["Water Type Moves Wait -15%", "ATK of Water Type Moves +20%", "Electric Type Damage Taken -30%"]
+    ]
+  },
+  {
+    "pokemon": 120,
+    "bingo" : [
+      ["Water Type Moves Wait -5%", "Ice Type Moves Wait -5%", "Movement Speed +30%"],
+      ["Water Type Moves Wait -15%", "Pokemon Size Change -10%", "Movement Speed +40%"],
+      ["Water Type Moves Wait -20%", "Pokemon Size Change -15%", "ATK +500"]
+    ]
+  },
+  {
+    "pokemon": 121,
+    "bingo" : [
+      ["Water Type Moves Wait -5%", "Ice Type Moves Wait -5%", "Movement Speed +30%"],
+      ["Water Type Moves Wait -10%", "Pokemon Size Change -10%", "Movement Speed +15%"],
+      ["Water Type Moves Wait -15%", "Pokemon Size Change -15%", "ATK of Water Type Moves +30%"]
+    ]
+  },
+  {
+    "pokemon": 122,
+    "bingo" : [
+      ["Psychic Type Moves Wait -5%", "Resistant to ↓ Effects +10%", "ATK of Psychic Type Moves +15%"],
+      ["Psychic Type Moves Wait -10%", "Resistant to ↓ Effects +20%", "ATK of Psychic Type Moves +20%"],
+      ["Psychic Type Moves Wait -15%", "Dragon Type Damage Taken -50%", "ATK +500"]
+    ]
+  },
+  {
+    "pokemon": 123,
+    "bingo" : [
+      ["ATK of Bug Type Moves +5%", "Bug Type Moves Wait -5%", "Movement Speed +30%"],
+      ["ATK of Bug Type Moves +15%", "Bug Type Moves Wait -10%", "Movement Speed +40%"],
+      ["ATK of Bug Type Moves +20%", "Bug Type Moves Wait -15%", "Movement Speed +50%"]
+    ]
+  },
+  {
+    "pokemon": 124,
+    "bingo" : [
+      ["Fairy Type Moves Wait -5%", "Psychic Type Moves Wait -5%", "Ice Type Moves Wait -5%"],
+      ["ATK of Ice Type Moves +15%", "ATK of Psychic Type Moves +15%", "Resistant to Frozen +100%"],
+      ["Water Type Damage Taken -50%", "ATK of Ice Type Moves +20%", "ATK of Psychic Type Moves +20%"]
+    ]
+  },
+  {
+    "pokemon": 125,
+    "bingo" : [
+      ["ATK of Electric Type Moves +5%", "Electric Type Moves Wait -5%", "ATK of Fighting Type Moves +5%"],
+      ["ATK of Electric Type Moves +15%", "Electric Type Moves Wait -10%", "Resistant to Paralyzed +100%"],
+      ["ATK of Electric Type Moves +20%", "Electric Type Moves Wait -15%", "Resistant to Asleep +100%"]
+    ]
+  },
+  {
+    "pokemon": 126,
+    "bingo" : [
+      ["ATK of Fire Type Moves +5%", "Fire Type Moves Wait -5%", "Wait for Standard Attacks -25%"],
+      ["ATK of Fire Type Moves +15%", "Fire Type Moves Wait -10%", "Resistant to Burned +100%"],
+      ["Critical Hit Damage +30%", "ATK of Fire Type Moves +20%", "Resistant to Asleep +100%"]
+    ]
+  },
+  {
+    "pokemon": 127,
+    "bingo" : [
+      ["Normal Type Moves Wait -5%", "Critical Hit Damage +5%", "ATK of Fighting Type Moves +5%"],
+      ["Normal Type Moves Wait -10%", "Critical Hit Damage +10%", "ATK of Fighting Type Moves +15%"],
+      ["Resistance to Damage Down +100%", "Critical Hit Damage +15%", "ATK of Fighting Type Moves +20%"]
+    ]
+  },
+  {
+    "pokemon": 128,
+    "bingo" : [
+      ["Critical Hit Damage +5%", "ATK of Normal Type Moves +15%", "Movement Speed +30%"],
+      ["Critical Hit Damage +10%", "Normal Type Moves Wait -15%", "Critical Hit Rate +10%"],
+      ["ATK of Normal Type Moves +20%", "Critical Hit Damage +15%", "Wait for Standard Attacks -50%"]
+    ]
+  },
+  {
+    "pokemon": 129,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Movement Speed +50%", "Normal Type Moves Wait -5%"],
+      ["Time to Recover -20%", "Normal Type Moves Wait -20%", "Movement Speed +50%"],
+      ["Time to Recover -25%", "Pokemon Size Change +50%", "Movement Speed +100%"]
+    ]
+  },
+  {
+    "pokemon": 130,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Normal Type Moves Wait -5%"],
+      ["Time to Recover -10%", "Normal Type Moves Wait -10%", "Movement Speed +30%"],
+      ["HP + 500", "ATK+300", "Movement Speed +30%"]
+    ]
+  },
+  {
+    "pokemon": 131,
+    "bingo" : [
+      ["Resistant to ↓ Effects +10%", "Healing per Wave +20%", "Own Knockback Distance -20%"],
+      ["Taking Critical Hits Rate -10%", "Water Type Damage Taken -20%", "Resistant to Frozen +100%"],
+      ["Water Type Damage Taken -30%", "Natural HP Healing +10%", "Resistant to ↓ Effects +20%"]
+    ]
+  },
+  {
+    "pokemon": 132,
+    "bingo" : [
+      ["Critical hit Rate +10%", "HP upon Recovery +10%", "Movement Speed +50%"],
+      ["Resistant to Paralyzed +100%", "Movement Speed +50%", "Time to Recover -10%"],
+      ["Pokemon Size Change +50%", "Critical Hit Damage +10%", "Pokemon Size Change -25%"]
+    ]
+  },
+  {
+    "pokemon": 133,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%", "Movement Speed +30%"],
+      ["HP upon Recovery +10%", "ATK of Normal Type Moves +20%", "Movement Speed +50%"],
+      ["ATK +550", "ATK of Normal Type Moves +50%", "HP +550"]
+    ]
+  },
+  {
+    "pokemon": 134,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Time to Recover -10%", "Movement Speed +30%"],
+      ["HP upon Recovery +10%", "ATK of Water Type Moves +10%", "Water Type Damage Taken -25%"],
+      ["ATK of Water Type Moves +20%", "Resistant to Status Conditions +30%", "Water Type Moves Wait -15%"]
+    ]
+  },
+  {
+    "pokemon": 135,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Time to Recover -10%", "Movement Speed +30%"],
+      ["HP upon Recovery +10%", "ATK of Electric Type Moves +10%", "Electric Type Damage Taken -25%"],
+      ["ATK of Electric Type Moves +20%", "Resistant to Paralyzed +100%", "Electric Type Moves Wait -15%"]
+    ]
+  },
+  {
+    "pokemon": 136,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Time to Recover -10%", "Movement Speed +30%"],
+      ["HP upon Recovery +10%", "ATK of Fire Type Moves +10%", "Fire Type Damage Taken -25%"],
+      ["ATK of Fire Type Moves +20%", "Resistant to Burned +100%", "Fire Type Moves Wait -15%"]
+    ]
+  },
+  {
+    "pokemon": 137,
+    "bingo" : [
+      ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Resistant to Status Conditions +10%"],
+      ["ATK of Normal Type Moves +15%", "Normal Type Moves Wait -10%", "Resistant to Statis Conditions +20%"],
+      ["ATK of Normal Type Moves +20%", "ATK +350", "HP +350"]
+    ]
+  },
+  {
+    "pokemon": 138,
+    "bingo" : [
+      ["Taking Critical Hits Rate -20%", "Movement Speed +30%", "Water Type Moves Wait -5%"],
+      ["Normal Type Moves Wait -20%", "Movement Speed +40%", "Taking Critical Hits Rate -30%"],
+      ["Taking Critical Hits Rate -50%", "ATK +550", "Movement Speed +50%"]
+    ]
+  },
+  {
+    "pokemon": 139,
+    "bingo" : [
+      ["Taking Critical Hits Rate -20%", "Movement Speed +30%", "Water Type Moves Wait -5%"],
+      ["Water Type Moves Wait -10%", "Movement Speed +40%", "Taking Critical Hits Rate -30%"],
+      ["Taking Critical Hits Rate -50%", "ATK of Water Type Moves +15%", "Movement Speed +50%"]
+    ]
+  },
+  {
+    "pokemon": 140,
+    "bingo" : [
+      ["ATK of Water Type Moves +5%", "Movement Speed +30%", "Taking Critical Hits Rate -20%"],
+      ["ATK of Water Type Moves +20%", "Movement Speed +40%", "Taking Critical Hits Rate -30%"],
+      ["ATK +550", "Movement Speed +50%", "Taking Critical Hits Rate -50%"]
+    ]
+  },
+  {
+    "pokemon": 141,
+    "bingo" : [
+      ["ATK of Water Type Moves +5%", "Movement Speed +30%", "Taking Critical Hits Rate -20%"],
+      ["ATK of Water Type Moves +15%", "Movement Speed +40%", "Taking Critical Hits Rate -30%"],
+      ["ATK of Water Type Moves +15%", "Movement Speed +50%", "Taking Critical Hits Rate -50%"]
+    ]
+  },
+  {
+    "pokemon": 142,
+    "bingo" : [
+      ["Normal Type Moves Wait -5%", "Movement Speed +30%", "Resistant to ↓ Effects +10%"],
+      ["Flying Type Moves Wait -10%", "Movement Speed +40%", "Resistant to ↓ Effects +20%"],
+      ["Wait for Standard Attacks -50%", "Movement Speed +50%", "Resistant to status Conditions +30%"]
+    ]
+  },
+  {
+    "pokemon": 143,
+    "bingo" : [
+      ["Resistant to Poisoned +100%", "Taking Critical Hits Rate -10%", "Resistant to ↓ Effects +10%"],
+      ["Healing per Wave +25%", "Ice Type Damage Taken -50%", "Fire Type Damage Taken -50%"],
+      ["ATK +550", "Own Knockback Distance -50%", "Natural HP Healing +5%"]
+    ]
+  },
+  {
+    "pokemon": 144,
+    "bingo" : [
+      ["Ice Type Moves Wait -5%", "ATK of Ice Type Moves +5%", "Critical Hit Damage +10%"],
+      ["ATK of Ice Type Moves + 15%", "Ice Type Moves Wait -10%", "Resistant to Frozen +100%"],
+      ["ATK of Ice Type Moves +20%", "Ice Type Moves Wait -15%", "Crit Hit Damage +15%"]
+    ]
+  },
+  {
+    "pokemon": 145,
+    "bingo" : [
+      ["Electric Type Moves Wait -5%", "ATK of Electric Type Moves +5%", "Wait for Standard Attacks -20%"],
+      ["ATK of Electric Type Moves +15%", "Electric Type Moves Wait -10%", "Resistant to Paralyzed +100%"],
+      ["ATK of Electric Type Moves +20%", "Electric Type Moves Wait -15%", "Wait for Standard Attacks -30%"]
+    ]
+  },
+  {
+    "pokemon": 146,
+    "bingo" : [
+      ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Critical Hit Rate +10%"],
+      ["ATK of Fire Type Moves +15%", "Fire Type Moves Wait -10%", "Resistant to Burned +100%"],
+      ["ATK of Fire Type Moves +20%", "Fire Type Moves Wait -15%", "Critical Hit Rate +15%"]
+    ]
+  },
+  {
+    "pokemon": 147,
+    "bingo" : [
+      ["ATK of Dragon Type Moves +5%", "Dragon Type Moves Wait -5%", "Own Knockback Distance -10%"],
+      ["HP upon Recovery +20%", "Resistant to Status Conditions +30%", "Own Knockback Distance -20%"],
+      ["ATK +450", "Dragon Type Moves Wait -20%", "HP +500"]
+    ]
+  },
+  {
+    "pokemon": 148,
+    "bingo" : [
+      ["ATK of Dragon Type Moves +5%", "Dragon Type Moves Wait -5%", "Own Knockback Distance -10%"],
+      ["HP upon Recovery +15%", "Resistant to Status Conditions +20%", "Own Knockback Distance -20%"],
+      ["ATK of Dragon Type Moves +25%", "Dragon Type Moves Wait -15%", "Natural HP Healing +10%"]
+    ]
+  },
+  {
+    "pokemon": 149,
+    "bingo" : [
+      ["ATK of Dragon Type Moves +5%", "Dragon Type Moves Wait -5%", "Own Knockback Distance -10%"],
+      ["HP upon Recovery +10%", "Resistant to ↓ Effects +20%", "Own Knockback Distance -20%"],
+      ["ATK of Dragon Type Moves +20%", "Dragon Type Moves Wait -10%", "ATK of Normal Type Moves +20%"]
+    ]
+  },
+  {
+    "pokemon": 150,
+    "bingo" : [
+      ["Movement Speed +50%", "Resistant to ↓ Effects +20%", "Critical Hit Damage +20%"],
+      ["Psychic Type Moves Wait -20%", "Critical Hit Rate +20%", "Normal Type  Moves Wait  -20%"],
+      ["ATK of Psychic Type Moves +20%", "ATK of Normal Type Moves +20%", "Wait for Standard Attacks -50%"]
+    ]
+  },
+  {
+    "pokemon": 151,
+    "bingo" : [
+      ["Critical Hit Damage +20%", "Resistant to ↓ Effects +20%", "Movement Speed +50%"],
+      ["Critical Hit Rate +20%", "Resistant to Status Conditions +20%", "Time to Recover -20%"],
+      ["Psychic Type Moves Wait -20%", "Own Knockback Distance -20%", "Wait for Standard Attacks -50%"]
+    ]
+  }
+]

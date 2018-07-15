@@ -69,6 +69,44 @@ footer
     text-decoration: none
     color: $electr
 
+button
+  &.favorite, &.removefavorite
+    position: absolute
+    top: 10px
+    right: 10px
+    display: block
+    outline: none
+    border-radius: 10px
+    background-size: 20px
+    background-position: 95% center
+    background-repeat: no-repeat
+    font-family: "Share Tech Mono", sans-serif
+    font-weight: bold
+    transition: all 200ms
+
+    &:hover
+      color: $white
+
+  &.favorite
+    padding: 10px 30px 10px 10px
+    background-image: url("../images/feather/star-default.svg")
+    background-color: $white
+    border: 3px solid $electr
+    color: $electr
+
+    &:hover
+      background-color: $electr
+      background-image: url("../images/feather/star-hover.svg")
+
+  &.removefavorite
+    padding: 10px 10px 10px 10px
+    background-color: $white
+    border: 3px solid $fire
+    color: $fire
+
+    &:hover
+      background-color: $fire
+
 #logo
   display: block
   max-width: 350px

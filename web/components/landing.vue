@@ -3,6 +3,17 @@
     #search-wrapper
       input(type="text", placeholder="pikachu", v-model="searchedpokemon")
 
+    .favorites-wrapper(v-if="favorites.length > 0")
+      h2 #[u Favorites]
+      .favorites
+        .pokemon(v-for="pokemon in favorites", @click="selectPokemon(pokemon)")
+          .number
+            p
+              b #[span #]{{ pokemon.id }}
+          .desc
+            img(:src="pokemon.image" )
+            P {{ pokemon.name }}
+
     .pokemons
       .pokemon(v-for="pokemon in selectedpokemons", @click="selectPokemon(pokemon)")
         .number
@@ -48,7 +59,7 @@
     h1
       text-align: center
 
-    .pokemons
+    .pokemons, .favorites
       margin-top: 50px
       display: flex
       flex-flow: row wrap
@@ -96,6 +107,13 @@
           flex-flow: column nowrap
           justify-content: space-between
 
+    .favorites
+      margin-top: 10px
+      padding: 0
+
+    .favorites-wrapper
+      padding: 0 50px
+
 </style>
 
 <script>
@@ -104,7 +122,8 @@
     data () {
       return {
         pokemons: this.$parent.pokemons,
-        searchedpokemon: ''
+        searchedpokemon: '',
+        favorites: []
       }
     },
 
@@ -122,6 +141,8 @@
         'page_title': 'landing',
         'page_path': '/'
       })
+
+      this.getFavorites()
     },
 
     methods: {
@@ -132,6 +153,15 @@
         })
 
         this.$router.push('/pokemon/' + pokemon.id)
+      },
+
+      getFavorites () {
+        let storage = window.localStorage.getItem('favorite')
+        if (!storage) {
+          return
+        }
+        let favorites = JSON.parse(storage)
+        this.favorites = favorites.map(item => this.pokemons.find(pokemon => parseInt(pokemon.id) === parseInt(item)))
       }
     }
   }
