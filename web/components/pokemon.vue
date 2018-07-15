@@ -51,6 +51,7 @@
 
     .wrapper
       h5 #[u Recipes]
+      p.alert Due to inaccuracy of recipes. Please refer to #[a(href="https://pokequestrecipes.me") Pokemon Quest Recipes] for proper recipes for now. Thank you and sorry for the inconvenience!
       ul.recipes
         p(v-if="typeof pokemon.recipes === 'string'") {{ pokemon.recipes }}
         li.ingredients(v-else, v-for="recipe in pokemon.recipes")
@@ -89,6 +90,13 @@
     h5
       &.name
         margin: 1em 0
+
+    .alert
+      display: block
+      padding: 10px
+      background-color: $line
+      border-radius: 5px
+      font-size: 0.78em
 
     .img-wrapper
       background-color: $powder
