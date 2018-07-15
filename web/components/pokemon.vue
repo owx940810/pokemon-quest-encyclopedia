@@ -76,11 +76,13 @@
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr))
     grid-auto-rows: auto;
     margin: 0 auto
-    width: 90%
+    width: 80%
+    max-width: 1024px
     border-radius: 20px
     grid-auto-flow: dense
 
     +mobile
+      width: 92%
       grid-template-columns: minmax(300px, 1fr)
 
     h4
