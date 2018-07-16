@@ -1,0 +1,8297 @@
+[
+  {
+    "name": "Bulbasaur",
+    "recipes": [
+      {
+        "ingredients": [
+          "y",
+          "_r",
+          "_r",
+          "_r",
+          "l"
+        ],
+        "rate": 80
+      },
+      {
+        "ingredients": [
+          "r",
+          "_g",
+          "_g",
+          "_g",
+          "l"
+        ],
+        "rate": 51.61
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 26.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_g"
+        ],
+        "rate": 26.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 26.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 26.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_y"
+        ],
+        "rate": 26.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 26.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_l"
+        ],
+        "rate": 26.67
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 18.75
+      }
+    ]
+  },
+  {
+    "name": "Charmander",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_g",
+          "l",
+          "l"
+        ],
+        "rate": 80
+      },
+      {
+        "ingredients": [
+          "r",
+          "_r",
+          "_g",
+          "_g",
+          "l"
+        ],
+        "rate": 80
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 80
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "_r",
+          "_g",
+          "_g"
+        ],
+        "rate": 40
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "_b",
+          "l"
+        ],
+        "rate": 40
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "_y",
+          "l"
+        ],
+        "rate": 40
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "g",
+          "_g",
+          "l"
+        ],
+        "rate": 40
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "_g",
+          "l"
+        ],
+        "rate": 40
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "y",
+          "_g",
+          "l"
+        ],
+        "rate": 40
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "l",
+          "_l"
+        ],
+        "rate": 40
+      }
+    ]
+  },
+  {
+    "name": "Squirtle",
+    "recipes": [
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_y"
+        ],
+        "rate": 33.56
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 33.56
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 33.56
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_l"
+        ],
+        "rate": 33.56
+      },
+      {
+        "ingredients": [
+          "b",
+          "_b",
+          "_b",
+          "_b",
+          "l"
+        ],
+        "rate": 33.56
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_g"
+        ],
+        "rate": 33.56
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 7.7
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_b",
+          "_b",
+          "_g"
+        ],
+        "rate": 7.7
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_b",
+          "_b",
+          "_y"
+        ],
+        "rate": 7.7
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_r",
+          "_b",
+          "_b"
+        ],
+        "rate": 7.7
+      }
+    ]
+  },
+  {
+    "name": "Caterpie",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "g"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "y",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Weedle",
+    "recipes": [
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "y",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Pidgey",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Rattata",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "g"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Spearow",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "y"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "b"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "g"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "r"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Ekans",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "g",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_b"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_l"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_g"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_r"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_y"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_b"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_b"
+        ],
+        "rate": 19.71
+      }
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "_y",
+          "_y",
+          "_y",
+          "l"
+        ],
+        "rate": 80
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_g",
+          "_l"
+        ],
+        "rate": 80
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 80
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 80
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 80
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_y",
+          "_l"
+        ],
+        "rate": 80
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 80
+      },
+      {
+        "ingredients": [
+          "r",
+          "g",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 40
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 40
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 40
+      }
+    ]
+  },
+  {
+    "name": "Sandshrew",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "g",
+          "g"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "g",
+          "g"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "g",
+          "g"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Nidoran♀",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "g",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "y",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Nidoran♂",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "g"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "y",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Clefairy",
+    "recipes": [
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "g",
+          "_b"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "g",
+          "_y"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "g",
+          "_r"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "r",
+          "g",
+          "g",
+          "g",
+          "_g"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "g",
+          "_g"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "g",
+          "g",
+          "_g"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "g",
+          "g",
+          "_g"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 10.26
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 10.26
+      }
+    ]
+  },
+  {
+    "name": "Vulpix",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "y"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "y"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "b"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "y"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "b"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "g"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "r"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Jigglypuff",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "g",
+          "g",
+          "_y"
+        ],
+        "rate": 24.53
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 18.05
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 18.05
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 18.05
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "g",
+          "g",
+          "_g"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "g",
+          "g",
+          "_g"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "g",
+          "_g"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "r",
+          "g",
+          "g",
+          "g",
+          "_g"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "g",
+          "_r"
+        ],
+        "rate": 12.36
+      }
+    ]
+  },
+  {
+    "name": "Zubat",
+    "recipes": [
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "_r",
+          "_r"
+        ],
+        "rate": 49.24
+      },
+      {
+        "ingredients": [
+          "g",
+          "_r",
+          "_r",
+          "_b",
+          "_b"
+        ],
+        "rate": 38.17
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 38.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "g",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "_g",
+          "l"
+        ],
+        "rate": 18.02
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 18.02
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 18.02
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 18.02
+      }
+    ]
+  },
+  {
+    "name": "Oddish",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "g",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "y",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Paras",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_y",
+          "_y",
+          "y"
+        ],
+        "rate": 96.43
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "b",
+          "b"
+        ],
+        "rate": 57.47
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_b",
+          "b"
+        ],
+        "rate": 57.47
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "_r"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "_r"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_y"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 33.33
+      }
+    ]
+  },
+  {
+    "name": "Venonat",
+    "recipes": [
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "b",
+          "l"
+        ],
+        "rate": 67.57
+      },
+      {
+        "ingredients": [
+          "r",
+          "_g",
+          "_g",
+          "_g",
+          "l"
+        ],
+        "rate": 32.26
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_b",
+          "b"
+        ],
+        "rate": 28.74
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "b",
+          "b"
+        ],
+        "rate": 28.74
+      },
+      {
+        "ingredients": [
+          "_g",
+          "_g",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 28.57
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_g",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 28.57
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_g",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 28.57
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_g",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 28.57
+      },
+      {
+        "ingredients": [
+          "_g",
+          "_g",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 28.57
+      },
+      {
+        "ingredients": [
+          "g",
+          "_g",
+          "_g",
+          "_g",
+          "l"
+        ],
+        "rate": 28.57
+      }
+    ]
+  },
+  {
+    "name": "Diglett",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "g",
+          "g",
+          "_r"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "g",
+          "_b"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "g",
+          "g",
+          "_y"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "g",
+          "g",
+          "_y"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "g",
+          "g",
+          "_r"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "g",
+          "_b"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "g",
+          "g",
+          "_r"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "g",
+          "g",
+          "_g"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "g",
+          "g",
+          "_g"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "g",
+          "g",
+          "_g"
+        ],
+        "rate": 48.78
+      }
+    ]
+  },
+  {
+    "name": "Meowth",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Psyduck",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "g"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Mankey",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "r"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "y"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "b"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "g"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "y",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Growlithe",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "y"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "y"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "b"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "y"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "b"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "g"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "r"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Poliwag",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "g"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "g"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Abra",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "g"
+        ],
+        "rate": 100
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "y"
+        ],
+        "rate": 100
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Machop",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "_y",
+          "_y"
+        ],
+        "rate": 96.15
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_y",
+          "r",
+          "r"
+        ],
+        "rate": 96.15
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_y",
+          "r",
+          "_g"
+        ],
+        "rate": 96.15
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 55.56
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_g"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_r"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_y"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_b"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_b"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_b"
+        ],
+        "rate": 19.71
+      }
+    ]
+  },
+  {
+    "name": "Bellsprout",
+    "recipes": [
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "y",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Tentacool",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "g"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "g"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Geodude",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "g",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "g",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "g",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "g",
+          "g"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "g",
+          "g"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "g",
+          "g"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      }
+    ]
+  },
+  {
+    "name": "Ponyta",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "y",
+          "_g"
+        ],
+        "rate": 95.24
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "g",
+          "_l"
+        ],
+        "rate": 95.24
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "_b"
+        ],
+        "rate": 95.24
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "_b"
+        ],
+        "rate": 95.24
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "g",
+          "_y"
+        ],
+        "rate": 95.24
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "_y"
+        ],
+        "rate": 95.24
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "_y"
+        ],
+        "rate": 95.24
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "g",
+          "_g"
+        ],
+        "rate": 95.24
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "y",
+          "g",
+          "_g"
+        ],
+        "rate": 95.24
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "_g"
+        ],
+        "rate": 95.24
+      }
+    ]
+  },
+  {
+    "name": "Slowpoke",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "_b",
+          "_y"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "g",
+          "_y",
+          "_y"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_y",
+          "y",
+          "y"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_y",
+          "y",
+          "g"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_b",
+          "_y",
+          "_y"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_r"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_y"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_y"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_l"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_r"
+        ],
+        "rate": 24.52
+      }
+    ]
+  },
+  {
+    "name": "Magnemite",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "y",
+          "_y",
+          "_y"
+        ],
+        "rate": 95.24
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "_y",
+          "_y"
+        ],
+        "rate": 95.24
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "g",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "_r",
+          "_y",
+          "_y"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_r",
+          "_y",
+          "_y"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "g",
+          "_g"
+        ],
+        "rate": 12.36
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 12.36
+      }
+    ]
+  },
+  {
+    "name": "Farfetch'd",
+    "recipes": [
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_r",
+          "_r"
+        ],
+        "rate": 72.58
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 29.22
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_g"
+        ],
+        "rate": 19.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 19.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 19.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_l"
+        ],
+        "rate": 19.76
+      },
+      {
+        "ingredients": [
+          "r",
+          "_r",
+          "_r",
+          "_r",
+          "l"
+        ],
+        "rate": 19.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_y"
+        ],
+        "rate": 19.76
+      },
+      {
+        "ingredients": [
+          "g",
+          "_r",
+          "_r",
+          "_b",
+          "_b"
+        ],
+        "rate": 17.18
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 17.18
+      }
+    ]
+  },
+  {
+    "name": "Doduo",
+    "recipes": [
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "g",
+          "_r",
+          "_r"
+        ],
+        "rate": 49.24
+      },
+      {
+        "ingredients": [
+          "g",
+          "_r",
+          "_r",
+          "_b",
+          "_b"
+        ],
+        "rate": 38.17
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 38.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "g",
+          "g",
+          "_y"
+        ],
+        "rate": 24.53
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 18.05
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 18.05
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 18.05
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "_r"
+        ],
+        "rate": 16.44
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "_l"
+        ],
+        "rate": 16.44
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "_b"
+        ],
+        "rate": 16.44
+      }
+    ]
+  },
+  {
+    "name": "Seel",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_r"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_l"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_y"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_y"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_r"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_y"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_r"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_g"
+        ],
+        "rate": 24.52
+      }
+    ]
+  },
+  {
+    "name": "Grimer",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "g",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_b"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_l"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_g"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_r"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_y"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_b"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_b"
+        ],
+        "rate": 19.71
+      }
+    ]
+  },
+  {
+    "name": "Shellder",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_r"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_l"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_y"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_y"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_r"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_y"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_r"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_g"
+        ],
+        "rate": 24.52
+      }
+    ]
+  },
+  {
+    "name": "Gastly",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "_g",
+          "_g",
+          "_g",
+          "l"
+        ],
+        "rate": 16.13
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "_g",
+          "l"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_r",
+          "_g",
+          "_g"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_y",
+          "_y"
+        ],
+        "rate": 3.33
+      }
+    ]
+  },
+  {
+    "name": "Onix",
+    "recipes": [
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 97.32
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 97.32
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "g",
+          "g",
+          "_b"
+        ],
+        "rate": 97.32
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "g",
+          "g",
+          "_b"
+        ],
+        "rate": 97.32
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "g",
+          "g",
+          "_b"
+        ],
+        "rate": 97.32
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "g",
+          "g",
+          "_b"
+        ],
+        "rate": 97.32
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "g",
+          "g",
+          "_b"
+        ],
+        "rate": 97.32
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "g",
+          "_b"
+        ],
+        "rate": 97.32
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "g",
+          "_b"
+        ],
+        "rate": 97.32
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "g",
+          "_b"
+        ],
+        "rate": 97.32
+      }
+    ]
+  },
+  {
+    "name": "Drowzee",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_b",
+          "_y",
+          "_y"
+        ],
+        "rate": 26.67
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 18.75
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 18.75
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 18.75
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_l"
+        ],
+        "rate": 18.75
+      },
+      {
+        "ingredients": [
+          "y",
+          "_y",
+          "_y",
+          "_y",
+          "l"
+        ],
+        "rate": 18.75
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 18.75
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 11.96
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 11.96
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_y",
+          "_y"
+        ],
+        "rate": 11.96
+      }
+    ]
+  },
+  {
+    "name": "Krabby",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "g"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "y"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "b"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "g"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "r"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Voltorb",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "r"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "y"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "b"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "g"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "y",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Exeggcute",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "_b",
+          "_y"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "g",
+          "_y",
+          "_y"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_y",
+          "y",
+          "g"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_y",
+          "y",
+          "y"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "_r"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "_r"
+        ],
+        "rate": 48.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_b",
+          "_y",
+          "_y"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_y"
+        ],
+        "rate": 33.33
+      }
+    ]
+  },
+  {
+    "name": "Cubone",
+    "recipes": [
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_b",
+          "_b"
+        ],
+        "rate": 100
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 100
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 100
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 100
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 100
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_b",
+          "_y",
+          "_g"
+        ],
+        "rate": 100
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_b",
+          "_b",
+          "_g"
+        ],
+        "rate": 100
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 100
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_b",
+          "_y",
+          "_y"
+        ],
+        "rate": 100
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_b",
+          "_b",
+          "_y"
+        ],
+        "rate": 100
+      }
+    ]
+  },
+  {
+    "name": "Hitmonlee",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 22.22
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 14.2
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 14.2
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 14.2
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_l"
+        ],
+        "rate": 14.2
+      },
+      {
+        "ingredients": [
+          "y",
+          "_y",
+          "_y",
+          "_y",
+          "l"
+        ],
+        "rate": 14.2
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 14.2
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 9.06
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 9.06
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_y",
+          "_y"
+        ],
+        "rate": 9.06
+      }
+    ]
+  },
+  {
+    "name": "Hitmonchan",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 22.22
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_g"
+        ],
+        "rate": 14.97
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 14.97
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_y"
+        ],
+        "rate": 14.97
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 14.97
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_l"
+        ],
+        "rate": 14.97
+      },
+      {
+        "ingredients": [
+          "r",
+          "_r",
+          "_r",
+          "_r",
+          "l"
+        ],
+        "rate": 14.97
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      }
+    ]
+  },
+  {
+    "name": "Lickitung",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "g",
+          "g",
+          "_y"
+        ],
+        "rate": 24.53
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 18.05
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 18.05
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 18.05
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "_l"
+        ],
+        "rate": 16.44
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "_g"
+        ],
+        "rate": 16.44
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "_r"
+        ],
+        "rate": 16.44
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "_r"
+        ],
+        "rate": 16.44
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "g",
+          "_r"
+        ],
+        "rate": 16.44
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "_r"
+        ],
+        "rate": 16.44
+      }
+    ]
+  },
+  {
+    "name": "Koffing",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "g",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_b"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_l"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_g"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_r"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_y"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_b"
+        ],
+        "rate": 19.71
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "b",
+          "_b"
+        ],
+        "rate": 19.71
+      }
+    ]
+  },
+  {
+    "name": "Rhyhorn",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "g",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "g",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "g",
+          "g"
+        ],
+        "rate": 50
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "g",
+          "g"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "g",
+          "g"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "g",
+          "g"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "g",
+          "g",
+          "g"
+        ],
+        "rate": 25
+      }
+    ]
+  },
+  {
+    "name": "Chansey",
+    "recipes": [
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.9
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_b",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      }
+    ]
+  },
+  {
+    "name": "Tangela",
+    "recipes": [
+      {
+        "ingredients": [
+          "y",
+          "_r",
+          "_r",
+          "_r",
+          "l"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_g"
+        ],
+        "rate": 6.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 6.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_y"
+        ],
+        "rate": 6.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 6.67
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 6.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 6.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_r",
+          "_r",
+          "_l"
+        ],
+        "rate": 6.67
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_g"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "b",
+          "_b",
+          "_b",
+          "_b",
+          "l"
+        ],
+        "rate": 4.03
+      }
+    ]
+  },
+  {
+    "name": "Kangaskhan",
+    "recipes": [
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 32.47
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 14.2
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 14.2
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 14.2
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 14.2
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_l"
+        ],
+        "rate": 14.2
+      },
+      {
+        "ingredients": [
+          "y",
+          "_y",
+          "_y",
+          "_y",
+          "l"
+        ],
+        "rate": 14.2
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 9.06
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_b",
+          "_y",
+          "_y"
+        ],
+        "rate": 9.06
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "_y",
+          "l"
+        ],
+        "rate": 9.06
+      }
+    ]
+  },
+  {
+    "name": "Horsea",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_l"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_y"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_y"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_r"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_r"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "y",
+          "_r"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "_g"
+        ],
+        "rate": 24.52
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "g",
+          "_y"
+        ],
+        "rate": 24.52
+      }
+    ]
+  },
+  {
+    "name": "Goldeen",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "g"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "y"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "b"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "g"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "r"
+        ],
+        "rate": 14.29
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Staryu",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "g"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "b",
+          "y"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "b",
+          "b"
+        ],
+        "rate": 16.67
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "y"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 12.5
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "y",
+          "y",
+          "g"
+        ],
+        "rate": 4.17
+      }
+    ]
+  },
+  {
+    "name": "Mr. Mime",
+    "recipes": [
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_b",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      }
+    ]
+  },
+  {
+    "name": "Scyther",
+    "recipes": [
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_r",
+          "_r"
+        ],
+        "rate": 19.35
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "b",
+          "l"
+        ],
+        "rate": 16.22
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "b",
+          "b"
+        ],
+        "rate": 6.9
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_b",
+          "b"
+        ],
+        "rate": 6.9
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_l"
+        ],
+        "rate": 5.11
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 5.11
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 5.11
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 5.11
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 5.11
+      },
+      {
+        "ingredients": [
+          "y",
+          "_y",
+          "_y",
+          "_y",
+          "l"
+        ],
+        "rate": 5.11
+      }
+    ]
+  },
+  {
+    "name": "Jynx",
+    "recipes": [
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_g"
+        ],
+        "rate": 3.59
+      },
+      {
+        "ingredients": [
+          "r",
+          "_r",
+          "_r",
+          "_r",
+          "l"
+        ],
+        "rate": 3.59
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_l"
+        ],
+        "rate": 3.59
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 3.59
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_y"
+        ],
+        "rate": 3.59
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 3.59
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      }
+    ]
+  },
+  {
+    "name": "Electabuzz",
+    "recipes": [
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_y",
+          "_l"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_g",
+          "_l"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "_y",
+          "_y",
+          "_y",
+          "l"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "_r",
+          "_y",
+          "_y"
+        ],
+        "rate": 10
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 10
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 10
+      }
+    ]
+  },
+  {
+    "name": "Magmar",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "_r",
+          "_g",
+          "_g",
+          "l"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_g",
+          "l",
+          "l"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 20
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_r",
+          "_b",
+          "_g"
+        ],
+        "rate": 10
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "_r",
+          "_g",
+          "_g"
+        ],
+        "rate": 10
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "_r",
+          "_g",
+          "_g"
+        ],
+        "rate": 10
+      },
+      {
+        "ingredients": [
+          "r",
+          "g",
+          "_r",
+          "_g",
+          "_g"
+        ],
+        "rate": 10
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_r",
+          "_y",
+          "_g"
+        ],
+        "rate": 10
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 10
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "_b",
+          "_y",
+          "_g"
+        ],
+        "rate": 10
+      }
+    ]
+  },
+  {
+    "name": "Pinsir",
+    "recipes": [
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "b",
+          "l"
+        ],
+        "rate": 16.22
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "b",
+          "b"
+        ],
+        "rate": 6.9
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_b",
+          "b"
+        ],
+        "rate": 6.9
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_g"
+        ],
+        "rate": 3.59
+      },
+      {
+        "ingredients": [
+          "r",
+          "_r",
+          "_r",
+          "_r",
+          "l"
+        ],
+        "rate": 3.59
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_l"
+        ],
+        "rate": 3.59
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 3.59
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_y"
+        ],
+        "rate": 3.59
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 3.59
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      }
+    ]
+  },
+  {
+    "name": "Tauros",
+    "recipes": [
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.9
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_b",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_g",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      }
+    ]
+  },
+  {
+    "name": "Magikarp",
+    "recipes": [
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_g"
+        ],
+        "rate": 33.56
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 33.56
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 33.56
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_l"
+        ],
+        "rate": 33.56
+      },
+      {
+        "ingredients": [
+          "b",
+          "_b",
+          "_b",
+          "_b",
+          "l"
+        ],
+        "rate": 33.56
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_y"
+        ],
+        "rate": 33.56
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_b",
+          "_b",
+          "_g"
+        ],
+        "rate": 7.7
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "_b",
+          "l"
+        ],
+        "rate": 7.7
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_r",
+          "_b",
+          "_b"
+        ],
+        "rate": 7.7
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 7.7
+      }
+    ]
+  },
+  {
+    "name": "Lapras",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_r",
+          "_b",
+          "_g"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "_r",
+          "l"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "_g",
+          "l"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_r",
+          "_b",
+          "_y"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_b",
+          "_y",
+          "_y"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "b",
+          "_y",
+          "l"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_b",
+          "_y",
+          "_g"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 4.5
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_g"
+        ],
+        "rate": 4.03
+      }
+    ]
+  },
+  {
+    "name": "Ditto",
+    "recipes": [
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_g"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "b",
+          "_b",
+          "_b",
+          "_b",
+          "l"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_l"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_y"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.9
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      }
+    ]
+  },
+  {
+    "name": "Eevee",
+    "recipes": [
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 22.73
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_g"
+        ],
+        "rate": 19.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_y"
+        ],
+        "rate": 19.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_b"
+        ],
+        "rate": 19.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_r"
+        ],
+        "rate": 19.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_r",
+          "_l"
+        ],
+        "rate": 19.76
+      },
+      {
+        "ingredients": [
+          "r",
+          "_r",
+          "_r",
+          "_r",
+          "l"
+        ],
+        "rate": 19.76
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 6.32
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 6.32
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 6.32
+      }
+    ]
+  },
+  {
+    "name": "Porygon",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "g",
+          "g",
+          "_y"
+        ],
+        "rate": 24.53
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 18.05
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 18.05
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 18.05
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "_l"
+        ],
+        "rate": 16.44
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "_g"
+        ],
+        "rate": 16.44
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "y",
+          "_r"
+        ],
+        "rate": 16.44
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "b",
+          "_r"
+        ],
+        "rate": 16.44
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "g",
+          "_r"
+        ],
+        "rate": 16.44
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "r",
+          "r",
+          "_r"
+        ],
+        "rate": 16.44
+      }
+    ]
+  },
+  {
+    "name": "Omanyte",
+    "recipes": [
+      {
+        "ingredients": [
+          "y",
+          "_b",
+          "_b",
+          "_b",
+          "l"
+        ],
+        "rate": 45.45
+      },
+      {
+        "ingredients": [
+          "g",
+          "_b",
+          "_b",
+          "_b",
+          "l"
+        ],
+        "rate": 45.45
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 16.78
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_y"
+        ],
+        "rate": 16.78
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_g"
+        ],
+        "rate": 16.78
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_l"
+        ],
+        "rate": 16.78
+      },
+      {
+        "ingredients": [
+          "b",
+          "_b",
+          "_b",
+          "_b",
+          "l"
+        ],
+        "rate": 16.78
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 16.78
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "_b",
+          "_b",
+          "_l"
+        ],
+        "rate": 16.13
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "_b",
+          "_b",
+          "_l"
+        ],
+        "rate": 16.13
+      }
+    ]
+  },
+  {
+    "name": "Kabuto",
+    "recipes": [
+      {
+        "ingredients": [
+          "y",
+          "_b",
+          "_b",
+          "_b",
+          "l"
+        ],
+        "rate": 45.45
+      },
+      {
+        "ingredients": [
+          "g",
+          "_b",
+          "_b",
+          "_b",
+          "l"
+        ],
+        "rate": 45.45
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "_b",
+          "_b",
+          "_g"
+        ],
+        "rate": 16.13
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "g",
+          "_b",
+          "l"
+        ],
+        "rate": 16.13
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "_b",
+          "_b",
+          "_l"
+        ],
+        "rate": 16.13
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "_b",
+          "_b",
+          "_l"
+        ],
+        "rate": 16.13
+      },
+      {
+        "ingredients": [
+          "y",
+          "y",
+          "_b",
+          "_b",
+          "_l"
+        ],
+        "rate": 16.13
+      },
+      {
+        "ingredients": [
+          "r",
+          "g",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 16.13
+      },
+      {
+        "ingredients": [
+          "g",
+          "g",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 16.13
+      },
+      {
+        "ingredients": [
+          "y",
+          "g",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 16.13
+      }
+    ]
+  },
+  {
+    "name": "Aerodactyl",
+    "recipes": [
+      {
+        "ingredients": [
+          "g",
+          "_b",
+          "_b",
+          "_b",
+          "l"
+        ],
+        "rate": 9.09
+      },
+      {
+        "ingredients": [
+          "y",
+          "_b",
+          "_b",
+          "_b",
+          "l"
+        ],
+        "rate": 9.09
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_r",
+          "_r"
+        ],
+        "rate": 8.06
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_y",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 3.33
+      }
+    ]
+  },
+  {
+    "name": "Snorlax",
+    "recipes": [
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_g"
+        ],
+        "rate": 5.11
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 5.11
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 5.11
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_y",
+          "_y"
+        ],
+        "rate": 5.11
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_y",
+          "_l"
+        ],
+        "rate": 5.11
+      },
+      {
+        "ingredients": [
+          "y",
+          "_y",
+          "_y",
+          "_y",
+          "l"
+        ],
+        "rate": 5.11
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.9
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      }
+    ]
+  },
+  {
+    "name": "Articuno",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "_y",
+          "_g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "g",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      }
+    ]
+  },
+  {
+    "name": "Zapdos",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "_y",
+          "_g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "g",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      }
+    ]
+  },
+  {
+    "name": "Moltres",
+    "recipes": [
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "_y",
+          "_g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "g",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "b",
+          "g",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "b",
+          "b",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "y",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "b",
+          "y",
+          "g",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "r",
+          "b",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      },
+      {
+        "ingredients": [
+          "r",
+          "b",
+          "b",
+          "g",
+          "_l"
+        ],
+        "rate": 33.33
+      }
+    ]
+  },
+  {
+    "name": "Dratini",
+    "recipes": [
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_g"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "b",
+          "_b",
+          "_b",
+          "_b",
+          "l"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_l"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_b",
+          "_b",
+          "_b"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_b",
+          "_y"
+        ],
+        "rate": 4.03
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_y",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_b",
+          "_g",
+          "_g"
+        ],
+        "rate": 3.33
+      }
+    ]
+  },
+  {
+    "name": "Mewtwo",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "l",
+          "_l",
+          "_l",
+          "_l"
+        ],
+        "rate": 47.62
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_g",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 47.62
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_g",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 47.62
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 47.62
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 47.62
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 47.62
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 47.62
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 47.62
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 47.62
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_g",
+          "_l"
+        ],
+        "rate": 47.62
+      }
+    ]
+  },
+  {
+    "name": "Mew",
+    "recipes": [
+      {
+        "ingredients": [
+          "r",
+          "l",
+          "_l",
+          "_l",
+          "_l"
+        ],
+        "rate": 4.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_g",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 4.76
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_g",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 4.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 4.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_y",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 4.76
+      },
+      {
+        "ingredients": [
+          "_y",
+          "_y",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 4.76
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_y",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 4.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_b",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 4.76
+      },
+      {
+        "ingredients": [
+          "_b",
+          "_b",
+          "_g",
+          "_g",
+          "_l"
+        ],
+        "rate": 4.76
+      },
+      {
+        "ingredients": [
+          "_r",
+          "_r",
+          "_r",
+          "_g",
+          "_l"
+        ],
+        "rate": 4.76
+      }
+    ]
+  }
+]
