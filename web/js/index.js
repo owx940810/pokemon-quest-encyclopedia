@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import router from './router.js'
+import moment from 'moment'
 
 if (process.env.ENV === 'prod') {
   Vue.config.devtools = false
@@ -82,9 +83,25 @@ const init = async () => {
     router,
     data: {
       pokemons: pokemondata,
-      skills: skilldata
+      skills: skilldata,
+      alertstate: false
     },
     created () {
+    },
+    mounted () {
+      let now = new moment()
+      let end = new moment('2018-7-23', 'YYYY-MM-DD')
+      let duration = moment.duration(now.diff(end)).asDays()
+
+      if (duration < 0 && !window.localStorage.getItem('versionalert')) {
+        this.alertstate = true
+      }
+    },
+    methods: {
+      closeAlert () {
+        window.localStorage.setItem('versionalert', '1.1')
+        this.alertstate = false
+      }
     }
   })
 }
