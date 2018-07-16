@@ -53,7 +53,8 @@ const init = async () => {
   await getSkills()
   await getBingo()
   await massageData()
-  const app = new Vue({
+
+  window.APP = new Vue({
     el: '#app',
     router,
     data: {
