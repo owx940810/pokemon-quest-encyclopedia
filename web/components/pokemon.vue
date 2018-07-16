@@ -47,6 +47,19 @@
             b {{ skill.name }}
           .type
             .label(:class="skill.type") {{ skill.type }}
+
+          .waittime
+            .time-wrapper
+              img(src=process.env.WEB_BASE + "/images/feather/clock.svg")
+              p {{ skill.wait }}s
+
+          .movestones
+            img(src=process.env.WEB_BASE + "/images/stones/wl.png", v-show="skill.wl")
+            img(src=process.env.WEB_BASE + "/images/stones/ww.png", v-show="skill.ww")
+            img(src=process.env.WEB_BASE + "/images/stones/bb.png", v-show="skill.bb")
+            img(src=process.env.WEB_BASE + "/images/stones/sc.png", v-show="skill.sc")
+            img(src=process.env.WEB_BASE + "/images/stones/sh.png", v-show="skill.sh")
+            img(src=process.env.WEB_BASE + "/images/stones/st.png", v-show="skill.st")
           p.desc {{ skill.desc }}
 
     .wrapper
@@ -203,11 +216,43 @@
             display: inline-block
 
           &.desc
+            margin-top: 3px
             font-size: 0.9em
 
         .type
           display: inline-block
           margin-left: 10px
+          vertical-align: middle
+
+        .waittime
+          display: inline-block
+          vertical-align: middle
+          margin-left: 10px
+          padding: 2px
+          border: 1px solid $line
+          border-radius: 5px
+
+          .time-wrapper
+            display: flex
+            justify-content: center
+            align-items: center
+
+          p
+            margin-left: 3px
+
+          img
+            width: 14px
+
+        .movestones
+          display: inline-block
+          height: 19px
+          vertical-align: middle
+
+          img
+            display: inline-block
+            margin-left: 5px
+            width: 19px
+            height: 19px
 
     .bingo
       padding: 0

@@ -18,7 +18,6 @@
           "lvl": 32
         }
       ],
-      "skills": ["Petal Dance", "Synthesis", "Tackle", "Toxic", "Vine Whip"],
       "details": {
         "type": "melee",
         "hp": 125,
@@ -74,7 +73,6 @@
           "lvl": 32
         }
       ],
-      "skills": ["Leech Seed", "Petal Dance", "Poison Powder", "Synthesis", "Tackle", "Take Down", "Toxic", "Vine Whip"],
       "details": {
         "type": "melee",
         "hp": 400,
@@ -102,7 +100,6 @@
           "lvl": 32
         }
       ],
-      "skills": ["Leech Seed", "Mega Drain", "Petal Dance", "Solar Beam", "Synthesis", "Tackle", "Take Down", "Toxic", "Vine Whip"],
       "details": {
         "type": "melee",
         "hp": 550,
@@ -130,7 +127,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Ember", "Fire Punch", "Fire Spin", "Metal Claw", "Scratch"],
       "details": {
         "type": "melee",
         "hp": 75,
@@ -182,7 +178,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Dragon Claw", "Ember", "Fire Punch", "Fire Spin", "Flamethrower", "Metal Claw", "Scratch"],
       "details": {
         "type": "melee",
         "hp": 100,
@@ -209,7 +204,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Dragon Claw", "Ember", "Fire Punch", "Fire Spin", "Flame Charge", "Flamethrower", "Flare Blitz", "Metal Claw", "Scratch"],
       "details": {
         "type": "melee",
         "hp": 200,
@@ -236,7 +230,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Bubble", "Tackle", "Whirlpool", "Withdraw"],
       "details": {
         "type": "melee",
         "hp": 100,
@@ -276,7 +269,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Aqua Jet", "Aqua Ring", "Blizzard", "Bubble", "Surf", "Tackle", "Waterfall", "Whirlpool"],
       "details": {
         "type": "melee",
         "hp": 250,
@@ -303,7 +295,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Aqua Jet", "Aqua Ring", "Blizzard", "Bubble", "Hydro Pump", "Tackle", "Waterfall", "Whirlpool", "Withdraw"],
       "details": {
         "type": "melee",
         "hp": 400,
@@ -330,7 +321,6 @@
           "lvl": 10
         }
       ],
-      "skills": ["Lunge", "String Shot", "Synthesis", "Tackle", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 110,
@@ -366,7 +356,6 @@
           "lvl": 10
         }
       ],
-      "skills": ["Iron Defense", "Lunge", "String Shot", "Synthesis", "Tackle", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 275,
@@ -393,7 +382,6 @@
           "lvl": 10
         }
       ],
-      "skills": ["Electroweb", "Harden", "Lunge", "Rage Powder", "Silver Wind", "String Shot", "Synthesis", "Tackle"],
       "details": {
         "type": "melee",
         "hp": 150,
@@ -420,7 +408,6 @@
           "lvl": 10
         }
       ],
-      "skills": ["Lunge", "Poison Sting", "String Shot", "Tackle"],
       "details": {
         "type": "melee",
         "hp": 100,
@@ -456,7 +443,6 @@
           "lvl": 10
         }
       ],
-      "skills": ["Iron Defense", "String Shot", "Tackle"],
       "details": {
         "type": "melee",
         "hp": 250,
@@ -483,7 +469,6 @@
           "lvl": 10
         }
       ],
-      "skills": ["Agility", "Electroweb", "Harden", "Iron Defense", "Lunge", "Pin Missile", "Poison Sting", "String Shot", "Tackle"],
       "details": {
         "type": "melee",
         "hp": 150,
@@ -510,7 +495,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Gust", "Mud-Slap", "Tailwind", "Twister", "Whirlwind"],
       "details": {
         "type": "range",
         "hp": 100,
@@ -550,7 +534,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Gust", "Hurricane", "Mud-Slap", "Tailwind", "Twister", "Whirlwind"],
       "details": {
         "type": "range",
         "hp": 250,
@@ -577,7 +560,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Agility", "Gust", "Heat Wave", "Hurricane", "Mud-Slap", "Roost", "Sky Attack", "Tailwind"],
       "details": {
         "type": "range",
         "hp": 400,
@@ -600,7 +582,6 @@
           "lvl": 20
         }
       ],
-      "skills": ["Crunch", "Focus Energy", "Scratch", "Tackle", "Take Down"],
       "details": {
         "type": "range",
         "hp": 75,
@@ -632,7 +613,6 @@
           "lvl": 20
         }
       ],
-      "skills": ["Crunch", "Flame Wheel", "Focus Energy", "Iron Tail", "Scratch", "Tackle", "Zen Headbutt"],
       "details": {
         "type": "range",
         "hp": 150,
@@ -655,7 +635,6 @@
           "lvl": 20
         }
       ],
-      "skills": ["Aerial Ace", "Fly", "Growl", "Leer", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 75,
@@ -691,7 +670,6 @@
           "lvl": 20
         }
       ],
-      "skills": ["Aerial Ace", "Drill Peck", "Fly", "Leer", "Take Down", "Tri Attack", "Whirlwind"],
       "details": {
         "type": "melee",
         "hp": 100,
@@ -714,7 +692,6 @@
           "lvl": 22
         }
       ],
-      "skills": ["Leer", "Mud Bomb", "Mud-Slap", "Poison Sting", "Rock Tomb"],
       "details": {
         "type": "range",
         "hp": 80,
@@ -758,7 +735,6 @@
           "lvl": 22
         }
       ],
-      "skills": ["Crunch", "Earthquake", "Leer", "Mud Bomb", "Mud-Slap", "Poison Sting", "Rock Tomb"],
       "details": {
         "type": "range",
         "hp": 150,
@@ -781,7 +757,6 @@
           "lvl": 22
         }
       ],
-      "skills": ["Iron Tail", "Spark", "Thunder Shock", "Thunderbolt", "Volt Tackle"],
       "specialskill": [
         {
           "name": "Surf",
@@ -831,7 +806,6 @@
           "lvl": 22
         }
       ],
-      "skills": ["Agility", "Charge", "Electric Terrain", "Giga Impact", "Iron Tail", "Spark", "Thunder Shock", "Thunderbolt", "Volt Tackle"],
       "details": {
         "type": "melee",
         "hp": 150,
@@ -854,7 +828,6 @@
           "lvl": 22
         }
       ],
-      "skills": ["Dig", "Metal Claw", "Rollout", "Sandstorm", "Scratch"],
       "details": {
         "type": "melee",
         "hp": 80,
@@ -886,7 +859,6 @@
           "lvl": 22
         }
       ],
-      "skills": ["Aerial Ace", "Dig", "Metal Claw", "Night Slash", "Swords Dance", "Sandstorm", "Scratch"],
       "details": {
         "type": "melee",
         "hp": 150,
@@ -913,7 +885,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Flatter", "Focus Energy", "Growl", "Mud-Slap"],
       "specialskill": [
         {
           "name": "Sing",
@@ -955,7 +926,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Flatter", "Focus Energy", "Growl", "Mud-Slap", "Poison Sting"],
       "details": {
         "type": "melee",
         "hp": 325,
@@ -982,7 +952,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Flatter", "Focus Energy", "Growl", "Mud-Slap", "Poison Sting", "Sludge Bomb", "Stealth Rock", "Supersonic", "Venom Drench"],
       "details": {
         "type": "melee",
         "hp": 600,
@@ -1009,7 +978,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Growl", "Iron Tail", "Rock Smash", "Take Down", "Toxic"],
       "specialskill": [
         {
           "name": "Work Up",
@@ -1055,7 +1023,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Amnesia", "Iron Tail", "Rock Smash", "Toxic"],
       "details": {
         "type": "melee",
         "hp": 175,
@@ -1082,7 +1049,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Amnesia", "Earthquake", "Iron Tail", "Megahorn", "Rock Smash", "Rock Tomb", "Taunt", "Toxic"],
       "details": {
         "type": "melee",
         "hp": 200,
@@ -1105,7 +1071,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Amnesia", "Flash", "Light Screen", "Rollout", "Take Down", "Taunt"],
       "details": {
         "type": "melee",
         "hp": 120,
@@ -1157,7 +1122,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Dazzling Gleam", "Flash", "Follow Me", "Light Screen"],
       "details": {
         "type": "melee",
         "hp": 450,
@@ -1180,7 +1144,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Charm", "Ember", "Flame Charge", "Flamethrower", "Roar"],
       "details": {
         "type": "range",
         "hp": 110,
@@ -1212,7 +1175,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Charm", "Confuse Ray", "Ember", "Fire Blast", "Flame Charge", "Flamethrower", "Heat Wave", "Solar Beam", "Roar", "Will-O-Wisp"],
       "details": {
         "type": "range",
         "hp": 550,
@@ -1235,7 +1197,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Flash", "Mega Punch", "Rollout", "Sing", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 140,
@@ -1275,7 +1236,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Bounce", "Dynamic Punch", "Flash", "Mega Punch", "Play Rough", "Rollout", "Sing", "Sweet Kiss", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 450,
@@ -1297,7 +1257,6 @@
           "lvl": 22
         }
       ],
-      "skills": ["Gust", "Leech Life", "Supersonic", "Taunt", "U-turn", "Whirlwind"],
       "details": {
         "type": "range",
         "hp": 80,
@@ -1337,7 +1296,6 @@
           "lvl": 22
         }
       ],
-      "skills": ["Gust", "Leech Life", "Nasty Plot", "Roost", "Tailwind", "Taunt", "Venom Drench", "Whirlwind"],
       "details": {
         "type": "range",
         "hp": 200,
@@ -1364,7 +1322,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Flash", "Petal Dance", "Poison Powder", "Stun Spore"],
       "details": {
         "type": "range",
         "hp": 75,
@@ -1408,7 +1365,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Bullet Seed", "Charm", "Flash", "Petal Dance", "Poison Powder", "Stun Spore", "Synthesis"],
       "details": {
         "type": "range",
         "hp": 250,
@@ -1435,7 +1391,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Bullet Seed", "Charm", "Flash", "Petal Dance", "Solar Beam"],
       "details": {
         "type": "range",
         "hp": 300,
@@ -1458,7 +1413,6 @@
           "lvl": 24
         }
       ],
-      "skills": ["Leech Seed", "Light Screen", "Poison Powder", "Rage Powder", "Stun Spore"],
       "details": {
         "type": "range",
         "hp": 80,
@@ -1506,7 +1460,6 @@
           "lvl": 24
         }
       ],
-      "skills": ["Agility", "Bullet Seed", "Leech Seed", "Light Screen", "Metal Claw", "Poison Powder", "Psybeam", "Rage Powder", "Spore", "Stun Spore"],
       "details": {
         "type": "range",
         "hp": 200,
@@ -1529,7 +1482,6 @@
           "lvl": 31
         }
       ],
-      "skills": ["Poison Powder", "Psybeam", "String Shot", "Stun Spore"],
       "details": {
         "type": "range",
         "hp": 120,
@@ -1577,7 +1529,6 @@
           "lvl": 31
         }
       ],
-      "skills": ["Gust", "Poison Powder", "Psybeam", "Psychic", "Silver Wind", "String Shot", "Stun Spore", "Supersonic"],
       "details": {
         "type": "range",
         "hp": 350,
@@ -1600,7 +1551,6 @@
           "lvl": 26
         }
       ],
-      "skills": ["Dig", "Growl", "Mud Bomb", "Mud-Slap", "Stealth Rock"],
       "details": {
         "type": "range",
         "hp": 60,
@@ -1660,7 +1610,6 @@
           "lvl": 26
         }
       ],
-      "skills": ["Dig", "Earthquake", "Growl", "Mud Bomb", "Mud-Slap", "Rock Throw", "Shore Up", "Stealth Rock", "Sucker Punch"],
       "details": {
         "type": "range",
         "hp": 100,
@@ -1683,7 +1632,6 @@
           "lvl": 28
         }
       ],
-      "skills": ["Fury Swipes", "Growl", "Scratch", "Taunt", "U-turn"],
       "details": {
         "type": "melee",
         "hp": 85,
@@ -1715,7 +1663,6 @@
           "lvl": 28
         }
       ],
-      "skills": ["Flail", "Fury Swipes", "Growl", "Nasty Plot", "Night Slash", "Play Rough", "Roar", "Scratch", "Taunt", "U-turn"],
       "details": {
         "type": "melee",
         "hp": 300,
@@ -1738,7 +1685,6 @@
           "lvl": 33
         }
       ],
-      "skills": ["Amnesia", "Confuse Ray", "Icy Wind", "Light Screen", "Whirlpool"],
       "details": {
         "type": "range",
         "hp": 80,
@@ -1770,7 +1716,6 @@
           "lvl": 33
         }
       ],
-      "skills": ["Amnesia", "Confuse Ray", "Hydro Pump", "Ice Beam", "Icy Wind", "Light Screen", "Mud Bomb", "Psybeam", "Psychic"],
       "details": {
         "type": "range",
         "hp": 200,
@@ -1793,7 +1738,6 @@
           "lvl": 28
         }
       ],
-      "skills": ["Fury Swipes", "Leer", "Scratch", "Submission", "Taunt"],
       "details": {
         "type": "melee",
         "hp": 60,
@@ -1821,7 +1765,6 @@
           "lvl": 28
         }
       ],
-      "skills": ["Close Combat", "Cross Chop", "Focus Energy", "Fury Swipes", "Leer", "Meditate", "Mega Punch", "Night Slash", "Scratch", "Submission", "Taunt"],
       "details": {
         "type": "melee",
         "hp": 150,
@@ -1844,7 +1787,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Ember", "Flame Charge", "Flame Wheel", "Flamethrower", "Roar"],
       "details": {
         "type": "melee",
         "hp": 80,
@@ -1880,7 +1822,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Agility", "Crunch", "Extreme Speed", "Ember", "Fire Blast", "Flame Charge", "Flame Wheel", "Flamethrower", "Flare Blitz", "Roar"],
       "details": {
         "type": "melee",
         "hp": 350,
@@ -1907,7 +1848,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Aqua Jet", "Bubble", "Flail", "Surf", "Waterfall"],
       "details": {
         "type": "melee",
         "hp": 90,
@@ -1943,7 +1883,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Aqua Jet", "Bulk Up", "Flail", "Mega Punch", "Surf", "Waterfall"],
       "details": {
         "type": "melee",
         "hp": 350,
@@ -1970,7 +1909,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Amnesia", "Bubble", "Bulk Up", "Dynamic Punch", "Flail", "Ice Punch", "Mega Punch", "Power-Up Punch", "Surf", "Waterfall"],
       "details": {
         "type": "melee",
         "hp": 350,
@@ -1982,7 +1920,7 @@
     {
       "id": "063",
       "name": "Abra",
-      "type": ["phychc"],
+      "type": ["psychc"],
       "evolution": [
         {
           "id": "063",
@@ -1997,7 +1935,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Barrier", "Flash", "Light Screen", "Psybeam", "Teleport"],
       "details": {
         "type": "range",
         "hp": 45,
@@ -2018,7 +1955,7 @@
     {
       "id": "064",
       "name": "Kadabra",
-      "type": ["phychc"],
+      "type": ["psychc"],
       "evolution": [
         {
           "id": "063",
@@ -2033,7 +1970,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Barrier", "Dazzling Gleam", "Flash", "Light Screen", "Psybeam", "Psychic", "Teleport"],
       "details": {
         "type": "range",
         "hp": 90,
@@ -2045,7 +1981,7 @@
     {
       "id": "065",
       "name": "Alakazam",
-      "type": ["phychc"],
+      "type": ["psychc"],
       "evolution": [
         {
           "id": "063",
@@ -2060,7 +1996,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Barrier", "Dazzling Gleam", "Flash", "Light Screen", "Psybeam", "Psychic", "Psycho Cut", "Recover", "Shadow Ball", "Teleport"],
       "details": {
         "type": "range",
         "hp": 100,
@@ -2087,7 +2022,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Bulk Up", "Rock Smash", "Rolling Kick", "Submission"],
       "details": {
         "type": "melee",
         "hp": 80,
@@ -2127,7 +2061,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Bulk Up", "Cross Chop", "Mega Punch", "Rock Smash", "Rolling Kick", "Submission", "Work Up"],
       "details": {
         "type": "melee",
         "hp": 200,
@@ -2154,7 +2087,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Bulk Up", "Close Combat", "Cross Chop", "Dynamic Punch", "Mega Punch", "Power-Up Punch", "Rock Smash", "Rolling Kick", "Work Up"],
       "details": {
         "type": "melee",
         "hp": 250,
@@ -2181,7 +2113,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Bullet Seed", "Razor Leaf", "Sludge Bomb", "Synthesis"],
       "details": {
         "type": "range",
         "hp": 80,
@@ -2221,7 +2152,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Bullet Seed", "Razor Leaf", "Sludge Bomb", "Synthesis"],
       "details": {
         "type": "range",
         "hp": 250,
@@ -2248,7 +2178,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Bullet Seed", "Hyper Beam", "Sludge Bomb", "Solar Beam", "Stun Spore", "Vine Whip"],
       "details": {
         "type": "range",
         "hp": 300,
@@ -2271,7 +2200,6 @@
           "lvl": 30
         }
       ],
-      "skills": ["Barrier", "Bubble", "Ice Beam", "Poison Sting", "Sludge Bomb", "Whirlpool"],
       "details": {
         "type": "range",
         "hp": 90,
@@ -2307,7 +2235,6 @@
           "lvl": 30
         }
       ],
-      "skills": ["Barrier", "Bubble", "Confuse Ray", "Hydro Pump", "Icy Wind", "Poison Sting", "Sludge Bomb", "Supersonic", "Whirlpool"],
       "details": {
         "type": "range",
         "hp": 550,
@@ -2334,7 +2261,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Charge", "Dig", "Flail", "Harden", "Tackle"],
       "details": {
         "type": "melee",
         "hp": 140,
@@ -2374,7 +2300,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Flail", "Harden", "Rollout", "Self-Destruct", "Stealth Rock", "Tackle"],
       "details": {
         "type": "melee",
         "hp": 610,
@@ -2401,7 +2326,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Dig", "Earthquake", "Explosion", "Flail", "Harden", "Rock Polish", "Rollout", "Self-Destruct", "Stealth Rock"],
       "details": {
         "type": "melee",
         "hp": 700,
@@ -2424,7 +2348,6 @@
           "lvl": 40
         }
       ],
-      "skills": ["Agility", "Bounce", "Fire Spin", "Flame Charge", "Self-Destruct", "Stomp"],
       "details": {
         "type": "melee",
         "hp": 100,
@@ -2488,7 +2411,6 @@
           "lvl": 40
         }
       ],
-      "skills": ["Bounce", "Confuse Ray", "Fire Blast", "Fire Spin", "Flame Charge", "Flamethrower", "Flare Blitz", "Megahorn", "Self-Destruct", "Stomp", "Will-O-Wisp"],
       "details": {
         "type": "melee",
         "hp": 400,
@@ -2500,7 +2422,7 @@
     {
       "id": "079",
       "name": "Slowpoke",
-      "type": ["water", "phychc"],
+      "type": ["water", "psychc"],
       "evolution": [
         {
           "id": "079",
@@ -2511,7 +2433,6 @@
           "lvl": 37
         }
       ],
-      "skills": ["Amnesia", "Growl", "Ice Punch", "Light Screen", "Tackle", "Zen Headbutt"],
       "details": {
         "type": "melee",
         "hp": 130,
@@ -2548,7 +2469,7 @@
     {
       "id": "080",
       "name": "Slowbro",
-      "type": ["water", "phychc"],
+      "type": ["water", "psychc"],
       "evolution": [
         {
           "id": "079",
@@ -2559,7 +2480,6 @@
           "lvl": 37
         }
       ],
-      "skills": ["Amnesia", "Belly Drum", "Growl", "Ice Punch", "Light Screen", "Rest", "Surf", "Tackle", "Withdraw", "Zen Headbutt"],
       "details": {
         "type": "melee",
         "hp": 650,
@@ -2582,7 +2502,6 @@
           "lvl": 30
         }
       ],
-      "skills": ["Charge", "Electroweb", "Flash Cannon", "Metal Sound", "Supersonic"],
       "details": {
         "type": "range",
         "hp": 80,
@@ -2622,7 +2541,6 @@
           "lvl": 30
         }
       ],
-      "skills": ["Charge", "Electric Terrain", "Explosion", "Flash Cannon", "Light Screen", "Metal Sound", "Supersonic", "Thunder", "Thunderbolt"],
       "details": {
         "type": "range",
         "hp": 300,
@@ -2636,7 +2554,6 @@
       "name": "Farfetch'd",
       "type": ["normal", "flying"],
       "evolution": [],
-      "skills": ["Gust", "Heat Wave", "Night Slash", "Roost", "Sky Attack", "Steel Wing", "Sucker Punch", "Swords Dance", "Tailwind", "U-turn"],
       "details": {
         "type": "melee",
         "hp": 350,
@@ -2692,7 +2609,6 @@
           "lvl": 31
         }
       ],
-      "skills": ["Agility", "Drill Peck", "Flail", "Growl", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 80,
@@ -2748,7 +2664,6 @@
           "lvl": 31
         }
       ],
-      "skills": ["Aerial Ace", "Drill Peck", "Flail", "Growl", "Swords Dance", "Tailwind", "Take Down", "Tri Attack", "Work Up"],
       "details": {
         "type": "melee",
         "hp": 200,
@@ -2771,7 +2686,6 @@
           "lvl": 34
         }
       ],
-      "skills": ["Blizzard", "Growl", "Lick", "Surf", "Take Down"],
       "details": {
         "type": "range",
         "hp": 110,
@@ -2803,7 +2717,6 @@
           "lvl": 34
         }
       ],
-      "skills": ["Aqua Ring", "Aurora Veil", "Blizzard", "Growl", "Lick", "Rest", "Slam", "Surf", "Take Down"],
       "details": {
         "type": "range",
         "hp": 500,
@@ -2826,7 +2739,6 @@
           "lvl": 38
         }
       ],
-      "skills": ["Acid Armor", "Slam", "Tackle", "Toxic", "Venom Drench"],
       "details": {
         "type": "melee",
         "hp": 110,
@@ -2874,7 +2786,6 @@
           "lvl": 38
         }
       ],
-      "skills": ["Acid Armor", "Lick", "Power-Up Punch", "Slam", "Tackle", "Taunt", "Venom Drench"],
       "details": {
         "type": "melee",
         "hp": 650,
@@ -2897,7 +2808,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Barrier", "Bubble", "Ice Beam", "Iron Defense", "Withdraw"],
       "details": {
         "type": "range",
         "hp": 120,
@@ -2937,7 +2847,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Barrier", "Ice Beam", "Icicle Crash", "Icy Wind", "Rock Blast", "Spikes", "Supersonic"],
       "details": {
         "type": "range",
         "hp": 575,
@@ -2964,7 +2873,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Astonish", "Lick", "Smog", "Sucker Punch"],
       "details": {
         "type": "melee",
         "hp": 50,
@@ -3008,7 +2916,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Astonish", "Lick", "Smog", "Sucker Punch"],
       "details": {
         "type": "melee",
         "hp": 125,
@@ -3035,7 +2942,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Astonish", "Confuse Ray", "Hypnosis", "Lick", "Mega Drain", "Shadow Ball", "Smog", "Sucker Punch", "Toxic"],
       "details": {
         "type": "melee",
         "hp": 150,
@@ -3049,7 +2955,6 @@
       "name": "Onix",
       "type": ["rock", "ground"],
       "evolution": [],
-      "skills": ["Flash Cannon", "Harden", "Iron Tail", "Lick", "Roar", "Rock Polish", "Rock Smash", "Rock Throw", "Rock Tomb", "Sandstorm", "Stealth Rock"],
       "details": {
         "type": "range",
         "hp": 600,
@@ -3134,7 +3039,7 @@
     {
       "id": "096",
       "name": "Drowzee",
-      "type": ["phychc"],
+      "type": ["psychc"],
       "evolution": [
         {
           "id": "096",
@@ -3145,7 +3050,6 @@
           "lvl": 26
         }
       ],
-      "skills": ["Barrier", "Flash", "Light Screen", "Psybeam", "Taunt"],
       "details": {
         "type": "range",
         "hp": 120,
@@ -3166,7 +3070,7 @@
     {
       "id": "097",
       "name": "Hypno",
-      "type": ["phychc"],
+      "type": ["psychc"],
       "evolution": [
         {
           "id": "096",
@@ -3177,7 +3081,6 @@
           "lvl": 26
         }
       ],
-      "skills": ["Barrier", "Flatter", "Hypnosis", "Light Screen", "Meditate", "Psybeam", "Psychic", "Shadow Ball", "Taunt"],
       "details": {
         "type": "range",
         "hp": 500,
@@ -3200,7 +3103,6 @@
           "lvl": 28
         }
       ],
-      "skills": ["Flail", "Harden", "Leer", "Stomp", "Surf"],
       "details": {
         "type": "melee",
         "hp": 70,
@@ -3232,7 +3134,6 @@
           "lvl": 28
         }
       ],
-      "skills": ["Giga Impact", "Slam", "Harden", "Leer", "Stomp", "Surf"],
       "details": {
         "type": "melee",
         "hp": 100,
@@ -3255,7 +3156,6 @@
           "lvl": 30
         }
       ],
-      "skills": ["Rollout", "Self-Destruct", "Tackle", "Taunt", "Thunder Shock"],
       "details": {
         "type": "melee",
         "hp": 110,
@@ -3287,7 +3187,6 @@
           "lvl": 30
         }
       ],
-      "skills": ["Explosion", "Light Screen", "Rollout", "Self-Destruct", "Tackle", "Taunt", "Thunder Shock", "Thunderbolt"],
       "details": {
         "type": "melee",
         "hp": 400,
@@ -3299,7 +3198,7 @@
     {
       "id": "102",
       "name": "Exeggcute",
-      "type": ["grass", "phychc"],
+      "type": ["grass", "psychc"],
       "evolution": [
         {
           "id": "102",
@@ -3310,7 +3209,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Flash", "Leech Seed", "Psychic", "Sludge Bomb", "Synthesis"],
       "details": {
         "type": "range",
         "hp": 130,
@@ -3339,7 +3237,7 @@
     {
       "id": "103",
       "name": "Exeggutor",
-      "type": ["grass", "phychc"],
+      "type": ["grass", "psychc"],
       "evolution": [
         {
           "id": "102",
@@ -3350,7 +3248,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Bullet Seed", "Egg Bomb", "Flash", "Leech Seed", "Psychic", "Sludge Bomb", "Solar Beam", "Stomp", "Stun Spore", "Synthesis"],
       "details": {
         "type": "range",
         "hp": 250,
@@ -3373,7 +3270,6 @@
           "lvl": 328
         }
       ],
-      "skills": ["Bonemerang", "Focus Energy", "Growl", "Leer", "Sandstorm"],
       "details": {
         "type": "melee",
         "hp": 130,
@@ -3409,7 +3305,6 @@
           "lvl": 28
         }
       ],
-      "skills": ["Aerial Ace", "Belly Drum", "Bonemerang", "Earthquake", "Outrage", "Rock Tomb", "Sandstorm"],
       "details": {
         "type": "melee",
         "hp": 525,
@@ -3423,7 +3318,6 @@
       "name": "Hitmonlee",
       "type": ["fight"],
       "evolution": [],
-      "skills": ["Bounce", "Bulk Up", "Close Combat", "Focus Energy", "High Jump Kick", "Meditate", "Rock Smash", "Rolling Kick", "Submission", "Sucker Punch"],
       "details": {
         "type": "melee",
         "hp": 50,
@@ -3450,7 +3344,6 @@
       "name": "Hitmonchan",
       "type": ["fight"],
       "evolution": [],
-      "skills": ["Close Combat", "Comet Punch", "Drain Punch", "Dynamic Punch", "Fire Punch", "Ice Punch", "Mega Punch", "Power-Up Punch", "Rock Smash", "Sucker Punch"],
       "details": {
         "type": "melee",
         "hp": 75,
@@ -3477,7 +3370,6 @@
       "name": "Lickitung",
       "type": ["normal"],
       "evolution": [],
-      "skills": ["Amnesia", "Belly Drum", "Lick", "Mega Punch", "Power-Up Punch", "Rock Smash", "Rollout", "Slam", "Stomp", "Sucker Punch"],
       "details": {
         "type": "melee",
         "hp": 600,
@@ -3513,7 +3405,6 @@
           "lvl": 35
         }
       ],
-      "skills": ["Flamethrower", "Lava Plume", "Self-Destruct", "Sludge Bomb", "Smog"],
       "details": {
         "type": "range",
         "hp": 140,
@@ -3549,7 +3440,6 @@
           "lvl": 35
         }
       ],
-      "skills": ["Explosion", "Flamethrower", "Lava Plume", "Self-Destruct", "Sludge Bomb", "Smog", "Venom Drench"],
       "details": {
         "type": "range",
         "hp": 450,
@@ -3572,7 +3462,6 @@
           "lvl": 42
         }
       ],
-      "skills": ["Crunch", "Flail", "Iron Tail", "Roar", "Stomp", "Tackle", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 120,
@@ -3608,7 +3497,6 @@
           "lvl": 42
         }
       ],
-      "skills": ["Crunch", "Dragon Rush", "Earthquake", "Iron Tail", "Megahorn", "Rock Polish", "Rock Smash", "Roar", "Stomp", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 300,
@@ -3622,7 +3510,6 @@
       "name": "Chansey",
       "type": ["normal"],
       "evolution": [],
-      "skills": ["Charm", "Egg Bomb", "Flail", "Light Screen", "Mega Punch", "Rock Smash", "Sing", "Soft-Boiled", "Sweet Kiss", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 675,
@@ -3645,7 +3532,6 @@
       "name": "Tangela",
       "type": ["grass"],
       "evolution": [],
-      "skills": ["Amnesia", "Leech Seed", "Mega Drain", "Rage Powder", "Rest", "Slam", "Stun Spore", "Substitute", "Synthesis", "Vine Whip"],
       "details": {
         "type": "melee",
         "hp": 400,
@@ -3672,7 +3558,6 @@
       "name": "Kangaskhan",
       "type": ["normal"],
       "evolution": [],
-      "skills": ["Crunch", "Focus Energy", "Leer", "Mega Punch", "Outrage", "Rest", "Rock Tomb", "Stomp", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 350,
@@ -3716,7 +3601,6 @@
           "lvl": 32
         }
       ],
-      "skills": ["Agility", "Bubble", "Icy Wind", "Twister", "Whirlpool"],
       "details": {
         "type": "range",
         "hp": 90,
@@ -3756,7 +3640,6 @@
           "lvl": 32
         }
       ],
-      "skills": ["Agility", "Bubble", "Dragon Dance", "Dragon Pulse", "Flash Cannon", "Hydro Pump", "Icy Wind", "Twister", "Whirlpool"],
       "details": {
         "type": "range",
         "hp": 250,
@@ -3779,7 +3662,6 @@
           "lvl": 33
         }
       ],
-      "skills": ["Aqua Jet", "Flail", "Splash", "Surf", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 70,
@@ -3811,7 +3693,6 @@
           "lvl": 33
         }
       ],
-      "skills": ["Agility", "Aqua Jet", "Flail", "Megahorn", "Surf", "Waterfall"],
       "details": {
         "type": "melee",
         "hp": 350,
@@ -3834,7 +3715,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Flash", "Flash Cannon", "Ice Beam", "Icy Wind", "Twister"],
       "details": {
         "type": "range",
         "hp": 60,
@@ -3855,7 +3735,7 @@
     {
       "id": "121",
       "name": "Starmie",
-      "type": ["water", "phychc"],
+      "type": ["water", "psychc"],
       "evolution": [
         {
           "id": "120",
@@ -3866,7 +3746,6 @@
           "lvl": 36
         }
       ],
-      "skills": ["Blizzard", "Confuse Ray", "Flash", "Flash Cannon", "Hydro Pump", "Hyper Beam", "Ice Beam", "Icy Wind", "Psychic", "Twister"],
       "details": {
         "type": "range",
         "hp": 150,
@@ -3878,9 +3757,8 @@
     {
       "id": "122",
       "name": "Mr. Mime",
-      "type": ["fairy", "phychc"],
+      "type": ["fairy", "psychc"],
       "evolution": [],
-      "skills": ["Barrier", "Charm", "Follow Me", "Hypnosis", "Light Screen", "Meditate", "Nasty Plot", "Psychic", "Substitute", "Taunt"],
       "details": {
         "type": "range",
         "hp": 575,
@@ -3903,7 +3781,6 @@
       "name": "Scyther",
       "type": ["bug", "flying"],
       "evolution": [],
-      "skills": ["Aerial Ace", "Agility", "Lunge", "Night Slash", "Rock Smash", "Silver Wind", "Steel Wing", "Swords Dance", "Tailwind", "U-turn"],
       "details": {
         "type": "melee",
         "hp": 100,
@@ -3928,9 +3805,8 @@
     {
       "id": "124",
       "name": "Jynx",
-      "type": ["ice", "phychc"],
+      "type": ["ice", "psychc"],
       "evolution": [],
-      "skills": ["Aurora Veil", "Blizzard", "Draining Kiss", "Flash", "Ice Beam", "Psychic", "Sing", "Sweet Kiss"],
       "details": {
         "type": "range",
         "hp": 150,
@@ -3957,7 +3833,6 @@
       "name": "Electabuzz",
       "type": ["electr"],
       "evolution": [],
-      "skills": ["Charge", "Cross Chop", "Dynamic Punch", "Electroweb", "Meditate", "Power-Up Punch", "Thunder", "Thunder Punch", "Thunder Shock", "Thunderbolt"],
       "details": {
         "type": "melee",
         "hp": 300,
@@ -3984,7 +3859,6 @@
       "name": "Magmar",
       "type": ["fire"],
       "evolution": [],
-      "skills": ["Belly Drum", "Cross Chop", "Fire Blast", "Flamethrower", "Follow Me", "Smog", "Will-O-Wisp"],
       "details": {
         "type": "melee",
         "hp": 175,
@@ -4007,7 +3881,6 @@
       "name": "Pinsir",
       "type": ["bug"],
       "evolution": [],
-      "skills": ["Bulk Up", "Close Combat", "Earthquake", "Focus Energy", "Harden", "Rock Smash", "Rock Tomb", "Submission", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 75,
@@ -4030,7 +3903,6 @@
       "name": "Tauros",
       "type": ["normal"],
       "evolution": [],
-      "skills": ["Blizzard", "Earthquake", "Flamethrower", "Giga Impact", "Hyper Beam", "Iron Tail", "Outrage", "Take Down", "Zen Headbutt"],
       "details": {
         "type": "melee",
         "hp": 100,
@@ -4070,7 +3942,6 @@
           "lvl": 20
         }
       ],
-      "skills": ["Bounce", "Flail", "Splash", "Tackle"],
       "details": {
         "type": "melee",
         "hp": 25,
@@ -4106,7 +3977,6 @@
           "lvl": 20
         }
       ],
-      "skills": ["Bounce", "Crunch", "Dragon Dance", "Hyper Beam", "Outrage", "Tackle", "Taunt", "Waterfall"],
       "details": {
         "type": "melee",
         "hp": 200,
@@ -4120,7 +3990,6 @@
       "name": "Lapras",
       "type": ["water", "ice"],
       "evolution": [],
-      "skills": ["Aurora Veil", "Blizzard", "Growl", "Hydro Pump", "Ice Beam", "Icicle Crash", "Icy Wind", "Rest", "Sing"],
       "specialskill": [
         {
           "name": "Aqua Ring",
@@ -4153,7 +4022,6 @@
       "name": "Ditto",
       "type": ["normal"],
       "evolution": [],
-      "skills": ["Transform"],
       "details": {
         "type": "range",
         "hp": 350,
@@ -4207,7 +4075,6 @@
           }
         ]
       ],
-      "skills": ["Charm", "Dig", "Flail", "Growl", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 100,
@@ -4244,7 +4111,6 @@
         }
       ],
       "evolutiondesc": "*Ensure HP > ATK during evolution, HP power stones only",
-      "skills": ["Acid Armor", "Aqua Ring", "Charm", "Dig", "Hydro Pump", "Take Down", "Waterfall", "Whirlpool"],
       "details": {
         "type": "melee",
         "hp": 600,
@@ -4268,7 +4134,6 @@
         }
       ],
       "evolutiondesc": "*Ensure ATK = HP during evolution, equal amount of HP & ATK power stones",
-      "skills": ["Charm", "Dig", "Pin Missile", "Spark", "Take Down", "Thunder", "Thunderbolt"],
       "details": {
         "type": "melee",
         "hp": 250,
@@ -4292,7 +4157,6 @@
         }
       ],
       "evolutiondesc": "*Ensure ATK > HP during evolution, ATK power stones only",
-      "skills": ["Charm", "Dig", "Ember", "Flamethrower", "Flare Blitz", "Lava Plume", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 200,
@@ -4306,7 +4170,6 @@
       "name": "Porygon",
       "type": ["normal"],
       "evolution": [],
-      "skills": ["Agility", "Flamethrower", "Hyper Beam", "Ice Beam", "Iron Tail", "Psybeam", "Recover", "Shadow Ball", "Thunderbolt", "Tri Attack"],
       "details": {
         "type": "range",
         "hp": 350,
@@ -4346,7 +4209,6 @@
           "lvl": 40
         }
       ],
-      "skills": ["Bubble", "Hydro Pump", "Icy Wind", "Spikes", "Whirlpool", "Withdraw"],
       "details": {
         "type": "range",
         "hp": 140,
@@ -4390,7 +4252,6 @@
           "lvl": 40
         }
       ],
-      "skills": ["Bubble", "Hydro Pump", "Ice Beam", "Icy Wind", "Rock Polish", "Whirlpool", "Supersonic"],
       "details": {
         "type": "range",
         "hp": 575,
@@ -4413,7 +4274,6 @@
           "lvl": 40
         }
       ],
-      "skills": ["Aqua Jet", "Metal Sound", "Rock Tomb", "Surf", "Waterfall", "Withdraw"],
       "details": {
         "type": "melee",
         "hp": 70,
@@ -4453,7 +4313,6 @@
           "lvl": 40
         }
       ],
-      "skills": ["Aerial Ace", "Night Slash", "Rock Tomb", "Waterfall", "Withdraw"],
       "details": {
         "type": "melee",
         "hp": 150,
@@ -4467,7 +4326,6 @@
       "name": "Aerodactyl",
       "type": ["rock", "flying"],
       "evolution": [],
-      "skills": ["Agility", "Crunch", "Dragon Claw", "Earthquake", "Fly", "Rock Tomb", "Roost", "Sandstorm", "Sky Attack", "Take Down"],
       "details": {
         "type": "melee",
         "hp": 125,
@@ -4490,7 +4348,6 @@
       "name": "Snorlax",
       "type": ["normal"],
       "evolution": [],
-      "skills": ["Amnesia", "Belly Drum", "Earthquake", "Harden", "Mega Punch", "Outrage", "Rest", "Rollout", "Take Down"],
       "specialskill": [
         {
           "name": "Giga Impact",
@@ -4527,7 +4384,6 @@
       "name": "Articuno",
       "type": ["ice", "flying"],
       "evolution": [],
-      "skills": ["Agility", "Aurora Veil", "Blizzard", "Hurricane", "Icy Wind", "Roost", "Sky Attack", "Steel Wing", "U-turn"],
       "details": {
         "type": "range",
         "hp": 600,
@@ -4546,7 +4402,6 @@
       "name": "Zapdos",
       "type": ["electr", "flying"],
       "evolution": [],
-      "skills": ["Agility", "Charge", "Drill Peck", "Light Screen", "Metal Sound", "Roost", "Sky Attack", "Thunder", "Thunder Shock"],
       "details": {
         "type": "range",
         "hp": 350,
@@ -4565,7 +4420,6 @@
       "name": "Moltres",
       "type": ["fire", "flying"],
       "evolution": [],
-      "skills": ["Ember", "Fire Blast", "Fire Spin", "Flamethrower", "Heat Wave", "Lava Plume", "Leer", "Roost", "Sky Attack", "Will-O-Wisp"],
       "details": {
         "type": "range",
         "hp": 500,
@@ -4597,7 +4451,6 @@
           "lvl": 55
         }
       ],
-      "skills": ["Agility", "Dragon Dance", "Dragon Pulse", "Dragon Rush", "Extreme Speed"],
       "details": {
         "type": "melee",
         "hp": 80,
@@ -4633,7 +4486,6 @@
           "lvl": 55
         }
       ],
-      "skills": ["Agility", "Dragon Dance", "Dragon Pulse", "Dragon Rush", "Earthquake", "Extreme Speed", "Twister"],
       "details": {
         "type": "melee",
         "hp": 300,
@@ -4660,7 +4512,6 @@
           "lvl": 55
         }
       ],
-      "skills": ["Agility", "Draco Meteor", "Dragon Dance", "Dragon Pulse", "Dragon Rush", "Earthquake", "Extreme Speed", "Hyper Beam", "Outrage", "Twister"],
       "details": {
         "type": "melee",
         "hp": 400,
@@ -4672,9 +4523,8 @@
     {
       "id": "150",
       "name": "Mewtwo",
-      "type": ["phychc"],
+      "type": ["psychc"],
       "evolution": [],
-      "skills": ["Blizzard", "Bulk Up", "Giga Impact", "Hyper Beam", "Psychic", "Psycho Cut", "Psystrike", "Recover", "Shadow Ball", "Thunderbolt"],
       "details": {
         "type": "range",
         "hp": 550,
@@ -4691,9 +4541,8 @@
     {
       "id": "151",
       "name": "Mew",
-      "type": ["phychc"],
+      "type": ["psychc"],
       "evolution": [],
-      "skills": ["Amnesia", "Flash Cannon", "Heat Wave", "Hyper Beam", "Light Screen", "Psychic", "Recover", "Teleport", "Thunder", "Tri Attack"],
       "details": {
         "type": "range",
         "hp": 650,
