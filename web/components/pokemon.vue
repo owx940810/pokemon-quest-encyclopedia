@@ -69,9 +69,9 @@
         p(v-if="typeof pokemon.recipes === 'string'") {{ pokemon.recipes }}
         li.ingredients(v-else, v-for="recipe in pokemon.recipes")
           .ingredient-wrapper(v-for="ingredient in recipe.ingredients")
-            .ingredient(:class="ingredient", v-if="ingredient.split('').length === 1")
-            .multi-ingredient(v-if="ingredient.split('').length > 1")
-              .ingredient(v-for="item in ingredient.split('')", :class="item")
+            .ingredient(:class="ingredient")
+            //- .multi-ingredient(v-if="ingredient.split('').length > 1")
+            //-   .ingredient(v-for="item in ingredient.split('')", :class="item")
           p {{ recipe.rate }}#[span %]
 
     button.favorite(@click="addFavorite", v-show="favoritestate") Add to Favorites

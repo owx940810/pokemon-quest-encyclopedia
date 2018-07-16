@@ -27,6 +27,13 @@ const getPokemons = async () => {
   })
 }
 
+let recipes
+const getRecipes = async () => {
+  const response = await window.fetch(process.env.WEB_BASE + '/static/json/complete-recipes.json')
+  const data = await response.json()
+  return recipes = data
+}
+
 let pokemonskills
 const getPokemonSkills = async () => {
   const response = await window.fetch(process.env.WEB_BASE + '/static/json/pokemon-skills.json')
@@ -49,15 +56,22 @@ const getBingo = async () => {
 }
 
 const massageData = async () => {
-  pokemondata.map(pokemon => {
+  pokemondata.map((pokemon, index) => {
     pokemon.bingo = bingobonuses.find(item => parseInt(item.pokemon) === parseInt(pokemon.id)).bingo
     pokemon.skills = pokemonskills.find(item => item.pokemon === pokemon.id).skills
+    let temprecipe = recipes.find(item => item.name === pokemon.name)
+    if (temprecipe) {
+      pokemon.recipes = temprecipe.recipes
+    } else {
+      pokemon.recipes = pokemondata[index - 1].recipes
+    }
     return pokemon
   })
 }
 
 const init = async () => {
   await getPokemons()
+  await getRecipes()
   await getPokemonSkills()
   await getSkills()
   await getBingo()
