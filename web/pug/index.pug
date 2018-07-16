@@ -20,7 +20,7 @@ html
 
   body
     #app
-      #alert(v-if="alertstate")
+      #alert(v-if="alertstate", :class="{active: alertstate}")
         button(@click="closeAlert")
         p Hi, thank you for visiting pokemonquestpedia. To those who provided feedback on the site through #[a(href="https://www.reddit.com/r/PokemonQuest/comments/8z14wf/created_a_encyclopedia_page_for_pokemon_quest/?st=jjo9a1ka&sh=bc5f5cc2") reddit thread], I wont be able to attend to every request for enhancements, but I'll try to get the wrong information right ASAP so that everyone can view this website without any false information :) Updated all pokemon skills and recipes. Currently recipes are only narrowed down to top 10 rates, will try to get the multiple ingredients of the same percentage out soon. Thanks!
       router-link#logo(to="/")

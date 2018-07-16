@@ -89,14 +89,11 @@ const init = async () => {
     created () {
     },
     mounted () {
-      // let today = new moment()
-      // let appointeddate = new moment('23-07-2018', 'DD-MM-YYY')
-      // console.log(today)
-      // console.log(appointeddate)
+      let now = new moment()
+      let end = new moment('2018-7-23', 'YYYY-MM-DD')
+      let duration = moment.duration(now.diff(end)).asDays()
 
-      // console.log(moment.duration(today.diff(appointeddate)))
-
-      if (!window.localStorage.getItem('versionalert')) {
+      if (duration < 0 && !window.localStorage.getItem('versionalert')) {
         this.alertstate = true
       }
     },
