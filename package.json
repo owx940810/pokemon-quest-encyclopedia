@@ -6,6 +6,7 @@
   "author": "calvin <calvin@compass-interactive.com>",
   "license": "MIT",
   "dependencies": {
+    "array-sort": "^1.0.0",
     "boxescms": "^0.6.3"
   },
   "scripts": {
