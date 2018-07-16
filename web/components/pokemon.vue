@@ -308,7 +308,6 @@
 
       getSkills () {
         this.pokemon.detailedskills = this.pokemon.skills.map(skill => {
-
           return this.$parent.skills.find(item => item.name === skill)
         })
       },

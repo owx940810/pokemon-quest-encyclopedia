@@ -12,7 +12,7 @@ let pokemondata
 const getPokemons = async () => {
   const response = await window.fetch(process.env.WEB_BASE + '/static/json/pokemon.json')
   const data = await response.json()
-  return pokemondata = data.data.map(pokemon => {
+  return pokemondata = data.map(pokemon => {
     pokemon.evolution = pokemon.evolution.map(evolution => {
       if (Array.isArray(evolution)) {
         return evolution.map(item => {

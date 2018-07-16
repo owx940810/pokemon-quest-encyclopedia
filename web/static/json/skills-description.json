@@ -14,7 +14,7 @@
     "desc": "Using its tough and impressive horn, the user rams into enemies in front of itself with no letup, dealing huge damage to them."
   },
   {
-    "name": "U-turn",
+    "name": "U turn",
     "type": "bug",
     "tier": "C",
     "attack": 243,
@@ -588,7 +588,7 @@
     "desc": "The user punches enemies directly in front of itself with its full, concentrated power. Sometimes confuses enemies."
   },
   {
-    "name": "Power-Up Punch",
+    "name": "Power Up Punch",
     "type": "fighting",
     "tier": "",
     "attack": 64,
@@ -770,7 +770,7 @@
     "desc": "The user creates a path of flames in front of itself and charges forward along it. Deals damage to enemies. Sometimes burns enemies."
   },
   {
-    "name": "Will-O-Wisp",
+    "name": "Will O Wisp",
     "type": "fire",
     "tier": "D",
     "attack": 19,
@@ -1162,7 +1162,7 @@
     "desc": "The user throws a boomerang made of bone, damaging enemies hit by it."
   },
   {
-    "name": "Mud-Slap",
+    "name": "Mud Slap",
     "type": "ground",
     "tier": "C",
     "attack": 56,
@@ -1302,7 +1302,7 @@
     "desc": "After approaching enemies in front of itself, the user slugs enemies directly in front of itself with a muscle packed punch, damaging them."
   },
   {
-    "name": "Self-Destruct",
+    "name": "Self Destruct",
     "type": "normal",
     "tier": "META",
     "attack": 494,
@@ -1582,7 +1582,7 @@
     "desc": "The user roars intensely, blowing away surrounding enemies."
   },
   {
-    "name": "Soft-Boiled",
+    "name": "Soft Boiled",
     "type": "normal",
     "tier": "D",
     "attack": 0,
