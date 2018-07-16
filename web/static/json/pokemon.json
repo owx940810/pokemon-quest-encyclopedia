@@ -1,4106 +1,3024 @@
-{
-  "data": [
-    {
-      "id": "001",
-      "name": "Bulbasaur",
-      "type": ["grass", "poison"],
-      "evolution": [
-        {
-          "id": "001",
-          "lvl": 0
-        },
-        {
-          "id": "002",
-          "lvl": 16
-        },
-        {
-          "id": "003",
-          "lvl": 32
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 125,
-        "atk": 75
-      },
-      "recipes": [
-        {
-          "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-          "rate": 5
-        },
-        {
-          "ingredients": ["Y", "Y", "Y", "Y", "Y"],
-          "rate": 25
-        },
-        {
-          "ingredients": ["y", "Y", "Y", "Y", "rbyg"],
-          "rate": 33
-        },
-        {
-          "ingredients": ["r", "r", "r", "G", "byg"],
-          "rate": 10
-        },
-        {
-          "ingredients": ["r", "G", "G", "G", "l"],
-          "rate": 50
-        },
-        {
-          "ingredients": ["y", "y", "R", "R", "RBYG"],
-          "rate": 33
-        },
-        {
-          "ingredients": ["y", "R", "R", "R", "bg"],
-          "rate": 33
-        }
-      ],
-    "bingo": ["Hit Healing +2%", "Healing from K.O. +2%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "002",
-      "name": "Ivysaur",
-      "type": ["grass", "poison"],
-      "evolution": [
-        {
-          "id": "001",
-          "lvl": 0
-        },
-        {
-          "id": "002",
-          "lvl": 16
-        },
-        {
-          "id": "003",
-          "lvl": 32
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 400,
-        "atk": 100
-      },
-      "recipes": "Evolves from Bulbasaur",
-      "bingo": ["Hit Healing +2%", "Healing from K.O. +2%", "Own Knockback Distance -10%"]
-
-    },
-    {
-      "id": "003",
-      "name": "Venusaur",
-      "type": ["grass", "poison"],
-      "evolution": [
-        {
-          "id": "001",
-          "lvl": 0
-        },
-        {
-          "id": "002",
-          "lvl": 16
-        },
-        {
-          "id": "003",
-          "lvl": 32
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 550,
-        "atk": 150
-      },
-      "recipes": "Evolves from Ivysaur",
-      "bingo": ["Hit Healing +2%", "Healing from K.O. +2%", "Own Knockback Distance -10%"]
-
-    },
-    {
-      "id": "004",
-      "name": "Charmander",
-      "type": ["fire"],
-      "evolution": [
-        {
-          "id": "004",
-          "lvl": 0
-        },
-        {
-          "id": "005",
-          "lvl": 16
-        },
-        {
-          "id": "006",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 75,
-        "atk": 125
-      },
-      "recipes": [
-        {
-          "ingredients": ["R", "R", "R", "R", "R"],
-          "rate": 16
-        },
-        {
-          "ingredients": ["G", "G", "G", "R", "R"],
-          "rate": 50
-        },
-        {
-          "ingredients": ["r", "G", "G", "R", "byg"],
-          "rate": 50
-        },
-        {
-          "ingredients": ["r", "r", "G", "RY", "BY"],
-          "rate": 50
-        },
-        {
-          "ingredients": ["r", "r", "G", "l", "byg"],
-          "rate": 50
-        },
-        {
-          "ingredients": ["r", "r", "r", "l", "byg"],
-          "rate": 50
-        }
-      ],
-      "bingo": ["Fire Type Moves Wait -5%", "Critical Hit Rate +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "005",
-      "name": "Charmeleon",
-      "type": ["fire"],
-      "evolution": [
-        {
-          "id": "004",
-          "lvl": 0
-        },
-        {
-          "id": "005",
-          "lvl": 16
-        },
-        {
-          "id": "006",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 100,
-        "atk": 400
-      },
-      "recipes": "Evolves from Charmander",
-      "bingo": ["Fire Type Moves Wait -5%", "Critical Hit Rate +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "006",
-      "name": "Charizard",
-      "type": ["fire", "flying"],
-      "evolution": [
-        {
-          "id": "004",
-          "lvl": 0
-        },
-        {
-          "id": "005",
-          "lvl": 16
-        },
-        {
-          "id": "006",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 200,
-        "atk": 600
-      },
-      "recipes": "Evolves from Charmeleon",
-      "bingo": ["Fire Type Moves Wait -5%", "Critical Hit Rate +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "007",
-      "name": "Squirtle",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "007",
-          "lvl": 0
-        },
-        {
-          "id": "008",
-          "lvl": 16
-        },
-        {
-          "id": "009",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 100,
-        "atk": 100
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["B", "B", "B", "B", "B"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "b", "B", "RYG", "RYG"],
-            "rate": 14
-          }
-      ],
-      "bingo": ["ATK of Water Type Moves +5%", "Water Type Moves Wait -5%", "Natural HP Healing +10%"]
-    },
-    {
-      "id": "008",
-      "name": "Wartortle",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "007",
-          "lvl": 0
-        },
-        {
-          "id": "008",
-          "lvl": 16
-        },
-        {
-          "id": "009",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 250,
-        "atk": 250
-      },
-      "recipes": "Evolves from Squirtle",
-      "bingo": ["ATK of Water Type Moves +5%", "Water Type Moves Wait -5%", "Natural HP Healing +10%"]
-    },
-    {
-      "id": "009",
-      "name": "Blastoise",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "007",
-          "lvl": 0
-        },
-        {
-          "id": "008",
-          "lvl": 16
-        },
-        {
-          "id": "009",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 400,
-        "atk": 400
-      },
-      "recipes": "Evolves from Wartortle",
-      "bingo": ["ATK of Water Type Moves +5%", "Water Type Moves Wait -5%", "Natural HP Healing +10%"]
-    },
-    {
-      "id": "010",
-      "name": "Caterpie",
-      "type": ["bug"],
-      "evolution": [
-        {
-          "id": "010",
-          "lvl": 0
-        },
-        {
-          "id": "011",
-          "lvl": 7
-        },
-        {
-          "id": "012",
-          "lvl": 10
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 110,
-        "atk": 90
-      },
-      "recipes": [
-          {
-            "ingredients": ["b", "b", "b", "b", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "b", "y", "Y", "Y"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Movement Speed +30%", "Resistant to %u2193 Effects +10%", "Hit Healing +2%"]
-    },
-    {
-      "id": "011",
-      "name": "Metapod",
-      "type": ["bug"],
-      "evolution": [
-        {
-          "id": "010",
-          "lvl": 0
-        },
-        {
-          "id": "011",
-          "lvl": 7
-        },
-        {
-          "id": "012",
-          "lvl": 10
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 275,
-        "atk": 25
-      },
-      "recipes": "Evolves from Caterpie",
-      "bingo": ["Taking Critical Hits Rate -10%", "Resistant to %u2193 Effects +20%", "Healing per Wave +30%"]
-    },
-    {
-      "id": "012",
-      "name": "Butterfree",
-      "type": ["bug", "flying"],
-      "evolution": [
-        {
-          "id": "010",
-          "lvl": 0
-        },
-        {
-          "id": "011",
-          "lvl": 7
-        },
-        {
-          "id": "012",
-          "lvl": 10
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 150,
-        "atk": 250
-      },
-      "recipes": "Evolves from Metapod",
-      "bingo": ["Movement Speed +30%", "Resistant to %u2193 Effects +10%", "Healing from K.O. +5%"]
-    },
-    {
-      "id": "013",
-      "name": "Weedle",
-      "type": ["bug", "poison"],
-      "evolution": [
-        {
-          "id": "011",
-          "lvl": 0
-        },
-        {
-          "id": "012",
-          "lvl": 7
-        },
-        {
-          "id": "013",
-          "lvl": 10
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 100,
-        "atk": 100
-      },
-      "recipes": [
-          {
-            "ingredients": ["y", "y", "y", "y", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["b", "b", "y", "Y", "Y"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Movement Speed +30%", "Critical Hit Damage +5%", "Bug Type Move Wait -5%"]
-    },
-    {
-      "id": "014",
-      "name": "Kakuna",
-      "type": ["bug", "poison"],
-      "evolution": [
-        {
-          "id": "011",
-          "lvl": 0
-        },
-        {
-          "id": "012",
-          "lvl": 7
-        },
-        {
-          "id": "013",
-          "lvl": 10
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 250,
-        "atk": 50
-      },
-      "recipes": "Evolves from Weedle",
-      "bingo": ["Own Knockback Distance -20%", "Critical Hit Damage +5%", "HP upon Recovery +10%"]
-    },
-    {
-      "id": "015",
-      "name": "Beedrill",
-      "type": ["bug", "poison"],
-      "evolution": [
-        {
-          "id": "013",
-          "lvl": 0
-        },
-        {
-          "id": "014",
-          "lvl": 7
-        },
-        {
-          "id": "015",
-          "lvl": 10
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 150,
-        "atk": 250
-      },
-      "recipes": "Evolves from Kakuna",
-      "bingo": ["Movement Speed +30%", "Critical Hit Damage +10%", "Bug Type Move Wait -5%"]
-    },
-    {
-      "id": "016",
-      "name": "Pidgey",
-      "type": ["normal", "flying"],
-      "evolution": [
-        {
-          "id": "016",
-          "lvl": 0
-        },
-        {
-          "id": "017",
-          "lvl": 18
-        },
-        {
-          "id": "018",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 100,
-        "atk": 100
-      },
-      "recipes": [
-          {
-            "ingredients": ["y", "y", "y", "y", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["b", "b", "b", "g", "g"],
-            "rate": 25
-          },
-          {
-            "ingredients": ["g", "g", "g", "R", "R"],
-            "rate": 25
-          }
-      ],
-      "bingo": ["Resistant to %u2193 Effects +10%", "Movement Speed + 30%", "ATK of Flying Type Moves +5%"]
-    },
-    {
-      "id": "017",
-      "name": "Pidgeotto",
-      "type": ["normal", "flying"],
-      "evolution": [
-        {
-          "id": "016",
-          "lvl": 0
-        },
-        {
-          "id": "017",
-          "lvl": 18
-        },
-        {
-          "id": "018",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 250,
-        "atk": 250
-      },
-      "recipes": "Evolves from Pidgey",
-      "bingo": ["Resistant to %u2193 Effects +10%", "Movement Speed + 30%", "ATK of Flying Type Moves +5%"]
-    },
-    {
-      "id": "018",
-      "name": "Pidgeot",
-      "type": ["normal", "flying"],
-      "evolution": [
-        {
-          "id": "016",
-          "lvl": 0
-        },
-        {
-          "id": "017",
-          "lvl": 18
-        },
-        {
-          "id": "018",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 400,
-        "atk": 400
-      },
-      "recipes": "Evolves from Pidgeotto",
-      "bingo": ["Resistant to %u2193 Effects +10%", "Movement Speed + 30%", "ATK of Flying Type Moves +5%"]
-    },
-    {
-      "id": "019",
-      "name": "Rattata",
-      "type": ["normal"],
-      "evolution": [
-        {
-          "id": "019",
-          "lvl": 0
-        },
-        {
-          "id": "020",
-          "lvl": 20
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 75,
-        "atk": 125
-      },
-      "recipes": [
-          {
-            "ingredients": ["b", "b", "b", "b", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "b", "b", "g", "g"],
-            "rate": 25
-          }
-      ],
-      "bingo": ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Time to Recover -10%"]
-    },
-    {
-      "id": "020",
-      "name": "Raticate",
-      "type": ["normal"],
-      "evolution": [
-        {
-          "id": "019",
-          "lvl": 0
-        },
-        {
-          "id": "020",
-          "lvl": 20
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 150,
-        "atk": 450
-      },
-      "recipes": "Evolves from Rattata",
-      "bingo": ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Time to Recover -10%"]
-    },
-    {
-      "id": "021",
-      "name": "Spearow",
-      "type": ["normal", "flying"],
-      "evolution": [
-        {
-          "id": "021",
-          "lvl": 0
-        },
-        {
-          "id": "022",
-          "lvl": 20
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 75,
-        "atk": 125
-      },
-      "recipes": [
-          {
-            "ingredients": ["r", "r", "r", "r", "rbyg"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "b", "b", "g", "g"],
-            "rate": 25
-          },
-          {
-            "ingredients": ["g", "g", "g", "R", "R"],
-            "rate": 25
-          }
-      ],
-      "bingo": ["ATK of Flying Type Moves +5%", "Critical Hits Rate +5%", "Critical Hit Damage +10%"]
-    },
-    {
-      "id": "022",
-      "name": "Fearow",
-      "type": ["normal", "flying"],
-      "evolution": [
-        {
-          "id": "021",
-          "lvl": 0
-        },
-        {
-          "id": "022",
-          "lvl": 20
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 100,
-        "atk": 500
-      },
-      "recipes": "Evolves form Spearow",
-      "bingo": ["ATK of Flying Type Moves +5%", "Critical Hits Rate +5%", "Critical Hit Damage +10%"]
-    },
-    {
-      "id": "023",
-      "name": "Ekans",
-      "type": ["poison"],
-      "evolution": [
-        {
-          "id": "023",
-          "lvl": 0
-        },
-        {
-          "id": "024",
-          "lvl": 22
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 80,
-        "atk": 120
-      },
-      "recipes": [
-          {
-            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "b", "b", "B", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["r", "r", "r", "G", "byg"],
-            "rate": 10
-          },
-          {
-            "ingredients": ["r", "r", "G", "G", "RBYG"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["r", "byg", "G", "G", "G"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Time to Recover -10%", "Resistant to %u2193 Effects +10%", "Healing per Wave +30%"]
-    },
-    {
-      "id": "024",
-      "name": "Arbok",
-      "type": ["poison"],
-      "evolution": [
-        {
-          "id": "023",
-          "lvl": 0
-        },
-        {
-          "id": "024",
-          "lvl": 22
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 150,
-        "atk": 450
-      },
-      "recipes": "Evolves from Ekans",
-      "bingo": ["Time to Recover -10%", "Resistant to %u2193 Effects +10%", "Healing per Wave +25%"]
-    },
-    {
-      "id": "025",
-      "name": "Pikachu",
-      "type": ["electr"],
-      "evolution": [
-        {
-          "id": "025",
-          "lvl": 0
-        },
-        {
-          "id": "026",
-          "lvl": 22
-        }
-      ],
-      "specialskill": [
-        {
-          "name": "Surf",
-          "method": "Mini Expedition Pack (Mobile Only)"
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 70,
-        "atk": 130
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["y", "y", "y", "Y", "rbyg"],
-            "rate": 25
-          },
-          {
-            "ingredients": ["Y", "Y", "Y", "RB", "RG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["y", "Y", "Y", "rb", "rb"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["r", "Y", "Y", "Y", "rg"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Electric Type Moves Wait -5%", "ATK of Electric Type Moves +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "026",
-      "name": "Raichu",
-      "type": ["electr"],
-      "evolution": [
-        {
-          "id": "025",
-          "lvl": 0
-        },
-        {
-          "id": "026",
-          "lvl": 22
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 150,
-        "atk": 450
-      },
-      "recipes": "Evolves from Pikachu",
-      "bingo": ["Electric Type Moves Wait -5%", "ATK of Electric Type Moves +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "027",
-      "name": "Sandshrew",
-      "type": ["ground"],
-      "evolution": [
-        {
-          "id": "027",
-          "lvl": 0
-        },
-        {
-          "id": "028",
-          "lvl": 22
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 80,
-        "atk": 120
-      },
-      "recipes": [
-          {
-            "ingredients": ["y", "y", "y", "y", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["g", "g", "rb", "rb", "r"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Taking Critical Hits Rate -10%", "Critical Hit Damage +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "028",
-      "name": "Sandslash",
-      "type": ["ground"],
-      "evolution": [
-        {
-          "id": "027",
-          "lvl": 0
-        },
-        {
-          "id": "028",
-          "lvl": 22
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 150,
-        "atk": 350
-      },
-      "recipes": "Evolves form Sandshrew",
-      "bingo": ["Taking Critical Hits Rate -10%", "Critical Hit Damage +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "029",
-      "name": "Nidoran♀",
-      "type": ["poison"],
-      "evolution": [
-        {
-          "id": "029",
-          "lvl": 0
-        },
-        {
-          "id": "030",
-          "lvl": 16
-        },
-        {
-          "id": "031",
-          "lvl": 36
-        }
-      ],
-      "specialskill": [
-        {
-          "name": "Sing",
-          "method": "Expedition Pack Only"
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 140,
-        "atk": 60
-      },
-      "recipes": [
-          {
-            "ingredients": ["g", "g", "g", "g", "rbyg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["r", "r", "r", "G", "byg"],
-            "rate": 10
-          }
-      ],
-      "bingo": ["Poison Type Moves Wait -5%", "Normal Type Moves Wait -5%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "030",
-      "name": "Nidorina",
-      "type": ["poison"],
-      "evolution": [
-        {
-          "id": "029",
-          "lvl": 0
-        },
-        {
-          "id": "030",
-          "lvl": 16
-        },
-        {
-          "id": "031",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 325,
-        "atk": 175
-      },
-      "recipes": "Evolves from Nidoran♀",
-      "bingo": ["Poison Type Moves Wait -5%", "Normal Type Moves Wait -5%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "031",
-      "name": "Nidoqueen",
-      "type": ["poison", "ground"],
-      "evolution": [
-        {
-          "id": "029",
-          "lvl": 0
-        },
-        {
-          "id": "030",
-          "lvl": 16
-        },
-        {
-          "id": "031",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 600,
-        "atk": 200
-      },
-      "recipes": "Evolves from Nidorina",
-      "bingo": ["Poison Type Moves Wait -5%", "Normal Type Moves Wait -5%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "032",
-      "name": "Nidoran♂",
-      "type": ["poison"],
-      "evolution": [
-        {
-          "id": "032",
-          "lvl": 0
-        },
-        {
-          "id": "033",
-          "lvl": 16
-        },
-        {
-          "id": "034",
-          "lvl": 36
-        }
-      ],
-      "specialskill": [
-        {
-          "name": "Work Up",
-          "method": "Expedition Pack Only"
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 60,
-        "atk": 140
-      },
-      "recipes": [
-          {
-            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "rbyg"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["b", "b", "b", "b", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["r", "r", "r", "G", "rbyg"],
-            "rate": 10
-          }
-      ],
-      "bingo": ["Taking Critical Hits Rate -10%", "ATK of Normal Type Moves +5%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "033",
-      "name": "Nidorino",
-      "type": ["poison"],
-      "evolution": [
-        {
-          "id": "032",
-          "lvl": 0
-        },
-        {
-          "id": "033",
-          "lvl": 16
-        },
-        {
-          "id": "034",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 175,
-        "atk": 325
-      },
-      "recipes": "Evolves from Nidoran♂",
-      "bingo": ["Taking Critical Hits Rate -10%", "ATK of Normal Type Moves +5%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "034",
-      "name": "Nidoking",
-      "type": ["poison", "ground"],
-      "evolution": [
-        {
-          "id": "032",
-          "lvl": 0
-        },
-        {
-          "id": "033",
-          "lvl": 16
-        },
-        {
-          "id": "034",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 200,
-        "atk": 600
-      },
-      "recipes": "Evolves from Nidorino",
-      "bingo": ["Taking Critical Hits Rate -10%", "ATK of Normal Type Moves +5%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "035",
-      "name": "Clefairy",
-      "type": ["fairy"],
-      "evolution": [
-        {
-          "id": "035",
-          "lvl": 0
-        },
-        {
-          "id": "036",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 120,
-        "atk": 80
-      },
-      "recipes": [
-          {
-            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["g", "g", "g", "G", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["g", "G", "G", "G", "rbyg"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "g", "g", "g", "rbyg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["b", "b", "Y", "G", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "g", "Y", "Y", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["g", "g", "Y", "Y", "Y"],
-            "rate": 14
-          }
-      ],
-      "bingo": ["Pokemon Size Change -10%", "Normal Type Moves Wait -10%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "036",
-      "name": "Clefable",
-      "type": ["fairy"],
-      "evolution": [
-        {
-          "id": "035",
-          "lvl": 0
-        },
-        {
-          "id": "036",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 450,
-        "atk": 250
-      },
-      "recipes": "Evolves from Clefairy",
-      "bingo": ["Pokemon Size Change -10%", "Normal Type Moves Wait -5%", "?"]
-    },
-    {
-      "id": "037",
-      "name": "Vulpix",
-      "type": ["fire"],
-      "evolution": [
-        {
-          "id": "037",
-          "lvl": 0
-        },
-        {
-          "id": "038",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 110,
-        "atk": 90
-      },
-      "recipes": [
-          {
-            "ingredients": ["r", "r", "r", "r", "rbyg"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["r", "r", "r", "by", "byg"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Fire Type Damage Taken -25%"]
-    },
-    {
-      "id": "038",
-      "name": "Ninetales",
-      "type": ["fire"],
-      "evolution": [
-        {
-          "id": "037",
-          "lvl": 0
-        },
-        {
-          "id": "038",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 550,
-        "atk": 250
-      },
-      "recipes": "Evolves form Vulpix",
-      "bingo": ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Fire Type Damage Taken -25%"]
-    },
-    {
-      "id": "039",
-      "name": "Jigglypuff",
-      "type": ["fairy", "normal"],
-      "evolution": [
-        {
-          "id": "039",
-          "lvl": 0
-        },
-        {
-          "id": "040",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 140,
-        "atk": 60
-      },
-      "recipes": [
-          {
-            "ingredients": ["g", "g", "g", "G", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["b", "b", "Y", "G", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "g", "Y", "Y", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["g", "g", "Y", "Y", "Y"],
-            "rate": 14
-          }
-      ],
-      "bingo": ["Time to Recover -10%", "ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%"]
-    },
-    {
-      "id": "040",
-      "name": "Wigglytuff",
-      "type": ["fairy", "normal"],
-      "evolution": [
-        {
-          "id": "039",
-          "lvl": 0
-        },
-        {
-          "id": "040",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 450,
-        "atk": 150
-      },
-      "recipes": "Evolves form Jigglypuff"
-    },
-    {
-      "id": "041",
-      "name": "Zubat",
-      "type": ["fairy", "normal"],
-      "evolution": [
-        {
-          "id": "041",
-          "lvl": 0
-        },
-        {
-          "id": "042",
-          "lvl": 22
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 80,
-        "atk": 120
-      },
-      "recipes": [
-          {
-            "ingredients": ["g", "g", "g", "G", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["r", "r", "r", "G", "byg"],
-            "rate": 10
-          },
-          {
-            "ingredients": ["g", "g", "g", "R", "R"],
-            "rate": 10
-          },
-          {
-            "ingredients": ["g", "g", "R", "R", "B"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["Time to Recover -10%", "ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%"]
-    },
-    {
-      "id": "042",
-      "name": "Golbat",
-      "type": ["poison", "flying"],
-      "evolution": [
-        {
-          "id": "041",
-          "lvl": 0
-        },
-        {
-          "id": "042",
-          "lvl": 22
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 200,
-        "atk": 400
-      },
-      "recipes": "Evolves from Zubat",
-      "bingo": ["Hit Healing +1%", "Movement Speed +30%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "043",
-      "name": "Oddish",
-      "type": ["grass", "poison"],
-      "evolution": [
-        {
-          "id": "043",
-          "lvl": 0
-        },
-        {
-          "id": "044",
-          "lvl": 21
-        },
-        {
-          "id": "045",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 75,
-        "atk": 125
-      },
-      "recipes": [
-          {
-            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "rbyg"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "g", "g", "g", "rbyg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["r", "r", "r", "G", "rbyg"],
-            "rate": 10
-          },
-          {
-            "ingredients": ["y", "y", "y", "R", "rb"],
-            "rate": 25
-          }
-      ],
-      "bingo": ["ATK of Grass Type Moves +5%", "Movement Speed +30%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "044",
-      "name": "Gloom",
-      "type": ["grass", "poison"],
-      "evolution": [
-        {
-          "id": "043",
-          "lvl": 0
-        },
-        {
-          "id": "044",
-          "lvl": 21
-        },
-        {
-          "id": "045",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 250,
-        "atk": 350
-      },
-      "recipes": "Evolves form Oddish",
-      "bingo": ["ATK of Grass Type Moves +5%", "Movement Speed +30%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "045",
-      "name": "Vileplume",
-      "type": ["grass", "poison"],
-      "evolution": [
-        {
-          "id": "043",
-          "lvl": 0
-        },
-        {
-          "id": "044",
-          "lvl": 21
-        },
-        {
-          "id": "045",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 300,
-        "atk": 500
-      },
-      "recipes": "Evolves form Gloom",
-      "bingo": ["ATK of Grass Type Moves +5%", "Movement Speed +30%", "Resistant to  %u2193 Effects  +10%"]
-    },
-    {
-      "id": "046",
-      "name": "Paras",
-      "type": ["bug", "grass"],
-      "evolution": [
-        {
-          "id": "046",
-          "lvl": 0
-        },
-        {
-          "id": "047",
-          "lvl": 24
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 80,
-        "atk": 120
-      },
-      "recipes": [
-          {
-            "ingredients": ["r", "r", "r", "R", "rbyg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["y", "y", "y", "R", "rb"],
-            "rate": 25
-          },
-          {
-            "ingredients": ["y", "y", "yR", "R", "RBYG"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["y", "R", "R", "R", "bg"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["b", "b", "y", "Y", "Y"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["b", "Y", "Y", "Y", "rbg"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["Healing per Wave +30%", "Grass Type Moves Wait -5%", "Time to Recover -10%"]
-    },
-    {
-      "id": "047",
-      "name": "Parasect",
-      "type": ["bug", "grass"],
-      "evolution": [
-        {
-          "id": "046",
-          "lvl": 0
-        },
-        {
-          "id": "047",
-          "lvl": 24
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 200,
-        "atk": 500
-      },
-      "recipes": "Evolves from Paras",
-      "bingo": ["Healing per Wave +20%", "Grass Type Moves Wait -5%", "Time to Recover -10%"]
-    },
-    {
-      "id": "048",
-      "name": "Venonat",
-      "type": ["bug", "poison"],
-      "evolution": [
-        {
-          "id": "048",
-          "lvl": 0
-        },
-        {
-          "id": "049",
-          "lvl": 31
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 120,
-        "atk": 80
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["G", "G", "G", "G", "G"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "RBYG", "RBYG", "RBYG", "rbyg"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["r", "RBYG", "RBYG", "RBYG", "l"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["b", "Y", "Y", "Y", "l"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["b", "Y", "Y", "Y", "rbg"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["Resistant to %u2193 Effects +10%", "Resistant to Status Conditions +10%", "Taking Critical Hits Rate -10%"]
-    },
-    {
-      "id": "049",
-      "name": "Venomoth",
-      "type": ["bug", "poison"],
-      "evolution": [
-        {
-          "id": "048",
-          "lvl": 0
-        },
-        {
-          "id": "049",
-          "lvl": 31
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 350,
-        "atk": 350
-      },
-      "recipes": "Evolves form Venonat",
-      "bingo": ["Resistant to %u2193 Effects +10%", "Resistant to Status Conditions +10%", "Taking Critical Hits Rate -10%"]
-    },
-    {
-      "id": "050",
-      "name": "Diglett",
-      "type": ["ground"],
-      "evolution": [
-        {
-          "id": "050",
-          "lvl": 0
-        },
-        {
-          "id": "051",
-          "lvl": 26
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 60,
-        "atk": 140
-      },
-      "recipes": [
-          {
-            "ingredients": ["r", "r", "r", "R", "rbyg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["g", "b", "R", "B", "RYG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "b", "B", "Y", "YG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "b", "B", "G", "G"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "g", "R", "Y", "YG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "g", "R", "R", "RYG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "g", "Y", "Y", "G"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["r", "B", "B", "rb", "RYG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["r", "g", "B", "RYG", "RYG"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["Ground Type Moves Wait -5%", "ATK of Ground Type Moves +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "051",
-      "name": "Dugtrio",
-      "type": ["ground"],
-      "evolution": [
-        {
-          "id": "050",
-          "lvl": 0
-        },
-        {
-          "id": "051",
-          "lvl": 26
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 100,
-        "atk": 600
-      },
-      "recipes": "Evolves form Diglett",
-      "bingo": ["Ground Type Moves Wait -5%", "ATK of Ground Type Moves +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "052",
-      "name": "Meowth",
-      "type": ["normal"],
-      "evolution": [
-        {
-          "id": "052",
-          "lvl": 0
-        },
-        {
-          "id": "053",
-          "lvl": 28
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 85,
-        "atk": 115
-      },
-      "recipes": [
-          {
-            "ingredients": ["y", "y", "y", "y", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["b", "b", "b", "g", "g"],
-            "rate": 25
-          }
-      ],
-      "bingo": ["Normal Type Moves Wait -5%", "Movement Speed +30%", "Critical Hit Rate +5%"]
-    },
-    {
-      "id": "053",
-      "name": "Persian",
-      "type": ["normal"],
-      "evolution": [
-        {
-          "id": "052",
-          "lvl": 0
-        },
-        {
-          "id": "053",
-          "lvl": 28
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 300,
-        "atk": 400
-      },
-      "recipes": "Evolves from Meowth",
-      "bingo": ["Normal Type Moves Wait -5%", "Movement Speed +30%", "Critical Hit Rate +5%"]
-    },
-    {
-      "id": "054",
-      "name": "Psyduck",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "054",
-          "lvl": 0
-        },
-        {
-          "id": "055",
-          "lvl": 33
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 80,
-        "atk": 120
-      },
-      "recipes": [
-          {
-            "ingredients": ["y", "y", "y", "y", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["b", "b", "b", "r", "ryg"],
-            "rate": 16
-          }
-      ],
-      "bingo": ["Water Type Moves Wait -5%", "Psychic Type Moves Wait -5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "055",
-      "name": "Golduck",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "054",
-          "lvl": 0
-        },
-        {
-          "id": "055",
-          "lvl": 33
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 200,
-        "atk": 500
-      },
-      "recipes": "Evolves from Psyduck",
-      "bingo": ["Water Type Moves Wait -5%", "Psychic Type Moves Wait -5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "056",
-      "name": "Mankey",
-      "type": ["fight"],
-      "evolution": [
-        {
-          "id": "056",
-          "lvl": 0
-        },
-        {
-          "id": "057",
-          "lvl": 28
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 60,
-        "atk": 140
-      },
-      "recipes": [
-          {
-            "ingredients": ["r", "r", "r", "r", "rbyg"],
-            "rate": 14
-          }
-      ],
-      "bingo": ["Fighting Type Moves Wait -5%", "ATK of Normal Type Moves +5%", "Resistant to %u2193 Effects +20%"]
-    },
-    {
-      "id": "057",
-      "name": "Primeape",
-      "type": ["fight"],
-      "evolution": [
-        {
-          "id": "056",
-          "lvl": 0
-        },
-        {
-          "id": "057",
-          "lvl": 28
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 150,
-        "atk": 550
-      },
-      "recipes": "Evolves from Mankey",
-      "bingo": ["Fighting Type Moves Wait -5%", "ATK of Normal Type Moves +5%", "Resistant to %u2193 Effects +20%"]
-    },
-    {
-      "id": "058",
-      "name": "Growlithe",
-      "type": ["fire"],
-      "evolution": [
-        {
-          "id": "058",
-          "lvl": 0
-        },
-        {
-          "id": "059",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 80,
-        "atk": 120
-      },
-      "recipes": [
-          {
-            "ingredients": ["R", "R", "R", "R", "R"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["r", "r", "r", "r", "rbyg"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["r", "r", "r", "by", "byg"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["Fire Type Damage Taken -25%", "Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%"]
-    },
-    {
-      "id": "059",
-      "name": "Arcanine",
-      "type": ["fire"],
-      "evolution": [
-        {
-          "id": "058",
-          "lvl": 0
-        },
-        {
-          "id": "059",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 350,
-        "atk": 450
-      },
-      "recipes": "Evolves from Growlithe",
-      "bingo": ["Fire Type Damage Taken -25%", "Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%"]
-    },
-    {
-      "id": "060",
-      "name": "Poliwag",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "060",
-          "lvl": 0
-        },
-        {
-          "id": "061",
-          "lvl": 25
-        },
-        {
-          "id": "062",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 90,
-        "atk": 110
-      },
-      "recipes": [
-          {
-            "ingredients": ["b", "b", "b", "b", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "b", "b", "r", "ryg"],
-            "rate": 16
-          }
-      ],
-      "bingo": ["ATK of Water Type Moves +5%", "Critical Hit Damage +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "061",
-      "name": "Poliwhirl",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "060",
-          "lvl": 0
-        },
-        {
-          "id": "061",
-          "lvl": 25
-        },
-        {
-          "id": "062",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 350,
-        "atk": 350
-      },
-      "recipes": "Evolves from Poliwag",
-      "bingo": ["ATK of Water Type Moves +5%", "Critical Hit Damage +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "062",
-      "name": "Poliwrath",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "060",
-          "lvl": 0
-        },
-        {
-          "id": "061",
-          "lvl": 25
-        },
-        {
-          "id": "062",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 350,
-        "atk": 450
-      },
-      "recipes": "Evolves from Poliwrath",
-      "bingo": ["ATK of Water Type Moves +5%", "Critical Hit Damage +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "063",
-      "name": "Abra",
-      "type": ["psychc"],
-      "evolution": [
-        {
-          "id": "063",
-          "lvl": 0
-        },
-        {
-          "id": "064",
-          "lvl": 16
-        },
-        {
-          "id": "065",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 45,
-        "atk": 155
-      },
-      "recipes": [
-          {
-            "ingredients": ["y", "y", "y", "y", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["b", "b", "b", "y", "yg"],
-            "rate": 100
-          }
-      ],
-      "bingo": ["Psychic Type Moves Wait -5%", "Resistant to %u2193 Effects +10%", "Movement Speed +30%"]
-    },
-    {
-      "id": "064",
-      "name": "Kadabra",
-      "type": ["psychc"],
-      "evolution": [
-        {
-          "id": "063",
-          "lvl": 0
-        },
-        {
-          "id": "064",
-          "lvl": 16
-        },
-        {
-          "id": "065",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 90,
-        "atk": 410
-      },
-      "recipes": "Evolves from Abra",
-      "bingo": ["Psychic Type Moves Wait -5%", "Resistant to %u2193 Effects +10%", "Movement Speed +30%"]
-    },
-    {
-      "id": "065",
-      "name": "Alakazam",
-      "type": ["psychc"],
-      "evolution": [
-        {
-          "id": "063",
-          "lvl": 0
-        },
-        {
-          "id": "064",
-          "lvl": 16
-        },
-        {
-          "id": "065",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 100,
-        "atk": 700
-      },
-      "recipes": "Evolves from Kadabra",
-      "bingo": ["Psychic Type Moves Wait -5%", "Resistant to %u2193 Effects +10%", "Movement Speed +30%"]
-    },
-    {
-      "id": "066",
-      "name": "Machop",
-      "type": ["fight"],
-      "evolution": [
-        {
-          "id": "066",
-          "lvl": 0
-        },
-        {
-          "id": "067",
-          "lvl": 28
-        },
-        {
-          "id": "068",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 80,
-        "atk": 120
-      },
-      "recipes": [
-          {
-            "ingredients": ["b", "b", "b", "B", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["r", "r", "b", "b", "Y"],
-            "rate": 100
-          },
-          {
-            "ingredients": ["r", "b", "Y", "Y", "G"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["ATK of Fighting Type Moves +5%", "Fighting Type Moves Wait -5%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "067",
-      "name": "Machoke",
-      "type": ["fight"],
-      "evolution": [
-        {
-          "id": "066",
-          "lvl": 0
-        },
-        {
-          "id": "067",
-          "lvl": 28
-        },
-        {
-          "id": "068",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 200,
-        "atk": 500
-      },
-      "recipes": "Evolves from Machop",
-      "bingo": ["ATK of Fighting Type Moves +5%", "Fighting Type Moves Wait -5%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "068",
-      "name": "Machamp",
-      "type": ["fight"],
-      "evolution": [
-        {
-          "id": "066",
-          "lvl": 0
-        },
-        {
-          "id": "067",
-          "lvl": 28
-        },
-        {
-          "id": "068",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 250,
-        "atk": 550
-      },
-      "recipes": "Evolves from Machoke",
-      "bingo": ["ATK of Fighting Type Moves +5%", "Fighting Type Moves Wait -5%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "069",
-      "name": "Bellsprout",
-      "type": ["grass", "poison"],
-      "evolution": [
-        {
-          "id": "069",
-          "lvl": 0
-        },
-        {
-          "id": "070",
-          "lvl": 21
-        },
-        {
-          "id": "071",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 80,
-        "atk": 120
-      },
-      "recipes": [
-          {
-            "ingredients": ["y", "y", "y", "y", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["r", "r", "r", "G", "byg"],
-            "rate": 10
-          },
-          {
-            "ingredients": ["y", "y", "y", "R", "rb"],
-            "rate": 25
-          }
-      ],
-      "bingo": ["Grass Type Moves Wait -5%", "ATK of Grass Type Moves + 5%", "Critical Hit Rate +5%"]
-    },
-    {
-      "id": "070",
-      "name": "Weepinbell",
-      "type": ["grass", "poison"],
-      "evolution": [
-        {
-          "id": "069",
-          "lvl": 0
-        },
-        {
-          "id": "070",
-          "lvl": 21
-        },
-        {
-          "id": "071",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 250,
-        "atk": 350
-      },
-      "recipes": "Evolves form Bellsprout",
-      "bingo": ["Grass Type Moves Wait -5%", "ATK of Grass Type Moves + 5%", "Critical Hit Rate +5%"]
-    },
-    {
-      "id": "071",
-      "name": "Victreebel",
-      "type": ["grass", "poison"],
-      "evolution": [
-        {
-          "id": "069",
-          "lvl": 0
-        },
-        {
-          "id": "070",
-          "lvl": 21
-        },
-        {
-          "id": "071",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 300,
-        "atk": 500
-      },
-      "recipes": "Evolves form Weepinbell",
-      "bingo": ["Grass Type Moves Wait -5%", "ATK of Grass Type Moves + 5%", "Critical Hit Rate +5%"]
-    },
-    {
-      "id": "072",
-      "name": "Tentacool",
-      "type": ["water", "poison"],
-      "evolution": [
-        {
-          "id": "072",
-          "lvl": 0
-        },
-        {
-          "id": "073",
-          "lvl": 30
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 90,
-        "atk": 110
-      },
-      "recipes": [
-          {
-            "ingredients": ["b", "b", "b", "b", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "b", "b", "r", "ryg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["r", "r", "r", "G", "byg"],
-            "rate": 10
-          }
-      ],
-      "bingo": ["Natural HP Healing +10%", "Water Type Moves Wait - 5%", "Resistant to %u2193 Effects +20%"]
-    },
-    {
-      "id": "073",
-      "name": "Tentacruel",
-      "type": ["water", "poison"],
-      "evolution": [
-        {
-          "id": "072",
-          "lvl": 0
-        },
-        {
-          "id": "073",
-          "lvl": 30
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 550,
-        "atk": 150
-      },
-      "recipes": "Evolves from Tentacool",
-      "bingo": ["Natural HP Healing +10%", "Water Type Moves Wait - 5%", "Resistant to %u2193 Effects +20%"]
-    },
-    {
-      "id": "074",
-      "name": "Geodude",
-      "type": ["rock", "ground"],
-      "evolution": [
-        {
-          "id": "074",
-          "lvl": 0
-        },
-        {
-          "id": "075",
-          "lvl": 25
-        },
-        {
-          "id": "076",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 140,
-        "atk": 60
-      },
-      "recipes": [
-          {
-            "ingredients": ["g", "g", "g", "g", "rbyg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["g", "g", "rb", "rb", "r"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["y", "g", "g", "rby", "yg"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["ATK of Normal Type Moves +5%", "ATK of Ground Type Moves +5%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "075",
-      "name": "Graveler",
-      "type": ["rock", "ground"],
-      "evolution": [
-        {
-          "id": "074",
-          "lvl": 0
-        },
-        {
-          "id": "075",
-          "lvl": 25
-        },
-        {
-          "id": "076",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 610,
-        "atk": 90
-      },
-      "recipes": "Evolves from Geodude",
-      "bingo": ["ATK of Normal Type Moves +5%", "ATK of Ground Type Moves +5%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "076",
-      "name": "Golem",
-      "type": ["rock", "ground"],
-      "evolution": [
-        {
-          "id": "074",
-          "lvl": 0
-        },
-        {
-          "id": "075",
-          "lvl": 25
-        },
-        {
-          "id": "076",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 700,
-        "atk": 100
-      },
-      "recipes": "Evolves from Graveler",
-      "bingo": ["ATK of Normal Type Moves +5%", "ATK of Ground Type Moves +5%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "077",
-      "name": "Ponyta",
-      "type": ["fire"],
-      "evolution": [
-        {
-          "id": "077",
-          "lvl": 0
-        },
-        {
-          "id": "078",
-          "lvl": 40
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 100,
-        "atk": 100
-      },
-      "recipes": [
-          {
-            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["y", "y", "y", "Y", "rbyg"],
-            "rate": 25
-          },
-          {
-            "ingredients": ["y", "Y", "Y", "Y", "rbyg"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["r", "r", "G", "by", "byg"],
-            "rate": 100
-          },
-          {
-            "ingredients": ["r", "r", "r", "by", "BY"],
-            "rate": 100
-          },
-          {
-            "ingredients": ["r", "r", "r", "g", "Y"],
-            "rate": 100
-          },
-          {
-            "ingredients": ["r", "G", "G", "R", "byg"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["r", "r", "G", "RY", "BY"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["r", "r", "G", "l", "byg"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["r", "r", "r", "l", "BY"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "078",
-      "name": "Rapidash",
-      "type": ["fire"],
-      "evolution": [
-        {
-          "id": "077",
-          "lvl": 0
-        },
-        {
-          "id": "078",
-          "lvl": 40
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 400,
-        "atk": 400
-      },
-      "recipes": "Evolves from Ponyta",
-      "bingo": ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "079",
-      "name": "Slowpoke",
-      "type": ["water", "psychc"],
-      "evolution": [
-        {
-          "id": "079",
-          "lvl": 0
-        },
-        {
-          "id": "080",
-          "lvl": 37
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 130,
-        "atk": 70
-      },
-      "recipes": [
-          {
-            "ingredients": ["r", "r", "r", "R", "rbyg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["b", "b", "b", "RYG", "ryg"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["b", "b", "r", "r", "B"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["b", "b", "B", "RYG", "RYG"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "b", "y", "Y", "yg"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["b", "y", "B", "Y", "Y"],
-            "rate": 20
-          }
-      ],
-      "bingo": ["Healing per Wave +30%", "Time to Recover -10%", "HP +100"]
-    },
-    {
-      "id": "080",
-      "name": "Slowbro",
-      "type": ["water", "psychc"],
-      "evolution": [
-        {
-          "id": "079",
-          "lvl": 0
-        },
-        {
-          "id": "080",
-          "lvl": 37
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 650,
-        "atk": 150
-      },
-      "recipes": "Evolves from Slowpoke",
-      "bingo": ["Healing per Wave +20%", "Time to Recover -10%", "Taking Critical Hits Rate -25%"]
-    },
-    {
-      "id": "081",
-      "name": "Magnemite",
-      "type": ["electr", "steel"],
-      "evolution": [
-        {
-          "id": "081",
-          "lvl": 0
-        },
-        {
-          "id": "082",
-          "lvl": 30
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 80,
-        "atk": 120
-      },
-      "recipes": [
-          {
-            "ingredients": ["g", "g", "g", "G", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["r", "y", "Y", "Y", "rb"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["y", "Y", "Y", "rb", "rb"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["r", "Y", "Y", "Y", "rg"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["ATK of Electric Type Moves +5%", "Electric Type Moves Wait -5%", "Steel Type Moves Wait -10%"]
-    },
-    {
-      "id": "082",
-      "name": "Magneton",
-      "type": ["electr", "steel"],
-      "evolution": [
-        {
-          "id": "081",
-          "lvl": 0
-        },
-        {
-          "id": "082",
-          "lvl": 30
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 300,
-        "atk": 400
-      },
-      "recipes": "Evolves from Magnemite",
-      "bingo": ["ATK of Electric Type Moves +5%", "Electric Type Moves Wait -5%", "Steel Type Moves Wait -10%"]
-    },
-    {
-      "id": "083",
-      "name": "Farfetch'd",
-      "type": ["normal", "flying"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 350,
-        "atk": 350
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["r", "R", "R", "R", "rbyg"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["Y", "Y", "Y", "G", "G"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "b", "Y", "G", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "g", "Y", "Y", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "b", "Y", "Y", "Y"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["R", "R", "B", "B", "B"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["g", "g", "R", "R", "B"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["Flying Type Moves Wait -10%", "Critical Hit Rate +15%", "Critical Hit Damage +10%"]
-    },
-    {
-      "id": "084",
-      "name": "Doduo",
-      "type": ["normal", "flying"],
-      "evolution": [
-        {
-          "id": "084",
-          "lvl": 0
-        },
-        {
-          "id": "085",
-          "lvl": 31
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 80,
-        "atk": 120
-      },
-      "recipes": [
-          {
-            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "RBYG"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["r", "r", "r", "R", "rbyg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["r", "R", "R", "R", "rbyg"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["b", "b", "g", "g", "Y"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["b", "b", "Y", "G", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "g", "Y", "Y", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["g", "g", "Y", "Y", "Y"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["g", "g", "g", "R", "R"],
-            "rate": 125
-          }
-      ],
-      "bingo": ["Wait for Standard Attacks -20%", "Flying Type Move Wait -5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "085",
-      "name": "Dodrio",
-      "type": ["normal", "flying"],
-      "evolution": [
-        {
-          "id": "084",
-          "lvl": 0
-        },
-        {
-          "id": "085",
-          "lvl": 31
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 200,
-        "atk": 500
-      },
-      "recipes": "Evolves form Doduo",
-      "bingo": ["Wait for Standard Attacks -20%", "Flying Type Move Wait -5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "086",
-      "name": "Seel",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "086",
-          "lvl": 0
-        },
-        {
-          "id": "087",
-          "lvl": 34
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 110,
-        "atk": 90
-      },
-      "recipes": [
-          {
-            "ingredients": ["g", "g", "g", "G", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["b", "b", "B", "RYG", "RYG"],
-            "rate": 14
-          }
-      ],
-      "bingo": ["Water Type Moves Wait -5%", "ATK of Water Type Moves +5%", "Resistant to Status Conditions +10%"]
-    },
-    {
-      "id": "087",
-      "name": "Dewgong",
-      "type": ["water", "ice"],
-      "evolution": [
-        {
-          "id": "086",
-          "lvl": 0
-        },
-        {
-          "id": "087",
-          "lvl": 34
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 500,
-        "atk": 200
-      },
-      "recipes": "Evolves from Seel",
-      "bingo": ["Water Type Moves Wait -5%", "ATK of Water Type Moves +5%", "Resistant to Status Conditions +10%"]
-    },
-    {
-      "id": "088",
-      "name": "Grimer",
-      "type": ["poison"],
-      "evolution": [
-        {
-          "id": "088",
-          "lvl": 0
-        },
-        {
-          "id": "089",
-          "lvl": 38
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 110,
-        "atk": 90
-      },
-      "recipes": [
-          {
-            "ingredients": ["rbyg", "rbyg", "rbyg", "rbyg", "RBYG"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "b", "b", "B", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "B", "B", "B", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["r", "r", "r", "G", "byg"],
-            "rate": 10
-          },
-          {
-            "ingredients": ["r", "r", "G", "G", "RBYG"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["r", "byg", "G", "G", "G"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Poison Type Moves Wait -5%", "Natural HP Healing +10%", "Pokemon Size Change -10%"]
-    },
-    {
-      "id": "089",
-      "name": "Muk",
-      "type": ["poison"],
-      "evolution": [
-        {
-          "id": "088",
-          "lvl": 0
-        },
-        {
-          "id": "089",
-          "lvl": 38
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 650,
-        "atk": 150
-      },
-      "recipes": "Evolves from Grimer",
-      "bingo": ["Poison Type  Moves Wait  -5%", "Natural HP Healing +10%", "Pokemon Size Change -10%"]
-    },
-    {
-      "id": "090",
-      "name": "Shellder",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "090",
-          "lvl": 0
-        },
-        {
-          "id": "091",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 120,
-        "atk": 80
-      },
-      "recipes": [
-          {
-            "ingredients": ["rbyg", "rbyg", "RBYG", "RBYG", "RBYG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "g", "g", "G", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["b", "b", "b", "RYG", "ryg"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["b", "b", "r", "r", "B"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Resistant to Status Conditions +10%", "Taking Critical Hits Rate -25%", "Movement Speed +30%"]
-    },
-    {
-      "id": "091",
-      "name": "Cloyster",
-      "type": ["water", "ice"],
-      "evolution": [
-        {
-          "id": "090",
-          "lvl": 0
-        },
-        {
-          "id": "091",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 575,
-        "atk": 225
-      },
-      "recipes": "Evolves from Shellder",
-      "bingo": ["Resistant to Status Conditions +10%", "Taking Critical Hits Rate -25%", "Movement Speed +30%"]
-    },
-    {
-      "id": "092",
-      "name": "Gastly",
-      "type": ["ghost", "poison"],
-      "evolution": [
-        {
-          "id": "092",
-          "lvl": 0
-        },
-        {
-          "id": "093",
-          "lvl": 25
-        },
-        {
-          "id": "094",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 50,
-        "atk": 150
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["rbyg", "rbyg", "RBYG", "RBYG", "RBYG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["r", "r", "G", "G", "RBYG"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["r", "byg", "G", "G", "G"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Ghost Type  Moves Wait -5%", "ATK of Ghost Type Moves +5%", "Normal Type Damage Taken -25%"]
-    },
-    {
-      "id": "093",
-      "name": "Haunter",
-      "type": ["ghost", "poison"],
-      "evolution": [
-        {
-          "id": "092",
-          "lvl": 0
-        },
-        {
-          "id": "093",
-          "lvl": 25
-        },
-        {
-          "id": "094",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 125,
-        "atk": 575
-      },
-      "recipes": "Evolves from Gastly",
-      "bingo": ["Ghost Type  Moves Wait -5%", "ATK of Ghost Type Moves +5%", "Normal Type Damage Taken -25%"]
-    },
-    {
-      "id": "094",
-      "name": "Gengar",
-      "type": ["ghost", "poison"],
-      "evolution": [
-        {
-          "id": "092",
-          "lvl": 0
-        },
-        {
-          "id": "093",
-          "lvl": 25
-        },
-        {
-          "id": "094",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 150,
-        "atk": 650
-      },
-      "recipes": "Evolves from Haunter",
-      "bingo": ["Ghost Type  Moves Wait -5%", "ATK of Ghost Type Moves +5%", "Normal Type Damage Taken -25%"]
-    },
-    {
-      "id": "095",
-      "name": "Onix",
-      "type": ["rock", "ground"],
-      "evolution": [],
-      "details": {
-        "type": "range",
-        "hp": 600,
-        "atk": 100
-      },
-      "recipes": [
-          {
-            "ingredients": ["g", "g", "g", "G", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["g", "g", "b", "b", "RG"],
-            "rate": 100
-          },
-          {
-            "ingredients": ["g", "g", "rb", "rb", "RYG"],
-            "rate": 100
-          },
-          {
-            "ingredients": ["g", "r", "B", "rb", "rb"],
-            "rate": 100
-          },
-          {
-            "ingredients": ["g", "b", "R", "B", "RYG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "b", "B", "Y", "YG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "b", "B", "G", "G"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "g", "R", "Y", "YG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "g", "R", "R", "RYG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "g", "Y", "Y", "G"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["r", "B", "B", "rb", "RYG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["r", "g", "B", "RYG", "RYG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["y", "g", "g", "yg", "RBY"],
-            "rate": 100
-          },
-          {
-            "ingredients": ["g", "B", "rb", "yg", "yg"],
-            "rate": 100
-          },
-          {
-            "ingredients": ["y", "y", "g", "g", "G"],
-            "rate": 100
-          },
-          {
-            "ingredients": ["y", "y", "y", "g", "B"],
-            "rate": 100
-          },
-          {
-            "ingredients": ["B", "B", "yg", "yg", "RBYG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["r", "B", "B", "B", "yg"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["ATK of Rock Type Moves +5%", "Movement Speed +30%", "Rock Type Moves Wait -5%"]
-    },
-    {
-      "id": "096",
-      "name": "Drowzee",
-      "type": ["psychc"],
-      "evolution": [
-        {
-          "id": "096",
-          "lvl": 0
-        },
-        {
-          "id": "097",
-          "lvl": 26
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 120,
-        "atk": 80
-      },
-      "recipes": [
-          {
-            "ingredients": ["y", "Y", "Y", "Y", "rbyg"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["b", "Y", "B", "Y", "Y"],
-            "rate": 20
-          }
-      ],
-      "bingo": ["Psychic Type Moves Wait -5%", "Healing per Wave +30%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "097",
-      "name": "Hypno",
-      "type": ["psychc"],
-      "evolution": [
-        {
-          "id": "096",
-          "lvl": 0
-        },
-        {
-          "id": "097",
-          "lvl": 26
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 500,
-        "atk": 200
-      },
-      "recipes": "Evolves from Drowzee",
-      "bingo": ["Psychic Type Moves Wait -5%", "Healing per Wave +20%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "098",
-      "name": "Krabby",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "098",
-          "lvl": 0
-        },
-        {
-          "id": "099",
-          "lvl": 28
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 70,
-        "atk": 130
-      },
-      "recipes": [
-          {
-            "ingredients": ["r", "r", "r", "r", "rbyg"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "b", "b", "r", "ryg"],
-            "rate": 16
-          }
-      ],
-      "bingo": ["ATK of Normal Type Moves +5%", "Taking Critical Hits Rate -20%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "099",
-      "name": "Kingler",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "098",
-          "lvl": 0
-        },
-        {
-          "id": "099",
-          "lvl": 28
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 100,
-        "atk": 600
-      },
-      "recipes": "Evolves from Krabby",
-      "bingo": ["ATK of Normal Type Moves +5%", "Taking Critical Hits Rate -20%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "100",
-      "name": "Voltorb",
-      "type": ["electr"],
-      "evolution": [
-        {
-          "id": "100",
-          "lvl": 0
-        },
-        {
-          "id": "101",
-          "lvl": 30
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 110,
-        "atk": 90
-      },
-      "recipes": [
-          {
-            "ingredients": ["r", "r", "r", "r", "rbyg"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["r", "y", "Y", "Y", "rb"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%", "Movement Speed +50%"]
-    },
-    {
-      "id": "101",
-      "name": "Electrode",
-      "type": ["electr"],
-      "evolution": [
-        {
-          "id": "100",
-          "lvl": 0
-        },
-        {
-          "id": "101",
-          "lvl": 30
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 400,
-        "atk": 300
-      },
-      "recipes": "Evolves from Voltorb",
-      "bingo": ["ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%", "Movement Speed +50%"]
-    },
-    {
-      "id": "102",
-      "name": "Exeggcute",
-      "type": ["grass", "psychc"],
-      "evolution": [
-        {
-          "id": "102",
-          "lvl": 0
-        },
-        {
-          "id": "103",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 130,
-        "atk": 70
-      },
-      "recipes": [
-          {
-            "ingredients": ["g", "g", "g", "G", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["y", "y", "y", "R", "rb"],
-            "rate": 25
-          },
-          {
-            "ingredients": ["b", "b", "y", "Y", "yg"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["b", "y", "B", "Y", "Y"],
-            "rate": 20
-          }
-      ],
-      "bingo": ["ATK of Grass Type Moves +5%", "Grass Type Moves Wait -5%", "Wait for Standard Attacks -20%"]
-    },
-    {
-      "id": "103",
-      "name": "Exeggutor",
-      "type": ["grass", "psychc"],
-      "evolution": [
-        {
-          "id": "102",
-          "lvl": 0
-        },
-        {
-          "id": "103",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 250,
-        "atk": 550
-      },
-      "recipes": "Evolves from Exeggcute",
-      "bingo": ["ATK of Grass Type Moves +5%", "Grass Type Moves Wait -5%", "Wait for Standard Attacks -15%"]
-    },
-    {
-      "id": "104",
-      "name": "Cubone",
-      "type": ["ground"],
-      "evolution": [
-        {
-          "id": "104",
-          "lvl": 0
-        },
-        {
-          "id": "105",
-          "lvl": 328
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 130,
-        "atk": 70
-      },
-      "recipes": [
-          {
-            "ingredients": ["G", "G", "G", "G", "G"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["g", "g", "g", "g", "rbyg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["B", "B", "RYB", "RYB", "RYB"],
-            "rate": 100
-          }
-      ],
-      "bingo": ["Taking Critical Hits Rate -20%", "Electric Type Damage Taken -10%", "Ground Type Moves Wait -5%"]
-    },
-    {
-      "id": "105",
-      "name": "Marowak",
-      "type": ["ground"],
-      "evolution": [
-        {
-          "id": "104",
-          "lvl": 0
-        },
-        {
-          "id": "105",
-          "lvl": 28
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 525,
-        "atk": 175
-      },
-      "recipes": "Evolves from Cubone",
-      "bingo": ["Taking Critical Hits Rate -20%", "Electric Type Damage Taken -10%", "Ground Type Moves Wait -5%"]
-    },
-    {
-      "id": "106",
-      "name": "Hitmonlee",
-      "type": ["fight"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 50,
-        "atk": 650
-      },
-      "recipes": [
-          {
-            "ingredients": ["y", "y", "y", "Y", "rbyg"],
-            "rate": 25
-          },
-          {
-            "ingredients": ["Y", "Y", "Y", "Y", "Y"],
-            "rate": 25
-          },
-          {
-            "ingredients": ["r", "b", "Y", "Y", "G"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["ATK of Fighting Type Moves +5%", "Fighting Type Moves Wait -5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "107",
-      "name": "Hitmonchan",
-      "type": ["fight"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 75,
-        "atk": 625
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["R", "R", "R", "R", "R"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["r", "b", "Y", "Y", "G"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Critical Hit Damage +5%", "Resistant to %u2193 Effects +10%", "Movement Speed +30%"]
-    },
-    {
-      "id": "108",
-      "name": "Lickitung",
-      "type": ["normal"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 600,
-        "atk": 100
-      },
-      "recipes": [
-          {
-            "ingredients": ["r", "r", "r", "R", "rbyg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["r", "R", "R", "R", "rbyg"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["b", "b", "g", "g", "Y"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["ATK of Normal Type Moves +5%", "Resistant to Status Conditions +10%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "109",
-      "name": "Koffing",
-      "type": ["poison"],
-      "evolution": [
-        {
-          "id": "109",
-          "lvl": 0
-        },
-        {
-          "id": "110",
-          "lvl": 35
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 140,
-        "atk": 60
-      },
-      "recipes": [
-          {
-            "ingredients": ["b", "b", "b", "B", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "B", "B", "B", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["r", "r", "r", "G", "byg"],
-            "rate": 10
-          }
-      ],
-      "bingo": ["Poison Type Moves Wait -5%", "Ground Type Damage Taken -20%", "ATK of Poison Type Moves +5%"]
-    },
-    {
-      "id": "110",
-      "name": "Weezing",
-      "type": ["poison"],
-      "evolution": [
-        {
-          "id": "109",
-          "lvl": 0
-        },
-        {
-          "id": "110",
-          "lvl": 35
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 450,
-        "atk": 350
-      },
-      "recipes": "Evolves from Koffing",
-      "bingo": ["Poison Type Moves Wait -5%", "Ground Type Damage Taken -20%", "ATK of Poison Type Moves +5%"]
-    },
-    {
-      "id": "111",
-      "name": "Rhyhorn",
-      "type": ["ground", "rock"],
-      "evolution": [
-        {
-          "id": "111",
-          "lvl": 0
-        },
-        {
-          "id": "112",
-          "lvl": 42
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 120,
-        "atk": 80
-      },
-      "recipes": [
-          {
-            "ingredients": ["g", "g", "g", "g", "rbyg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["g", "g", "rb", "rb", "r"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["y", "g", "g", "rby", "yg"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["Critical Hit Damage +5%", "Own Knockback Distance -10%", "Electric Type Damage Taken -10%"]
-    },
-    {
-      "id": "112",
-      "name": "Rhydon",
-      "type": ["ground", "rock"],
-      "evolution": [
-        {
-          "id": "111",
-          "lvl": 0
-        },
-        {
-          "id": "112",
-          "lvl": 42
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 300,
-        "atk": 500
-      },
-      "recipes": "Evolves from Rhyhorn",
-      "bingo": ["Critical Hit Damage +5%", "Own Knockback Distance -10%", "Electric Type Damage Taken -10%"]
-    },
-    {
-      "id": "113",
-      "name": "Chansey",
-      "type": ["normal"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 675,
-        "atk": 25
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["Y", "Y", "Y", "G", "G"],
-            "rate": 20
-          }
-      ],
-      "bingo": ["Normal Type Moves Wait -5%", "Ghost Type Damage Taken -10%", "Resistant to Status Conditions +10%"]
-    },
-    {
-      "id": "114",
-      "name": "Tangela",
-      "type": ["grass"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 400,
-        "atk": 300
-      },
-      "recipes": [
-          {
-            "ingredients": ["B", "B", "B", "B", "B"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["y", "y", "R", "R", "RBYG"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["y", "R", "R", "R", "bg"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Grass Type Moves Wait -5%", "HP upon Recovery +10%", "Natural HP Healing +10%"]
-    },
-    {
-      "id": "115",
-      "name": "Kangaskhan",
-      "type": ["normal"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 350,
-        "atk": 350
-      },
-      "recipes": [
-          {
-            "ingredients": ["Y", "Y", "Y", "Y", "Y"],
-            "rate": 25
-          },
-          {
-            "ingredients": ["Y", "Y", "Y", "G", "G"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "b", "Y", "G", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "g", "Y", "Y", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["g", "g", "Y", "Y", "Y"],
-            "rate": 14
-          }
-      ],
-      "bingo": ["ATK of Normal Type Moves +5%", "Resistant to Status Conditions +10%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "116",
-      "name": "Horsea",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "116",
-          "lvl": 0
-        },
-        {
-          "id": "117",
-          "lvl": 32
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 90,
-        "atk": 110
-      },
-      "recipes": [
-          {
-            "ingredients": ["b", "b", "b", "B", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "B", "B", "B", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "b", "b", "RYG", "ryg"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["b", "b", "r", "r", "B"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Water Type Moves Wait -5%", "ATK of Water Type Moves +5%", "Critical Hit Damage +10%"]
-    },
-    {
-      "id": "117",
-      "name": "Seadra",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "116",
-          "lvl": 0
-        },
-        {
-          "id": "117",
-          "lvl": 32
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 250,
-        "atk": 450
-      },
-      "recipes": "Evolves from Horsea",
-      "bingo": ["Water Type Moves Wait -5%", "ATK of Water Type Moves +5%", "Critical Hit Damage +10%"]
-    },
-    {
-      "id": "118",
-      "name": "Goldeen",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "118",
-          "lvl": 0
-        },
-        {
-          "id": "119",
-          "lvl": 33
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 70,
-        "atk": 130
-      },
-      "recipes": [
-          {
-            "ingredients": ["r", "r", "r", "r", "rbyg"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "b", "b", "r", "ryg"],
-            "rate": 16
-          }
-      ],
-      "bingo": ["ATK of Water Type Moves +5%", "Normal Type Moves Wait -5%", "Electric Type Damage Taken -10%"]
-    },
-    {
-      "id": "119",
-      "name": "Seaking",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "118",
-          "lvl": 0
-        },
-        {
-          "id": "119",
-          "lvl": 33
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 350,
-        "atk": 450
-      },
-      "recipes": "Evolves from Goldeen",
-      "bingo": ["ATK of Water Type Moves +5%", "Normal Type Moves Wait -5%", "Electric Type Damage Taken -10%"]
-    },
-    {
-      "id": "120",
-      "name": "Staryu",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "120",
-          "lvl": 0
-        },
-        {
-          "id": "121",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 60,
-        "atk": 140
-      },
-      "recipes": [
-          {
-            "ingredients": ["y", "y", "y", "y", "rbyg"],
-            "rate": 12
-          },
-          {
-            "ingredients": ["b", "b", "b", "r", "ryg"],
-            "rate": 16
-          }
-      ],
-      "bingo": ["Water Type Moves Wait -5%", "Ice Type Moves Wait -5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "121",
-      "name": "Starmie",
-      "type": ["water", "psychc"],
-      "evolution": [
-        {
-          "id": "120",
-          "lvl": 0
-        },
-        {
-          "id": "121",
-          "lvl": 36
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 150,
-        "atk": 650
-      },
-      "recipes": "Evolves from Staryu",
-      "bingo": ["Water Type Moves Wait -5%", "Ice Type Moves Wait -5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "122",
-      "name": "Mr. Mime",
-      "type": ["fairy", "psychc"],
-      "evolution": [],
-      "details": {
-        "type": "range",
-        "hp": 575,
-        "atk": 125
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["b", "y", "B", "Y", "Y"],
-            "rate": 20
-          }
-      ],
-      "bingo": ["Psychic Type Moves Wait -5%", "Resistant to %u2193 Effects +10%", "ATK of Psychic Type Moves +15%"]
-    },
-    {
-      "id": "123",
-      "name": "Scyther",
-      "type": ["bug", "flying"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 100,
-        "atk": 700
-      },
-      "recipes": [
-          {
-            "ingredients": ["Y", "Y", "Y", "Y", "Y"],
-            "rate": 25
-          },
-          {
-            "ingredients": ["b", "Y", "Y", "Y", "l"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["R", "R", "B", "B", "B"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["ATK of Bug Type Moves +5%", "Bug Type Moves Wait -5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "124",
-      "name": "Jynx",
-      "type": ["ice", "psychc"],
-      "evolution": [],
-      "details": {
-        "type": "range",
-        "hp": 150,
-        "atk": 550
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["R", "R", "R", "R", "R"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["b", "y", "B", "Y", "Y"],
-            "rate": 20
-          }
-      ],
-      "bingo": ["Fairy Type Moves Wait -5%", "Psychic Type Moves Wait -5%", "Ice Type Moves Wait -5%"]
-    },
-    {
-      "id": "125",
-      "name": "Electabuzz",
-      "type": ["electr"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 300,
-        "atk": 400
-      },
-      "recipes": [
-          {
-            "ingredients": ["Y", "Y", "Y", "YB", "YG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["y", "Y", "Y", "rb", "rb"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["y", "Y", "Y", "Y", "rg"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["ATK of Electric Type Moves +5%", "Electric Type Moves Wait -5%", "ATK of Fighting Type Moves +5%"]
-    },
-    {
-      "id": "126",
-      "name": "Magmar",
-      "type": ["fire"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 175,
-        "atk": 525
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["G", "G", "G", "R", "R"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["ATK of Fire Type Moves +5%", "Fire Type Moves Wait -5%", "Wait for Standard Attacks -25%"]
-    },
-    {
-      "id": "127",
-      "name": "Pinsir",
-      "type": ["bug"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 75,
-        "atk": 725
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["b", "Y", "Y", "Y", "l"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Normal Type Moves Wait -5%", "Critical Hit Damage +5%", "ATK of Fighting Type Moves +5%"]
-    },
-    {
-      "id": "128",
-      "name": "Tauros",
-      "type": ["normal"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 100,
-        "atk": 600
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["b", "b", "Y", "G", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "g", "Y", "Y", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "b", "Y", "Y", "Y"],
-            "rate": 14
-          }
-      ],
-      "bingo": ["Critical Hit Damage +5%", "?", "Movement Speed +30%"]
-    },
-    {
-      "id": "129",
-      "name": "Magikarp",
-      "type": ["water"],
-      "evolution": [
-        {
-          "id": "129",
-          "lvl": 0
-        },
-        {
-          "id": "130",
-          "lvl": 20
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 25,
-        "atk": 25
-      },
-      "recipes": [
-          {
-            "ingredients": ["B", "B", "B", "B", "B"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "B", "B", "B", "rbyg"],
-            "rate": 20
-          },
-          {
-            "ingredients": ["b", "b", "B", "RYG", "RYG"],
-            "rate": 14
-          }
-      ],
-      "bingo": ["ATK of Normal Type Moves +5%", "Movement Speed +50%", "Normal Type Moves Wait -5%"]
-    },
-    {
-      "id": "130",
-      "name": "Gyarados",
-      "type": ["water", "flying"],
-      "evolution": [
-        {
-          "id": "129",
-          "lvl": 0
-        },
-        {
-          "id": "130",
-          "lvl": 20
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 200,
-        "atk": 400
-      },
-      "recipes": "Evolves from Magikarp",
-      "bingo": ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Normal Type Moves Wait -5%"]
-    },
-    {
-      "id": "131",
-      "name": "Lapras",
-      "type": ["water", "ice"],
-      "evolution": [],
-      "specialskill": [
-        {
-          "name": "Aqua Ring",
-          "method": "Great Expedition Pack Only"
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 650,
-        "atk": 150
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["B", "B", "B", "B", "B"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "b", "B", "RYG", "RYG"],
-            "rate": 14
-          }
-      ],
-      "bingo": ["Resistant to %u2193 Effects +10%", "Healing per Wave +20%", "Own Knockback Distance -20%"]
-    },
-    {
-      "id": "132",
-      "name": "Ditto",
-      "type": ["normal"],
-      "evolution": [],
-      "details": {
-        "type": "range",
-        "hp": 350,
-        "atk": 350
-      },
-      "recipes": [
-          {
-            "ingredients": ["B", "B", "B", "B", "B"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["Y", "Y", "Y", "G", "G"],
-            "rate": 20
-          }
-      ],
-      "bingo": ["Critical hit Rate +10%", "HP upon Recovery +10%", "Movement Speed +50%"]
-    },
-    {
-      "id": "133",
-      "name": "Eevee",
-      "type": ["normal"],
-      "evolution": [
-        [
-          {
-            "id": "133",
-            "lvl": 0
-          },
-          {
-            "id": "134",
-            "lvl": 36
-          }
-        ],
-        [
-          {
-            "id": "133",
-            "lvl": 0
-          },
-          {
-            "id": "135",
-            "lvl": 36
-          }
-        ],
-        [
-          {
-            "id": "133",
-            "lvl": 0
-          },
-          {
-            "id": "136",
-            "lvl": 36
-          }
-        ]
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 100,
-        "atk": 100
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["R", "R", "R", "R", "R"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["Y", "Y", "Y", "G", "G"],
-            "rate": 20
-          }
-      ],
-      "bingo": ["ATK of Normal Type Moves +5%", "Normal Type Moves Wait -5%", "Movement Speed +30%"]
-    },
-    {
-      "id": "134",
-      "name": "Vaporeon",
-      "type": ["water"],
-      "evolution": [
+[
+  {
+    "id": "001",
+    "name": "Bulbasaur",
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "001",
+        "lvl": 0
+      },
+      {
+        "id": "002",
+        "lvl": 16
+      },
+      {
+        "id": "003",
+        "lvl": 32
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 125,
+      "atk": 75
+    }
+  },
+  {
+    "id": "002",
+    "name": "Ivysaur",
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "001",
+        "lvl": 0
+      },
+      {
+        "id": "002",
+        "lvl": 16
+      },
+      {
+        "id": "003",
+        "lvl": 32
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 400,
+      "atk": 100
+    }
+  },
+  {
+    "id": "003",
+    "name": "Venusaur",
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "001",
+        "lvl": 0
+      },
+      {
+        "id": "002",
+        "lvl": 16
+      },
+      {
+        "id": "003",
+        "lvl": 32
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 550,
+      "atk": 150
+    }
+  },
+  {
+    "id": "004",
+    "name": "Charmander",
+    "type": [
+      "fire"
+    ],
+    "evolution": [
+      {
+        "id": "004",
+        "lvl": 0
+      },
+      {
+        "id": "005",
+        "lvl": 16
+      },
+      {
+        "id": "006",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 75,
+      "atk": 125
+    }
+  },
+  {
+    "id": "005",
+    "name": "Charmeleon",
+    "type": [
+      "fire"
+    ],
+    "evolution": [
+      {
+        "id": "004",
+        "lvl": 0
+      },
+      {
+        "id": "005",
+        "lvl": 16
+      },
+      {
+        "id": "006",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 100,
+      "atk": 400
+    }
+  },
+  {
+    "id": "006",
+    "name": "Charizard",
+    "type": [
+      "fire",
+      "flying"
+    ],
+    "evolution": [
+      {
+        "id": "004",
+        "lvl": 0
+      },
+      {
+        "id": "005",
+        "lvl": 16
+      },
+      {
+        "id": "006",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 200,
+      "atk": 600
+    }
+  },
+  {
+    "id": "007",
+    "name": "Squirtle",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "007",
+        "lvl": 0
+      },
+      {
+        "id": "008",
+        "lvl": 16
+      },
+      {
+        "id": "009",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 100,
+      "atk": 100
+    }
+  },
+  {
+    "id": "008",
+    "name": "Wartortle",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "007",
+        "lvl": 0
+      },
+      {
+        "id": "008",
+        "lvl": 16
+      },
+      {
+        "id": "009",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 250,
+      "atk": 250
+    }
+  },
+  {
+    "id": "009",
+    "name": "Blastoise",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "007",
+        "lvl": 0
+      },
+      {
+        "id": "008",
+        "lvl": 16
+      },
+      {
+        "id": "009",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 400,
+      "atk": 400
+    }
+  },
+  {
+    "id": "010",
+    "name": "Caterpie",
+    "type": [
+      "bug"
+    ],
+    "evolution": [
+      {
+        "id": "010",
+        "lvl": 0
+      },
+      {
+        "id": "011",
+        "lvl": 7
+      },
+      {
+        "id": "012",
+        "lvl": 10
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 110,
+      "atk": 90
+    }
+  },
+  {
+    "id": "011",
+    "name": "Metapod",
+    "type": [
+      "bug"
+    ],
+    "evolution": [
+      {
+        "id": "010",
+        "lvl": 0
+      },
+      {
+        "id": "011",
+        "lvl": 7
+      },
+      {
+        "id": "012",
+        "lvl": 10
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 275,
+      "atk": 25
+    }
+  },
+  {
+    "id": "012",
+    "name": "Butterfree",
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "evolution": [
+      {
+        "id": "010",
+        "lvl": 0
+      },
+      {
+        "id": "011",
+        "lvl": 7
+      },
+      {
+        "id": "012",
+        "lvl": 10
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 150,
+      "atk": 250
+    }
+  },
+  {
+    "id": "013",
+    "name": "Weedle",
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "011",
+        "lvl": 0
+      },
+      {
+        "id": "012",
+        "lvl": 7
+      },
+      {
+        "id": "013",
+        "lvl": 10
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 100,
+      "atk": 100
+    }
+  },
+  {
+    "id": "014",
+    "name": "Kakuna",
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "011",
+        "lvl": 0
+      },
+      {
+        "id": "012",
+        "lvl": 7
+      },
+      {
+        "id": "013",
+        "lvl": 10
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 250,
+      "atk": 50
+    }
+  },
+  {
+    "id": "015",
+    "name": "Beedrill",
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "013",
+        "lvl": 0
+      },
+      {
+        "id": "014",
+        "lvl": 7
+      },
+      {
+        "id": "015",
+        "lvl": 10
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 150,
+      "atk": 250
+    }
+  },
+  {
+    "id": "016",
+    "name": "Pidgey",
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "evolution": [
+      {
+        "id": "016",
+        "lvl": 0
+      },
+      {
+        "id": "017",
+        "lvl": 18
+      },
+      {
+        "id": "018",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 100,
+      "atk": 100
+    }
+  },
+  {
+    "id": "017",
+    "name": "Pidgeotto",
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "evolution": [
+      {
+        "id": "016",
+        "lvl": 0
+      },
+      {
+        "id": "017",
+        "lvl": 18
+      },
+      {
+        "id": "018",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 250,
+      "atk": 250
+    }
+  },
+  {
+    "id": "018",
+    "name": "Pidgeot",
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "evolution": [
+      {
+        "id": "016",
+        "lvl": 0
+      },
+      {
+        "id": "017",
+        "lvl": 18
+      },
+      {
+        "id": "018",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 400,
+      "atk": 400
+    }
+  },
+  {
+    "id": "019",
+    "name": "Rattata",
+    "type": [
+      "normal"
+    ],
+    "evolution": [
+      {
+        "id": "019",
+        "lvl": 0
+      },
+      {
+        "id": "020",
+        "lvl": 20
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 75,
+      "atk": 125
+    }
+  },
+  {
+    "id": "020",
+    "name": "Raticate",
+    "type": [
+      "normal"
+    ],
+    "evolution": [
+      {
+        "id": "019",
+        "lvl": 0
+      },
+      {
+        "id": "020",
+        "lvl": 20
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 150,
+      "atk": 450
+    }
+  },
+  {
+    "id": "021",
+    "name": "Spearow",
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "evolution": [
+      {
+        "id": "021",
+        "lvl": 0
+      },
+      {
+        "id": "022",
+        "lvl": 20
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 75,
+      "atk": 125
+    }
+  },
+  {
+    "id": "022",
+    "name": "Fearow",
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "evolution": [
+      {
+        "id": "021",
+        "lvl": 0
+      },
+      {
+        "id": "022",
+        "lvl": 20
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 100,
+      "atk": 500
+    }
+  },
+  {
+    "id": "023",
+    "name": "Ekans",
+    "type": [
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "023",
+        "lvl": 0
+      },
+      {
+        "id": "024",
+        "lvl": 22
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 80,
+      "atk": 120
+    }
+  },
+  {
+    "id": "024",
+    "name": "Arbok",
+    "type": [
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "023",
+        "lvl": 0
+      },
+      {
+        "id": "024",
+        "lvl": 22
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 150,
+      "atk": 450
+    }
+  },
+  {
+    "id": "025",
+    "name": "Pikachu",
+    "type": [
+      "electr"
+    ],
+    "evolution": [
+      {
+        "id": "025",
+        "lvl": 0
+      },
+      {
+        "id": "026",
+        "lvl": 22
+      }
+    ],
+    "specialskill": [
+      {
+        "name": "Surf",
+        "method": "Mini Expedition Pack (Mobile Only)"
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 70,
+      "atk": 130
+    }
+  },
+  {
+    "id": "026",
+    "name": "Raichu",
+    "type": [
+      "electr"
+    ],
+    "evolution": [
+      {
+        "id": "025",
+        "lvl": 0
+      },
+      {
+        "id": "026",
+        "lvl": 22
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 150,
+      "atk": 450
+    }
+  },
+  {
+    "id": "027",
+    "name": "Sandshrew",
+    "type": [
+      "ground"
+    ],
+    "evolution": [
+      {
+        "id": "027",
+        "lvl": 0
+      },
+      {
+        "id": "028",
+        "lvl": 22
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 80,
+      "atk": 120
+    }
+  },
+  {
+    "id": "028",
+    "name": "Sandslash",
+    "type": [
+      "ground"
+    ],
+    "evolution": [
+      {
+        "id": "027",
+        "lvl": 0
+      },
+      {
+        "id": "028",
+        "lvl": 22
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 150,
+      "atk": 350
+    }
+  },
+  {
+    "id": "029",
+    "name": "Nidoran♀",
+    "type": [
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "029",
+        "lvl": 0
+      },
+      {
+        "id": "030",
+        "lvl": 16
+      },
+      {
+        "id": "031",
+        "lvl": 36
+      }
+    ],
+    "specialskill": [
+      {
+        "name": "Sing",
+        "method": "Expedition Pack Only"
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 140,
+      "atk": 60
+    }
+  },
+  {
+    "id": "030",
+    "name": "Nidorina",
+    "type": [
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "029",
+        "lvl": 0
+      },
+      {
+        "id": "030",
+        "lvl": 16
+      },
+      {
+        "id": "031",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 325,
+      "atk": 175
+    }
+  },
+  {
+    "id": "031",
+    "name": "Nidoqueen",
+    "type": [
+      "poison",
+      "ground"
+    ],
+    "evolution": [
+      {
+        "id": "029",
+        "lvl": 0
+      },
+      {
+        "id": "030",
+        "lvl": 16
+      },
+      {
+        "id": "031",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 600,
+      "atk": 200
+    }
+  },
+  {
+    "id": "032",
+    "name": "Nidoran♂",
+    "type": [
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "032",
+        "lvl": 0
+      },
+      {
+        "id": "033",
+        "lvl": 16
+      },
+      {
+        "id": "034",
+        "lvl": 36
+      }
+    ],
+    "specialskill": [
+      {
+        "name": "Work Up",
+        "method": "Expedition Pack Only"
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 60,
+      "atk": 140
+    }
+  },
+  {
+    "id": "033",
+    "name": "Nidorino",
+    "type": [
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "032",
+        "lvl": 0
+      },
+      {
+        "id": "033",
+        "lvl": 16
+      },
+      {
+        "id": "034",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 175,
+      "atk": 325
+    }
+  },
+  {
+    "id": "034",
+    "name": "Nidoking",
+    "type": [
+      "poison",
+      "ground"
+    ],
+    "evolution": [
+      {
+        "id": "032",
+        "lvl": 0
+      },
+      {
+        "id": "033",
+        "lvl": 16
+      },
+      {
+        "id": "034",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 200,
+      "atk": 600
+    }
+  },
+  {
+    "id": "035",
+    "name": "Clefairy",
+    "type": [
+      "fairy"
+    ],
+    "evolution": [
+      {
+        "id": "035",
+        "lvl": 0
+      },
+      {
+        "id": "036",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 120,
+      "atk": 80
+    }
+  },
+  {
+    "id": "036",
+    "name": "Clefable",
+    "type": [
+      "fairy"
+    ],
+    "evolution": [
+      {
+        "id": "035",
+        "lvl": 0
+      },
+      {
+        "id": "036",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 450,
+      "atk": 250
+    }
+  },
+  {
+    "id": "037",
+    "name": "Vulpix",
+    "type": [
+      "fire"
+    ],
+    "evolution": [
+      {
+        "id": "037",
+        "lvl": 0
+      },
+      {
+        "id": "038",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 110,
+      "atk": 90
+    }
+  },
+  {
+    "id": "038",
+    "name": "Ninetales",
+    "type": [
+      "fire"
+    ],
+    "evolution": [
+      {
+        "id": "037",
+        "lvl": 0
+      },
+      {
+        "id": "038",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 550,
+      "atk": 250
+    }
+  },
+  {
+    "id": "039",
+    "name": "Jigglypuff",
+    "type": [
+      "fairy",
+      "normal"
+    ],
+    "evolution": [
+      {
+        "id": "039",
+        "lvl": 0
+      },
+      {
+        "id": "040",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 140,
+      "atk": 60
+    }
+  },
+  {
+    "id": "040",
+    "name": "Wigglytuff",
+    "type": [
+      "fairy",
+      "normal"
+    ],
+    "evolution": [
+      {
+        "id": "039",
+        "lvl": 0
+      },
+      {
+        "id": "040",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 450,
+      "atk": 150
+    }
+  },
+  {
+    "id": "041",
+    "name": "Zubat",
+    "type": [
+      "fairy",
+      "normal"
+    ],
+    "evolution": [
+      {
+        "id": "041",
+        "lvl": 0
+      },
+      {
+        "id": "042",
+        "lvl": 22
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 80,
+      "atk": 120
+    }
+  },
+  {
+    "id": "042",
+    "name": "Golbat",
+    "type": [
+      "poison",
+      "flying"
+    ],
+    "evolution": [
+      {
+        "id": "041",
+        "lvl": 0
+      },
+      {
+        "id": "042",
+        "lvl": 22
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 200,
+      "atk": 400
+    }
+  },
+  {
+    "id": "043",
+    "name": "Oddish",
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "043",
+        "lvl": 0
+      },
+      {
+        "id": "044",
+        "lvl": 21
+      },
+      {
+        "id": "045",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 75,
+      "atk": 125
+    }
+  },
+  {
+    "id": "044",
+    "name": "Gloom",
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "043",
+        "lvl": 0
+      },
+      {
+        "id": "044",
+        "lvl": 21
+      },
+      {
+        "id": "045",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 250,
+      "atk": 350
+    }
+  },
+  {
+    "id": "045",
+    "name": "Vileplume",
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "043",
+        "lvl": 0
+      },
+      {
+        "id": "044",
+        "lvl": 21
+      },
+      {
+        "id": "045",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 300,
+      "atk": 500
+    }
+  },
+  {
+    "id": "046",
+    "name": "Paras",
+    "type": [
+      "bug",
+      "grass"
+    ],
+    "evolution": [
+      {
+        "id": "046",
+        "lvl": 0
+      },
+      {
+        "id": "047",
+        "lvl": 24
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 80,
+      "atk": 120
+    }
+  },
+  {
+    "id": "047",
+    "name": "Parasect",
+    "type": [
+      "bug",
+      "grass"
+    ],
+    "evolution": [
+      {
+        "id": "046",
+        "lvl": 0
+      },
+      {
+        "id": "047",
+        "lvl": 24
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 200,
+      "atk": 500
+    }
+  },
+  {
+    "id": "048",
+    "name": "Venonat",
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "048",
+        "lvl": 0
+      },
+      {
+        "id": "049",
+        "lvl": 31
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 120,
+      "atk": 80
+    }
+  },
+  {
+    "id": "049",
+    "name": "Venomoth",
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "048",
+        "lvl": 0
+      },
+      {
+        "id": "049",
+        "lvl": 31
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 350,
+      "atk": 350
+    }
+  },
+  {
+    "id": "050",
+    "name": "Diglett",
+    "type": [
+      "ground"
+    ],
+    "evolution": [
+      {
+        "id": "050",
+        "lvl": 0
+      },
+      {
+        "id": "051",
+        "lvl": 26
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 60,
+      "atk": 140
+    }
+  },
+  {
+    "id": "051",
+    "name": "Dugtrio",
+    "type": [
+      "ground"
+    ],
+    "evolution": [
+      {
+        "id": "050",
+        "lvl": 0
+      },
+      {
+        "id": "051",
+        "lvl": 26
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 100,
+      "atk": 600
+    }
+  },
+  {
+    "id": "052",
+    "name": "Meowth",
+    "type": [
+      "normal"
+    ],
+    "evolution": [
+      {
+        "id": "052",
+        "lvl": 0
+      },
+      {
+        "id": "053",
+        "lvl": 28
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 85,
+      "atk": 115
+    }
+  },
+  {
+    "id": "053",
+    "name": "Persian",
+    "type": [
+      "normal"
+    ],
+    "evolution": [
+      {
+        "id": "052",
+        "lvl": 0
+      },
+      {
+        "id": "053",
+        "lvl": 28
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 300,
+      "atk": 400
+    }
+  },
+  {
+    "id": "054",
+    "name": "Psyduck",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "054",
+        "lvl": 0
+      },
+      {
+        "id": "055",
+        "lvl": 33
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 80,
+      "atk": 120
+    }
+  },
+  {
+    "id": "055",
+    "name": "Golduck",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "054",
+        "lvl": 0
+      },
+      {
+        "id": "055",
+        "lvl": 33
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 200,
+      "atk": 500
+    }
+  },
+  {
+    "id": "056",
+    "name": "Mankey",
+    "type": [
+      "fight"
+    ],
+    "evolution": [
+      {
+        "id": "056",
+        "lvl": 0
+      },
+      {
+        "id": "057",
+        "lvl": 28
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 60,
+      "atk": 140
+    }
+  },
+  {
+    "id": "057",
+    "name": "Primeape",
+    "type": [
+      "fight"
+    ],
+    "evolution": [
+      {
+        "id": "056",
+        "lvl": 0
+      },
+      {
+        "id": "057",
+        "lvl": 28
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 150,
+      "atk": 550
+    }
+  },
+  {
+    "id": "058",
+    "name": "Growlithe",
+    "type": [
+      "fire"
+    ],
+    "evolution": [
+      {
+        "id": "058",
+        "lvl": 0
+      },
+      {
+        "id": "059",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 80,
+      "atk": 120
+    }
+  },
+  {
+    "id": "059",
+    "name": "Arcanine",
+    "type": [
+      "fire"
+    ],
+    "evolution": [
+      {
+        "id": "058",
+        "lvl": 0
+      },
+      {
+        "id": "059",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 350,
+      "atk": 450
+    }
+  },
+  {
+    "id": "060",
+    "name": "Poliwag",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "060",
+        "lvl": 0
+      },
+      {
+        "id": "061",
+        "lvl": 25
+      },
+      {
+        "id": "062",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 90,
+      "atk": 110
+    }
+  },
+  {
+    "id": "061",
+    "name": "Poliwhirl",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "060",
+        "lvl": 0
+      },
+      {
+        "id": "061",
+        "lvl": 25
+      },
+      {
+        "id": "062",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 350,
+      "atk": 350
+    }
+  },
+  {
+    "id": "062",
+    "name": "Poliwrath",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "060",
+        "lvl": 0
+      },
+      {
+        "id": "061",
+        "lvl": 25
+      },
+      {
+        "id": "062",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 350,
+      "atk": 450
+    }
+  },
+  {
+    "id": "063",
+    "name": "Abra",
+    "type": [
+      "psychc"
+    ],
+    "evolution": [
+      {
+        "id": "063",
+        "lvl": 0
+      },
+      {
+        "id": "064",
+        "lvl": 16
+      },
+      {
+        "id": "065",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 45,
+      "atk": 155
+    }
+  },
+  {
+    "id": "064",
+    "name": "Kadabra",
+    "type": [
+      "psychc"
+    ],
+    "evolution": [
+      {
+        "id": "063",
+        "lvl": 0
+      },
+      {
+        "id": "064",
+        "lvl": 16
+      },
+      {
+        "id": "065",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 90,
+      "atk": 410
+    }
+  },
+  {
+    "id": "065",
+    "name": "Alakazam",
+    "type": [
+      "psychc"
+    ],
+    "evolution": [
+      {
+        "id": "063",
+        "lvl": 0
+      },
+      {
+        "id": "064",
+        "lvl": 16
+      },
+      {
+        "id": "065",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 100,
+      "atk": 700
+    }
+  },
+  {
+    "id": "066",
+    "name": "Machop",
+    "type": [
+      "fight"
+    ],
+    "evolution": [
+      {
+        "id": "066",
+        "lvl": 0
+      },
+      {
+        "id": "067",
+        "lvl": 28
+      },
+      {
+        "id": "068",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 80,
+      "atk": 120
+    }
+  },
+  {
+    "id": "067",
+    "name": "Machoke",
+    "type": [
+      "fight"
+    ],
+    "evolution": [
+      {
+        "id": "066",
+        "lvl": 0
+      },
+      {
+        "id": "067",
+        "lvl": 28
+      },
+      {
+        "id": "068",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 200,
+      "atk": 500
+    }
+  },
+  {
+    "id": "068",
+    "name": "Machamp",
+    "type": [
+      "fight"
+    ],
+    "evolution": [
+      {
+        "id": "066",
+        "lvl": 0
+      },
+      {
+        "id": "067",
+        "lvl": 28
+      },
+      {
+        "id": "068",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 250,
+      "atk": 550
+    }
+  },
+  {
+    "id": "069",
+    "name": "Bellsprout",
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "069",
+        "lvl": 0
+      },
+      {
+        "id": "070",
+        "lvl": 21
+      },
+      {
+        "id": "071",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 80,
+      "atk": 120
+    }
+  },
+  {
+    "id": "070",
+    "name": "Weepinbell",
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "069",
+        "lvl": 0
+      },
+      {
+        "id": "070",
+        "lvl": 21
+      },
+      {
+        "id": "071",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 250,
+      "atk": 350
+    }
+  },
+  {
+    "id": "071",
+    "name": "Victreebel",
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "069",
+        "lvl": 0
+      },
+      {
+        "id": "070",
+        "lvl": 21
+      },
+      {
+        "id": "071",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 300,
+      "atk": 500
+    }
+  },
+  {
+    "id": "072",
+    "name": "Tentacool",
+    "type": [
+      "water",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "072",
+        "lvl": 0
+      },
+      {
+        "id": "073",
+        "lvl": 30
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 90,
+      "atk": 110
+    }
+  },
+  {
+    "id": "073",
+    "name": "Tentacruel",
+    "type": [
+      "water",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "072",
+        "lvl": 0
+      },
+      {
+        "id": "073",
+        "lvl": 30
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 550,
+      "atk": 150
+    }
+  },
+  {
+    "id": "074",
+    "name": "Geodude",
+    "type": [
+      "rock",
+      "ground"
+    ],
+    "evolution": [
+      {
+        "id": "074",
+        "lvl": 0
+      },
+      {
+        "id": "075",
+        "lvl": 25
+      },
+      {
+        "id": "076",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 140,
+      "atk": 60
+    }
+  },
+  {
+    "id": "075",
+    "name": "Graveler",
+    "type": [
+      "rock",
+      "ground"
+    ],
+    "evolution": [
+      {
+        "id": "074",
+        "lvl": 0
+      },
+      {
+        "id": "075",
+        "lvl": 25
+      },
+      {
+        "id": "076",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 610,
+      "atk": 90
+    }
+  },
+  {
+    "id": "076",
+    "name": "Golem",
+    "type": [
+      "rock",
+      "ground"
+    ],
+    "evolution": [
+      {
+        "id": "074",
+        "lvl": 0
+      },
+      {
+        "id": "075",
+        "lvl": 25
+      },
+      {
+        "id": "076",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 700,
+      "atk": 100
+    }
+  },
+  {
+    "id": "077",
+    "name": "Ponyta",
+    "type": [
+      "fire"
+    ],
+    "evolution": [
+      {
+        "id": "077",
+        "lvl": 0
+      },
+      {
+        "id": "078",
+        "lvl": 40
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 100,
+      "atk": 100
+    }
+  },
+  {
+    "id": "078",
+    "name": "Rapidash",
+    "type": [
+      "fire"
+    ],
+    "evolution": [
+      {
+        "id": "077",
+        "lvl": 0
+      },
+      {
+        "id": "078",
+        "lvl": 40
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 400,
+      "atk": 400
+    }
+  },
+  {
+    "id": "079",
+    "name": "Slowpoke",
+    "type": [
+      "water",
+      "psychc"
+    ],
+    "evolution": [
+      {
+        "id": "079",
+        "lvl": 0
+      },
+      {
+        "id": "080",
+        "lvl": 37
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 130,
+      "atk": 70
+    }
+  },
+  {
+    "id": "080",
+    "name": "Slowbro",
+    "type": [
+      "water",
+      "psychc"
+    ],
+    "evolution": [
+      {
+        "id": "079",
+        "lvl": 0
+      },
+      {
+        "id": "080",
+        "lvl": 37
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 650,
+      "atk": 150
+    }
+  },
+  {
+    "id": "081",
+    "name": "Magnemite",
+    "type": [
+      "electr",
+      "steel"
+    ],
+    "evolution": [
+      {
+        "id": "081",
+        "lvl": 0
+      },
+      {
+        "id": "082",
+        "lvl": 30
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 80,
+      "atk": 120
+    }
+  },
+  {
+    "id": "082",
+    "name": "Magneton",
+    "type": [
+      "electr",
+      "steel"
+    ],
+    "evolution": [
+      {
+        "id": "081",
+        "lvl": 0
+      },
+      {
+        "id": "082",
+        "lvl": 30
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 300,
+      "atk": 400
+    }
+  },
+  {
+    "id": "083",
+    "name": "Farfetch'd",
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 350,
+      "atk": 350
+    }
+  },
+  {
+    "id": "084",
+    "name": "Doduo",
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "evolution": [
+      {
+        "id": "084",
+        "lvl": 0
+      },
+      {
+        "id": "085",
+        "lvl": 31
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 80,
+      "atk": 120
+    }
+  },
+  {
+    "id": "085",
+    "name": "Dodrio",
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "evolution": [
+      {
+        "id": "084",
+        "lvl": 0
+      },
+      {
+        "id": "085",
+        "lvl": 31
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 200,
+      "atk": 500
+    }
+  },
+  {
+    "id": "086",
+    "name": "Seel",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "086",
+        "lvl": 0
+      },
+      {
+        "id": "087",
+        "lvl": 34
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 110,
+      "atk": 90
+    }
+  },
+  {
+    "id": "087",
+    "name": "Dewgong",
+    "type": [
+      "water",
+      "ice"
+    ],
+    "evolution": [
+      {
+        "id": "086",
+        "lvl": 0
+      },
+      {
+        "id": "087",
+        "lvl": 34
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 500,
+      "atk": 200
+    }
+  },
+  {
+    "id": "088",
+    "name": "Grimer",
+    "type": [
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "088",
+        "lvl": 0
+      },
+      {
+        "id": "089",
+        "lvl": 38
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 110,
+      "atk": 90
+    }
+  },
+  {
+    "id": "089",
+    "name": "Muk",
+    "type": [
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "088",
+        "lvl": 0
+      },
+      {
+        "id": "089",
+        "lvl": 38
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 650,
+      "atk": 150
+    }
+  },
+  {
+    "id": "090",
+    "name": "Shellder",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "090",
+        "lvl": 0
+      },
+      {
+        "id": "091",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 120,
+      "atk": 80
+    }
+  },
+  {
+    "id": "091",
+    "name": "Cloyster",
+    "type": [
+      "water",
+      "ice"
+    ],
+    "evolution": [
+      {
+        "id": "090",
+        "lvl": 0
+      },
+      {
+        "id": "091",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 575,
+      "atk": 225
+    }
+  },
+  {
+    "id": "092",
+    "name": "Gastly",
+    "type": [
+      "ghost",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "092",
+        "lvl": 0
+      },
+      {
+        "id": "093",
+        "lvl": 25
+      },
+      {
+        "id": "094",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 50,
+      "atk": 150
+    }
+  },
+  {
+    "id": "093",
+    "name": "Haunter",
+    "type": [
+      "ghost",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "092",
+        "lvl": 0
+      },
+      {
+        "id": "093",
+        "lvl": 25
+      },
+      {
+        "id": "094",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 125,
+      "atk": 575
+    }
+  },
+  {
+    "id": "094",
+    "name": "Gengar",
+    "type": [
+      "ghost",
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "092",
+        "lvl": 0
+      },
+      {
+        "id": "093",
+        "lvl": 25
+      },
+      {
+        "id": "094",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 150,
+      "atk": 650
+    }
+  },
+  {
+    "id": "095",
+    "name": "Onix",
+    "type": [
+      "rock",
+      "ground"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "range",
+      "hp": 600,
+      "atk": 100
+    }
+  },
+  {
+    "id": "096",
+    "name": "Drowzee",
+    "type": [
+      "psychc"
+    ],
+    "evolution": [
+      {
+        "id": "096",
+        "lvl": 0
+      },
+      {
+        "id": "097",
+        "lvl": 26
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 120,
+      "atk": 80
+    }
+  },
+  {
+    "id": "097",
+    "name": "Hypno",
+    "type": [
+      "psychc"
+    ],
+    "evolution": [
+      {
+        "id": "096",
+        "lvl": 0
+      },
+      {
+        "id": "097",
+        "lvl": 26
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 500,
+      "atk": 200
+    }
+  },
+  {
+    "id": "098",
+    "name": "Krabby",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "098",
+        "lvl": 0
+      },
+      {
+        "id": "099",
+        "lvl": 28
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 70,
+      "atk": 130
+    }
+  },
+  {
+    "id": "099",
+    "name": "Kingler",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "098",
+        "lvl": 0
+      },
+      {
+        "id": "099",
+        "lvl": 28
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 100,
+      "atk": 600
+    }
+  },
+  {
+    "id": "100",
+    "name": "Voltorb",
+    "type": [
+      "electr"
+    ],
+    "evolution": [
+      {
+        "id": "100",
+        "lvl": 0
+      },
+      {
+        "id": "101",
+        "lvl": 30
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 110,
+      "atk": 90
+    }
+  },
+  {
+    "id": "101",
+    "name": "Electrode",
+    "type": [
+      "electr"
+    ],
+    "evolution": [
+      {
+        "id": "100",
+        "lvl": 0
+      },
+      {
+        "id": "101",
+        "lvl": 30
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 400,
+      "atk": 300
+    }
+  },
+  {
+    "id": "102",
+    "name": "Exeggcute",
+    "type": [
+      "grass",
+      "psychc"
+    ],
+    "evolution": [
+      {
+        "id": "102",
+        "lvl": 0
+      },
+      {
+        "id": "103",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 130,
+      "atk": 70
+    }
+  },
+  {
+    "id": "103",
+    "name": "Exeggutor",
+    "type": [
+      "grass",
+      "psychc"
+    ],
+    "evolution": [
+      {
+        "id": "102",
+        "lvl": 0
+      },
+      {
+        "id": "103",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 250,
+      "atk": 550
+    }
+  },
+  {
+    "id": "104",
+    "name": "Cubone",
+    "type": [
+      "ground"
+    ],
+    "evolution": [
+      {
+        "id": "104",
+        "lvl": 0
+      },
+      {
+        "id": "105",
+        "lvl": 328
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 130,
+      "atk": 70
+    }
+  },
+  {
+    "id": "105",
+    "name": "Marowak",
+    "type": [
+      "ground"
+    ],
+    "evolution": [
+      {
+        "id": "104",
+        "lvl": 0
+      },
+      {
+        "id": "105",
+        "lvl": 28
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 525,
+      "atk": 175
+    }
+  },
+  {
+    "id": "106",
+    "name": "Hitmonlee",
+    "type": [
+      "fight"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 50,
+      "atk": 650
+    }
+  },
+  {
+    "id": "107",
+    "name": "Hitmonchan",
+    "type": [
+      "fight"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 75,
+      "atk": 625
+    }
+  },
+  {
+    "id": "108",
+    "name": "Lickitung",
+    "type": [
+      "normal"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 600,
+      "atk": 100
+    }
+  },
+  {
+    "id": "109",
+    "name": "Koffing",
+    "type": [
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "109",
+        "lvl": 0
+      },
+      {
+        "id": "110",
+        "lvl": 35
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 140,
+      "atk": 60
+    }
+  },
+  {
+    "id": "110",
+    "name": "Weezing",
+    "type": [
+      "poison"
+    ],
+    "evolution": [
+      {
+        "id": "109",
+        "lvl": 0
+      },
+      {
+        "id": "110",
+        "lvl": 35
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 450,
+      "atk": 350
+    }
+  },
+  {
+    "id": "111",
+    "name": "Rhyhorn",
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "evolution": [
+      {
+        "id": "111",
+        "lvl": 0
+      },
+      {
+        "id": "112",
+        "lvl": 42
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 120,
+      "atk": 80
+    }
+  },
+  {
+    "id": "112",
+    "name": "Rhydon",
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "evolution": [
+      {
+        "id": "111",
+        "lvl": 0
+      },
+      {
+        "id": "112",
+        "lvl": 42
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 300,
+      "atk": 500
+    }
+  },
+  {
+    "id": "113",
+    "name": "Chansey",
+    "type": [
+      "normal"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 675,
+      "atk": 25
+    }
+  },
+  {
+    "id": "114",
+    "name": "Tangela",
+    "type": [
+      "grass"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 400,
+      "atk": 300
+    }
+  },
+  {
+    "id": "115",
+    "name": "Kangaskhan",
+    "type": [
+      "normal"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 350,
+      "atk": 350
+    }
+  },
+  {
+    "id": "116",
+    "name": "Horsea",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "116",
+        "lvl": 0
+      },
+      {
+        "id": "117",
+        "lvl": 32
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 90,
+      "atk": 110
+    }
+  },
+  {
+    "id": "117",
+    "name": "Seadra",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "116",
+        "lvl": 0
+      },
+      {
+        "id": "117",
+        "lvl": 32
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 250,
+      "atk": 450
+    }
+  },
+  {
+    "id": "118",
+    "name": "Goldeen",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "118",
+        "lvl": 0
+      },
+      {
+        "id": "119",
+        "lvl": 33
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 70,
+      "atk": 130
+    }
+  },
+  {
+    "id": "119",
+    "name": "Seaking",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "118",
+        "lvl": 0
+      },
+      {
+        "id": "119",
+        "lvl": 33
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 350,
+      "atk": 450
+    }
+  },
+  {
+    "id": "120",
+    "name": "Staryu",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "120",
+        "lvl": 0
+      },
+      {
+        "id": "121",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 60,
+      "atk": 140
+    }
+  },
+  {
+    "id": "121",
+    "name": "Starmie",
+    "type": [
+      "water",
+      "psychc"
+    ],
+    "evolution": [
+      {
+        "id": "120",
+        "lvl": 0
+      },
+      {
+        "id": "121",
+        "lvl": 36
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 150,
+      "atk": 650
+    }
+  },
+  {
+    "id": "122",
+    "name": "Mr. Mime",
+    "type": [
+      "fairy",
+      "psychc"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "range",
+      "hp": 575,
+      "atk": 125
+    }
+  },
+  {
+    "id": "123",
+    "name": "Scyther",
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 100,
+      "atk": 700
+    }
+  },
+  {
+    "id": "124",
+    "name": "Jynx",
+    "type": [
+      "ice",
+      "psychc"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "range",
+      "hp": 150,
+      "atk": 550
+    }
+  },
+  {
+    "id": "125",
+    "name": "Electabuzz",
+    "type": [
+      "electr"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 300,
+      "atk": 400
+    }
+  },
+  {
+    "id": "126",
+    "name": "Magmar",
+    "type": [
+      "fire"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 175,
+      "atk": 525
+    }
+  },
+  {
+    "id": "127",
+    "name": "Pinsir",
+    "type": [
+      "bug"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 75,
+      "atk": 725
+    }
+  },
+  {
+    "id": "128",
+    "name": "Tauros",
+    "type": [
+      "normal"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 100,
+      "atk": 600
+    }
+  },
+  {
+    "id": "129",
+    "name": "Magikarp",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "129",
+        "lvl": 0
+      },
+      {
+        "id": "130",
+        "lvl": 20
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 25,
+      "atk": 25
+    }
+  },
+  {
+    "id": "130",
+    "name": "Gyarados",
+    "type": [
+      "water",
+      "flying"
+    ],
+    "evolution": [
+      {
+        "id": "129",
+        "lvl": 0
+      },
+      {
+        "id": "130",
+        "lvl": 20
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 200,
+      "atk": 400
+    }
+  },
+  {
+    "id": "131",
+    "name": "Lapras",
+    "type": [
+      "water",
+      "ice"
+    ],
+    "evolution": [],
+    "specialskill": [
+      {
+        "name": "Aqua Ring",
+        "method": "Great Expedition Pack Only"
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 650,
+      "atk": 150
+    }
+  },
+  {
+    "id": "132",
+    "name": "Ditto",
+    "type": [
+      "normal"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "range",
+      "hp": 350,
+      "atk": 350
+    }
+  },
+  {
+    "id": "133",
+    "name": "Eevee",
+    "type": [
+      "normal"
+    ],
+    "evolution": [
+      [
         {
           "id": "133",
           "lvl": 0
@@ -4110,20 +3028,7 @@
           "lvl": 36
         }
       ],
-      "evolutiondesc": "*Ensure HP > ATK during evolution, HP power stones only",
-      "details": {
-        "type": "melee",
-        "hp": 600,
-        "atk": 200
-      },
-      "recipes": "Evolves from Eevee",
-      "bingo": ["ATK of Normal Type Moves +5%", "Time to Recover -10%", "Movement Speed +30%"]
-    },
-    {
-      "id": "135",
-      "name": "Jolteon",
-      "type": ["electr"],
-      "evolution": [
+      [
         {
           "id": "133",
           "lvl": 0
@@ -4133,20 +3038,7 @@
           "lvl": 36
         }
       ],
-      "evolutiondesc": "*Ensure ATK = HP during evolution, equal amount of HP & ATK power stones",
-      "details": {
-        "type": "melee",
-        "hp": 250,
-        "atk": 550
-      },
-      "recipes": "Evolves from Eevee",
-      "bingo": ["ATK of Normal Type Moves +5%", "Time to Recover -10%", "Movement Speed +30%"]
-    },
-    {
-      "id": "136",
-      "name": "Jolteon",
-      "type": ["fire"],
-      "evolution": [
+      [
         {
           "id": "133",
           "lvl": 0
@@ -4155,406 +3047,370 @@
           "id": "136",
           "lvl": 36
         }
-      ],
-      "evolutiondesc": "*Ensure ATK > HP during evolution, ATK power stones only",
-      "details": {
-        "type": "melee",
-        "hp": 200,
-        "atk": 600
-      },
-      "recipes": "Evolves from Eevee",
-      "bingo": ["ATK of Normal Type Moves +5%", "Time to Recover -10%", "Movement Speed +30%"]
-    },
-    {
-      "id": "137",
-      "name": "Porygon",
-      "type": ["normal"],
-      "evolution": [],
-      "details": {
-        "type": "range",
-        "hp": 350,
-        "atk": 350
-      },
-      "recipes": [
-          {
-            "ingredients": ["r", "r", "r", "R", "rbyg"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["b", "b", "Y", "G", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "g", "Y", "Y", "G"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["g", "g", "Y", "Y", "Y"],
-            "rate": 14
-          }
-      ],
-      "bingo": ["ATK of Normal Type Moves +5%", "Movement Speed +30%", "Resistant to Status Conditions +10%"]
-    },
-    {
-      "id": "138",
-      "name": "Omanyte",
-      "type": ["rock", "water"],
-      "evolution": [
-        {
-          "id": "138",
-          "lvl": 0
-        },
-        {
-          "id": "139",
-          "lvl": 40
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 140,
-        "atk": 60
-      },
-      "recipes": [
-          {
-            "ingredients": ["B", "B", "B", "B", "B"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "b", "B", "RYG", "RYG"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["g", "B", "B", "B", "l"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["B", "B", "yg", "yg", "RBYG"],
-            "rate": 50
-          },
-          {
-            "ingredients": ["r", "B", "B", "B", "yg"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["Taking Critical Hits Rate -20%", "Movement Speed +30%", "Water Type Moves Wait -5%"]
-    },
-    {
-      "id": "139",
-      "name": "Omastar",
-      "type": ["rock", "water"],
-      "evolution": [
-        {
-          "id": "138",
-          "lvl": 0
-        },
-        {
-          "id": "139",
-          "lvl": 40
-        }
-      ],
-      "details": {
-        "type": "range",
-        "hp": 575,
-        "atk": 225
-      },
-      "recipes": "Evolves from Omanyte",
-      "bingo": ["Taking Critical Hits Rate -20%", "Movement Speed +30%", "Water Type Moves Wait -5%"]
-    },
-    {
-      "id": "140",
-      "name": "Kabuto",
-      "type": ["rock", "water"],
-      "evolution": [
-        {
-          "id": "140",
-          "lvl": 0
-        },
-        {
-          "id": "141",
-          "lvl": 40
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 70,
-        "atk": 130
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["R", "R", "R", "R", "R"],
-            "rate": 16
-          },
-          {
-            "ingredients": ["b", "b", "B", "RYG", "RYG"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["g", "B", "B", "B", "l"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["ATK of Water Type Moves +5%", "Movement Speed +30%", "Taking Critical Hits Rate -20%"]
-    },
-    {
-      "id": "141",
-      "name": "Kabutops",
-      "type": ["rock", "water"],
-      "evolution": [
-        {
-          "id": "140",
-          "lvl": 0
-        },
-        {
-          "id": "141",
-          "lvl": 40
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 150,
-        "atk": 650
-      },
-      "recipes": "Evolves from Kabuto",
-      "bingo": ["ATK of Water Type Moves +5%", "Movement Speed +30%", "Taking Critical Hits Rate -20%"]
-    },
-    {
-      "id": "142",
-      "name": "Aerodactyl",
-      "type": ["rock", "flying"],
-      "evolution": [],
-      "details": {
-        "type": "melee",
-        "hp": 125,
-        "atk": 675
-      },
-      "recipes": [
-          {
-            "ingredients": ["g", "B", "B", "B", "l"],
-            "rate": 33
-          },
-          {
-            "ingredients": ["R", "R", "B", "B", "B"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["?", "Movement Speed +30%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "143",
-      "name": "Snorlax",
-      "type": ["normal"],
-      "evolution": [],
-      "specialskill": [
-        {
-          "name": "Giga Impact",
-          "method": "Ultra Expedition Pack Only"
-        },
-        {
-          "name": "Play Rough",
-          "method": "Ultra Expedition Pack Only"
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 650,
-        "atk": 550
-      },
-      "recipes": [
-          {
-            "ingredients": ["RBYG", "RBYG", "RBYG", "RBYG", "RBYG"],
-            "rate": 5
-          },
-          {
-            "ingredients": ["y", "y", "y", "Y", "rbyg"],
-            "rate": 25
-          },
-          {
-            "ingredients": ["b", "b", "g", "g", "Y"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Resistant to Poisoned +100%", "Taking Critical Hits Rate -10%", "Resistant to %u2193 Effects +10%"]
-    },
-    {
-      "id": "144",
-      "name": "Articuno",
-      "type": ["ice", "flying"],
-      "evolution": [],
-      "details": {
-        "type": "range",
-        "hp": 600,
-        "atk": 500
-      },
-      "recipes": [
-          {
-            "ingredients": ["L", "L", "L", "rbyg", "rbyg"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Ice Type Moves Wait -5%", "ATK of Ice Type Moves +5%", "Critical Hit Damage +10%"]
-    },
-    {
-      "id": "145",
-      "name": "Zapdos",
-      "type": ["electr", "flying"],
-      "evolution": [],
-      "details": {
-        "type": "range",
-        "hp": 350,
-        "atk": 650
-      },
-      "recipes": [
-          {
-            "ingredients": ["L", "L", "L", "rbyg", "rbyg"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Electric Type Moves Wait -5%", "ATK of Electric Type Moves +5%", "Wait for Standard Attacks -20%"]
-    },
-    {
-      "id": "146",
-      "name": "Moltres",
-      "type": ["fire", "flying"],
-      "evolution": [],
-      "details": {
-        "type": "range",
-        "hp": 500,
-        "atk": 500
-      },
-      "recipes": [
-          {
-            "ingredients": ["L", "L", "L", "rbyg", "rbyg"],
-            "rate": 33
-          }
-      ],
-      "bingo": ["Fire Type Moves Wait -5%", "ATK of Fire Type Moves +5%", "Critical Hit Rate +10%"]
-    },
-    {
-      "id": "147",
-      "name": "Dratini",
-      "type": ["dragon"],
-      "evolution": [
-        {
-          "id": "147",
-          "lvl": 0
-        },
-        {
-          "id": "148",
-          "lvl": 30
-        },
-        {
-          "id": "149",
-          "lvl": 55
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 80,
-        "atk": 120
-      },
-      "recipes": [
-          {
-            "ingredients": ["B", "B", "B", "B", "B"],
-            "rate": 14
-          },
-          {
-            "ingredients": ["b", "B", "B", "B", "rbyg"],
-            "rate": 20
-          }
-      ],
-      "bingo": ["ATK of Dragon Type Moves +5%", "Dragon Type Moves Wait -5%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "148",
-      "name": "Dragonair",
-      "type": ["dragon"],
-      "evolution": [
-        {
-          "id": "147",
-          "lvl": 0
-        },
-        {
-          "id": "148",
-          "lvl": 30
-        },
-        {
-          "id": "149",
-          "lvl": 55
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 300,
-        "atk": 400
-      },
-      "recipes": "Evolves from Dratini",
-      "bingo": ["ATK of Dragon Type Moves +5%", "Dragon Type Moves Wait -5%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "149",
-      "name": "Dragonite",
-      "type": ["dragon", "fyling"],
-      "evolution": [
-        {
-          "id": "147",
-          "lvl": 0
-        },
-        {
-          "id": "148",
-          "lvl": 30
-        },
-        {
-          "id": "149",
-          "lvl": 55
-        }
-      ],
-      "details": {
-        "type": "melee",
-        "hp": 400,
-        "atk": 500
-      },
-      "recipes": "Evolves from Dragonair",
-      "bingo": ["ATK of Dragon Type Moves +5%", "Dragon Type Moves Wait -5%", "Own Knockback Distance -10%"]
-    },
-    {
-      "id": "150",
-      "name": "Mewtwo",
-      "type": ["psychc"],
-      "evolution": [],
-      "details": {
-        "type": "range",
-        "hp": 550,
-        "atk": 750
-      },
-      "recipes": [
-          {
-            "ingredients": ["L", "L", "L", "L", "L"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["Movement Speed +50%", "Resistant to %u2193 Effects +20%", "Critical Hit Damage +20%"]
-    },
-    {
-      "id": "151",
-      "name": "Mew",
-      "type": ["psychc"],
-      "evolution": [],
-      "details": {
-        "type": "range",
-        "hp": 650,
-        "atk": 650
-      },
-      "recipes": [
-          {
-            "ingredients": ["L", "L", "L", "L", "L"],
-            "rate": 50
-          }
-      ],
-      "bingo": ["Critical Hit Damage +20%", "Resistant to %u2193 Effects +20%", "Movement Speed +50%"]
+      ]
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 100,
+      "atk": 100
     }
-  ]
-}
+  },
+  {
+    "id": "134",
+    "name": "Vaporeon",
+    "type": [
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "133",
+        "lvl": 0
+      },
+      {
+        "id": "134",
+        "lvl": 36
+      }
+    ],
+    "evolutiondesc": "*Ensure HP > ATK during evolution, HP power stones only",
+    "details": {
+      "type": "melee",
+      "hp": 600,
+      "atk": 200
+    }
+  },
+  {
+    "id": "135",
+    "name": "Jolteon",
+    "type": [
+      "electr"
+    ],
+    "evolution": [
+      {
+        "id": "133",
+        "lvl": 0
+      },
+      {
+        "id": "135",
+        "lvl": 36
+      }
+    ],
+    "evolutiondesc": "*Ensure ATK = HP during evolution, equal amount of HP & ATK power stones",
+    "details": {
+      "type": "melee",
+      "hp": 250,
+      "atk": 550
+    }
+  },
+  {
+    "id": "136",
+    "name": "Jolteon",
+    "type": [
+      "fire"
+    ],
+    "evolution": [
+      {
+        "id": "133",
+        "lvl": 0
+      },
+      {
+        "id": "136",
+        "lvl": 36
+      }
+    ],
+    "evolutiondesc": "*Ensure ATK > HP during evolution, ATK power stones only",
+    "details": {
+      "type": "melee",
+      "hp": 200,
+      "atk": 600
+    }
+  },
+  {
+    "id": "137",
+    "name": "Porygon",
+    "type": [
+      "normal"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "range",
+      "hp": 350,
+      "atk": 350
+    }
+  },
+  {
+    "id": "138",
+    "name": "Omanyte",
+    "type": [
+      "rock",
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "138",
+        "lvl": 0
+      },
+      {
+        "id": "139",
+        "lvl": 40
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 140,
+      "atk": 60
+    }
+  },
+  {
+    "id": "139",
+    "name": "Omastar",
+    "type": [
+      "rock",
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "138",
+        "lvl": 0
+      },
+      {
+        "id": "139",
+        "lvl": 40
+      }
+    ],
+    "details": {
+      "type": "range",
+      "hp": 575,
+      "atk": 225
+    }
+  },
+  {
+    "id": "140",
+    "name": "Kabuto",
+    "type": [
+      "rock",
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "140",
+        "lvl": 0
+      },
+      {
+        "id": "141",
+        "lvl": 40
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 70,
+      "atk": 130
+    }
+  },
+  {
+    "id": "141",
+    "name": "Kabutops",
+    "type": [
+      "rock",
+      "water"
+    ],
+    "evolution": [
+      {
+        "id": "140",
+        "lvl": 0
+      },
+      {
+        "id": "141",
+        "lvl": 40
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 150,
+      "atk": 650
+    }
+  },
+  {
+    "id": "142",
+    "name": "Aerodactyl",
+    "type": [
+      "rock",
+      "flying"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "melee",
+      "hp": 125,
+      "atk": 675
+    }
+  },
+  {
+    "id": "143",
+    "name": "Snorlax",
+    "type": [
+      "normal"
+    ],
+    "evolution": [],
+    "specialskill": [
+      {
+        "name": "Giga Impact",
+        "method": "Ultra Expedition Pack Only"
+      },
+      {
+        "name": "Play Rough",
+        "method": "Ultra Expedition Pack Only"
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 650,
+      "atk": 550
+    }
+  },
+  {
+    "id": "144",
+    "name": "Articuno",
+    "type": [
+      "ice",
+      "flying"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "range",
+      "hp": 600,
+      "atk": 500
+    }
+  },
+  {
+    "id": "145",
+    "name": "Zapdos",
+    "type": [
+      "electr",
+      "flying"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "range",
+      "hp": 350,
+      "atk": 650
+    }
+  },
+  {
+    "id": "146",
+    "name": "Moltres",
+    "type": [
+      "fire",
+      "flying"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "range",
+      "hp": 500,
+      "atk": 500
+    }
+  },
+  {
+    "id": "147",
+    "name": "Dratini",
+    "type": [
+      "dragon"
+    ],
+    "evolution": [
+      {
+        "id": "147",
+        "lvl": 0
+      },
+      {
+        "id": "148",
+        "lvl": 30
+      },
+      {
+        "id": "149",
+        "lvl": 55
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 80,
+      "atk": 120
+    }
+  },
+  {
+    "id": "148",
+    "name": "Dragonair",
+    "type": [
+      "dragon"
+    ],
+    "evolution": [
+      {
+        "id": "147",
+        "lvl": 0
+      },
+      {
+        "id": "148",
+        "lvl": 30
+      },
+      {
+        "id": "149",
+        "lvl": 55
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 300,
+      "atk": 400
+    }
+  },
+  {
+    "id": "149",
+    "name": "Dragonite",
+    "type": [
+      "dragon",
+      "fyling"
+    ],
+    "evolution": [
+      {
+        "id": "147",
+        "lvl": 0
+      },
+      {
+        "id": "148",
+        "lvl": 30
+      },
+      {
+        "id": "149",
+        "lvl": 55
+      }
+    ],
+    "details": {
+      "type": "melee",
+      "hp": 400,
+      "atk": 500
+    }
+  },
+  {
+    "id": "150",
+    "name": "Mewtwo",
+    "type": [
+      "psychc"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "range",
+      "hp": 550,
+      "atk": 750
+    }
+  },
+  {
+    "id": "151",
+    "name": "Mew",
+    "type": [
+      "psychc"
+    ],
+    "evolution": [],
+    "details": {
+      "type": "range",
+      "hp": 650,
+      "atk": 650
+    }
+  }
+]
