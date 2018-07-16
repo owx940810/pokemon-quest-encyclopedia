@@ -1,0 +1,606 @@
+[
+  {
+    "pokemon": "001",
+    "skills": ["Tackle", "Synthesis", "Petal Dance", "Vine Whip", "Toxic"]
+  },
+  {
+    "pokemon": "002",
+    "skills": ["Tackle", "Synthesis", "Petal Dance", "Vine Whip", "Toxic", "Take Down", "Leech Seed", "Poison Powder"]
+  },
+  {
+    "pokemon": "003",
+    "skills": ["Tackle", "Synthesis", "Petal Dance", "Vine Whip", "Toxic", "Take Down", "Leech Seed", "Solar Beam", "Mega Drain"]
+  },
+  {
+    "pokemon": "004",
+    "skills": ["Scratch", "Fire Spin", "Metal Claw", "Ember", "Fire Punch"]
+  },
+  {
+    "pokemon": "005",
+    "skills": ["Scratch", "Fire Spin", "Metal Claw", "Ember", "Fire Punch", "Flamethrower", "Dragon Claw"]
+  },
+  {
+    "pokemon": "006",
+    "skills": ["Scratch", "Fire Spin", "Metal Claw", "Ember", "Fire Punch", "Flamethrower", "Dragon Claw", "Flare Blitz", "Fire Blast", "Flame Charge"]
+  },
+  {
+    "pokemon": "007",
+    "skills": ["Tackle", "Bubble", "Whirlpool", "Withdraw"]
+  },
+  {
+    "pokemon": "008",
+    "skills": ["Tackle", "Bubble", "Whirlpool", "Surf", "Aqua Ring", "Blizzard", "Waterfall"]
+  },
+  {
+    "pokemon": "009",
+    "skills": ["Tackle", "Bubble", "Whirlpool", "Withdraw", "Aqua Ring", "Blizzard", "Waterfall", "Hydro Pump", "Aqua Jet"]
+  },
+  {
+    "pokemon": "010",
+    "skills": ["Tackle", "Synthesis", "String Shot", "Take Down", "Lunge"]
+  },
+  {
+    "pokemon": "011",
+    "skills": ["Tackle", "Synthesis", "String Shot", "Take Down", "Iron Defense"]
+  },
+  {
+    "pokemon": "012",
+    "skills": ["Tackle", "Synthesis", "String Shot", "Silver Wind", "Rage Powder", "Harden", "Electroweb", "Lunge"]
+  },
+  {
+    "pokemon": "013",
+    "skills": ["String Shot", "Tackle", "Lunge", "Poison Sting"]
+  },
+  {
+    "pokemon": "014",
+    "skills": ["String Shot", "Tackle"]
+  },
+  {
+    "pokemon": "015",
+    "skills": ["String Shot", "Tackle", "Lunge", "Poison Sting", "Harden", "Electroweb", "Pin Missile", "Iron Defense", "Agility", "Aerial Ace"]
+  },
+  {
+    "pokemon": "016",
+    "skills": ["Gust", "Whirlwind", "Tailwind", "Twister", "Mud Slap"]
+  },
+  {
+    "pokemon": "017",
+    "skills": ["Gust", "Whirlwind", "Tailwind", "Twister", "Mud Slap", "Hurricane"]
+  },
+  {
+    "pokemon": "018",
+    "skills": ["Gust", "Sky Attack", "Tailwind", "Twister", "Heat Wave", "Agility", "Roost"]
+  },
+  {
+    "pokemon": "019",
+    "skills": ["Tackle", "Focus Energy", "Scratch", "Crunch", "Take Down"]
+  },
+  {
+    "pokemon": "020",
+    "skills": ["Tackle", "Focus Energy", "Scratch", "Crunch", "Iron Tail", "Bite", "Zen Headbutt", "Flame Wheel"]
+  },
+  {
+    "pokemon": "021",
+    "skills": ["Leer", "Take Down", "Aerial Ace", "Fly", "Growl"]
+  },
+  {
+    "pokemon": "022",
+    "skills": ["Leer", "Take Down", "Aerial Ace", "Fly", "Drill Peck", "Whirlwind"]
+  },
+  {
+    "pokemon": "023",
+    "skills": ["Poison Sting", "Leer", "Rock Tomb", "Mud Bomb", "Mud Slap"]
+  },
+  {
+    "pokemon": "024",
+    "skills": ["Poison Sting", "Leer", "Rock Tomb", "Earthquake", "Crunch"]
+  },
+  {
+    "pokemon": "025",
+    "skills": ["Thunderbolt", "Spark", "Iron Tail", "Volt Tackle", "Thunder Shock"]
+  },
+  {
+    "pokemon": "026",
+    "skills": ["Thunderbolt", "Spark", "Iron Tail", "Volt Tackle", "Thunder", "Electric Terrain", "Agility", "Charge", "Giga Impact"]
+  },
+  {
+    "pokemon": "027",
+    "skills": ["Dig", "Sandstorm", "Scratch", "Metal Claw", "Rollout"]
+  },
+  {
+    "pokemon": "028",
+    "skills": ["Dig", "Sandstorm", "Scratch", "Metal Claw", "Night Slash", "Aerial Ace", "Swords Dance"]
+  },
+  {
+    "pokemon": "029",
+    "skills": ["Mud Slap", "Focus Energy", "Flatter", "Growl", "Sing (DLC)"]
+  },
+  {
+    "pokemon": "030",
+    "skills": ["Mud Slap", "Focus Energy", "Flatter", "Growl", "Poison Sting"]
+  },
+  {
+    "pokemon": "031",
+    "skills": ["Mud Slap", "Focus Energy", "Flatter", "Growl", "Poison Sting", "Supersonic", "Venom Drench", "Sludge Bomb", "Stealth Rock"]
+  },
+  {
+    "pokemon": "032",
+    "skills": ["Iron Tail", "Rock Smash", "Toxic", "Take Down", "Work Up (DLC)", "Growl"]
+  },
+  {
+    "pokemon": "033",
+    "skills": ["Iron Tail", "Rock Smash", "Toxic", "Amnesia"]
+  },
+  {
+    "pokemon": "034",
+    "skills": ["Iron Tail", "Rock Smash", "Toxic", "Amnesia", "Taunt", "Earthquake", "Rock Tomb", "Megahorn"]
+  },
+  {
+    "pokemon": "035",
+    "skills": ["Flash", "Light Screen", "Rollout", "Taunt", "Amnesia", "Take Down"]
+  },
+  {
+    "pokemon": "036",
+    "skills": ["Flash", "Light Screen", "Dazzling Gleam", "Follow Me"]
+  },
+  {
+    "pokemon": "037",
+    "skills": ["Flamethrower", "Charm", "Flame Charge", "Ember", "Roar"]
+  },
+  {
+    "pokemon": "038",
+    "skills": ["Flamethrower", "Charm", "Flame Charge", "Ember", "Roar", "Heat Wave", "Will o Wisp", "Fire Blast", "Solar Beam", "Confuse Ray"]
+  },
+  {
+    "pokemon": "039",
+    "skills": ["Mega Punch", "Rollout", "Take Down", "Flash", "Sing"]
+  },
+  {
+    "pokemon": "040",
+    "skills": ["Mega Punch", "Rollout", "Play Rough", "Dynamic Punch", "Bounce", "Sweet Kiss"]
+  },
+  {
+    "pokemon": "041",
+    "skills": ["Taunt", "Leech Life", "Gust", "Whirlwind", "Supersonic", "U Turn"]
+  },
+  {
+    "pokemon": "042",
+    "skills": ["Taunt", "Leech Life", "Gust", "Whirlwind", "Roost", "Tailwind", "Venom Drench", "Nasty Plot"]
+  },
+  {
+    "pokemon": "043",
+    "skills": ["Petal Dance", "Flash", "Poison Powder", "Stun Spore"]
+  },
+  {
+    "pokemon": "044",
+    "skills": ["Petal Dance", "Flash", "Poison Powder", "Bullet Seed", "Charm", "Stun Spore", "Synthesis"]
+  },
+  {
+    "pokemon": "045",
+    "skills": ["Petal Dance", "Flash", "Poison Powder", "Bullet Seed", "Charm", "Solar Beam"]
+  },
+  {
+    "pokemon": "046",
+    "skills": ["Leech Seed", "Stun Spore", "Poison Powder", "Light Screen", "Rage Powder"]
+  },
+  {
+    "pokemon": "047",
+    "skills": ["Leech Seed", "Stun Spore", "Poison Powder", "Light Screen", "Rage Powder", "Agility", "Metal Claw", "Bullet Seed", "Spore", "Psybeam"]
+  },
+  {
+    "pokemon": "048",
+    "skills": ["String Shot", "Stun Spore", "Psybeam", "Poison Powder", "Flash"]
+  },
+  {
+    "pokemon": "049",
+    "skills": ["String Shot", "Stun Spore", "Psybeam", "Poison Powder", "Gust", "Supersonic", "Psychic", "Silver Wind"]
+  },
+  {
+    "pokemon": "050",
+    "skills": ["Growl", "Stealth Rock", "Mud Bomb", "Dig", "Mud Slap"]
+  },
+  {
+    "pokemon": "051",
+    "skills": ["Growl", "Stealth Rock", "Mud Bomb", "Dig", "Mud Slap", "Earthquake", "Sucker Punch", "Rock throw", "Shore Up"]
+  },
+  {
+    "pokemon": "052",
+    "skills": ["Fury Swipes", "Growl", "Scratch", "U turn", "Taunt"]
+  },
+  {
+    "pokemon": "053",
+    "skills": ["Fury Swipes", "Growl", "Scratch", "U turn", "Taunt", "Nasty Plot", "Night Slash", "Play Rough", "Roar", "Flail"]
+  },
+  {
+    "pokemon": "054",
+    "skills": ["Icy Wind", "Whirlpool", "Amnesia", "Confuse Ray", "Light Screen"]
+  },
+  {
+    "pokemon": "055",
+    "skills": ["Icy Wind", "Mud Bomb", "Amnesia", "Confuse Ray", "Light Screen", "Psychic", "Hydro Pump", "Psybeam", "Ice Beam"]
+  },
+  {
+    "pokemon": "056",
+    "skills": ["Leer", "Submission", "Scratch", "Fury Swipes", "Taunt"]
+  },
+  {
+    "pokemon": "057",
+    "skills": ["Leer", "Submission", "Scratch", "Fury Swipes", "Taunt", "Cross Chop", "Night Slash", "Meditate", "Close Combat", "Focus Energy", "Mega Punch"]
+  },
+  {
+    "pokemon": "058",
+    "skills": ["Flamethrower", "Flame Charge", "Ember", "Flame Wheel", "Roar"]
+  },
+  {
+    "pokemon": "059",
+    "skills": ["Flamethrower", "Flame Charge", "Ember", "Flame Wheel", "Roar", "Fire Blast", "Flare Blitz", "Crunch", "Agility", "Extreme Speed"]
+  },
+  {
+    "pokemon": "060",
+    "skills": ["Surf", "Waterfall", "Flail", "Bubble", "Aqua Jet"]
+  },
+  {
+    "pokemon": "061",
+    "skills": ["Surf", "Waterfall", "Flail", "Bubble", "Amnesia", "Bulk Up", "Mega Punch"]
+  },
+  {
+    "pokemon": "062",
+    "skills": ["Surf", "Waterfall", "Flail", "Bubble", "Amnesia", "Bulk Up", "Mega Punch", "Ice Punch", "Power Up Punch", "Dynamic Punch"]
+  },
+  {
+    "pokemon": "063",
+    "skills": ["Teleport", "Psybeam", "Light Screen", "Flash", "Barrier"]
+  },
+  {
+    "pokemon": "064",
+    "skills": ["Teleport", "Psybeam", "Light Screen", "Flash", "Barrier", "Psychic", "Dazzling Gleam"]
+  },
+  {
+    "pokemon": "065",
+    "skills": ["Teleport", "Psybeam", "Light Screen", "Flash", "Barrier", "Psychic", "Dazzling Gleam", "Psycho Cut", "Recover", "Shadow Ball"]
+  },
+  {
+    "pokemon": "066",
+    "skills": ["Rock Smash", "Rolling Kick", "Bulk Up", "Submission"]
+  },
+  {
+    "pokemon": "067",
+    "skills": ["Rock Smash", "Rolling Kick", "Bulk Up", "Submission", "Work Up", "Mega Punch", "Cross Chop"]
+  },
+  {
+    "pokemon": "068",
+    "skills": ["Rock Smash", "Rolling Kick", "Bulk Up", "Cross Chop", "Work Up", "Mega Punch", "Power Up Punch", "Dynamic Punch", "Close Combat"]
+  },
+  {
+    "pokemon": "069",
+    "skills": ["Sludge Bomb", "Bullet Seed", "Razor Leaf", "Synthesis"]
+  },
+  {
+    "pokemon": "070",
+    "skills": ["Sludge Bomb", "Bullet Seed", "Razor Leaf", "Vine Whip"]
+  },
+  {
+    "pokemon": "071",
+    "skills": ["Sludge Bomb", "Bullet Seed", "Vine Whip", "Synthesis", "Stun Spore", "Solar Beam", "Hyper Beam"]
+  },
+  {
+    "pokemon": "072",
+    "skills": ["Poison Sting", "Whirlpool", "Barrier", "Bubble", "Poison Sting", "Ice Beam", "Sludge Bomb"]
+  },
+  {
+    "pokemon": "073",
+    "skills": ["Poison Sting", "Whirlpool", "Barrier", "Bubble", "Poison Sting", "Icy Wind", "Sludge Bomb", "Supersonic", "Hydro Pump", "Confuse Ray"]
+  },
+  {
+    "pokemon": "074",
+    "skills": ["Flail", "Harden", "Tackle", "Charge", "Dig"]
+  },
+  {
+    "pokemon": "075",
+    "skills": ["Flail", "Harden", "Tackle", "Self Destruct", "Dig", "Rollout", "Stealth Rock"]
+  },
+  {
+    "pokemon": "076",
+    "skills": ["Flail", "Harden", "Explosion", "Self Destruct", "Dig", "Rollout", "Stealth Rock", "Rock Polish", "Earthquake"]
+  },
+  {
+    "pokemon": "077",
+    "skills": ["Bounce", "Flame Charge", "Stomp", "Self Destruct", "Agility"]
+  },
+  {
+    "pokemon": "078",
+    "skills": ["Bounce", "Flame Charge", "Stomp", "Self Destruct", "Flamethrower", "Fire Blast", "Flare Blitz", "Megahorn", "Will O Wisp", "Confuse Ray", "Fire Spin"]
+  },
+  {
+    "pokemon": "079",
+    "skills": ["Tackle", "Zen Headbutt", "Growl", "Ice Punch", "Light Screen", "Amnesia"]
+  },
+  {
+    "pokemon": "080",
+    "skills": ["Tackle", "Zen Headbutt", "Growl", "Ice Punch", "Light Screen", "Amnesia", "Withdraw", "Surf", "Rest", "Belly Drum"]
+  },
+  {
+    "pokemon": "081",
+    "skills": ["Charge", "Flash Cannon", "Supersonic", "Metal Sound", "Electroweb"]
+  },
+  {
+    "pokemon": "082",
+    "skills": ["Charge", "Flash Cannon", "Supersonic", "Metal Sound", "Electroweb", "Explosion", "Light screen", "Thunder", "Thunderbolt", "Electric Terrain"]
+  },
+  {
+    "pokemon": "083",
+    "skills": ["Swords Dance", "Night Slash", "Sky Attack", "Sucker Punch", "Gust", "Tailwind", "Steel Wing", "U turn", "Roost", "Heat Wave"]
+  },
+  {
+    "pokemon": "084",
+    "skills": ["Drill Peck", "Flail", "Growl", "Take Down", "Agility"]
+  },
+  {
+    "pokemon": "085",
+    "skills": ["Drill Peck", "Flail", "Growl", "Take Down", "Aerial Ace", "Work Up", "Swords Dance", "Tri Attack", "Tailwind"]
+  },
+  {
+    "pokemon": "086",
+    "skills": ["Take Down", "Blizzard", "Lick", "Growl", "Surf"]
+  },
+  {
+    "pokemon": "087",
+    "skills": ["Take Down", "Blizzard", "Lick", "Growl", "Rest", "Aqua Ring", "Slam", "Aurora Veil"]
+  },
+  {
+    "pokemon": "088",
+    "skills": ["Venom Drench", "Slam", "Tackle", "Acid Armor", "Toxic"]
+  },
+  {
+    "pokemon": "089",
+    "skills": ["Venom Drench", "Slam", "Tackle", "Acid Armor", "Power Up Punch", "Taunt", "Lick"]
+  },
+  {
+    "pokemon": "090",
+    "skills": ["Barrier", "Ice Beam", "Withdraw", "Iron Defense", "Bubble"]
+  },
+  {
+    "pokemon": "091",
+    "skills": ["Barrier", "Ice Beam", "Icicle Crash", "Icy Wind", "Supersonic", "Rock Blast", "Spikes"]
+  },
+  {
+    "pokemon": "092",
+    "skills": ["Astonish", "Sucker Punch", "Smog", "Lick"]
+  },
+  {
+    "pokemon": "093",
+    "skills": ["Astonish", "Sucker Punch", "Smog", "Lick"]
+  },
+  {
+    "pokemon": "094",
+    "skills": ["Astonish", "Sucker Punch", "Smog", "Lick", "Shadow Ball", "Hypnosis", "Mega Drain", "Confuse Ray", "Toxic"]
+  },
+  {
+    "pokemon": "095",
+    "skills": ["Rock Throw", "Lick", "Rock Polish", "Stealth Rock", "Sandstorm", "Iron Tail", "Flash Cannon", "Rock Smash", "Rock Tomb", "Roar", "Harden"]
+  },
+  {
+    "pokemon": "096",
+    "skills": ["Psybeam", "Barrier", "Taunt", "Light Screen", "Flash"]
+  },
+  {
+    "pokemon": "097",
+    "skills": ["Psybeam", "Barrier", "Taunt", "Light Screen", "Psychic", "Shadow Ball", "Hypnosis", "Meditate"]
+  },
+  {
+    "pokemon": "098",
+    "skills": ["Surf", "Leer", "Harden", "Flail", "Stomp"]
+  },
+  {
+    "pokemon": "099",
+    "skills": ["Surf", "Leer", "Harden", "Flail", "Stomp", "Giga Impact", "Slam"]
+  },
+  {
+    "pokemon": "100",
+    "skills": ["Self Destruct", "Rollout", "Taunt", "Thunder Shock", "Tackle"]
+  },
+  {
+    "pokemon": "101",
+    "skills": ["Self Destruct", "Rollout", "Taunt", "Thunder Shock", "Tackle", "Light Screen", "Explosion", "Thunderbolt"]
+  },
+  {
+    "pokemon": "102",
+    "skills": ["Synthesis", "Leech Seed", "Psychic", "Sludge Bomb", "Flash"]
+  },
+  {
+    "pokemon": "103",
+    "skills": ["Synthesis", "Leech Seed", "Psychic", "Sludge Bomb", "Flash", "Egg Bomb", "Bullet Seed", "Solar Beam", "Stun Spore", "Stomp"]
+  },
+  {
+    "pokemon": "104",
+    "skills": ["Sandstorm", "Bonemerang", "Growl", "Leer", "Focus Energy"]
+  },
+  {
+    "pokemon": "105",
+    "skills": ["Sandstorm", "Bonemerang", "Outrage", "Rock Tomb", "Earthquake", "Aerial Ace", "Belly Drum"]
+  },
+  {
+    "pokemon": "106",
+    "skills": ["Bulk Up", "Meditate", "Close Combat", "Rolling Kick", "Submission", "Focus Energy", "Rock Smash", "Bounce", "High Jump Kick", "Sucker Punch"]
+  },
+  {
+    "pokemon": "107",
+    "skills": ["Comet Punch", "Power Up Punch", "Close Combat", "Drain Punch", "Ice Punch", "Dynamic Punch", "Fire Punch", "Rock Smash", "Mega Punch"]
+  },
+  {
+    "pokemon": "108",
+    "skills": ["Belly Drum", "Slam", "Rock Smash", "Mega Punch", "Stomp", "Rollout", "Lick", "Power Up Punch", "Amnesia"]
+  },
+  {
+    "pokemon": "109",
+    "skills": ["Self Destruct", "Flamethrower", "Smog", "Lava Plume", "Sludge Bomb"]
+  },
+  {
+    "pokemon": "110",
+    "skills": ["Self Destruct", "Flamethrower", "Smog", "Lava Plume", "Sludge Bomb", "Explosion", "Venom Drench"]
+  },
+  {
+    "pokemon": "111",
+    "skills": ["Crunch", "Roar", "Stomp", "Iron Tail", "Take Down", "Flail", "Tackle"]
+  },
+  {
+    "pokemon": "112",
+    "skills": ["Crunch", "Roar", "Stomp", "Iron Tail", "Take Down", "Dragon Rush", "Megahorn", "Earthquake", "Rock Smash", "Rock Polish"]
+  },
+  {
+    "pokemon": "113",
+    "skills": ["Egg bomb", "Light Screen", "Sweet Kiss", "Soft Boiled", "Charm", "Mega Punch", "Rock Smash", "Flail", "Sing", "Take Down"]
+  },
+  {
+    "pokemon": "114",
+    "skills": ["Stun Spore", "Rest", "Rage Powder", "Synthesis", "Amnesia", "Slam", "Vine Whip", "Mega Drain", "Substitute", "Leech Seed"]
+  },
+  {
+    "pokemon": "115",
+    "skills": ["Focus Energy", "Take Down", "Outrage", "Mega Punch", "Crunch", "Rock Tomb", "Stomp", "Leer", "Rest"]
+  },
+  {
+    "pokemon": "116",
+    "skills": ["Twister", "Icy Wind", "Agility", "Whirlpool", "Bubble"]
+  },
+  {
+    "pokemon": "117",
+    "skills": ["Twister", "Icy Wind", "Agility", "Whirlpool", "Bubble", "Hydro Pump", "Dragon Pulse", "Dragon Dance", "Flash Cannon"]
+  },
+  {
+    "pokemon": "118",
+    "skills": ["Flail", "Surf", "Aqua Jet", "Splash", "Take Down"]
+  },
+  {
+    "pokemon": "119",
+    "skills": ["Flail", "Surf", "Aqua Jet", "Megahorn", "Waterfall", "Agility"]
+  },
+  {
+    "pokemon": "120",
+    "skills": ["Ice Beam", "Icy Wind", "Twister", "Flash Cannon", "Flash"]
+  },
+  {
+    "pokemon": "121",
+    "skills": ["Ice Beam", "Icy Wind", "Twister", "Flash Cannon", "Flash", "Hydro Pump", "Confuse Ray", "Blizzard", "Psychic", "Hyper Beam"]
+  },
+  {
+    "pokemon": "122",
+    "skills": ["Substitute", "Follow Me", "Nasty Plot", "Charm", "Hypnosis", "Taunt", "Barrier", "Psychic", "Light Screen", "Meditate"]
+  },
+  {
+    "pokemon": "123",
+    "skills": ["Lunge", "Tailwind", "Silver wind", "Steel Wing", "Night Slash", "Agility", "U turn", "Aerial Ace", "Rock Smash", "Swords Dance"]
+  },
+  {
+    "pokemon": "124",
+    "skills": ["Sing", "Ice beam", "Psychic", "Draining Kiss", "Flash", "Blizzard", "Aurora Veil"]
+  },
+  {
+    "pokemon": "125",
+    "skills": ["Thundershock", "Charge", "Meditate", "Power Up Punch", "Dynamic Punch", "Thunder Punch", "Cross Chop", "Thunder", "Electroweb", "Thunderbolt"]
+  },
+  {
+    "pokemon": "126",
+    "skills": ["Will O Wisp", "Fire Blast", "Cross Chop", "Flamethrower", "Smog", "Belly Drum", "Follow Me", "Flare Blitz"]
+  },
+  {
+    "pokemon": "127",
+    "skills": ["Earthquake", "Harden", "Take Down", "Bulk Up", "Close Combat", "Rock Smash", "Focus Energy", "Submission", "Rock Tomb"]
+  },
+  {
+    "pokemon": "128",
+    "skills": ["Take down", "Hyper beam", "Blizzard", "Flamethrower", "Zen Headbutt", "Outrage", "Iron Tail", "Giga Impact"]
+  },
+  {
+    "pokemon": "129",
+    "skills": ["Bounce", "Flail", "Tackle", "Splash"]
+  },
+  {
+    "pokemon": "130",
+    "skills": ["Bounce", "Flail", "Tackle", "Dragon Dance", "Crunch", "Taunt", "Outrage", "Hyper Beam", "Waterfall"]
+  },
+  {
+    "pokemon": "131",
+    "skills": ["Aqua Ring (DLC)", "Icy Wind", "Ice Beam", "Blizzard", "Hydro Pump", "Aurora Veil", "Growl", "Rest", "Icicle Crash", "Sing"]
+  },
+  {
+    "pokemon": "132",
+    "skills": ["Transform"]
+  },
+  {
+    "pokemon": "133",
+    "skills": ["Take Down", "Dig", "Charm", "Flail", "Growl"]
+  },
+  {
+    "pokemon": "134",
+    "skills": ["Take Down", "Dig", "Charm", "Waterfall", "Acid Armor", "Aqua Ring", "Hydro Pump", "Whirlpool"]
+  },
+  {
+    "pokemon": "135",
+    "skills": ["Take Down", "Dig", "Charm", "Thunderbolt", "Spark", "Pin Missile", "Thunder"]
+  },
+  {
+    "pokemon": "136",
+    "skills": ["Take Down", "Dig", "Charm", "Ember", "Flamethrower", "Flare Blitz", "Lava Plume"]
+  },
+  {
+    "pokemon": "137",
+    "skills": ["Recover", "Agility", "Hyper Beam", "Shadow Ball", "Thunderbolt", "Iron Tail", "Ice Beam", "Tri Attack", "Flamethrower", "Psybeam"]
+  },
+  {
+    "pokemon": "138",
+    "skills": ["Bubble", "Hydro Pump", "Whirlpool", "Icy Wind", "Spikes", "Withdraw"]
+  },
+  {
+    "pokemon": "139",
+    "skills": ["Bubble", "Hydro Pump", "Whirlpool", "Ice Beam", "Rock Polish", "Supersonic"]
+  },
+  {
+    "pokemon": "140",
+    "skills": ["Withdraw", "Rock Tomb", "Waterfall", "Aqua Jet", "Metal Sound", "Surf"]
+  },
+  {
+    "pokemon": "141",
+    "skills": ["Withdraw", "Rock Tomb", "Waterfall", "Aerial Ace", "Night Slash"]
+  },
+  {
+    "pokemon": "142",
+    "skills": ["Earthquake", "Dragon Claw", "Take Down", "Roost", "Crunch", "Fly", "Sandstorm", "Sky Attack", "Agility", "Rock Tomb"]
+  },
+  {
+    "pokemon": "143",
+    "skills": ["Play Rough (DLC)", "Giga Impact (DLC)", "Outrage", "Rest", "Take Down", "Rollout", "Earthquake", "Belly Drum", "Mega Punch", "Harden", "Amnesia"]
+  },
+  {
+    "pokemon": "144",
+    "skills": ["Sky Attack", "Agility", "Blizzard", "Steel Wing", "Icy Wind", "U turn", "Hurricane", "Aurora Veil", "Roost", "Ice Beam"]
+  },
+  {
+    "pokemon": "145",
+    "skills": ["Thunder Shock", "Drillpeck", "Agility", "Thunder", "Charge", "Charge", "Metal Sound", "Sky Attack", "Roost", "Thunderbolt", "Light Screen"]
+  },
+  {
+    "pokemon": "146",
+    "skills": ["Ember", "Sky Attack", "Fire Spin", "Leer", "Lava Plume", "Fire Blast", "Flamethrower", "Will O Wisp", "Heat Wave", "Roost"]
+  },
+  {
+    "pokemon": "147",
+    "skills": ["Dragon Dance", "Dragon Pulse", "Agility", "Dragon Rush", "Extreme Speed"]
+  },
+  {
+    "pokemon": "148",
+    "skills": ["Dragon Dance", "Dragon Pulse", "Agility", "Dragon Rush", "Extreme Speed", "Earthquake", "Twister"]
+  },
+  {
+    "pokemon": "149",
+    "skills": ["Dragon Dance", "Dragon Pulse", "Agility", "Dragon Rush", "Hyper Beam", "Earthquake", "Twister", "Draco Meteor", "Outrage"]
+  },
+  {
+    "pokemon": "150",
+    "skills": ["Hyper Beam", "Giga Impact", "Psychic", "Recover", "Thunderbolt", "Bulk up", "Blizzard", "Shadow Ball", "Psystrike", "Psycho Cut"]
+  },
+  {
+    "pokemon": "151",
+    "skills": ["Hyper Beam", "Giga Impact", "Psychic", "Recover", "Thunder", "Amnesia", "Heat Wave", "Flash Cannon", "Tri Attack", "Teleport", "Light Screen"]
+  }
+]

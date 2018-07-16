@@ -4434,7 +4434,7 @@
     },
     {
       "name": "Agility",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 30,
       "atk": "--",
       "acc": "--",
@@ -4442,7 +4442,7 @@
     },
     {
       "name": "Ally Switch",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 15,
       "atk": "--",
       "acc": "--",
@@ -4450,7 +4450,7 @@
     },
     {
       "name": "Amnesia",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 20,
       "atk": "--",
       "acc": "--",
@@ -4458,7 +4458,7 @@
     },
     {
       "name": "Barrier",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 20,
       "atk": "--",
       "acc": "--",
@@ -4466,7 +4466,7 @@
     },
     {
       "name": "Calm Mind",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 20,
       "atk": "--",
       "acc": "--",
@@ -4474,7 +4474,7 @@
     },
     {
       "name": "Confusion",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 25,
       "atk": 50,
       "acc": 100,
@@ -4482,7 +4482,7 @@
     },
     {
       "name": "Cosmic Power",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 20,
       "atk": "--",
       "acc": "--",
@@ -4490,7 +4490,7 @@
     },
     {
       "name": "Dream Eater",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 15,
       "atk": 100,
       "acc": 100,
@@ -4498,7 +4498,7 @@
     },
     {
       "name": "Extrasensory",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 20,
       "atk": 80,
       "acc": 100,
@@ -4506,7 +4506,7 @@
     },
     {
       "name": "Future Sight",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": 120,
       "acc": 100,
@@ -4514,7 +4514,7 @@
     },
     {
       "name": "Genesis Supernova",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 1,
       "atk": 185,
       "acc": "--",
@@ -4522,7 +4522,7 @@
     },
     {
       "name": "Gravity",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 5,
       "atk": "--",
       "acc": "--",
@@ -4530,7 +4530,7 @@
     },
     {
       "name": "Guard Split",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4538,7 +4538,7 @@
     },
     {
       "name": "Guard Swap",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4546,7 +4546,7 @@
     },
     {
       "name": "Heal Block",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 15,
       "atk": "--",
       "acc": 100,
@@ -4554,7 +4554,7 @@
     },
     {
       "name": "Heal Pulse",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4562,7 +4562,7 @@
     },
     {
       "name": "Healing Wish",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4570,7 +4570,7 @@
     },
     {
       "name": "Heart Stamp",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 25,
       "atk": 60,
       "acc": 100,
@@ -4578,7 +4578,7 @@
     },
     {
       "name": "Heart Swap",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4586,7 +4586,7 @@
     },
     {
       "name": "Hyperspace Hole",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 5,
       "atk": 80,
       "acc": "--",
@@ -4594,7 +4594,7 @@
     },
     {
       "name": "Hypnosis",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 20,
       "atk": "--",
       "acc": 60,
@@ -4602,7 +4602,7 @@
     },
     {
       "name": "Imprison",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4610,7 +4610,7 @@
     },
     {
       "name": "Instruct",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 15,
       "atk": "--",
       "acc": "--",
@@ -4618,7 +4618,7 @@
     },
     {
       "name": "Kinesis",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 15,
       "atk": "--",
       "acc": 80,
@@ -4626,7 +4626,7 @@
     },
     {
       "name": "Light Screen",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 30,
       "atk": "--",
       "acc": "--",
@@ -4634,7 +4634,7 @@
     },
     {
       "name": "Light That Burns the Sky",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 1,
       "atk": 200,
       "acc": "--",
@@ -4642,7 +4642,7 @@
     },
     {
       "name": "Lunar Dance",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4650,7 +4650,7 @@
     },
     {
       "name": "Luster Purge",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 5,
       "atk": 70,
       "acc": 100,
@@ -4658,7 +4658,7 @@
     },
     {
       "name": "Magic Coat",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 15,
       "atk": "--",
       "acc": "--",
@@ -4666,7 +4666,7 @@
     },
     {
       "name": "Magic Room",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4674,7 +4674,7 @@
     },
     {
       "name": "Meditate",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 40,
       "atk": "--",
       "acc": "--",
@@ -4682,7 +4682,7 @@
     },
     {
       "name": "Miracle Eye",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 40,
       "atk": "--",
       "acc": "--",
@@ -4690,7 +4690,7 @@
     },
     {
       "name": "Mirror Coat",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 20,
       "atk": "--",
       "acc": 100,
@@ -4698,7 +4698,7 @@
     },
     {
       "name": "Mist Ball",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 5,
       "atk": 70,
       "acc": 100,
@@ -4706,7 +4706,7 @@
     },
     {
       "name": "Photon Geyser",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 5,
       "atk": 100,
       "acc": 100,
@@ -4714,7 +4714,7 @@
     },
     {
       "name": "Power Split",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4722,7 +4722,7 @@
     },
     {
       "name": "Power Swap",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4730,7 +4730,7 @@
     },
     {
       "name": "Power Trick",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4738,7 +4738,7 @@
     },
     {
       "name": "Prismatic Laser",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": 160,
       "acc": 100,
@@ -4746,7 +4746,7 @@
     },
     {
       "name": "Psybeam",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 20,
       "atk": 65,
       "acc": 100,
@@ -4754,7 +4754,7 @@
     },
     {
       "name": "Psychic",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": 90,
       "acc": 100,
@@ -4762,7 +4762,7 @@
     },
     {
       "name": "Psychic Fangs",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": 85,
       "acc": 100,
@@ -4770,7 +4770,7 @@
     },
     {
       "name": "Psychic Terrain",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4778,7 +4778,7 @@
     },
     {
       "name": "Psycho Boost",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 5,
       "atk": 140,
       "acc": 90,
@@ -4786,7 +4786,7 @@
     },
     {
       "name": "Psycho Cut",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 20,
       "atk": 70,
       "acc": 100,
@@ -4794,7 +4794,7 @@
     },
     {
       "name": "Psycho Shift",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": 100,
@@ -4802,7 +4802,7 @@
     },
     {
       "name": "Psyshock",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": 80,
       "acc": 100,
@@ -4810,7 +4810,7 @@
     },
     {
       "name": "Psystrike",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": 100,
       "acc": 100,
@@ -4818,7 +4818,7 @@
     },
     {
       "name": "Psywave",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 15,
       "atk": "--",
       "acc": 100,
@@ -4826,7 +4826,7 @@
     },
     {
       "name": "Reflect",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 20,
       "atk": "--",
       "acc": "--",
@@ -4834,7 +4834,7 @@
     },
     {
       "name": "Rest",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4842,7 +4842,7 @@
     },
     {
       "name": "Role Play",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4850,7 +4850,7 @@
     },
     {
       "name": "Shattered Psyche",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 1,
       "atk": "--",
       "acc": "--",
@@ -4858,7 +4858,7 @@
     },
     {
       "name": "Shattered Psyche",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 1,
       "atk": "--",
       "acc": "--",
@@ -4866,7 +4866,7 @@
     },
     {
       "name": "Skill Swap",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4874,7 +4874,7 @@
     },
     {
       "name": "Speed Swap",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4882,7 +4882,7 @@
     },
     {
       "name": "Stored Power",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": 20,
       "acc": 100,
@@ -4890,7 +4890,7 @@
     },
     {
       "name": "Synchronoise",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": 120,
       "acc": 100,
@@ -4898,7 +4898,7 @@
     },
     {
       "name": "Telekinesis",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 15,
       "atk": "--",
       "acc": "--",
@@ -4906,7 +4906,7 @@
     },
     {
       "name": "Teleport",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 20,
       "atk": "--",
       "acc": "--",
@@ -4914,7 +4914,7 @@
     },
     {
       "name": "Trick",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": 100,
@@ -4922,7 +4922,7 @@
     },
     {
       "name": "Trick Room",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 5,
       "atk": "--",
       "acc": "--",
@@ -4930,7 +4930,7 @@
     },
     {
       "name": "Wonder Room",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 10,
       "atk": "--",
       "acc": "--",
@@ -4938,7 +4938,7 @@
     },
     {
       "name": "Zen Headbutt",
-      "type": "phychc",
+      "type": "psychc",
       "pp": 15,
       "atk": 80,
       "acc": 90,
