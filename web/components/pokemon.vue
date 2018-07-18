@@ -308,6 +308,9 @@
 
       getSkills () {
         this.pokemon.detailedskills = this.pokemon.skills.map(skill => {
+          if (skill.indexOf('(DLC)')) {
+            skill = skill.replace(' (DLC)', '')
+          }
           return this.$parent.skills.find(item => item.name.toLocaleLowerCase() === skill.toLocaleLowerCase())
         })
       },
