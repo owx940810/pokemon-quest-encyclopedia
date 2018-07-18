@@ -493,11 +493,11 @@
   },
   {
     "pokemon": "124",
-    "skills": ["Sing", "Ice beam", "Psychic", "Draining Kiss", "Flash", "Blizzard", "Aurora Veil"]
+    "skills": ["Sing", "Ice Beam", "Psychic", "Draining Kiss", "Flash", "Blizzard", "Aurora Veil"]
   },
   {
     "pokemon": "125",
-    "skills": ["Thundershock", "Charge", "Meditate", "Power Up Punch", "Dynamic Punch", "Thunder Punch", "Cross Chop", "Thunder", "Electroweb", "Thunderbolt"]
+    "skills": ["Thunder Shock", "Charge", "Meditate", "Power Up Punch", "Dynamic Punch", "Thunder Punch", "Cross Chop", "Thunder", "Electroweb", "Thunderbolt"]
   },
   {
     "pokemon": "126",
