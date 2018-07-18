@@ -1365,7 +1365,7 @@
     "id": "056",
     "name": "Mankey",
     "type": [
-      "fight"
+      "fighting"
     ],
     "evolution": [
       {
@@ -1387,7 +1387,7 @@
     "id": "057",
     "name": "Primeape",
     "type": [
-      "fight"
+      "fighting"
     ],
     "evolution": [
       {
@@ -1609,7 +1609,7 @@
     "id": "066",
     "name": "Machop",
     "type": [
-      "fight"
+      "fighting"
     ],
     "evolution": [
       {
@@ -1635,7 +1635,7 @@
     "id": "067",
     "name": "Machoke",
     "type": [
-      "fight"
+      "fighting"
     ],
     "evolution": [
       {
@@ -1661,7 +1661,7 @@
     "id": "068",
     "name": "Machamp",
     "type": [
-      "fight"
+      "fighting"
     ],
     "evolution": [
       {
@@ -2542,7 +2542,7 @@
     "id": "106",
     "name": "Hitmonlee",
     "type": [
-      "fight"
+      "fighting"
     ],
     "evolution": [],
     "details": {
@@ -2555,7 +2555,7 @@
     "id": "107",
     "name": "Hitmonchan",
     "type": [
-      "fight"
+      "fighting"
     ],
     "evolution": [],
     "details": {

@@ -14,11 +14,18 @@
             img(:src="pokemon.image" )
             P {{ pokemon.name }}
 
+    .toggles
+      button.default(@click="changeSort") SORT BY#[br]#[hr]{{ sort.type[sort.index].toLocaleUpperCase() }}
     .pokemons
       .pokemon(v-for="pokemon in selectedpokemons", @click="selectPokemon(pokemon)")
         .number
-          p
-            b #[span #]{{ pokemon.id }}
+          p(v-show="sort.index === 0") #[b #[span #]{{ pokemon.id }}]
+          ul.type(v-show="sort.index === 1")
+            li(:class="pokemon.type[0]")
+            li(v-show="pokemon.type.length > 1", :class="pokemon.type[1]")
+          p(v-show="sort.index === 2") #[b #[span ATK] {{ pokemon.details.atk }}]
+          p(v-show="sort.index === 3") #[b #[span HP] {{ pokemon.details.hp }}]
+
         .desc
           img(:src="pokemon.image" )
           P {{ pokemon.name }}
@@ -59,8 +66,15 @@
     h1
       text-align: center
 
+    .toggles
+      margin-top: 30px
+      padding: 0 50px
+
+      +mobile
+        padding: 0 20px
+
     .pokemons, .favorites
-      margin-top: 50px
+      margin-top: 30px
       display: flex
       flex-flow: row wrap
       padding: 0 50px
@@ -76,7 +90,13 @@
         transition: all 100ms
 
         &:hover
-          transform: scale(1.1)
+          transform: scale(1.05)
+
+        &:active
+          transform: translateY(3px)
+
+          .desc
+            box-shadow: 0 2px 0 $grey-l
 
         img
           width: 70px
@@ -96,6 +116,61 @@
           p
             font-family: "Share Tech Mono", monospace
 
+          ul.type
+            +clearlist
+            padding: 4px
+            text-align: left
+            font-size: 2em
+            line-height: 0.8em
+
+            +clearfix
+
+            li
+              float: left
+              width: 10px
+              height: 10px
+              border-radius: 50%
+
+              &:nth-child(2)
+                margin-left: 2px
+
+              &.bug
+                background-color: $bug
+              &.dark
+                background-color: $dark
+              &.dragon
+                background-color: $dragon
+              &.electr
+                background-color: $electr
+              &.fairy
+                background-color: $fairy
+              &.fighting
+                background-color: $fighting
+              &.fire
+                background-color: $fire
+              &.flying
+                background-color: $flying
+              &.ghost
+                background-color: $ghost
+              &.grass
+                background-color: $grass
+              &.ground
+                background-color: $ground
+              &.ice
+                background-color: $ice
+              &.normal
+                background-color: $normal
+              &.poison
+                background-color: $poison
+              &.psychc
+                background-color: $psychc
+              &.rock
+                background-color: $rock
+              &.steel
+                background-color: $steel
+              &.water
+                background-color: $water
+
         .desc
           width: 80px
           height: 100px
@@ -106,6 +181,7 @@
           display: flex
           flex-flow: column nowrap
           justify-content: space-between
+          transition: all 100ms
 
     .favorites
       margin-top: 10px
@@ -117,22 +193,37 @@
 </style>
 
 <script>
+  import _ from 'lodash'
   export default {
     name: 'landing',
     data () {
       return {
         pokemons: this.$parent.pokemons,
         searchedpokemon: '',
-        favorites: []
+        favorites: [],
+        sort: {
+          type: ['id', 'type', 'atk', 'hp'],
+          index: 0
+        }
       }
     },
 
     computed: {
       selectedpokemons () {
-        if (!this.searchedpokemon) {
-          return JSON.parse(JSON.stringify(this.pokemons))
+        let selected = []
+        if (this.searchedpokemon) {
+          selected = this.pokemons.filter(pokemon => pokemon.name.toLowerCase().indexOf(this.searchedpokemon.toLowerCase()) >= 0)
+        } else {
+          selected =  JSON.parse(JSON.stringify(this.pokemons))
         }
-        return this.pokemons.filter(pokemon => pokemon.name.toLowerCase().indexOf(this.searchedpokemon.toLowerCase()) >= 0)
+
+        let sort = this.sort.type[this.sort.index]
+        let direction = 'asc'
+        if (sort === 'atk' || sort === 'hp') {
+          sort = 'details.' + sort
+          direction = 'desc'
+        }
+        return _.orderBy(selected, [sort], [direction])
       }
     },
 
@@ -142,6 +233,7 @@
         'page_path': '/'
       })
 
+      this.getSortType()
       this.getFavorites()
     },
 
@@ -162,6 +254,21 @@
         }
         let favorites = JSON.parse(storage)
         this.favorites = favorites.map(item => this.pokemons.find(pokemon => parseInt(pokemon.id) === parseInt(item)))
+      },
+
+      getSortType () {
+        if (!window.localStorage.getItem('sort')) {
+          return window.localStorage.setItem('sort', this.sort.index)
+        }
+        this.sort.index = parseInt(window.localStorage.getItem('sort'))
+      },
+
+      changeSort () {
+        this.sort.index++
+        if (this.sort.index >= this.sort.type.length) {
+          this.sort.index = 0
+        }
+        window.localStorage.setItem('sort', this.sort.index)
       }
     }
   }
