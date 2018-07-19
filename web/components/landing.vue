@@ -1,8 +1,5 @@
 <template lang="pug">
   #landing
-    #search-wrapper
-      input(type="text", placeholder="pikachu", v-model="searchedpokemon")
-
     .favorites-wrapper(v-if="favorites.length > 0")
       h2 #[u Favorites]
       .favorites
@@ -13,9 +10,14 @@
           .desc
             img(:src="pokemon.image" )
             P {{ pokemon.name }}
+      hr
+
+    #search-wrapper
+      input(type="text", placeholder="pikachu", v-model="searchedpokemon")
 
     .toggles
       button.default(@click="changeSort") SORT BY#[br]#[hr]{{ sort.type[sort.index].toLocaleUpperCase() }}
+
     .pokemons
       .pokemon(v-for="pokemon in selectedpokemons", @click="selectPokemon(pokemon)")
         .number
@@ -40,7 +42,7 @@
     #search-wrapper
       position: relative
       display: block
-      margin: 0 auto
+      margin: 20px auto 0 auto
       width: 300px
 
       &::after
@@ -69,23 +71,26 @@
     .toggles
       margin-top: 30px
       padding: 0 50px
+      display: flex
+      flex-direction: row-reverse
 
       +mobile
         padding: 0 20px
 
     .pokemons, .favorites
       margin-top: 30px
-      display: flex
-      flex-flow: row wrap
       padding: 0 50px
+      display: grid
+      grid-template-columns: repeat(auto-fill, minmax(80px, 1fr))
+      grid-gap: 15px
 
       +mobile
         padding: 0 20px
-        justify-content: center
+        display: grid
+        grid-template-columns: repeat(4, minmax(60px, 1fr))
 
       .pokemon
         position: relative
-        margin: 0 5px 15px 5px
         cursor: pointer
         transition: all 100ms
 
@@ -112,6 +117,9 @@
           border-radius: 7px 7px 0 0
           background-color: $white
           padding: 2px 0
+
+          +mobile
+            width: 100%
 
           p
             font-family: "Share Tech Mono", monospace
@@ -172,7 +180,8 @@
                 background-color: $water
 
         .desc
-          width: 80px
+          // width: 80px
+          width: 100%
           height: 100px
           background-color: $white
           box-shadow: 0 5px 0 $grey-l
@@ -183,12 +192,32 @@
           justify-content: space-between
           transition: all 100ms
 
+          p
+            +mobile
+              font-size: 8px
+
+          +mobile
+            border-radius: 0 0 7px 7px
+            width: 100%
+            height: 80px
+
+          img
+            width: 100%
+            height: 80px
+
+            +mobile
+              height: initial
+
     .favorites
-      margin-top: 10px
+      margin-top: 20px
+      margin-bottom: 20px
       padding: 0
 
     .favorites-wrapper
       padding: 0 50px
+
+      +mobile
+        padding: 0 20px
 
 </style>
 
