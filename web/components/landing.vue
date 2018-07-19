@@ -107,7 +107,7 @@
           font-size: 12px
 
         .number
-          width: 50px
+          width: 60px
           height: 20px
           border-radius: 7px 7px 0 0
           background-color: $white
