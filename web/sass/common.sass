@@ -51,11 +51,36 @@ img
 
 #app
   min-height: calc(100vh - 80px)
-  padding: 20px 0
+  padding: 0 0 20px 0
 
   +mobile
     display: block
     padding: 20px 0
+
+nav
+  display: flex
+  flex-direction: row-reverse
+  padding: 10px
+
+  .nav-item
+    padding: 10px 20px
+    background-color: $white
+    border-radius: 7px
+    border: 0
+    box-shadow: 0 5px 0 $grey-l
+    font-family: "Share Tech Mono", sans-serif
+    margin: 0 5px 0 5px
+    transition: all 100ms
+    color: $black
+    text-decoration: none
+
+    &:hover
+      transform: scale(1.05)
+
+    &:active
+      transform: translateY(3px)
+      box-shadow: 0 2px 0 $grey-l
+
 
 footer
   text-align: center

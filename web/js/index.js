@@ -30,7 +30,7 @@ const getPokemons = async () => {
 
 let recipes
 const getRecipes = async () => {
-  const response = await window.fetch(process.env.WEB_BASE + '/static/json/original-recipes.json')
+  const response = await window.fetch(process.env.WEB_BASE + '/static/json/recipes.json')
   const data = await response.json()
   return recipes = data
 }
@@ -89,6 +89,11 @@ const init = async () => {
     created () {
     },
     mounted () {
+      if (process.env.ENV === 'prod') {
+        gtag('js', new Date())
+        gtag('config', 'UA-93111170-3')
+      }
+
       let now = new moment()
       let end = new moment('2018-7-23', 'YYYY-MM-DD')
       let duration = moment.duration(now.diff(end)).asDays()

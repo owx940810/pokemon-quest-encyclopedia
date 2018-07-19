@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Megahorn",
     "type": "bug",
     "tier": "A",
@@ -14,6 +15,7 @@
     "desc": "Using its tough and impressive horn, the user rams into enemies in front of itself with no letup, dealing huge damage to them."
   },
   {
+    "id": 2,
     "name": "U turn",
     "type": "bug",
     "tier": "C",
@@ -28,6 +30,7 @@
     "desc": "After attacking surrounding enemies, the user moves back to dodge enemies' counterattacks."
   },
   {
+    "id": 3,
     "name": "Leech Life",
     "type": "bug",
     "tier": "D",
@@ -42,6 +45,7 @@
     "desc": "The user drains the blood of enemies directly in front of itself, damaging them. Part of the damage dealt is absorbed to restore the user's HP."
   },
   {
+    "id": 4,
     "name": "Lunge",
     "type": "bug",
     "tier": "C",
@@ -56,6 +60,7 @@
     "desc": "The user lunges toward enemies in front of itself, damaging them."
   },
   {
+    "id": 5,
     "name": "String Shot",
     "type": "bug",
     "tier": "C",
@@ -70,6 +75,7 @@
     "desc": "The user spews a sticky thread in three directions, creating nets that will damage enemies and often lower their movement speed."
   },
   {
+    "id": 6,
     "name": "Silver Wind",
     "type": "bug",
     "tier": "C",
@@ -84,6 +90,7 @@
     "desc": "Scales carried by the wind swirl around the user, damaging enemies hit by them. Some or all of the user's stats sometimes rise at random."
   },
   {
+    "id": 7,
     "name": "Rage Powder",
     "type": "bug",
     "tier": "C",
@@ -98,6 +105,7 @@
     "desc": "The user scatters a cloud of irritating powder on itself, causing surrounding enemies to target it."
   },
   {
+    "id": 8,
     "name": "Pin Missile",
     "type": "bug",
     "tier": "B",
@@ -112,6 +120,7 @@
     "desc": "The user shoots three sharp spikes in front of itself, damaging enemies hit by them."
   },
   {
+    "id": 9,
     "name": "Crunch",
     "type": "dark",
     "tier": "B",
@@ -126,6 +135,7 @@
     "desc": "The user takes aim and then bites on to enemies a short distance in front of itself, damaging them."
   },
   {
+    "id": 10,
     "name": "Sucker Punch",
     "type": "dark",
     "tier": "C",
@@ -140,6 +150,7 @@
     "desc": "The user briefly disappears and moves a short distance. It then charges toward enemies, damaging them."
   },
   {
+    "id": 11,
     "name": "Night Slash",
     "type": "dark",
     "tier": "",
@@ -154,6 +165,7 @@
     "desc": "The user dashes forward, slashing surrounding enemies and damaging them. Critical hits land more easily."
   },
   {
+    "id": 12,
     "name": "Taunt",
     "type": "dark",
     "tier": "META",
@@ -168,6 +180,7 @@
     "desc": "The user taunts surrounding enemies, forcing them to target it."
   },
   {
+    "id": 13,
     "name": "Nasty Plot",
     "type": "dark",
     "tier": "B",
@@ -182,6 +195,7 @@
     "desc": "The user stimulates its brain by thinking bad thoughts, raising the amount of damage it deals for a while."
   },
   {
+    "id": 14,
     "name": "Flatter",
     "type": "dark",
     "tier": "A / S",
@@ -196,6 +210,7 @@
     "desc": "The user flatters enemies in front of itself, which confuses them but raises the amount of damage they deal and reduces the amount of damage they take."
   },
   {
+    "id": 15,
     "name": "Draco Meteor",
     "type": "dragon",
     "tier": "S",
@@ -210,6 +225,7 @@
     "desc": "The user summons several meteors down around itself, damaging enemies hit by them. Sometimes reduces the amount of damage the user deals."
   },
   {
+    "id": 16,
     "name": "Dragon Claw",
     "type": "dragon",
     "tier": "",
@@ -224,6 +240,7 @@
     "desc": "The user gathers its strength, then charges forward while spinning, damaging enemies with its sharp claws."
   },
   {
+    "id": 17,
     "name": "Dragon Rush",
     "type": "dragon",
     "tier": "B",
@@ -238,6 +255,7 @@
     "desc": "The user flies into enemies a short distance from itself with great intensity, damaging them."
   },
   {
+    "id": 18,
     "name": "Twister",
     "type": "dragon",
     "tier": "B",
@@ -252,6 +270,7 @@
     "desc": "The user whips up several tornadoes and sends them out in front of itself, damaging enemies hit by them."
   },
   {
+    "id": 19,
     "name": "Outrage",
     "type": "dragon",
     "tier": "",
@@ -266,6 +285,7 @@
     "desc": "The user rampages about, attacking and damaging any enemies in its path. Sometimes confuses the user."
   },
   {
+    "id": 20,
     "name": "Dragon Dance",
     "type": "dragon",
     "tier": "B",
@@ -280,6 +300,7 @@
     "desc": "The user vigorously performs a mystic, powerful dance that raises the amount of damage it deals and its movement speed for a while."
   },
   {
+    "id": 21,
     "name": "Dragon Pulse",
     "type": "dragon",
     "tier": "B",
@@ -294,6 +315,7 @@
     "desc": "The user sends a shock wave flying from its mouth, damaging enemies hit by it."
   },
   {
+    "id": 22,
     "name": "Thunder",
     "type": "electr",
     "tier": "S",
@@ -308,6 +330,7 @@
     "desc": "The user strikes the area in front of itself with a lightning bolt. Deals damage to nearby enemies. Sometimes paralyzes enemies."
   },
   {
+    "id": 23,
     "name": "Thunder Punch",
     "type": "electr",
     "tier": "",
@@ -322,6 +345,7 @@
     "desc": "The user charges its fist with electricity and unleashes a shocking punch on enemies directly in front of itself, sometimes paralyzing them."
   },
   {
+    "id": 24,
     "name": "Thunder Shock",
     "type": "electr",
     "tier": "",
@@ -336,6 +360,7 @@
     "desc": "After storing up electricity, the user fires it toward enemies in front of itself, dealing damage to them. Sometimes paralyzes enemies."
   },
   {
+    "id": 25,
     "name": "Volt Tackle",
     "type": "electr",
     "tier": "",
@@ -350,6 +375,7 @@
     "desc": "After electrifying itself and charging toward enemies, the user jumps and discharges electricity, damaging enemies hit by it and sometimes paralyzing them."
   },
   {
+    "id": 26,
     "name": "Spark",
     "type": "electr",
     "tier": "",
@@ -364,6 +390,7 @@
     "desc": "The user charges its body with electricity and charges toward enemies in front of itself. Sometimes paralyzes enemies."
   },
   {
+    "id": 27,
     "name": "Thunderbolt",
     "type": "electr",
     "tier": "C",
@@ -378,6 +405,7 @@
     "desc": "The user discharges tremendous electricity all around itself. Deals damage to enemies around the user. Sometimes paralyzes enemies."
   },
   {
+    "id": 28,
     "name": "Electric Terrain",
     "type": "electr",
     "tier": "C",
@@ -392,6 +420,7 @@
     "desc": "The user gathers electrical power beneath itself, raising the damage it deals for a while."
   },
   {
+    "id": 29,
     "name": "Electroweb",
     "type": "electr",
     "tier": "F",
@@ -406,6 +435,7 @@
     "desc": "The user spreads an electric net out directly in front of itself, lowering the movement speed of enemies hit by it for a while."
   },
   {
+    "id": 30,
     "name": "Charge",
     "type": "electr",
     "tier": "A",
@@ -420,6 +450,7 @@
     "desc": "The user stores up electricity, raising the damage it deals and making it resistant to negative effects for a while."
   },
   {
+    "id": 31,
     "name": "Dazzling Gleam",
     "type": "fairy",
     "tier": "C",
@@ -434,6 +465,7 @@
     "desc": "The user moves about as it emits a powerful flash that damages enemies hit by it."
   },
   {
+    "id": 32,
     "name": "Play Rough",
     "type": "fairy",
     "tier": "C",
@@ -448,6 +480,7 @@
     "desc": "The user plays rough with enemies in front of itself, damaging them. Sometimes lowers the damage enemies deal."
   },
   {
+    "id": 33,
     "name": "Charm",
     "type": "fairy",
     "tier": "D",
@@ -462,6 +495,7 @@
     "desc": "The user makes surrounding enemies less wary with its cute behavior, often reducing the amount of damage they deal."
   },
   {
+    "id": 34,
     "name": "Draining Kiss",
     "type": "fairy",
     "tier": "D",
@@ -476,6 +510,7 @@
     "desc": "The user kisses enemies directly in front of itself and damages them. Part of the damage dealt restores the user's HP."
   },
   {
+    "id": 35,
     "name": "Sweet Kiss",
     "type": "fairy",
     "tier": "D",
@@ -490,6 +525,7 @@
     "desc": "The user kisses enemies directly in front of itself with a sweet, angelic kiss that often confuses them."
   },
   {
+    "id": 36,
     "name": "High Jump Kick",
     "type": "fighting",
     "tier": "B",
@@ -504,6 +540,7 @@
     "desc": "After charging toward enemies in front of itself, the user jumps up and deals damage with a knee kick. The user also takes recoil damage."
   },
   {
+    "id": 37,
     "name": "Cross Chop",
     "type": "fighting",
     "tier": "B",
@@ -518,6 +555,7 @@
     "desc": "The user jumps toward enemies in front of itself and smacks them with a two handed chop, damaging them. Critical hits land more easily."
   },
   {
+    "id": 38,
     "name": "Close Combat",
     "type": "fighting",
     "tier": "A",
@@ -532,6 +570,7 @@
     "desc": "The user gets right up on enemies in front of itself and smacks them with a single blow, damaging them. Sometimes raises the amount of damage the user takes."
   },
   {
+    "id": 39,
     "name": "Drain Punch",
     "type": "fighting",
     "tier": "",
@@ -546,6 +585,7 @@
     "desc": "The user fires a punch at enemies directly in front of itself, damaging them. It also absorbs power with its fist, restoring its own HP."
   },
   {
+    "id": 40,
     "name": "Rolling Kick",
     "type": "fighting",
     "tier": "",
@@ -560,6 +600,7 @@
     "desc": "The user kicks as it spins in place, dealing damage to surrounding enemies."
   },
   {
+    "id": 41,
     "name": "Submission",
     "type": "fighting",
     "tier": "",
@@ -574,6 +615,7 @@
     "desc": "The user spins toward enemies in front of itself, smashing into them. Deals damage to enemies hit by the user as it whirls around."
   },
   {
+    "id": 42,
     "name": "Dynamic Punch",
     "type": "fighting",
     "tier": "",
@@ -588,6 +630,7 @@
     "desc": "The user punches enemies directly in front of itself with its full, concentrated power. Sometimes confuses enemies."
   },
   {
+    "id": 43,
     "name": "Power Up Punch",
     "type": "fighting",
     "tier": "",
@@ -602,6 +645,7 @@
     "desc": "The user delivers a punch with its hard fist to enemies directly in front of itself, damaging them. Often raises the amount of damage the user deals."
   },
   {
+    "id": 44,
     "name": "Rock Smash",
     "type": "fighting",
     "tier": "F",
@@ -616,6 +660,7 @@
     "desc": "The user unleashes its fury, damaging enemies in a broad area nearby and destroying surrounding trees and rocks."
   },
   {
+    "id": 45,
     "name": "Bulk Up",
     "type": "fighting",
     "tier": "S",
@@ -630,6 +675,7 @@
     "desc": "The user tenses its muscles to bulk up its body, raising the damage it deals for a while. This also reduces the damage the user takes."
   },
   {
+    "id": 46,
     "name": "Fire Punch",
     "type": "fire",
     "tier": "C",
@@ -644,6 +690,7 @@
     "desc": "The user imbues its fist with the power of flames, and strikes enemies directly in front of it with a burning punch. Deals damage and sometimes burns enemies."
   },
   {
+    "id": 47,
     "name": "Fire Blast",
     "type": "fire",
     "tier": "A",
@@ -658,6 +705,7 @@
     "desc": "The user sprays an all consuming fire on the ground, damaging enemies hit by it and sometimes burning them."
   },
   {
+    "id": 48,
     "name": "Lava Plume",
     "type": "fire",
     "tier": "D",
@@ -672,6 +720,7 @@
     "desc": "The user spouts scarlet flames all around itself. Deals damage to enemies around it. Sometimes burns enemies."
   },
   {
+    "id": 49,
     "name": "Heat Wave",
     "type": "fire",
     "tier": "B",
@@ -686,6 +735,7 @@
     "desc": "The user exhales hot breath in front of itself, damaging enemies hit by it and sometimes burning them."
   },
   {
+    "id": 50,
     "name": "Ember",
     "type": "fire",
     "tier": "C",
@@ -700,6 +750,7 @@
     "desc": "The user fires sparks in front of itself that split and run in three directions when they hit the ground. Deals damage to enemies they hit. Sometimes burns enemies."
   },
   {
+    "id": 51,
     "name": "Fire Spin",
     "type": "fire",
     "tier": "",
@@ -714,6 +765,7 @@
     "desc": "The user creates flames all around itself and fires them off in a spiral. Deals damage to enemies they hit. Sometimes burns enemies."
   },
   {
+    "id": 52,
     "name": "Flamethrower",
     "type": "fire",
     "tier": "C",
@@ -728,6 +780,7 @@
     "desc": "The user continuously breathes out long flames for a while. Deals damage to enemies as long as they remain in the flames. Sometimes burns enemies."
   },
   {
+    "id": 53,
     "name": "Flame Wheel",
     "type": "fire",
     "tier": "",
@@ -742,6 +795,7 @@
     "desc": "The user cloaks itself in fire and charges forward, damaging enemies it hits and sometimes burning them."
   },
   {
+    "id": 54,
     "name": "Flame Charge",
     "type": "fire",
     "tier": "B",
@@ -756,6 +810,7 @@
     "desc": "The user stores up the power of flames, raising the damage it deals for a while."
   },
   {
+    "id": 55,
     "name": "Flare Blitz",
     "type": "fire",
     "tier": "",
@@ -770,6 +825,7 @@
     "desc": "The user creates a path of flames in front of itself and charges forward along it. Deals damage to enemies. Sometimes burns enemies."
   },
   {
+    "id": 56,
     "name": "Will O Wisp",
     "type": "fire",
     "tier": "D",
@@ -784,6 +840,7 @@
     "desc": "The user drapes itself with sinister flames and attacks enemies directly in front of it. Often burns enemies."
   },
   {
+    "id": 57,
     "name": "Drill Peck",
     "type": "flying",
     "tier": "A",
@@ -798,6 +855,7 @@
     "desc": "The user attacks enemies directly in front of itself with its sharp beak, damaging them."
   },
   {
+    "id": 58,
     "name": "Fly",
     "type": "flying",
     "tier": "B",
@@ -812,6 +870,7 @@
     "desc": "The user flies toward enemies far in front of itself, then swoops down to deal damage to them."
   },
   {
+    "id": 59,
     "name": "Bounce",
     "type": "flying",
     "tier": "B",
@@ -826,6 +885,7 @@
     "desc": "The user bounces forward high into the air twice, damaging enemies it hits."
   },
   {
+    "id": 60,
     "name": "Sky Attack",
     "type": "flying",
     "tier": "A",
@@ -840,6 +900,7 @@
     "desc": "After flying up and bracing itself, the user charges at enemies directly in front of itself, damaging them. Critical hits land more easily."
   },
   {
+    "id": 61,
     "name": "Aerial Ace",
     "type": "flying",
     "tier": "",
@@ -854,6 +915,7 @@
     "desc": "The user quickly slashes in front of itself twice, dealing damage."
   },
   {
+    "id": 62,
     "name": "Hurricane",
     "type": "flying",
     "tier": "C",
@@ -868,6 +930,7 @@
     "desc": "The user whips up an intense wind around itself, damaging surrounding enemies and sometimes confusing them."
   },
   {
+    "id": 63,
     "name": "Gust",
     "type": "flying",
     "tier": "C",
@@ -882,6 +945,7 @@
     "desc": "The user sends an intense gust of wind out in front of itself that whirls around and damages enemies hit by it."
   },
   {
+    "id": 64,
     "name": "Tailwind",
     "type": "flying",
     "tier": "D",
@@ -896,6 +960,7 @@
     "desc": "The user creates an intense swirling wind that raises its movement speed for a while."
   },
   {
+    "id": 65,
     "name": "Roost",
     "type": "flying",
     "tier": "F",
@@ -910,6 +975,7 @@
     "desc": "The user briefly rests its body, restoring a bit of its HP."
   },
   {
+    "id": 66,
     "name": "Lick",
     "type": "ghost",
     "tier": "C",
@@ -924,6 +990,7 @@
     "desc": "The user licks enemies all around itself with its long tongue, damaging them. Sometimes paralyzes enemies."
   },
   {
+    "id": 67,
     "name": "Astonish",
     "type": "ghost",
     "tier": "",
@@ -938,6 +1005,7 @@
     "desc": "The user tries to startle enemies directly in front of itself, damaging those taken by surprise."
   },
   {
+    "id": 68,
     "name": "Shadow Ball",
     "type": "ghost",
     "tier": "B",
@@ -952,6 +1020,7 @@
     "desc": "The user hurls a shadowy blob in front of itself, damaging enemies hit by it. Sometimes raises the amount of damage they take."
   },
   {
+    "id": 69,
     "name": "Confuse Ray",
     "type": "ghost",
     "tier": "A",
@@ -966,6 +1035,7 @@
     "desc": "The user exposes surrounding enemies to a sinister ray, often confusing them."
   },
   {
+    "id": 70,
     "name": "Vine Whip",
     "type": "grass",
     "tier": "A",
@@ -980,6 +1050,7 @@
     "desc": "The user strikes enemies in front of itself with whiplike vines. Deals damage to enemies hit by them."
   },
   {
+    "id": 71,
     "name": "Solar Beam",
     "type": "grass",
     "tier": "C",
@@ -994,6 +1065,7 @@
     "desc": "The user gathers light and unleashes it in front of itself, dealing damage to enemies hit by it."
   },
   {
+    "id": 72,
     "name": "Bullet Seed",
     "type": "grass",
     "tier": "C",
@@ -1008,6 +1080,7 @@
     "desc": "The user sends several seeds flying out in front of itself simultaneously, damaging enemies hit by them."
   },
   {
+    "id": 73,
     "name": "Mega Drain",
     "type": "grass",
     "tier": "",
@@ -1022,6 +1095,7 @@
     "desc": "The user attacks enemies in front of itself, dealing damage to them. Some of the damage dealt is absorbed by the user, restoring its HP."
   },
   {
+    "id": 74,
     "name": "Petal Dance",
     "type": "grass",
     "tier": "C",
@@ -1036,6 +1110,7 @@
     "desc": "The user spins in place, scattering petals that deal damage to enemies around it."
   },
   {
+    "id": 75,
     "name": "Razor Leaf",
     "type": "grass",
     "tier": "B",
@@ -1050,6 +1125,7 @@
     "desc": "The user launches sharp edged leaves to slash at enemies, damaging them. Critical hits land more easily."
   },
   {
+    "id": 76,
     "name": "Leech Seed",
     "type": "grass",
     "tier": "B",
@@ -1064,6 +1140,7 @@
     "desc": "The user plants a seed on the ground in front of itself. Enemies in range are gradually damaged. Part of the damage dealt is absorbed to restore the user's HP."
   },
   {
+    "id": 77,
     "name": "Stun Spore",
     "type": "grass",
     "tier": "D",
@@ -1078,6 +1155,7 @@
     "desc": "The user scatters numbing powder directly in front of itself. Often paralyzes enemies hit by it."
   },
   {
+    "id": 78,
     "name": "Synthesis",
     "type": "grass",
     "tier": "B",
@@ -1092,6 +1170,7 @@
     "desc": "The user absorbs light, raising the damage it deals for a while."
   },
   {
+    "id": 79,
     "name": "Spore",
     "type": "grass",
     "tier": "",
@@ -1106,6 +1185,7 @@
     "desc": "The user scatters sleep inducing spores directly in front of itself, often making enemies fall asleep."
   },
   {
+    "id": 80,
     "name": "Earthquake",
     "type": "ground",
     "tier": "C",
@@ -1120,6 +1200,7 @@
     "desc": "The user causes an earthquake that damages surrounding enemies."
   },
   {
+    "id": 81,
     "name": "Dig",
     "type": "ground",
     "tier": "A",
@@ -1134,6 +1215,7 @@
     "desc": "The user digs a tunnel to travel beneath the feet of enemies in front of itself, then pops out from beneath them to damage them."
   },
   {
+    "id": 82,
     "name": "Mud Bomb",
     "type": "ground",
     "tier": "B",
@@ -1148,6 +1230,7 @@
     "desc": "The user throws a lump of mud in front of itself that splits open when it hits the ground, damaging surrounding enemies and sometimes raising the amount of damage they take."
   },
   {
+    "id": 83,
     "name": "Bonemerang",
     "type": "ground",
     "tier": "B",
@@ -1162,6 +1245,7 @@
     "desc": "The user throws a boomerang made of bone, damaging enemies hit by it."
   },
   {
+    "id": 84,
     "name": "Mud Slap",
     "type": "ground",
     "tier": "C",
@@ -1176,6 +1260,7 @@
     "desc": "The user hurls mud in three directions, dealing damage to enemies hit by it. Sometimes reduces their movement speed."
   },
   {
+    "id": 85,
     "name": "Shore Up",
     "type": "ground",
     "tier": "D",
@@ -1190,6 +1275,7 @@
     "desc": "The user gathers sand from beneath itself, restoring a bit of its HP."
   },
   {
+    "id": 86,
     "name": "Spikes",
     "type": "ground",
     "tier": "",
@@ -1204,6 +1290,7 @@
     "desc": "The user scatters spikes in front of itself, damaging enemies that step on them."
   },
   {
+    "id": 87,
     "name": "Ice Punch",
     "type": "ice",
     "tier": "C",
@@ -1218,6 +1305,7 @@
     "desc": "The user chills its fist and unleashes a freezing punch on enemies directly in front of it. Sometimes freezes enemies."
   },
   {
+    "id": 88,
     "name": "Icicle Crash",
     "type": "ice",
     "tier": "A",
@@ -1232,6 +1320,7 @@
     "desc": "The user drops frigid icicles in front of itself. Deals damage to enemies hit by them and sometimes freezes them."
   },
   {
+    "id": 89,
     "name": "Ice Beam",
     "type": "ice",
     "tier": "C",
@@ -1246,6 +1335,7 @@
     "desc": "The user fires an icy cold beam at enemies in front of itself. Deals damage to enemies and sometimes freezes them."
   },
   {
+    "id": 90,
     "name": "Icy Wind",
     "type": "ice",
     "tier": "C",
@@ -1260,6 +1350,7 @@
     "desc": "The user sends a freezing gust of chilled air at enemies in front of itself, damaging them. Sometimes lowers enemies' movement speed."
   },
   {
+    "id": 91,
     "name": "Blizzard",
     "type": "ice",
     "tier": "D",
@@ -1274,6 +1365,7 @@
     "desc": "The user moves about while creating a blizzard centered on itself. Deals damage to enemies around the user and sometimes freezes them."
   },
   {
+    "id": 92,
     "name": "Aurora Veil",
     "type": "ice",
     "tier": "A",
@@ -1288,6 +1380,7 @@
     "desc": "The user cloaks itself in a veil of light, reducing the amount of damage it takes for a while."
   },
   {
+    "id": 93,
     "name": "Mega Punch",
     "type": "normal",
     "tier": "S",
@@ -1302,6 +1395,7 @@
     "desc": "After approaching enemies in front of itself, the user slugs enemies directly in front of itself with a muscle packed punch, damaging them."
   },
   {
+    "id": 94,
     "name": "Self Destruct",
     "type": "normal",
     "tier": "META",
@@ -1316,6 +1410,7 @@
     "desc": "The user approaches enemies and causes an explosion, damaging all surrounding enemies. The tradeoff is that the user takes enough damage to knock itself out."
   },
   {
+    "id": 95,
     "name": "Hyper Beam",
     "type": "normal",
     "tier": "B",
@@ -1330,6 +1425,7 @@
     "desc": "The user stores up power and then fires a tremendous beam at enemies. Deals severe damage to enemies it hits."
   },
   {
+    "id": 96,
     "name": "Scratch",
     "type": "normal",
     "tier": "B",
@@ -1344,6 +1440,7 @@
     "desc": "The user rakes its hard, pointed claws over enemies directly in front of itself, damaging them."
   },
   {
+    "id": 97,
     "name": "Slam",
     "type": "normal",
     "tier": "",
@@ -1358,6 +1455,7 @@
     "desc": "The user slams nearby enemies with a long tail, vines, or the like, damaging all of them."
   },
   {
+    "id": 98,
     "name": "Take Down",
     "type": "normal",
     "tier": "B",
@@ -1372,6 +1470,7 @@
     "desc": "The user slams into enemies in front of itself with a reckless, full body charge, damaging all enemies hit by it. The user also takes recoil damage."
   },
   {
+    "id": 99,
     "name": "Stomp",
     "type": "normal",
     "tier": "B",
@@ -1386,6 +1485,7 @@
     "desc": "The user stomps on enemies in front of itself with a big foot, damaging them."
   },
   {
+    "id": 100,
     "name": "Giga Impact",
     "type": "normal",
     "tier": "B",
@@ -1400,6 +1500,7 @@
     "desc": "The user focuses every bit of its power and charges toward enemies in front of itself, dealing huge damage to them."
   },
   {
+    "id": 101,
     "name": "Tackle",
     "type": "normal",
     "tier": "C",
@@ -1414,6 +1515,7 @@
     "desc": "The user smashes into enemies in front of itself with all its might, damaging them."
   },
   {
+    "id": 102,
     "name": "Fury Swipes",
     "type": "normal",
     "tier": "A",
@@ -1428,6 +1530,7 @@
     "desc": "The user repeatedly swipes at enemies directly in front of itself, damaging them."
   },
   {
+    "id": 103,
     "name": "Extreme Speed",
     "type": "normal",
     "tier": "",
@@ -1442,6 +1545,7 @@
     "desc": "The user charges into enemies in front of itself with blinding speed, damaging them."
   },
   {
+    "id": 104,
     "name": "Flail",
     "type": "normal",
     "tier": "C",
@@ -1456,6 +1560,7 @@
     "desc": "The user flails about, damaging enemies it hits."
   },
   {
+    "id": 105,
     "name": "Tri Attack",
     "type": "normal",
     "tier": "C",
@@ -1470,6 +1575,7 @@
     "desc": "The user's body is imbued with three powers as it attacks enemies in front of itself, damaging them. Sometimes burns, paralyzes, or freezes enemies."
   },
   {
+    "id": 106,
     "name": "Splash",
     "type": "normal",
     "tier": "D",
@@ -1484,6 +1590,7 @@
     "desc": "The user splashes in place."
   },
   {
+    "id": 107,
     "name": "Harden",
     "type": "normal",
     "tier": "A",
@@ -1498,6 +1605,7 @@
     "desc": "The user stiffens its body, lowering the damage it takes for a while."
   },
   {
+    "id": 108,
     "name": "Swords Dance",
     "type": "normal",
     "tier": "B",
@@ -1512,6 +1620,7 @@
     "desc": "With a frenetic dance to uplift the fighting spirit, the user raises the amount of damage it deals for a while."
   },
   {
+    "id": 109,
     "name": "Growl",
     "type": "normal",
     "tier": "B",
@@ -1526,6 +1635,7 @@
     "desc": "The user growls in an endearing way, making surrounding enemies less wary and often reducing the amount of damage they deal."
   },
   {
+    "id": 110,
     "name": "Leer",
     "type": "normal",
     "tier": "B",
@@ -1540,6 +1650,7 @@
     "desc": "The user glares at nearby enemies to intimidate them, often raising the amount of damage they take."
   },
   {
+    "id": 111,
     "name": "Whirlwind",
     "type": "normal",
     "tier": "D",
@@ -1554,6 +1665,7 @@
     "desc": "The user whips up a strong wind around itself, blowing away enemies hit by it."
   },
   {
+    "id": 112,
     "name": "Recover",
     "type": "normal",
     "tier": "D",
@@ -1568,6 +1680,7 @@
     "desc": "Restoring its own cells, the user restores its HP."
   },
   {
+    "id": 113,
     "name": "Roar",
     "type": "normal",
     "tier": "D",
@@ -1582,6 +1695,7 @@
     "desc": "The user roars intensely, blowing away surrounding enemies."
   },
   {
+    "id": 114,
     "name": "Soft Boiled",
     "type": "normal",
     "tier": "D",
@@ -1596,6 +1710,7 @@
     "desc": "The user restores its HP with the power of eggs."
   },
   {
+    "id": 115,
     "name": "Supersonic",
     "type": "normal",
     "tier": "A",
@@ -1610,6 +1725,7 @@
     "desc": "The user generates odd sound waves from its body, often confusing surrounding enemies."
   },
   {
+    "id": 116,
     "name": "Sing",
     "type": "normal",
     "tier": "F",
@@ -1624,6 +1740,7 @@
     "desc": "The user sings to enemies around itself with its calming voice, often putting them to sleep."
   },
   {
+    "id": 117,
     "name": "Transform",
     "type": "normal",
     "tier": "F",
@@ -1638,6 +1755,7 @@
     "desc": "When Ditto transforms into another Pokemon, this changes into a move that Pokemon can learn."
   },
   {
+    "id": 118,
     "name": "Substitute",
     "type": "normal",
     "tier": "META",
@@ -1652,6 +1770,7 @@
     "desc": "The user puts out a substitute for itself that enemies are forced to attack."
   },
   {
+    "id": 119,
     "name": "Belly Drum",
     "type": "normal",
     "tier": "A",
@@ -1666,6 +1785,7 @@
     "desc": "The user uses its own HP to raise all of its stats for a while."
   },
   {
+    "id": 120,
     "name": "Work Up",
     "type": "normal",
     "tier": "S",
@@ -1680,6 +1800,7 @@
     "desc": "The user is roused, raising the amount of damage it deals and reducing the amount of damage it takes for a while."
   },
   {
+    "id": 121,
     "name": "Flash",
     "type": "normal",
     "tier": "F",
@@ -1694,6 +1815,7 @@
     "desc": "The user suddenly flashes a bright light at surrounding enemies, often lowering their movement speed."
   },
   {
+    "id": 122,
     "name": "Focus Energy",
     "type": "normal",
     "tier": "B",
@@ -1708,6 +1830,7 @@
     "desc": "The user takes a deep breath and focuses, raising the amount of damage it deals for a while."
   },
   {
+    "id": 123,
     "name": "Egg Bomb",
     "type": "normal",
     "tier": "C",
@@ -1722,6 +1845,7 @@
     "desc": "The user scatters eggs around itself, damaging enemies hit by them."
   },
   {
+    "id": 124,
     "name": "Follow Me",
     "type": "normal",
     "tier": "META",
@@ -1736,6 +1860,7 @@
     "desc": "The user grabs the attention of surrounding enemies, forcing them to target it."
   },
   {
+    "id": 125,
     "name": "Explosion",
     "type": "normal",
     "tier": "META",
@@ -1750,6 +1875,7 @@
     "desc": "The user causes a tremendous explosion, dealing huge damage to surrounding enemies. The trade off is that the user takes enough damage to knock itself out."
   },
   {
+    "id": 126,
     "name": "Comet Punch",
     "type": "normal",
     "tier": "",
@@ -1764,6 +1890,7 @@
     "desc": "The user unleashes a flurry of punches on enemies directly in front of itself, damaging them."
   },
   {
+    "id": 127,
     "name": "Smog",
     "type": "poison",
     "tier": "D",
@@ -1778,6 +1905,7 @@
     "desc": "The user spews poison around itself, damaging enemies. Sometimes poisons enemies."
   },
   {
+    "id": 128,
     "name": "Sludge Bomb",
     "type": "poison",
     "tier": "B",
@@ -1792,6 +1920,7 @@
     "desc": "The user shoots out a glob of sludge that splits open when it hits the ground, damaging surrounding enemies. Sometimes poisons enemies."
   },
   {
+    "id": 129,
     "name": "Poison Sting",
     "type": "poison",
     "tier": "B",
@@ -1806,6 +1935,7 @@
     "desc": "The user fires a poisonous stinger at enemies in front of itself. Sometimes poisons enemies hit by it."
   },
   {
+    "id": 130,
     "name": "Poison Powder",
     "type": "poison",
     "tier": "D",
@@ -1820,6 +1950,7 @@
     "desc": "The user scatters poison powder in front of itself, often poisoning enemies hit by it."
   },
   {
+    "id": 131,
     "name": "Toxic",
     "type": "poison",
     "tier": "D",
@@ -1834,6 +1965,7 @@
     "desc": "The user sprays a powerful poison around itself, often poisoning enemies hit by it."
   },
   {
+    "id": 132,
     "name": "Acid Armor",
     "type": "poison",
     "tier": "B",
@@ -1848,6 +1980,7 @@
     "desc": "The user alters its cellular structure to liquefy itself, reducing the damage it takes for a while."
   },
   {
+    "id": 133,
     "name": "Venom Drench",
     "type": "poison",
     "tier": "",
@@ -1862,6 +1995,7 @@
     "desc": "The user spews poison in front of itself, sometimes raising the amount of damage enemies take."
   },
   {
+    "id": 134,
     "name": "Zen Headbutt",
     "type": "psychc",
     "tier": "C",
@@ -1876,6 +2010,7 @@
     "desc": "The user focuses its willpower to its head, then smashes it into enemies directly in front of itself, dealing damage to enemies hit by it."
   },
   {
+    "id": 135,
     "name": "Psycho Cut",
     "type": "psychc",
     "tier": "B",
@@ -1890,6 +2025,7 @@
     "desc": "After moving forward, the user deals damage to enemies with blades formed by psychic power. Critical hits land more easily."
   },
   {
+    "id": 136,
     "name": "Psystrike",
     "type": "psychc",
     "tier": "C",
@@ -1904,6 +2040,7 @@
     "desc": "The user creates a large orb of light in front of itself. The orb then splits into many smaller ones that fly out in all directions, dealing damage to surrounding enemies."
   },
   {
+    "id": 137,
     "name": "Psychic",
     "type": "psychc",
     "tier": "S",
@@ -1918,6 +2055,7 @@
     "desc": "The user creates a large, mysterious light and fires it out, dealing damage to enemies hit by it. Sometimes raises the amount of damage they take."
   },
   {
+    "id": 138,
     "name": "Psybeam",
     "type": "psychc",
     "tier": "B",
@@ -1932,6 +2070,7 @@
     "desc": "The user sends peculiar rays of light out in three directions, damaging enemies hit by them. Sometimes confuses enemies."
   },
   {
+    "id": 139,
     "name": "Barrier",
     "type": "psychc",
     "tier": "A",
@@ -1946,6 +2085,7 @@
     "desc": "The user throws up a wall around itself, lowering the amount of damage it takes for a while."
   },
   {
+    "id": 140,
     "name": "Amnesia",
     "type": "psychc",
     "tier": "A",
@@ -1960,6 +2100,7 @@
     "desc": "The user temporarily empties its mind to forget its concerns, raising the amount of damage it deals and making it more resistant to negative effects."
   },
   {
+    "id": 141,
     "name": "Light Screen",
     "type": "psychc",
     "tier": "B",
@@ -1974,6 +2115,7 @@
     "desc": "The user creates a wall of light, making it harder for it to be affected by negative effects for a while."
   },
   {
+    "id": 142,
     "name": "Hypnosis",
     "type": "psychc",
     "tier": "D",
@@ -1988,6 +2130,7 @@
     "desc": "The user employs hypnotic suggestion, often making enemies in front of itself fall asleep."
   },
   {
+    "id": 143,
     "name": "Agility",
     "type": "psychc",
     "tier": "F",
@@ -2002,6 +2145,7 @@
     "desc": "The user relaxes and lightens its body, raising its movement speed for a while."
   },
   {
+    "id": 144,
     "name": "Teleport",
     "type": "psychc",
     "tier": "F",
@@ -2016,6 +2160,7 @@
     "desc": "The user utilizes its psychic powers to teleport. (Meta? for positioning?)"
   },
   {
+    "id": 145,
     "name": "Meditate",
     "type": "psychc",
     "tier": "B",
@@ -2030,6 +2175,7 @@
     "desc": "The user meditates to awaken the power deep within its body, raising the amount of damage it deals for a while."
   },
   {
+    "id": 146,
     "name": "Rest",
     "type": "psychc",
     "tier": "F",
@@ -2044,6 +2190,7 @@
     "desc": "The user rests in place, greatly restoring its HP."
   },
   {
+    "id": 147,
     "name": "Rock Throw",
     "type": "rock",
     "tier": "S",
@@ -2058,6 +2205,7 @@
     "desc": "The user picks up two rocks and hurls them in front of itself, damaging enemies hit by them."
   },
   {
+    "id": 148,
     "name": "Rock Tomb",
     "type": "rock",
     "tier": "A",
@@ -2072,6 +2220,7 @@
     "desc": "The user drops boulders directly in front of itself, damaging enemies hit by them and sometimes lowering their movement speed."
   },
   {
+    "id": 149,
     "name": "Stealth Rock",
     "type": "rock",
     "tier": "B",
@@ -2086,6 +2235,7 @@
     "desc": "The user creates pillars of stone from the ground, damaging enemies hit by them."
   },
   {
+    "id": 150,
     "name": "Sandstorm",
     "type": "rock",
     "tier": "C",
@@ -2100,6 +2250,7 @@
     "desc": "The user creates a sandstorm around itself, damaging enemies hit by it."
   },
   {
+    "id": 151,
     "name": "Rollout",
     "type": "rock",
     "tier": "C",
@@ -2114,6 +2265,7 @@
     "desc": "The user spins around, damaging surrounding enemies it smashes into."
   },
   {
+    "id": 152,
     "name": "Rock Polish",
     "type": "rock",
     "tier": "F",
@@ -2128,6 +2280,7 @@
     "desc": "The user polishes its body to reduce drag, raising its movement speed for a while."
   },
   {
+    "id": 153,
     "name": "Rock Blast",
     "type": "rock",
     "tier": "",
@@ -2142,6 +2295,7 @@
     "desc": "The user hurls hard rocks in front of itself, damaging enemies hit by them."
   },
   {
+    "id": 154,
     "name": "Metal Claw",
     "type": "steel",
     "tier": "",
@@ -2156,6 +2310,7 @@
     "desc": "The user rakes enemies in front of itself with its steel claws, dealing damage. Sometimes raises the amount of damage the user deals."
   },
   {
+    "id": 155,
     "name": "Flash Cannon",
     "type": "steel",
     "tier": "B",
@@ -2170,6 +2325,7 @@
     "desc": "The user focuses all of its light energy into a single point and fires a beam in front of itself, sometimes raising the amount of damage enemies take."
   },
   {
+    "id": 156,
     "name": "Steel Wing",
     "type": "steel",
     "tier": "",
@@ -2184,6 +2340,7 @@
     "desc": "The user charges at enemies in front of itself and smacks them with its hard wings, dealing damage. Sometimes reduces the amount of damage the user takes."
   },
   {
+    "id": 157,
     "name": "Iron Tail",
     "type": "steel",
     "tier": "C",
@@ -2198,6 +2355,7 @@
     "desc": "The user swings its steel hard tail, damaging surrounding enemies and sometimes raising the amount of damage they take."
   },
   {
+    "id": 158,
     "name": "Metal Sound",
     "type": "steel",
     "tier": "B",
@@ -2212,6 +2370,7 @@
     "desc": "Enemies near the user are forced to listen to a horrible sound like metal scraping, often raising the amount of damage they take."
   },
   {
+    "id": 159,
     "name": "Iron Defense",
     "type": "steel",
     "tier": "A",
@@ -2226,6 +2385,7 @@
     "desc": "The user hardens its skin until it's like iron, lowering the damage it takes for a while."
   },
   {
+    "id": 160,
     "name": "Waterfall",
     "type": "water",
     "tier": "A",
@@ -2240,6 +2400,7 @@
     "desc": "The user approaches enemies in front of itself and creates a pillar of water beneath them. This deals damage to enemies it hits."
   },
   {
+    "id": 161,
     "name": "Hydro Pump",
     "type": "water",
     "tier": "S/SS",
@@ -2254,6 +2415,7 @@
     "desc": "The user shoots four pillars of water up from the ground and sends them out in front of itself. Deals damage to enemies hit by them."
   },
   {
+    "id": 162,
     "name": "Aqua Jet",
     "type": "water",
     "tier": "B",
@@ -2268,6 +2430,7 @@
     "desc": "The user charges at enemies in front of itself with tremendous speed, dealing damage to them."
   },
   {
+    "id": 163,
     "name": "Surf",
     "type": "water",
     "tier": "B",
@@ -2282,6 +2445,7 @@
     "desc": "The user creates a wide wave and charges forward on it. Deals damage to enemies caught in the wave."
   },
   {
+    "id": 164,
     "name": "Whirlpool",
     "type": "water",
     "tier": "D",
@@ -2296,6 +2460,7 @@
     "desc": "The user creates a whirlpool around itself. Deals damage to enemies around the user."
   },
   {
+    "id": 165,
     "name": "Bubble",
     "type": "water",
     "tier": "C",
@@ -2310,6 +2475,7 @@
     "desc": "The user fires bubbles in three directions. Deals damage to enemies hit by the bubbles and sometimes lowers their movement speed."
   },
   {
+    "id": 166,
     "name": "Withdraw",
     "type": "water",
     "tier": "A",
@@ -2324,6 +2490,7 @@
     "desc": "The user withdraws into its hard shell, reducing the amount of damage it takes for a while."
   },
   {
+    "id": 167,
     "name": "Aqua Ring",
     "type": "water",
     "tier": "C",

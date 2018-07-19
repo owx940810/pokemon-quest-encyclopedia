@@ -60,7 +60,7 @@
             img(src=process.env.WEB_BASE + "/images/stones/sc.png", v-show="skill.sc")
             img(src=process.env.WEB_BASE + "/images/stones/sh.png", v-show="skill.sh")
             img(src=process.env.WEB_BASE + "/images/stones/st.png", v-show="skill.st")
-          p.desc {{ skill.desc }}
+          p.desc #[router-link(:to="'/moves?id=' + skill.id") #[img(src=process.env.WEB_BASE + "/images/feather/link.svg", align="left")]] {{ skill.desc }}
 
     .wrapper
       h5 #[u Recipes]
@@ -219,6 +219,11 @@
             margin-top: 3px
             font-size: 0.9em
 
+            a
+              img
+                width: 13px
+                margin-right: 5px
+
         .type
           display: inline-block
           margin-left: 10px
@@ -248,11 +253,18 @@
           height: 19px
           vertical-align: middle
 
+          +mobile
+            width: 100%
+
           img
             display: inline-block
             margin-left: 5px
             width: 19px
             height: 19px
+
+            &:nth-child(1)
+              +mobile
+                margin-left: 0
 
     .bingo
       padding: 0
@@ -305,7 +317,6 @@
         this.getSkills()
         this.checkFavorite()
         window.scrollTo(0, window.pokemon.offsetTop - 20)
-        console.log(window.scrollTop)
       },
 
       getSkills () {
