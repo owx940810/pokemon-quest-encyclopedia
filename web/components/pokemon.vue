@@ -304,6 +304,8 @@
         this.pokemon.detailedskills = []
         this.getSkills()
         this.checkFavorite()
+        window.scrollTo(0, window.pokemon.offsetTop - 20)
+        console.log(window.scrollTop)
       },
 
       getSkills () {
