@@ -50,8 +50,11 @@ img
   border: 0
 
 #app
-  min-height: calc(100vh - 80px)
+  min-height: calc(100vh - 90px)
   padding: 0 0 20px 0
+
+  +mobile
+    min-height: calc(100vh - 110px)
 
   +mobile
     display: block
@@ -88,7 +91,10 @@ footer
   background-color: $grey-d
   font-size: 0.8em
   color: $white
-  height: 80px
+  height: 90px
+
+  +mobile
+    height: 110px
 
   a
     text-decoration: none
